@@ -1,10 +1,8 @@
 from abc import ABC
 from pathlib import Path
 
-import numpy
 import scrapy
 
-from src.crawl.utils import cleanup
 from settings import YEAR, CRAWLING_OUTPUT_FOLDER
 
 BASE_URL = "https://www.unibo.it/it/didattica/corsi-di-studio"
@@ -82,6 +80,8 @@ class UniBoSpider(scrapy.Spider, ABC):
     def parse_program(response, base_dict):
 
         courses_links = response.xpath("//tr/td/a/@href").getall()
+        courses_names = response.xpath("//tr/td/a/text()").getall()
+        courses_names = [name.title() for name in courses_names]
         courses_ids = [c.split('codiceMateria=')[1].split("&")[0] for c in courses_links]
         courses_url_codes = [c.split('codiceCorso=')[1].split("&")[0] for c in courses_links]
         ects = response.xpath("//tr[td/a]//td[@class='info'][last()]/text()").getall()
@@ -91,6 +91,7 @@ class UniBoSpider(scrapy.Spider, ABC):
             "url": response.url,
             "courses": courses_ids,
             "ects": ects,
+            "courses_names": courses_names,
             "courses_url_codes": courses_url_codes
         }
 
