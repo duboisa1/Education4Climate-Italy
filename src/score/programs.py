@@ -42,12 +42,7 @@ if __name__ == "__main__":
     arguments = vars(parser.parse_args())
     # main(**arguments)
 
-    schools = ["kuleuven", "uantwerpen", "uclouvain", "ugent", "uhasselt",
-               "ulb", "uliege", "umons", "unamur", "uslb", "vub"]
-    schools += ["artevelde", "ecam", "ecsedi-isalt", "ehb", "he-ferrer", "heaj", "hech", "hel", "heldb", "helmo",
-                "henallux", "hepl", "hers", "hogent", "howest", "ichec", "ihecs", "ispg", "issig", "odisee",
-                "thomasmore", "ucll", "vinci", "vives"]
-    schools = ["hepl"]
+    schools = ["unibo"]
     for school in schools:
         print(school)
         main(school, arguments['year'])

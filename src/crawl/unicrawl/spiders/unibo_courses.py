@@ -40,7 +40,7 @@ class UniBoCourseSpider(scrapy.Spider, ABC):
     name = "unibo-courses"
     custom_settings = {
         'FEED_URI': Path(__file__).parent.absolute().joinpath(
-            f'../../../../{CRAWLING_OUTPUT_FOLDER}unibo_courses_{YEAR}.json').as_uri()
+            f'../../../../{CRAWLING_OUTPUT_FOLDER}unibo_courses_{YEAR}_pre.json').as_uri()
     }
 
     def start_requests(self):
