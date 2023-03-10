@@ -42,7 +42,7 @@ if __name__ == "__main__":
     arguments = vars(parser.parse_args())
     # main(**arguments)
 
-    schools = ["unibo"]
+    schools = ["uniroma1"]
     for school in schools:
         print(school)
         main(school, arguments['year'])

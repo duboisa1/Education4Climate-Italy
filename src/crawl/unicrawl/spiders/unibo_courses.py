@@ -48,15 +48,8 @@ class UniBoCourseSpider(scrapy.Spider, ABC):
         courses_ids = pd.read_json(open(PROG_DATA_PATH, "r")).set_index("id")[["courses",
                                                                                "courses_names", "courses_url_codes"]]
 
-        fn = "/home/duboisa1/shifters/Education4Climate-Italy/data/crawling-output/unibo_courses_2022_first.json"
-        courses_ids_list = pd.read_json(fn, orient='records')["id"].to_list()
-        print(courses_ids_list)
-
         for program_id, (courses_ids, courses_names, courses_urls_codes) in courses_ids.iterrows():
             for course_id, course_name, course_url_code in zip(courses_ids, courses_names, courses_urls_codes):
-
-                if course_id in courses_ids_list:
-                    continue
 
                 base_dict = {
                     'id': course_id,
