@@ -7,6 +7,22 @@
             "programsFile": "unibo_data_2022_programs.json",
             "teachersDirectoryUrl": "https://www.unibo.it/uniboweb/unibosearch/rubrica.aspx",
             "type": "university"
+        },
+        {
+            "name": "Università degli studi di Roma 'La Sapienza'",
+            "shortName": "UniRoma1",
+            "coursesFile": "uniroma1_data_2022_courses.json",
+            "programsFile": "uniroma1_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
+        },
+        {
+            "name": "Università di Salerno",
+            "shortName": "UniSa",
+            "coursesFile": "unisa_data_2022_courses.json",
+            "programsFile": "unisa_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
         }
     ]
 }

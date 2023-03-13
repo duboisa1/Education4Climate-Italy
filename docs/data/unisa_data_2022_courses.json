@@ -1,0 +1,30 @@
+[
+ {
+  "id":"512711",
+  "name":"International School On Iot",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Lucia Andrea",
+   "Polese Giuseppe",
+   "Scarano Vittorio",
+   "Palmieri Francesco"
+  ],
+  "url":"https:\/\/corsi.unisa.it\/informatica-magistrale\/didattica\/insegnamenti?anno=2022&id=512711",
+  "ects":[
+   6
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ }
+]

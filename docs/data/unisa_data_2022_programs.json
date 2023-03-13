@@ -1,0 +1,32 @@
+[
+ {
+  "id":5225,
+  "name":"Informatica",
+  "cycle":"master",
+  "url":"https:\/\/corsi.unisa.it\/informatica-magistrale",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Salerno"
+  ],
+  "faculties":[
+   "Dipartimento di Informatica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "512711"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":60
+ }
+]
