@@ -1,0 +1,171 @@
+{
+    "375AA: Principles For Software Composition": {
+        "en": {
+            "ccs": [
+                "ocessi concorrenti  ccs  calcoli con nomi  "
+            ]
+        }
+    },
+    "302QQ: Ambiente E Comportamento Umano": {
+        "en": {
+            "(?:ecosyst[^ ]+|[ ]ecolo[^ ]+) cris[ie]s": [
+                "nitive limits to the ecological crisis  elements of evolut"
+            ],
+            "environmental sustainability": [
+                "owth and threats to environmental sustainability make the understand"
+            ],
+            "environment[^ ]+ issue": [
+                "lop an awareness of environmental issues and acquire tools "
+            ]
+        }
+    },
+    "451NN: The Eu And Its International Relations (L'Ue E Le Sue Relazioni Internazionali)": {
+        "en": {
+            "climat[^ ]+ change": [
+                "opic 6   the eu and climate change     topic 7  eu and"
+            ],
+            "environment[^ ]+ polic[^ ]+": [
+                "economic relations  environmental policy  human rights  secu",
+                "areas of economics  environmental policy  fundamental rights"
+            ]
+        }
+    },
+    "945II: Energy And Energy Efficiency": {
+        "en": {
+            "energy efficiency": [
+                "energy and energy efficiency "
+            ]
+        }
+    },
+    "948II: Sustainability And Circular Economy": {
+        "en": {
+            "circular economy": [
+                "sustainability and circular economy programma  contenut",
+                "  waste management  circular economy     eu legislation ",
+                "aste management and circular economy    lca  methodology"
+            ],
+            "climat[^ ]+ change": [
+                "al and fit to 55    climate change  goal 7 and 13  kyo"
+            ]
+        }
+    },
+    "1088I: Nuclear Thermal Hydraulics": {
+        "en": {
+            "ccs": [
+                "  the criteria for eccs design from 10 cfr ",
+                "s  containment and eccs design  smr design "
+            ]
+        }
+    },
+    "1097I: Nuclear Safety": {
+        "en": {
+            "[electri[^ ]+, storage]": [
+                "assumptions and the electrical analogy  temperatur",
+                "ding the spent fuel storage pool  chapter 4 and"
+            ],
+            "[nuclear, pollu(?:tant|tion), environment]": [
+                "nuclear safety programma  c",
+                "ezza degli impianti nucleari           si ripor",
+                "erpts from the iaea nuclear safety glossary  ge",
+                "y glossary  general nuclear safety objective  r",
+                "economic safety     nuclear safety since the fe",
+                "ture  milestones in nuclear safety  from the en",
+                "raits\" of a healthy nuclear safety culture by i",
+                "management systems  nuclear safety cilture as t",
+                "this course     usa nuclear safety methodology ",
+                "ed in the design of nuclear power plants as red",
+                "and assessment      nuclear italian legislation",
+                "ns for licensing of nuclear power plants and th",
+                "sources of european nuclear legislation  few hi",
+                "hints about the new nuclear safety directive an",
+                "and training in the nuclear fields according to",
+                "n of the risks from nuclear power plants with r",
+                "ssment of risk from nuclear power plants in com",
+                "y analysis  psa  of nuclear power plants  psa l",
+                "he hydrogen risk in nuclear power plants  the s",
+                "ydrogen risk in the nuclear field  deliberate i",
+                "s the siting of the nuclear plants  vision of s",
+                "ing of the foreseen nuclear energy plan at that",
+                " earthquakes    the nuclear emergency planning ",
+                "e consequences of a nuclear accident  armamenta",
+                "enefit analyses     nuclear safety culture  nsc",
+                "major components of nuclear safety culture acco",
+                "enti negli impianti nucleari       si riporta i",
+                "ermal analysis of a nuclear fuel rod with a 1d ",
+                "  the international nuclear event scale  ines  ",
+                " general remarks on nuclear reactor accidents  ",
+                "son with the single nuclear accident with casua",
+                "e sar of the caorso nuclear power plant  exampl",
+                "ase della sicurezza nucleare    conoscenza di f",
+                "dere negli impianti nucleari durante condizioni",
+                "enti negli impianti nucleari    conoscenza dei ",
+                "tati negli impianti nucleari di potenza e degli",
+                "ura della sicurezza nucleare         una lista ",
+                "ri tipi di impianti nucleari e di valutarne qua",
+                "nimento di impianti nucleari     capacita di di",
+                "enti negli impianti nucleari di potenza e degli",
+                "azione di ingegneri nucleari con una tipica men",
+                " necessario per la \"nuclear safety culture\"  cu",
+                "ura della sicurezza nucleare   si favorsicono a",
+                "ura della sicurezza nucleare\"  si veda il conce",
+                "ura della sicurezza nucleare",
+                "spersion of gaseous pollutants  main phenomena  p",
+                "rgency measures     environmental impact of various",
+                " by the nrc for the environmental impact assessment",
+                " into a containment environment  description of the"
+            ],
+            "ccs": [
+                "ance   appendix k  eccs modelling and crite",
+                "ents and design of eccs  operating states f",
+                "loca phenomena and eccs in 2nd generation p",
+                "bwrs  criteria for eccs evaluation and defi",
+                "f a loca and of an eccs evaluation model   ",
+                "of the coverage of eccs for different spect",
+                "e effectiveness of eccs  first concepts of ",
+                "nty methodologies  eccs in ap1000  epr and ",
+                "  the disabling of eccs  the stop of the pu"
+            ]
+        }
+    },
+    "736II: Principles Of Microfluidics": {
+        "en": {
+            "[impact, stream]": [
+                "ation  examples     impaction of aerosols and ",
+                "-dimensional flows  stream function     potent"
+            ]
+        }
+    },
+    "537GG: Agroforestry": {
+        "en": {
+            "agro-?forestry": [
+                "agroforestry "
+            ]
+        }
+    },
+    "481GG: Agricultural Ecotoxicology And Environmental Protection": {
+        "en": {
+            "environmental protection": [
+                "l ecotoxicology and environmental protection programma  contenut"
+            ],
+            "ecotoxicology": [
+                "agricultural ecotoxicology and environmental p"
+            ]
+        }
+    },
+    "181BB: Fisica Dell'Atmosfera": {
+        "en": {
+            "climat[^ ]+ change": [
+                "    applications to climate change    applications to ",
+                "    applications to climate change    applications to "
+            ]
+        }
+    },
+    "097LL: Lingua Inglese": {
+        "en": {
+            "[sustainab(?:ility|le), mobility]": [
+                " europe  the key to sustainable mobility     planni",
+                " key to sustainable mobility     planning and ar"
+            ]
+        }
+    }
+}

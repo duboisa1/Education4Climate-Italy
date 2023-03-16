@@ -11,25 +11,6 @@ BASE_URL = "https://corsi.unisa.it/{}" + f"/didattica/insegnamenti?anno={YEAR}" 
 PROG_DATA_PATH = Path(__file__).parent.absolute().joinpath(
     f'../../../../{CRAWLING_OUTPUT_FOLDER}unisa_programs_{YEAR}.json')
 
-LANGUAGE_DICT = {
-    "Italiano": 'it',
-    "Inglese": 'en',
-    "Francese": 'fr',
-    "Spagnolo": 'es',
-    "Tedesco": 'de',
-    "Russo": 'ru',
-    "Portoghese": 'pt',
-    "Cinese": 'cn',
-    "Polacco": 'pl',
-    "Olandese": 'nl',
-    "Giapponese": 'jp',
-    "Catalano": 'ca',
-    "Slovacco": 'sk',
-    "Arabo": 'ar',
-    "Bulgaro": 'bg',
-    "Ucraino": 'ua'
-}
-
 
 class UniSaCourseSpider(scrapy.Spider, ABC):
     """
@@ -45,8 +26,6 @@ class UniSaCourseSpider(scrapy.Spider, ABC):
     def start_requests(self):
 
         programs_df = pd.read_json(open(PROG_DATA_PATH, "r")).set_index("id")[["url", "courses"]]
-
-        print(len(set(programs_df['courses'].sum())))
 
         for _, (url, courses) in programs_df.iterrows():
             program_code = url.split("/")[3]

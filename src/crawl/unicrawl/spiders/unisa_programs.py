@@ -35,7 +35,6 @@ FACULTY_DICT = {
 }
 
 
-
 class UniSaiSpider(scrapy.Spider, ABC):
     """
     Programs crawler for Università di Salerno
