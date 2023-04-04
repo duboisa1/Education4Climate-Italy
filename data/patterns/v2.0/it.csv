@@ -1,0 +1,209 @@
+approcci? bioclimatico
+agglomerati? durabili
+architectur[^ ]+ bioclimatiche
+architetture? durabili
+concezioni? bioclimatiche
+concezioni? energ[^ ]+ (?:del|dell[ae])'edificio
+costruzioni? durabili
+costruzioni? (?:a basso consumo energetico|passive)
+eco[ -]?costruzione
+espansioni? urbane
+permessi (?:d')?ambiente
+città? durabili
+"[urbanizzazione, (?:ambiente|ecosistema)]"
+"[urbanizzazione, durabili]"
+"[risparmio energetico, edificio]"
+"[risparmio energetico, industria]"
+"[performance energetiche, edificio]"
+"[performance energetiche, architettura]"
+a basse emissioni di carbonio
+bilanci? di carbonio
+catture? (?:del|di)?(?:co2|diossido di carbonio)
+conversioni? (?:del|di)?(?:co2|diossido di carbonio)
+cicli? del carbonio
+decarbonizzazione
+emissioni? (?:del|di)?(?:co2|diossido di carbonio)
+impronte? carbonio
+sequestrazione? (?:del|di)?(?:co2|diossido di carbonio)
+stoccaggio(?: del|di)?(?:co2|diossido di carbonio)
+valorizzazione? (?:del|di)?(?:co2|diossido di carbonio)
+(?:^|[^a-z])cop ?[0-9]+
+accordi? di parigi(?:(?: sul| per) il clima)?
+adattamenti? climatici
+cambiamenti? climatici
+climatologi
+climatoscettic(?:i|he)
+crisi? climatica
+effetti? serra
+enjeux? climatici
+glaciologi
+impatto? climatico
+instabilità? climatiche
+giustizie? climatiche
+migrazioni? climatiche
+modellistica climatica
+politiche? climatiche
+progettazione? climatica
+(?:questioni?|problemi?) climatiche
+riscaldamento globale
+rifugiati? climatici
+strategie? climatiche
+transizione? energetica
+emergenze? climatiche
+riscaldamento globale
+biogas
+energia solare fotovoltaica
+energia elettrica da fonti rinnovabili
+energia alternativa
+energia eolica
+energia fossile
+energia rinnovabile
+energia verde
+idroelettrico
+microrete
+pannelli fotovoltaici
+pannelli solari termici
+solare a concentrazione
+transizione? energetica
+"[biomassa, produzione(?:i)?(?: d')?(?:energia|elettricità)]"
+"[energia, durabili]"
+"[nucleare, produzione(?:i)?(?: d')?(?:energia|elettricità)]"
+(?:riduzione|diminuzione) (?:del|della) consum(?:o|i) (?:di)? energia
+"[ecologia, ecologico]"
+acidificazione(?:i)? degli oceani
+antropocene
+antropologie? dell'ambiente
+benefici (?:dell'ambiente|dell'ecosistema)
+benessere (?:animale|degli animali)
+biodiversità
+biologie della conservazione
+biologia ambientale
+biologia marina
+biosfera
+bio[- ]?indicatore
+bio[- ]?fonte
+conservazione della natura
+considerazioni sull'ambiente
+degrado (?:del|dei) suolo
+ecofisiologia
+esigenze (?:dell'ambiente|dell'ecosistema)
+crisi di estinzione
+crisi (?:dell'ambiente|dell'ecosistema)
+cicli bio-geo-chimici
+sfide (?:dell'ambiente|dell'ecosistema)
+deforestazione
+deterioramento (?:dell'ambiente|dell'ecosistema)
+diritti (?:dell'ambiente|dell'ecosistema)
+sostenibilità (?:socio-?)?(?:ambientale|dell'ecosistema)
+ecoturismo
+educazione (?:all'?)?ambiente
+questioni (?:dell'ambiente|dell'ecosistema)
+in via di estinzione
+specie protette
+etica animale
+etica ambientale
+estinzione (?:della|delle) specie
+estinzione di massa
+ingegneria ambientale
+gestione (?:delle)? risorse naturali
+governance (?:dell'ambiente|dell'ecosistema)
+impatto (?:sull'ambiente|sull'ecosistema)
+limiti planetari
+lotta biologica
+gestione ambientale
+migrazione (?:ambientale|dell'ambiente)
+oceanografia
+performance ambientale
+perdite (?:dell'ambiente|dell'ecosistema)
+politiche (?:dell'ambiente|dell'ecosistema)
+problemi (?:dell'ambiente|dell'ecosistema)
+problematiche (?:dell'ambiente|dell'ecosistema)
+protezione della natura
+problemi (?:dell'ambiente|dell'ecosistema)
+protezione (?:dell'ambiente|dell'ecosistema)
+psicologia (?:dell'ambiente|dell'ecosistema)
+rapporti uomo-animale
+regolamentazione (?:dell'ambiente|dell'ecosistema)
+riserva naturale
+responsabilità (?:dell'ambiente|dell'ecosistema)
+ristoro forestale
+salute ambientale
+servizi (?:dell'ambiente|dell'ecosistema)
+"[[ ]+suoli?[ ]+, erosione]"
+"[turismo, sostenibilità]"
+(?:calotte ?(?:polare|glaciale)|permafrost|pergelisol)
+(?:ecosistemi|ambienti) (?:acquatici|marini|costieri|subtidali|corallini)
+(?:ecosistemi|ambienti) terrestri
+agricoltura biologica
+agricoltura sostenibile
+agroclimatologia
+agroecologia
+agroecosistema
+agroforestazione
+circuiti corti
+epulemento ittico
+pesca sostenibile
+permacultura
+sovrappesca
+"chimie (?:[^ ]+ ){0,4}verte"
+consom[^ ]+ durab
+consum[^ ]+ responsab
+eco[- ]?concezione
+eco[- ]?design
+eco[- ]?responsab
+eco[- ]?tech
+effets? rebond
+ingegnerie? (?:durevole|sostenibile)
+produ[^ ]+ durab
+tecnologie? verde
+tecnologie? (?:durevole|sostenibile)
+tecnologie? (?:dell' )?ambiente
+depurazione? delle acque
+bio[ -]?degradabile
+bio-?rimedio
+contaminazione? dei suoli|suoli? contaminat
+controlli? (?:della|delle) inquinamento|controlli? dei? inquinant
+rifiuti? (?:nucleare|radioattiv)
+ecotossicologia
+depurazione? delle acque
+dumping ambientale
+inquinament
+qualita? dell'aria
+tossicologia? ambientale
+analisi? (?:del|del) ciclo (?:di )?vita
+efficienza? (?:delle)? risorse
+esaurimenti? (?:delle)? risorse? naturali
+sfruttamento? durab
+falde? (?:freattiche|acquifere|sotterranee)
+picchi? petrolifer
+rarificazioni? (?:delle)? risorse naturali
+risorse? (?:non-)?rinnovabile
+terre? rare
+"[gestione? (?:dell'|delle )?acqua, ambiente]"
+"[riciclaggio, acciaio]"
+"[riciclaggio, rifiuti]"
+"[riciclaggio, materiale]"
+"[riciclaggio, metallo]"
+"[riciclaggio, plastica]"
+"[risorse? acqua, ambiente]"
+bio[ -]?carburante
+bio[ -]?diesel
+bio[ -]?m?etanolo
+carburanti? alternativ
+carburanti? sintetico
+micro[ -]?mobilita
+mobilita? (?:a )?idrogen
+mobilita? elettric
+mobilita? durab
+mobilita? condivisa
+trasporti? durab
+[[ ]biciclette?[ ]]
+(?:veicoli?|auto?) (?:a )?idrogen
+(?:veicoli?|auto?) ibrido
+(?:veicoli?|auto?) elettric
+economia? circolare
+economia? dei beni comuni
+ISO 1400
+micro-?finanza verde
+(?:teorie?|economie?) della ciambella
+collapsologie
