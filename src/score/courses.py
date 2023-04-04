@@ -194,7 +194,7 @@ if __name__ == "__main__":
     arguments['output_dir'] = Path(__file__).parent.absolute().joinpath(f"../../{SCORING_OUTPUT_FOLDER}/")
     arguments['dictionary_name'] = 'v1.1'
 
-    schools = ["uniroma1"]
+    schools = ["unipi"]
     for school in schools:
         arguments['school'] = school
         print(school)
