@@ -32,14 +32,9 @@ class PoliToCourseSpider(scrapy.Spider, ABC):
 
     def start_requests(self):
 
-        fn = "/home/duboisa1/shifters/Education4Climate-Italy/data/crawling-output/polito_courses_2023_first.json"
-        courses_olds = pd.read_json(fn, orient='records')['id'].tolist()
-
         courses_ids = sorted(list(set(pd.read_json(open(PROG_DATA_PATH, "r"))["courses"].sum())))
 
         for course_id in courses_ids:
-            if course_id in courses_olds:
-                continue
             yield scrapy.Request(BASE_URL.format(course_id), self.parse_course, cb_kwargs={'course_id': course_id})
 
     @staticmethod
