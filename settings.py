@@ -5,6 +5,6 @@ SCORING_OUTPUT_FOLDER = path.join('data', 'scoring-output', '')
 WEB_INPUT_FOLDER = path.join('docs', 'data', '')
 PATTERNS_PATH = path.join('data', 'patterns', 'themes_patterns.json')
 
-YEAR = 2022
+YEAR = 2023
 
 ACCEPTED_LANGUAGES = ['en']

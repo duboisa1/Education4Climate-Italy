@@ -1,11 +1,27 @@
 {
     "schools": [
         {
-            "name": "Universita di Bologna",
+            "name": "Politecnico di Torino",
+            "shortName": "PoliTo",
+            "coursesFile": "polito_data_2023_courses.json",
+            "programsFile": "polito_data_2023_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "?"
+        },
+        {
+            "name": "Università di Bologna",
             "shortName": "UniBo",
             "coursesFile": "unibo_data_2022_courses.json",
             "programsFile": "unibo_data_2022_programs.json",
             "teachersDirectoryUrl": "https://www.unibo.it/uniboweb/unibosearch/rubrica.aspx",
+            "type": "university"
+        },
+        {
+            "name": "Università di Pisa",
+            "shortName": "UniPi",
+            "coursesFile": "unipi_data_2022_courses.json",
+            "programsFile": "unipi_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
             "type": "university"
         },
         {
