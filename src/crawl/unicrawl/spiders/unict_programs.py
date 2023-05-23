@@ -1,20 +1,23 @@
 from abc import ABC
 from pathlib import Path
 
+import pandas as pd
 import scrapy
 
 from settings import YEAR, CRAWLING_OUTPUT_FOLDER
 
 BASE_URL = f"https://www.unict.it/it/didattica/lauree-e-lauree-magistrali/offerta-formativa-{YEAR}-{YEAR+1}"
 CYCLE_DICT = {
-    "Laurea": "bac",
-    "Laurea magistrale": "master",
+    "laurea": "bac",
+    "laurea triennale": "bac",
+    "laurea magistrale": "master",
+    "laurea magistrale a ciclo unico": 'master'
 }
 
-
-# TODO
-#  - This one seems easy
-# TODO: could not find number of credits
+# TODO: could not find number of credits --> could actually get them through the didattica erogata
+#  link (but then we don't have the courses links) see https://www.disum.unict.it/corsi/lm-43/programmi
+#  For some other faculties, it's directly next to the courses names
+#  https://www.architettura.unict.it/it/corsi/lm-4/programmi
 
 
 class UniCTSpider(scrapy.Spider, ABC):
@@ -36,18 +39,24 @@ class UniCTSpider(scrapy.Spider, ABC):
 
     def parse_main(self, response):
 
+        fn = "/home/duboisa1/shifters/Education4Climate-Italy/data/crawling-output/unict_programs_2022_first.json"
+        old_programs = pd.read_json(fn, orient='records')["id"].tolist()
+
         program_links = response.xpath("//a[text()='INFORMAZIONI SUL CORSO']/@href").getall()
         for link in program_links:
-            yield response.follow(link, self.parse_program)
+            yield response.follow(link, self.parse_program, cb_kwargs={'old_programs': old_programs})
 
-    def parse_program(self, response):
+    def parse_program(self, response, old_programs):
 
         program_name = response.xpath("//h1/text()").get()
         cycle = response.xpath("//div[div[contains(text(), 'Tipo di corso')]]//div[@id='first']/text()").get()
+        cycle = CYCLE_DICT[cycle]
         faculty = response.xpath("//div[div[contains(text(), 'Struttura didattica')]]//div[@id='first']/text()").get()
+        faculty = faculty.replace('"', "'")
         campus = response.xpath("//div[div[contains(text(), 'Sede')]]//div[@id='first']/text()").get()
 
-        # TODO: no working for : Giurisprudenza, Medecina e Chirurgia, Tecniche della prevenzione nell'ambiente e nei luoghi di lavoro
+        # TODO: no working for : Giurisprudenza, Medecina e Chirurgia, Tecniche della
+        #  prevenzione nell'ambiente e nei luoghi di lavoro
         courses_link = response.xpath("//a[text()='VAI AL SITO DEL CORSO']/@href").get()
         if 'presentazione-del-corso' in courses_link:
             courses_link = courses_link.split("presentazione-del-corso")[0] + 'programmi'
@@ -57,6 +66,10 @@ class UniCTSpider(scrapy.Spider, ABC):
             courses_link += '/programmi'
         # Try to create a unique id
         program_id = courses_link.split(".")[1][0:3].upper() + '-' + courses_link.split("/")[-2].upper()
+
+        if program_id in old_programs:
+            print(program_id)
+            return
 
         base_dict = {
             "id": program_id,
@@ -72,9 +85,13 @@ class UniCTSpider(scrapy.Spider, ABC):
     @staticmethod
     def parse_courses(response, base_dict):
 
-        courses_ids = response.xpath("//tr/td[1]/a/text()").getall()
-        courses_ids = [idx.split(" -")[0] for idx in courses_ids]
         courses_urls = response.xpath("//tr/td[1]/a/@href").getall()
+
+        # Some course have the same id preceding them, so just take the code of the url,
+        # might be incompatible between years
+        courses_ids = [url.split('=')[-1] for url in courses_urls]
+
+        # Modify url
         if 'corsi' in response.url:
             courses_urls = [response.url.split('/corsi')[0] + url for url in courses_urls]
         elif 'courses' in response.url:

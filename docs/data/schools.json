@@ -17,6 +17,14 @@
             "type": "university"
         },
         {
+            "name": "Università di Catania",
+            "shortName": "UniCt",
+            "coursesFile": "unict_data_2022_courses.json",
+            "programsFile": "unict_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
+        },
+        {
             "name": "Università di Pisa",
             "shortName": "UniPi",
             "coursesFile": "unipi_data_2022_courses.json",

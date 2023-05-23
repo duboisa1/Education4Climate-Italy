@@ -1,0 +1,122 @@
+{
+    "3BEAB5F3-4C91-461A-A32B-9713299C8AB0: Anthropology Of Humanitarian Interventions": {
+        "en": {
+            "(?:environment[^ ]*|ecosystem) cris(?:e|i)s": [
+                "orced displacement  environmental crises and natural disaste"
+            ]
+        }
+    },
+    "18952698-D2F2-4168-9E9E-6183203A10FE: Global Civil Society": {
+        "en": {
+            "(?:environment[^ ]*|ecosystem) issue": [
+                "tion  human rights  environmental issues  humanitarian acti"
+            ]
+        }
+    },
+    "6E04B47A-DA02-451D-A3FD-F5ED928FB155: Peace Economics": {
+        "en": {
+            "climate change": [
+                "gender perspective  climate change and inequalities ar"
+            ]
+        }
+    },
+    "A34D59A8-B3DF-4211-A1D0-14445FDB333E: Economia Ambientale": {
+        "en": {
+            "(?:environment[^ ]*|ecosystem) problem": [
+                "ents  international environmental problems  cost-benefit anal"
+            ],
+            "pollution control": [
+                "nd the environment  pollution control  targets  modulo ii",
+                "targets  modulo ii  pollution control  instruments  inter"
+            ],
+            "pollut": [
+                "nd the environment  pollution control  targets",
+                "targets  modulo ii  pollution control  instrum"
+            ]
+        }
+    },
+    "238BB0C3-5CF2-4E1C-BF33-A74E75081ACA: Electrical Drives": {
+        "en": {
+            "renewable energy": [
+                "rally applicable to renewable energy conversion and to a",
+                "ce and reliability  renewable energy electrical drives  "
+            ]
+        }
+    },
+    "CC81879C-AB0E-4042-974B-76FDB824E2A9: Hydrology": {
+        "en": {
+            "climate change": [
+                "natural hazards and climate change drought  aridity an",
+                "warning thresholds  climate change modeling and adapta"
+            ],
+            "environment[^ ]* engineering": [
+                "lated to water and  environmental engineering"
+            ],
+            "(?:groundwater|aquifer|phreatic zone)": [
+                "ff and streamflows  groundwater  human effects on t"
+            ],
+            "[water resource, environment]": [
+                "le  distribution of water resources on earth  3  hydro",
+                "lated to water and  environmental engineering"
+            ]
+        }
+    },
+    "1FCFD325-0087-4EBF-98E4-6DD44C80BA0B: Economics And Politics For Environmental Sustainability": {
+        "en": {
+            "(?:sustainable urban|urban sustaina)": [
+                "nd  social ecology  urban sustainability  to provide k"
+            ],
+            "climat[^ ]+ polic(?:y|ies)": [
+                "ntal regulation and climate policies  the environment do"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "ble dividend  social ecology  urban sustainabili"
+            ],
+            "biodiversity": [
+                "ces  price control  biodiversity and ecosystems  env"
+            ],
+            "(?:environment[^ ]*|ecosystem) challenge": [
+                "s to respond to the environmental challenges that we face  and "
+            ],
+            "(?:environment[^ ]*|ecosystem) impact": [
+                "rtain the potential environmental impact of market decisions"
+            ],
+            "(?:environment[^ ]*|ecosystem) regulation": [
+                "nmental inequality  environmental regulation and climate policie"
+            ]
+        }
+    },
+    "DA2EA72E-C051-43FA-86B3-4DA484C2B9A9: Tourism Economics": {
+        "en": {
+            "[tourism, sustaina]": [
+                "tourism economics economics",
+                "nomics economics of tourism  economics of desti",
+                "cs of destinations  tourism studies and other r",
+                "s  the economics of tourism destinations  the c",
+                "ied to the tourist  tourism  development  and g",
+                "lic organization of tourism  sustainable touris",
+                "ourism  sustainable tourism ",
+                "ization of tourism  sustainable tourism "
+            ]
+        }
+    },
+    "68660250-5AD4-4CD8-829A-6B86A8CE746A: Arthropod Pest Management In Mediterranean Crops Modulo Biological Control Of Arthropod Pests": {
+        "en": {
+            "biological control": [
+                "ranean crops modulo biological control of arthropod pests ",
+                " the skills to plan biological control strategies of arthr",
+                "ish in the field of biological control as well as the abil"
+            ]
+        }
+    },
+    "B3D097C4-B1DB-4170-A1DD-0364ABC472FE: Arthropod Pest Management In Mediterranean Crops Modulo Integrated Management Of Arthropod Pests": {
+        "en": {
+            "[[ ]ecolo[^ ]+]": [
+                "ced knowledge on the ecological role and harmfulnes"
+            ],
+            "agro[- ]?ecosystem": [
+                " main mediterranean agro-ecosystems   1  citrus   pezo"
+            ]
+        }
+    }
+}

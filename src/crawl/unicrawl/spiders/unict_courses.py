@@ -10,9 +10,6 @@ from settings import YEAR, CRAWLING_OUTPUT_FOLDER
 PROG_DATA_PATH = Path(__file__).parent.absolute().joinpath(
     f'../../../../{CRAWLING_OUTPUT_FOLDER}unict_programs_{YEAR}.json')
 
-# TODO:
-#  - There are several structures for courses
-
 
 class UniCTCourseSpider(scrapy.Spider, ABC):
     """
@@ -38,10 +35,14 @@ class UniCTCourseSpider(scrapy.Spider, ABC):
     def parse_course(response, course_id):
 
         course_name = cleanup(response.xpath("//h1").get()).replace(" \n", '').replace("  ", ' ')
+        course_name = course_name.title().replace('Iii', 'III').replace('Ii', 'II')
         print(course_name)
 
-        teacher = response.xpath("//a[contains(@href, 'docenti_open')]/b/text()").get()
-        teacher = " ".join(teacher.split(" ")[1:] + [teacher.split(" ")[0]]).title()
+        teacher = response.xpath("//a[contains(@href, 'docenti')]/b/text()").get()
+        if teacher is None:
+            teachers = []
+        else:
+            teachers = [" ".join(teacher.split(" ")[1:] + [teacher.split(" ")[0]]).title()]
 
         language = "it" if 'corsi' in response.url else 'en'
 
@@ -64,7 +65,7 @@ class UniCTCourseSpider(scrapy.Spider, ABC):
             'name': course_name,
             'year': f"{YEAR}-{YEAR + 1}",
             'languages': [language],
-            'teachers': [teacher],
+            'teachers': teachers,
             'url': response.url,
             'content': content,
             'goal': goal,

@@ -12,7 +12,7 @@ import langdetect
 from langdetect import DetectorFactory
 import re
 
-from settings import CRAWLING_OUTPUT_FOLDER, SCORING_OUTPUT_FOLDER, ACCEPTED_LANGUAGES
+from settings import CRAWLING_OUTPUT_FOLDER, SCORING_OUTPUT_FOLDER, ACCEPTED_LANGUAGES, YEAR
 
 DetectorFactory.seed = 0
 
@@ -188,13 +188,13 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument("-s", "--school", help="School code")
-    parser.add_argument("-y", "--year", help="Academic year", default=2023)
+    parser.add_argument("-y", "--year", help="Academic year", default=YEAR)
 
     arguments = vars(parser.parse_args())
     arguments['output_dir'] = Path(__file__).parent.absolute().joinpath(f"../../{SCORING_OUTPUT_FOLDER}/")
     arguments['dictionary_name'] = 'v2.0'
 
-    schools = ["unipi"]
+    schools = ["unict"]
     for school in schools:
         arguments['school'] = school
         print(school)

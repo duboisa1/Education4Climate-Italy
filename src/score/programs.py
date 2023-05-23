@@ -5,7 +5,7 @@ import argparse
 
 import pandas as pd
 
-from settings import CRAWLING_OUTPUT_FOLDER, SCORING_OUTPUT_FOLDER
+from settings import CRAWLING_OUTPUT_FOLDER, SCORING_OUTPUT_FOLDER, YEAR
 
 
 def main(school: str, year: int):
@@ -38,11 +38,11 @@ def main(school: str, year: int):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-s", "--school", help="input json file path")
-    parser.add_argument("-y", "--year", help="academic year", default=2023)
+    parser.add_argument("-y", "--year", help="academic year", default=YEAR)
     arguments = vars(parser.parse_args())
     # main(**arguments)
 
-    schools = ["unipi"]
+    schools = ["unict"]
     for school in schools:
         print(school)
         main(school, arguments['year'])
