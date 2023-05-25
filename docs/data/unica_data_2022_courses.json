@@ -1,0 +1,91 @@
+[
+ {
+  "id":"IA\/0320\/EN",
+  "name":"Sustainable Solid Waste Management: Materials And Energy Recovery",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unica.coursecatalogue.cineca.it\/insegnamenti\/2023\/21780\/2022\/1\/11035?coorte=2022&schemaid=4512",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"IA\/0155\/EN",
+  "name":"Wastewater Treatment Plants",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unica.coursecatalogue.cineca.it\/insegnamenti\/2023\/20585\/2022\/1\/11035?coorte=2022&schemaid=4512",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"IA\/0120\/EN",
+  "name":"Critical Infrastructures For Innovative Power Distribution",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ruggeri Simona"
+  ],
+  "url":"https:\/\/unica.coursecatalogue.cineca.it\/insegnamenti\/2022\/20540\/2018\/9999\/10983?coorte=2022&schemaid=4494",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"BF\/0023\/EN",
+  "name":"Conservation Biology Of Plants",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unica.coursecatalogue.cineca.it\/insegnamenti\/2023\/21362\/2021\/1\/10981?coorte=2022&schemaid=4472",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ }
+]

@@ -1,0 +1,35 @@
+{
+    "IA/0320/EN: Sustainable Solid Waste Management: Materials And Energy Recovery": {
+        "en": {
+            "[energy, sustaina]": [
+                "ment  materials and energy recovery ",
+                "sustainable solid waste mana"
+            ]
+        }
+    },
+    "IA/0155/EN: Wastewater Treatment Plants": {
+        "en": {
+            "water treatment": [
+                "wastewater treatment plants "
+            ]
+        }
+    },
+    "IA/0120/EN: Critical Infrastructures For Innovative Power Distribution": {
+        "en": {
+            "micro[- ]?grid": [
+                "ea networks  hans   microgrids  retail energy mar",
+                "rid  operation of a microgrid  4 hours  conoscenz"
+            ],
+            "electric (?:vehicle|car)": [
+                "istributed storage  electric vehicles  evs   home area n"
+            ]
+        }
+    },
+    "BF/0023/EN: Conservation Biology Of Plants": {
+        "en": {
+            "conservation biology": [
+                "conservation biology of plants "
+            ]
+        }
+    }
+}

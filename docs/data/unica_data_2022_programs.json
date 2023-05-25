@@ -1,0 +1,97 @@
+[
+ {
+  "id":"70\/95-3",
+  "name":"Ingegneria Ambientale Per Lo Sviluppo Sostenibile - Curriculum Tecniche E Tecnologie Di Risanamento Ambientale",
+  "cycle":"master",
+  "url":"https:\/\/unica.coursecatalogue.cineca.it\/corsi\/2022\/11035",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Cagliari"
+  ],
+  "faculties":[
+   "Ingegneria E Architettura"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "pollution"
+  ],
+  "themes_scores":[
+   1,
+   1
+  ],
+  "matched_courses":[
+   "IA\/0155\/EN",
+   "IA\/0320\/EN"
+  ],
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":2,
+  "nb_total_courses":25
+ },
+ {
+  "id":"70\/90",
+  "name":"Computer Engineering, Cybersecurity And Artificial Intelligence",
+  "cycle":"master",
+  "url":"https:\/\/unica.coursecatalogue.cineca.it\/corsi\/2022\/10983",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Cagliari"
+  ],
+  "faculties":[
+   "Ingegneria E Architettura"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "themes_scores":[
+   1,
+   1
+  ],
+  "matched_courses":[
+   "IA\/0120\/EN"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":23
+ },
+ {
+  "id":"60\/77-2",
+  "name":"Conservazione E Gestione Della Natura E Dell'Ambiente - Studio Della Natura E Dell'Ambiente",
+  "cycle":"master",
+  "url":"https:\/\/unica.coursecatalogue.cineca.it\/corsi\/2022\/10981",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Cagliari"
+  ],
+  "faculties":[
+   "Biologia E Farmacia"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "BF\/0023\/EN"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":15
+ }
+]

@@ -13,7 +13,7 @@ PROG_DATA_PATH = Path(__file__).parent.absolute().joinpath(
 
 class UniCTCourseSpider(scrapy.Spider, ABC):
     """
-    Courses crawler for U Università di Catania
+    Courses crawler for Università di Catania
     """
 
     name = "unict-courses"
