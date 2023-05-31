@@ -33,6 +33,14 @@
             "type": "university"
         },
         {
+            "name": "Università degli Studi di Milano-Bicocca",
+            "shortName": "UniMiB",
+            "coursesFile": "unimib_data_2022_courses.json",
+            "programsFile": "unimib_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
+        },
+        {
             "name": "Università di Pisa",
             "shortName": "UniPi",
             "coursesFile": "unipi_data_2022_courses.json",

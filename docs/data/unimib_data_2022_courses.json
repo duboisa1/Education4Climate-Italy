@@ -1,0 +1,498 @@
+[
+ {
+  "id":"2223-1-F7401Q046",
+  "name":"Geobiologia",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Coletti Giovanni"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44547",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7401Q116",
+  "name":"Earth System Models in Climate Change Science",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Albani Samuel"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44513",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7401Q110",
+  "name":"Climate Change Impacts On Geohazards",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Lanfranconi Camilla",
+   "Frattini Paolo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44536",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7401Q095",
+  "name":"Paleoceanografia e Paleoclimatologia",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44506",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F5302Q014",
+  "name":"Low Environmental Impact Materials and Processes",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44481",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F4901N110",
+  "name":"Geography of Development",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Grasso Marco"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44947",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0601Q068",
+  "name":"Analisi e Gestione Biocenosi",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45941",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7502Q001",
+  "name":"Chemistry of Marine Environment",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Ferrero Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44733",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7502Q039",
+  "name":"Environmental Justice and Geopolitics of The Sea",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Grasso Marco",
+   "Dell'Agnese Elena"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44731",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7502Q037",
+  "name":"Fundamentals of Marine Biology",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Galli Paolo",
+   "Mohamed Shazla",
+   "Maggioni Davide"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44745",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7502Q013",
+  "name":"Geobiology",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Maria Basso Daniela",
+   "Coletti Giovanni"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44741",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7502Q016",
+  "name":"Human Geography of Small Island Systems",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Malatesta Stefano"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44735",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7502Q035",
+  "name":"Marine Environmental Microbiology",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Gandolfi Isabella",
+   "Franzetti Andrea"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44748",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7502Q012",
+  "name":"Marine Vertebrate Zoology",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Agnese Valsecchi Elena"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44736",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7502Q019",
+  "name":"Marine Molecular Biology",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Orlandi Ivan"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44728",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7502Q020",
+  "name":"Paleoceanography and Paleoclimatology",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Malinverno Elisa"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44730",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7502Q004",
+  "name":"Biodiversity and Marine Ecology",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Galli Paolo",
+   "Seveso Davide",
+   "Montano Simone"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44738",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7601M057",
+  "name":"Lingua Inglese per Scienze Turistiche",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Ann Kennan Patricia",
+   "Anderson Robin"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44880",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7601M063",
+  "name":"Ulteriori Conoscenze Linguistiche per il Turismo - Inglese",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Anderson Robin"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44896",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7502Q018",
+  "name":"Management of Aquatic Resources: Fisheries",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Cristina Mangano Maria"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44729",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F8701N074",
+  "name":"Sociology of Violence",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Natali Lorenzo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45287",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E1501N088",
+  "name":"Inglese per il Turismo",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Domenica Mangialavori Maria",
+   "Tosi Paola"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43891",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ }
+]
