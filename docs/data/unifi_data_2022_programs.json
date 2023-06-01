@@ -1,0 +1,75 @@
+[
+ {
+  "id":"B205-GEN",
+  "name":"Design Of Sustainable Tourism Systems \u2013 Progettazione Dei Sistemi Turistici",
+  "cycle":"master",
+  "url":"https:\/\/www.unifi.it\/p-cor2-2022-101223-B205-GEN-1-0.html",
+  "languages":[
+   "de",
+   "en",
+   "fr",
+   "it"
+  ],
+  "campuses":[
+   "Firenze"
+  ],
+  "faculties":[
+   "Economia e Management"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   2
+  ],
+  "matched_courses":[
+   "627630",
+   "627631"
+  ],
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":2,
+  "nb_total_courses":30
+ },
+ {
+  "id":"B247-GEN",
+  "name":"Sustainable Business For Societal Challenges.",
+  "cycle":"bac",
+  "url":"https:\/\/www.unifi.it\/p-cor2-2022-101223-B247-GEN-1-0.html",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Firenze"
+  ],
+  "faculties":[
+   "Economia e Management"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   1,
+   3,
+   1
+  ],
+  "matched_courses":[
+   "607343",
+   "607344",
+   "607355",
+   "607361",
+   "607363"
+  ],
+  "nb_dedicated_courses":4,
+  "nb_matched_courses":5,
+  "nb_total_courses":32
+ }
+]

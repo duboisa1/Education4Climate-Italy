@@ -33,6 +33,14 @@
             "type": "university"
         },
         {
+            "name": " Università degli studi di Firenze",
+            "shortName": "UniFi",
+            "coursesFile": "unifi_data_2022_courses.json",
+            "programsFile": "unifi_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
+        },
+        {
             "name": "Università degli Studi di Milano-Bicocca",
             "shortName": "UniMiB",
             "coursesFile": "unimib_data_2022_courses.json",
