@@ -1,6 +1,14 @@
 {
     "schools": [
         {
+            "name": "Politecnico di Milano",
+            "shortName": "PoliMi",
+            "coursesFile": "polimi_data_2022_courses.json",
+            "programsFile": "polimi_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "?"
+        },
+        {
             "name": "Politecnico di Torino",
             "shortName": "PoliTo",
             "coursesFile": "polito_data_2023_courses.json",
