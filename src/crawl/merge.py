@@ -72,7 +72,7 @@ def merge_courses(school: str, year: int):
     # Read the programs file
     courses_fn = \
         Path(__file__).parent.absolute().joinpath(f"../../{CRAWLING_OUTPUT_FOLDER}{school}_courses_{year}_pre.json")
-    courses_df = pd.read_json(courses_fn)
+    courses_df = pd.read_json(courses_fn, dtype={'id': str})
 
     # Group different keys
     if school != 'ugent':
