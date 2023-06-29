@@ -1,5 +1,187 @@
 [
  {
+  "id":"1041411",
+  "name":"Marketing And Innovation Management",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Fraccascia Luca"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30430\/20190322084705\/8ee29da6-4dd9-4490-9818-e3df27bd3ffe\/b69f0fee-ef38-466a-8c68-430b25b9eeda\/82ccee29-dc9b-4670-80af-029ee8cccf5f\/1365e7b3-4467-4038-841b-069ca33a331c",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10596237",
+  "name":"Innovazione E Gestione Ambientale ",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Tarola Anna",
+   "Savastano Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31297\/20190322084705\/a681c477-eed3-43b1-a6dd-d84742dead05\/7e13d8a2-c53f-4672-b69a-ea2f6de64bf1\/27c2bcc4-23e1-480b-a216-5b041f742daa\/6f581eec-d814-4ebe-808d-178692d3cc77",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "prod&cons"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600091",
+  "name":"Economia Delle Risorse E Dell'Ambiente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sabatini Fabio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31829\/20190322084705\/defa1a48-0964-44cb-b89d-5e0501751de6\/17056433-f837-4feb-a598-0d32db79474c\/844088e1-2fbc-43c9-899a-d45ae07b272a\/32ed033b-fc9d-4ebf-8b87-163037bac6b7",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1017140",
+  "name":"Gestione Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gobbi Laura"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30824\/20190322084705\/3cdc579c-3243-4e93-9152-570271915eff\/17b52c42-8dcc-4bca-94b7-8d4ce9fc135d\/2dceb091-4f8a-4955-bbf0-c45ba605bd8b\/92db7e25-ce67-45a3-aa6e-d717023525e8",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1022404",
+  "name":"Energia, Materie Prime Ed Innovazione",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Boccacci Mariani Maurizio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30824\/20190322084705\/3cdc579c-3243-4e93-9152-570271915eff\/17b52c42-8dcc-4bca-94b7-8d4ce9fc135d\/165e9112-fae4-4104-9d7a-34b950a843fc\/b9c8017c-c479-4649-87d8-d55c00e7feb2",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life",
+   "prod&cons"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10606766-d56",
+  "name":"Politica E Management Della Sostenibilita' Ambientale - Gestire La Sostenibilita' Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tarola Ornella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31830\/20190322084705\/88bd51ce-c690-4799-a1a4-e3d4abccd333\/8ec6846d-1bd6-4215-88b4-6a2365e41696\/0072d141-f6c9-4819-819e-9ecfdefb57cc\/d564d1df-0343-44eb-b17f-0abd77cd3094",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10606766-050",
+  "name":"Politica E Management Della Sostenibilita' Ambientale - Politiche Per La Sostenibilita'",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tarola Ornella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31830\/20190322084705\/88bd51ce-c690-4799-a1a4-e3d4abccd333\/8ec6846d-1bd6-4215-88b4-6a2365e41696\/0072d141-f6c9-4819-819e-9ecfdefb57cc\/05035657-6db9-4bc3-b757-e8032ae1e590",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10606757",
+  "name":"Politiche E Management Per Una Finanza Sostenibile",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Clemente Annalisa"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31830\/20190322084705\/88bd51ce-c690-4799-a1a4-e3d4abccd333\/8ec6846d-1bd6-4215-88b4-6a2365e41696\/90452b48-287a-4aa3-b57a-32b2b2d93fe9\/bb62bdba-6bf0-4765-83d9-45d0f4a3ec62",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"10606367",
   "name":"Sustainable Transport Planning",
   "year":"2022-2023",
@@ -17,7 +199,583 @@
    "Other"
   ],
   "themes":[
-   "sustainability"
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1044015",
+  "name":"Urban And Regional Policy",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Vittoria Corazza Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30841\/20190322084705\/8a7963d0-68c2-48f4-801f-25ca879fc2c4\/97f4cf8c-6c7b-4a3c-bf05-3ded7d4be1e9\/39b22bbd-102a-4c47-8406-51b44c73de6b\/56b7cefa-3b2e-48b2-9fb7-3b4a71dc2700",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1044042",
+  "name":"Maritime Constructions",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "De Girolamo Paolo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30841\/20190322084705\/8a7963d0-68c2-48f4-801f-25ca879fc2c4\/97f4cf8c-6c7b-4a3c-bf05-3ded7d4be1e9\/e245e233-3d20-49c9-a14f-a9ba5ad4f227\/2b8420b5-c6ea-4c68-8acc-29b5cafc42f7",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1022555",
+  "name":"Fondamenti Di Scienze Ambientali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mastrantonio Valentina"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30051\/20190322084705\/18f861cd-59db-49b9-b869-b65d3cdd8e26\/05314761-6285-45db-929a-f9243834e2a4\/3b1fc48c-2ac0-4ebf-9258-6138974ce759\/02eb3e6c-ff51-4008-ad7f-b48ff379f12a",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1041619",
+  "name":"Valutazione Del Rischio Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Siani Anna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30051\/20190322084705\/18f861cd-59db-49b9-b869-b65d3cdd8e26\/05314761-6285-45db-929a-f9243834e2a4\/3b1fc48c-2ac0-4ebf-9258-6138974ce759\/5044008e-9226-4ff1-9f9a-b8a347a75167",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036091-6c4",
+  "name":"Scienze Dell'Ambiente Di Vita E Di Lavoro Ed Ecosistemi - Botanica Ambientale Ed Applicata ",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Persiani Anna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30024\/20190322084705\/449584ad-bde1-41d3-9ae8-e644d1a6d137\/a956764a-fcf7-4987-a0c9-f3177dbcd7b9\/57a252f3-3584-4aec-8f0c-b4580940ec2a\/6c4dfe93-67b8-421b-8f8d-49b27be30c62",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036091-6fd",
+  "name":"Scienze Dell'Ambiente Di Vita E Di Lavoro Ed Ecosistemi - Microbiologia E Microbiologia Clinica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Santino Iolanda"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30024\/20190322084705\/449584ad-bde1-41d3-9ae8-e644d1a6d137\/a956764a-fcf7-4987-a0c9-f3177dbcd7b9\/57a252f3-3584-4aec-8f0c-b4580940ec2a\/6fdb3345-482d-4e2e-801f-e5fc3fcac0f4",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036091-31a",
+  "name":"Scienze Dell'Ambiente Di Vita E Di Lavoro Ed Ecosistemi - Ecologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Manes Fausto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30024\/20190322084705\/449584ad-bde1-41d3-9ae8-e644d1a6d137\/a956764a-fcf7-4987-a0c9-f3177dbcd7b9\/57a252f3-3584-4aec-8f0c-b4580940ec2a\/31aec8f0-7a5d-4520-8e9c-93e02433ae0e",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-f2f",
+  "name":"Elementi Di Chimica Ed Ecologia - Chimica Inorganica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Crescenzi Sabrina"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29886\/20190322084705\/7b6883d7-800a-45a4-94b2-0f1f8f72abd4\/ca1341d8-8ef3-4ba4-8946-54fe2bd95c91\/e0867b94-9678-49fc-93cf-f3d955998c03\/f2f65590-b4fe-4c5a-8942-c0bad849ac80",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-b87",
+  "name":"Elementi Di Chimica Ed Ecologia - Ecologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mastrantonio Valentina"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29886\/20190322084705\/7b6883d7-800a-45a4-94b2-0f1f8f72abd4\/ca1341d8-8ef3-4ba4-8946-54fe2bd95c91\/e0867b94-9678-49fc-93cf-f3d955998c03\/b877aafd-ddc3-484e-8263-aef5f0d2fc2d",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-dc3",
+  "name":"Elementi Di Chimica Ed Ecologia - Botanica Ambientale Ed Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Persiani Anna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29886\/20190322084705\/7b6883d7-800a-45a4-94b2-0f1f8f72abd4\/ca1341d8-8ef3-4ba4-8946-54fe2bd95c91\/e0867b94-9678-49fc-93cf-f3d955998c03\/dc3e4ddc-ba95-4d8e-b623-ab9862ec8f1a",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-393",
+  "name":"Elementi Di Chimica Ed Ecologia - Chimica Organica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Crescenzi Sabrina"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29886\/20190322084705\/7b6883d7-800a-45a4-94b2-0f1f8f72abd4\/ca1341d8-8ef3-4ba4-8946-54fe2bd95c91\/e0867b94-9678-49fc-93cf-f3d955998c03\/39327620-3111-4b73-bc83-681a62039ecf",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-cb9",
+  "name":"Elementi Di Chimica Ed Ecologia - Chimica Inorganica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ciogli Alessia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30003\/20190322084705\/c05f7779-358c-4bac-a6b6-2f91be7b895c\/a8589903-4115-45d4-afcc-0ed9c4f194dc\/32eda69f-ce33-4390-b1fc-56f04b2a1a69\/cb9a5621-aa68-4049-a6c3-484556edbe04",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-76b",
+  "name":"Elementi Di Chimica Ed Ecologia - Ecologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mattiucci Simonetta"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30003\/20190322084705\/c05f7779-358c-4bac-a6b6-2f91be7b895c\/a8589903-4115-45d4-afcc-0ed9c4f194dc\/32eda69f-ce33-4390-b1fc-56f04b2a1a69\/76b0abe1-a51d-4c8c-8839-634c220601ee",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-8db",
+  "name":"Elementi Di Chimica Ed Ecologia - Botanica Ambientale Ed Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mattiucci Simonetta"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30003\/20190322084705\/c05f7779-358c-4bac-a6b6-2f91be7b895c\/a8589903-4115-45d4-afcc-0ed9c4f194dc\/32eda69f-ce33-4390-b1fc-56f04b2a1a69\/8db049a6-82c0-4625-bb96-47e3607e5045",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-902",
+  "name":"Elementi Di Chimica Ed Ecologia - Chimica Organica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ciogli Alessia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30003\/20190322084705\/c05f7779-358c-4bac-a6b6-2f91be7b895c\/a8589903-4115-45d4-afcc-0ed9c4f194dc\/32eda69f-ce33-4390-b1fc-56f04b2a1a69\/90261745-8c09-42af-b98c-55bc22a9ce3f",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-935",
+  "name":"Elementi Di Chimica Ed Ecologia - Chimica Inorganica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Antiochia Riccarda"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29885\/20190322084705\/a7cec637-f8d7-463c-af77-e5c1b6db551f\/81ad9024-48dd-4201-8646-5c5cca82ffaf\/119dd949-41f2-4e3e-a7c3-34aba3faa45d\/9358c95a-319b-4fe5-80ce-bbd54deb2e23",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-bc9",
+  "name":"Elementi Di Chimica Ed Ecologia - Ecologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Persiani Anna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29885\/20190322084705\/a7cec637-f8d7-463c-af77-e5c1b6db551f\/81ad9024-48dd-4201-8646-5c5cca82ffaf\/119dd949-41f2-4e3e-a7c3-34aba3faa45d\/bc90a7ee-3942-450e-bbd0-e1d84d296094",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-73e",
+  "name":"Elementi Di Chimica Ed Ecologia - Botanica Ambientale Ed Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Persiani Anna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29885\/20190322084705\/a7cec637-f8d7-463c-af77-e5c1b6db551f\/81ad9024-48dd-4201-8646-5c5cca82ffaf\/119dd949-41f2-4e3e-a7c3-34aba3faa45d\/73e67edd-9119-448a-9985-af755525b3d1",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036543-801",
+  "name":"Elementi Di Chimica Ed Ecologia - Chimica Organica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Antiochia Riccarda"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29885\/20190322084705\/a7cec637-f8d7-463c-af77-e5c1b6db551f\/81ad9024-48dd-4201-8646-5c5cca82ffaf\/119dd949-41f2-4e3e-a7c3-34aba3faa45d\/801c1ebc-d005-4ca5-a1ad-1a58a62e9d2d",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036579-028",
+  "name":"Tecniche E Tecnologie Della Prevenzione - Sistemi Per L'Energia E L'Ambiente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Capata Roberto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29885\/20190322084705\/a7cec637-f8d7-463c-af77-e5c1b6db551f\/81ad9024-48dd-4201-8646-5c5cca82ffaf\/b13da80f-fd0f-4ea2-ba73-b9a33269635e\/028375f0-a7eb-41a7-8eb2-411dc49875c5",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036579-da2",
+  "name":"Tecniche E Tecnologie Della Prevenzione - Fisica Tecnica Industriale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "D'Orazio Annunziata"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29885\/20190322084705\/a7cec637-f8d7-463c-af77-e5c1b6db551f\/81ad9024-48dd-4201-8646-5c5cca82ffaf\/b13da80f-fd0f-4ea2-ba73-b9a33269635e\/da203dc9-0ddb-4b8b-8805-4fa5cf967b84",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1036579-36b",
+  "name":"Tecniche E Tecnologie Della Prevenzione - Campi Elettromagnetici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Carni' Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29885\/20190322084705\/a7cec637-f8d7-463c-af77-e5c1b6db551f\/81ad9024-48dd-4201-8646-5c5cca82ffaf\/b13da80f-fd0f-4ea2-ba73-b9a33269635e\/36b87af8-10a3-4ffa-a50c-5581e3bae959",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1036579-f9b",
+  "name":"Tecniche E Tecnologie Della Prevenzione - Fisica Tecnica Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "D'Orazio Annunziata"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29885\/20190322084705\/a7cec637-f8d7-463c-af77-e5c1b6db551f\/81ad9024-48dd-4201-8646-5c5cca82ffaf\/b13da80f-fd0f-4ea2-ba73-b9a33269635e\/f9b7af65-614c-464f-9e40-872de25e92c5",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036579-92c",
+  "name":"Tecniche E Tecnologie Della Prevenzione - Ingegneria Sanitaria Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pomi Raffaella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29885\/20190322084705\/a7cec637-f8d7-463c-af77-e5c1b6db551f\/81ad9024-48dd-4201-8646-5c5cca82ffaf\/b13da80f-fd0f-4ea2-ba73-b9a33269635e\/92c9b62c-a435-402d-b65e-d5287c617398",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1038611",
+  "name":"Design Of Hybrid Hev And Electric Vehicles Ev",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Briz Fernando"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29918\/20190322084705\/9edc7036-7889-4d31-bd1d-711598f83647\/f09edea3-5143-4654-bae8-9fe1fafeed97\/e902a1e0-19af-4d74-810b-61f37127dd10\/ccbc80c4-f8fc-462f-9b8e-14a567295830",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1038478",
+  "name":"Energy Storing And Recovering In Power Systems And Hybrid Electric Vehicles",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Diaz Gonzales Juan"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29918\/20190322084705\/9edc7036-7889-4d31-bd1d-711598f83647\/f09edea3-5143-4654-bae8-9fe1fafeed97\/e902a1e0-19af-4d74-810b-61f37127dd10\/8ed5f37d-ea1f-417a-afe6-f39bc1a6e1a8",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
   ],
   "dedicated":1
  },
@@ -39,7 +797,7 @@
    "Other"
   ],
   "themes":[
-   "sustainability"
+   "transport"
   ],
   "dedicated":1
  },
@@ -61,7 +819,7 @@
    "Other"
   ],
   "themes":[
-   "sustainability"
+   "transport"
   ],
   "dedicated":1
  },
@@ -83,21 +841,21 @@
    "Other"
   ],
   "themes":[
-   "resources"
+   "pollution"
   ],
-  "dedicated":1
+  "dedicated":0
  },
  {
-  "id":"10592816-86b",
-  "name":"Building Design For Sustainable Architecture-Architectural Design - Building Design For Sustainable Architecture ",
+  "id":"10589431",
+  "name":"Environment And Health",
   "year":"2022-2023",
   "languages":[
    "en"
   ],
   "teachers":[
-   "Morganti Michele"
+   "D'Alessandro Daniela"
   ],
-  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30425\/20190322084705\/d87de28b-f516-43d3-bb7a-b39dffa0ce0a\/3366b385-1c7f-4fab-8965-4103b479567d\/18a32ab0-ec66-4e1c-83e8-c44a633d44dd\/86b0efd7-620c-440b-9afa-29a998de3884",
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30425\/20190322084705\/d87de28b-f516-43d3-bb7a-b39dffa0ce0a\/3366b385-1c7f-4fab-8965-4103b479567d\/611e53e0-32a3-487f-b9c9-9a8510f40141\/d3483217-8111-4027-a7d1-e29d0a5f4c2a",
   "cycles":[
    "bac"
   ],
@@ -105,22 +863,21 @@
    "Other"
   ],
   "themes":[
-   "resources",
-   "sustainability"
+   "life"
   ],
-  "dedicated":1
+  "dedicated":0
  },
  {
-  "id":"10592816-1c2",
-  "name":"Building Design For Sustainable Architecture-Architectural Design - Architectural Design",
+  "id":"10589178",
+  "name":"Principles Of Environmental Engineering",
   "year":"2022-2023",
   "languages":[
    "en"
   ],
   "teachers":[
-   "Cutroni Fabio"
+   "Chiavola Agostina"
   ],
-  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30425\/20190322084705\/d87de28b-f516-43d3-bb7a-b39dffa0ce0a\/3366b385-1c7f-4fab-8965-4103b479567d\/c5d06948-4acc-4812-b372-e535f0a79749\/1c2d754a-903c-4c0e-a124-5d0daaa87abf",
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30425\/20190322084705\/d87de28b-f516-43d3-bb7a-b39dffa0ce0a\/3366b385-1c7f-4fab-8965-4103b479567d\/d156091b-1a8d-4674-ba66-497e64563728\/578ab85f-e0a1-4af6-870f-2bf952cde7be",
   "cycles":[
    "bac"
   ],
@@ -128,30 +885,1866 @@
    "Other"
   ],
   "themes":[
-   "resources",
-   "sustainability"
+   "pollution"
   ],
-  "dedicated":1
+  "dedicated":0
  },
  {
-  "id":"10589502",
-  "name":"Bioclimatic Building Design",
+  "id":"10589420",
+  "name":"Engineering Geophysics",
   "year":"2022-2023",
   "languages":[
    "en"
   ],
   "teachers":[
-   "Manganelli Matteo"
+   "Cercato Michele"
   ],
-  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30425\/20190322084705\/d87de28b-f516-43d3-bb7a-b39dffa0ce0a\/3366b385-1c7f-4fab-8965-4103b479567d\/d156091b-1a8d-4674-ba66-497e64563728\/3510eb4e-2398-44b1-94b2-a0fface017b1",
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30425\/20190322084705\/d87de28b-f516-43d3-bb7a-b39dffa0ce0a\/3366b385-1c7f-4fab-8965-4103b479567d\/a207aaa6-02a9-49bf-925b-c4ddd32f8abe\/8f8c6ab0-627a-4d52-850e-0cdf34b9e969",
   "cycles":[
    "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041541",
+  "name":"Aerospace Materials",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Tirillo' Jacopo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31825\/20190322084705\/792b6a65-4156-4e40-8c53-e450212ae935\/12db7c0a-7ec3-4cd4-9e57-545226e4a31d\/e6a76ae9-6bb5-448c-8029-2ed071457181\/206f9d0c-0a73-4606-b4eb-775097d21c3e",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "resources",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1034927",
+  "name":"Sociologia Dell'Ambiente E Del Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galdini Rossana",
+   "Sini Sabrina"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30866\/20190322084705\/cd04857d-5f82-46e9-9087-0ba74e4edc00\/276add27-01ed-4227-bc05-2aff4fe40300\/24b735c0-a929-4d38-a3ce-fb50f153a2f2\/47e21eaf-bcbd-4213-b2a4-45b3ad124419",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10592438-b85",
+  "name":"Gestione Della Qualita' E Della Sostenibilita' Dei Sistemi Agroalimentari - Microbiologia E Microbiologia Clinica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Longhi Catia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30387\/20190322084705\/4f7274fb-b835-4f4a-a57a-8de38ff1aba0\/a08fa82e-2da6-4c56-b555-3c92bb0e2c15\/f1b4c8cc-2210-43a5-95ef-721dcd138fb4\/b855df15-eebc-4cc6-b575-34f22a39b187",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10592438-b5e",
+  "name":"Gestione Della Qualita' E Della Sostenibilita' Dei Sistemi Agroalimentari - Gestione Della Qualita' E Della Sostenibilita'",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ruggieri Roberto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30387\/20190322084705\/4f7274fb-b835-4f4a-a57a-8de38ff1aba0\/a08fa82e-2da6-4c56-b555-3c92bb0e2c15\/f1b4c8cc-2210-43a5-95ef-721dcd138fb4\/b5eadd62-9b18-4462-a7af-cb16ac98843c",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10592438-1b0",
+  "name":"Gestione Della Qualita' E Della Sostenibilita' Dei Sistemi Agroalimentari - Microbiologia Agraria",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ruzzi Maurizio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30387\/20190322084705\/4f7274fb-b835-4f4a-a57a-8de38ff1aba0\/a08fa82e-2da6-4c56-b555-3c92bb0e2c15\/f1b4c8cc-2210-43a5-95ef-721dcd138fb4\/1b0aae18-cb9d-4f11-a209-81c3fc5fa1a3",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10592438-14f",
+  "name":"Gestione Della Qualita' E Della Sostenibilita' Dei Sistemi Agroalimentari - Chimica E Biotecnologie Della Fermentazione",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ruzzi Maurizio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30387\/20190322084705\/4f7274fb-b835-4f4a-a57a-8de38ff1aba0\/a08fa82e-2da6-4c56-b555-3c92bb0e2c15\/f1b4c8cc-2210-43a5-95ef-721dcd138fb4\/14fb0bbe-3123-461f-9315-d8049d614714",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10592471-87d",
+  "name":"Biodiversita' Alimentari Ed Ecologia - Qualita' Della Produzione Di Alimenti Di Origine Vegetale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fattorini Laura"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30387\/20190322084705\/4f7274fb-b835-4f4a-a57a-8de38ff1aba0\/a08fa82e-2da6-4c56-b555-3c92bb0e2c15\/f1b4c8cc-2210-43a5-95ef-721dcd138fb4\/87d65520-c971-407d-9095-15e9b15be34f",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10592471-1d6",
+  "name":"Biodiversita' Alimentari Ed Ecologia - Qualita' Della Produzione Di Alimenti Di Origine Animale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Miccoli Andrea"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30387\/20190322084705\/4f7274fb-b835-4f4a-a57a-8de38ff1aba0\/a08fa82e-2da6-4c56-b555-3c92bb0e2c15\/f1b4c8cc-2210-43a5-95ef-721dcd138fb4\/1d66c965-11d5-4b49-9b32-ed73c62bd895",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10592471-4a5",
+  "name":"Biodiversita' Alimentari Ed Ecologia - Ecosistema E Biodiversita' Applicate Al Settore Agroalimentare",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Manes Fausto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30387\/20190322084705\/4f7274fb-b835-4f4a-a57a-8de38ff1aba0\/a08fa82e-2da6-4c56-b555-3c92bb0e2c15\/f1b4c8cc-2210-43a5-95ef-721dcd138fb4\/4a5c8296-414f-4bc6-bc23-93185c01ca92",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"AAF1934",
+  "name":"Qualita' E Certificazione Dei Prodotti Alimentari",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ruggieri Roberto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30387\/20190322084705\/4f7274fb-b835-4f4a-a57a-8de38ff1aba0\/a08fa82e-2da6-4c56-b555-3c92bb0e2c15\/72ecf053-c420-431d-af8d-b51dd5f046b1\/32640ddb-500c-4916-885c-c3aeedbc0616",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041721",
+  "name":"Zoologia Generale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Aldo Audisio Paolo",
+   "Sabatelli Simone",
+   "Ciucci Paolo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30048\/20190322084705\/abf2a4d9-de35-477b-8603-b5f5a9a627d0\/b681426c-a293-4aba-a2c1-6b86bffb839b\/a8b725d8-a789-4c99-9341-a53bd037e3fa\/43fb270c-b54d-41c0-90e1-e0f17ab1da0d",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041446-36a",
+  "name":"Zoologia Sistematica E Anatomia Comparata - Anatomia Comparata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fidaleo Marco",
+   "Castiglia Riccardo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30048\/20190322084705\/abf2a4d9-de35-477b-8603-b5f5a9a627d0\/b681426c-a293-4aba-a2c1-6b86bffb839b\/8aeb4e29-3684-4eb4-a787-209aba7ceeba\/36ad61b7-5f00-4f3c-b68b-6f0d506f7aa9",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041446-fa7",
+  "name":"Zoologia Sistematica E Anatomia Comparata - Zoologia Sistematica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cerretti Pierfilippo",
+   "Di Marco Moreno"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30048\/20190322084705\/abf2a4d9-de35-477b-8603-b5f5a9a627d0\/b681426c-a293-4aba-a2c1-6b86bffb839b\/8aeb4e29-3684-4eb4-a787-209aba7ceeba\/fa72db05-904c-481b-8030-f4ad186f89fc",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041613",
+  "name":"Botanica Sistematica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sadori Laura",
+   "Docente In Fase Di Definizione. Assegnazione",
+   "Magri Donatella",
+   "Di Rita Federico"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30048\/20190322084705\/abf2a4d9-de35-477b-8603-b5f5a9a627d0\/b681426c-a293-4aba-a2c1-6b86bffb839b\/15178085-d92f-40d3-8b50-83f8abc7924e\/001ffa23-2f41-4f48-a373-372c02e89537",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1020296",
+  "name":"Geochimica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Barbieri Maurizio",
+   "Dallai Luigi"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30048\/20190322084705\/abf2a4d9-de35-477b-8603-b5f5a9a627d0\/b681426c-a293-4aba-a2c1-6b86bffb839b\/9b728c5b-ac33-475d-81b3-c33a5201ca1b\/7cc4c271-ebd8-4b74-9c42-038c72b43cdd",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1020294",
+  "name":"Geografia Fisica Con Elementi Di Geomorfologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Piacentini Daniela",
+   "Di Rita Federico",
+   "Cerretti Pierfilippo",
+   "Del Monte Maurizio",
+   "Piacentini Daniela",
+   "Magri Donatella",
+   "Aldo Audisio Paolo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30048\/20190322084705\/abf2a4d9-de35-477b-8603-b5f5a9a627d0\/b681426c-a293-4aba-a2c1-6b86bffb839b\/f9496875-a3ba-4861-b4fe-f00c0a4769fb\/3b31c3b8-0058-446f-9524-1059e5f65ec7",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1055720",
+  "name":"Inglese Per Le Scienze Della Terra",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "James Marone Chris"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30859\/20190322084705\/0c6053b1-e565-47c7-acaf-481c420d1c83\/ff49932d-ee58-4fd5-9347-e1ed53806592\/bdc04b41-e954-4077-a647-593fca882080\/8dd31b86-b5f1-4c68-8fdd-79171602dd1d",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10595971",
+  "name":"Micropaleontologia Applicata Ai Cambiamenti Climatici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lirer Fabrizio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30859\/20190322084705\/0c6053b1-e565-47c7-acaf-481c420d1c83\/ff49932d-ee58-4fd5-9347-e1ed53806592\/bdc04b41-e954-4077-a647-593fca882080\/9f2baaa5-9e91-4843-9a44-48cd2fb0ff3f",
+  "cycles":[
+   "bac",
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1025190",
+  "name":"Geografia Generale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pesaresi Cristiano"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29402\/20190322084705\/46b80980-875f-4f2e-b661-92e883d43e66\/ea5ad839-4c65-4199-bc9a-16aadb63fd5c\/e946787a-b14b-436e-bbaa-97a137e8ad4e\/f6883551-aad8-4d12-82bb-83b662e09490",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10589120-97d",
+  "name":"Geografia Economica E Politica - Geografia Economica E Politica I",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gemmiti Roberta"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29402\/20190322084705\/46b80980-875f-4f2e-b661-92e883d43e66\/ea5ad839-4c65-4199-bc9a-16aadb63fd5c\/daab01f5-afd3-4c3d-bc77-291e951c06c3\/97dbab5c-a1b1-46f7-beb8-39c151add21c",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1035474",
+  "name":"Geografia Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pavia Davide"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29402\/20190322084705\/46b80980-875f-4f2e-b661-92e883d43e66\/ea5ad839-4c65-4199-bc9a-16aadb63fd5c\/9ea2e8f6-25b5-4022-8a30-61ce554bafec\/612ff2ff-68ed-45bc-b468-ea09d19da92a",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1022494",
+  "name":"Organizzazione Del Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Conti Puorger Adriana"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29402\/20190322084705\/46b80980-875f-4f2e-b661-92e883d43e66\/ea5ad839-4c65-4199-bc9a-16aadb63fd5c\/3672a547-fb28-4860-82a2-926890d36322\/df8389b1-a2a5-4cd6-9e9d-10ed912e13e2",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10596353",
+  "name":"Telerilevamento E Simulazioni Gis Per La Pianificazione Territoriale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Docente In Fase Di Definizione. Assegnazione",
+   "Ravanelli Roberta"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29402\/20190322084705\/46b80980-875f-4f2e-b661-92e883d43e66\/ea5ad839-4c65-4199-bc9a-16aadb63fd5c\/3672a547-fb28-4860-82a2-926890d36322\/9df6d867-dff3-4a51-b91b-867ed91907cf",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041827",
+  "name":"Sociologia Urbana",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galdini Rossana"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29402\/20190322084705\/46b80980-875f-4f2e-b661-92e883d43e66\/ea5ad839-4c65-4199-bc9a-16aadb63fd5c\/3672a547-fb28-4860-82a2-926890d36322\/78fdb6bb-91ed-4bda-86d9-11d5f2de7881",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1052163",
+  "name":"Biologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tomassini Lamberto",
+   "De Vita Daniela",
+   "Toniolo Chiara"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/28678\/20190322084705\/4f10bfce-e2d4-4de8-aeee-4062d50b0756\/841d6c62-67af-40f3-8520-34880f06db97\/b7d2240c-3481-4714-a182-d107af149267\/977717b6-4e6a-4c62-a834-cec4df7d6f3f",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1023017",
+  "name":"Botanica Farmaceutica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Vita Daniela"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/28678\/20190322084705\/4f10bfce-e2d4-4de8-aeee-4062d50b0756\/841d6c62-67af-40f3-8520-34880f06db97\/3a8549cd-ef51-4cc7-942b-2837278520a6\/fd1cf9ae-173f-4cca-921c-8e0a76c72999",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1052171",
+  "name":"Fitochimica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tomassini Lamberto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/28678\/20190322084705\/4f10bfce-e2d4-4de8-aeee-4062d50b0756\/841d6c62-67af-40f3-8520-34880f06db97\/06cd1e09-49f9-461b-b82d-281373050893\/7a32f6a1-1bfe-4851-a878-ac228cb66fe2",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1019205",
+  "name":"Patologia Vegetale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Reverberi Massimo",
+   "Gramegna Giovanna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/28678\/20190322084705\/4f10bfce-e2d4-4de8-aeee-4062d50b0756\/841d6c62-67af-40f3-8520-34880f06db97\/cbaaf128-f160-4794-bf88-a6f17e2df032\/daf550b9-0e32-4560-b94d-379b11507735",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600330-2b3",
+  "name":"Plant Biology And Conservation For Cultural Heritage - Plant Biology For Cultural Heritage",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Sadori Laura"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/28702\/20190322084705\/957d0807-787f-46b0-b120-d8cd21ed17bb\/3aae1bf8-c262-46c4-87ee-d48067999d4d\/65e87917-6cde-44dc-b63e-25ecf32e8d45\/2b3b3b3b-ae09-4f08-8fbd-b26e24aad340",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1038535",
+  "name":"Management Delle Fonti Energetiche",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Tarola Anna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31300\/20190322084705\/dac8f8d1-d29a-4e3a-b980-53e453ff1a68\/24f2a52b-de82-485b-a66e-b74f1f81e8e8\/db6f6adf-e698-400d-91e1-90f0e4cd83d8\/aeb25d21-7ac2-4630-bfa7-9ae784501cab",
+  "cycles":[
+   "master"
   ],
   "fields":[
    "Other"
   ],
   "themes":[
    "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1035994-118",
+  "name":"Scienze Della Prevenzione Nell'Ambiente E Nei Luoghi Di Lavoro - Igiene Generale Ed Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Del Cimmuto Angela"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29891\/20190322084705\/1b67a97f-45eb-4609-b615-90399322165f\/95a17356-e900-43bb-89fe-946a8f538b69\/61798cd7-8c27-4cfa-9bdc-55526f29f847\/1182d85e-d8f1-45b8-bf0d-57d44a158755",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036029-fbc",
+  "name":"Scienze Informatiche Ed Interdisciplinari Applicate Alla Gestione Sanitaria - Fondamenti Chimici Delle Tecnologie",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Insogna Susanna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29891\/20190322084705\/1b67a97f-45eb-4609-b615-90399322165f\/95a17356-e900-43bb-89fe-946a8f538b69\/58db898a-787c-4feb-95f6-56a084d954f0\/fbca56e5-d33f-497e-affa-c1f2d6bd5a14",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1036029-7b2",
+  "name":"Scienze Informatiche Ed Interdisciplinari Applicate Alla Gestione Sanitaria - Ingegneria Sanitaria Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pomi Raffaella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29891\/20190322084705\/1b67a97f-45eb-4609-b615-90399322165f\/95a17356-e900-43bb-89fe-946a8f538b69\/58db898a-787c-4feb-95f6-56a084d954f0\/7b24c921-90ee-4ef6-9929-d1f96bd53f01",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036029-b0b",
+  "name":"Scienze Informatiche Ed Interdisciplinari Applicate Alla Gestione Sanitaria - Statistica Per La Ricerca Sperimentale E Tecnologica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bartolucci Piero"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29891\/20190322084705\/1b67a97f-45eb-4609-b615-90399322165f\/95a17356-e900-43bb-89fe-946a8f538b69\/58db898a-787c-4feb-95f6-56a084d954f0\/b0bf9da8-65f1-4e12-ba10-337c2fc8b7b1",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1042388",
+  "name":"Diritto Dell'Ambiente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vittoria Ferroni Maria",
+   "Mari Chiara"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30454\/20190322084705\/76676def-c72b-4478-8e2c-61ef947570aa\/c07ad1c7-f29b-4d65-a39d-c6336701d766\/1c00770d-6aca-482b-a1e6-cb6736df9fc8\/8bd0b03f-05e2-490e-84ba-45b593025254",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1041626",
+  "name":"Statistica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Jona Lasinio Giovanna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/f294d52b-2932-4928-a629-b5bfb9e11da3\/4ab48e71-c087-4fc9-898e-749bc2dcb905",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1038274",
+  "name":"Paleobotanica E Palinologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Magri Donatella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/f294d52b-2932-4928-a629-b5bfb9e11da3\/0637a6b2-e0c1-492c-9374-4bf618c63e98",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1046892",
+  "name":"Biodiversita' E Valorizzazione Delle Piante",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maddalena Altamura Maria",
+   "Docente In Fase Di Definizione. Assegnazione"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/f294d52b-2932-4928-a629-b5bfb9e11da3\/bf7b6169-45a0-49f1-8458-693a75a562b9",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1055686",
+  "name":"Biodiversita' Umana Con Applicazioni Bioinformatica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Anagnostou Paolo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/f294d52b-2932-4928-a629-b5bfb9e11da3\/2f7b5e1f-1f9c-4c86-a9ff-fead71e711bc",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1047808",
+  "name":"Cartografia Tematica E Gis",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Attorre Fabio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/f294d52b-2932-4928-a629-b5bfb9e11da3\/fe0f4432-4222-44a4-9e28-c52798610043",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600380",
+  "name":"Biologia Del Cambiamento Globale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maiorano Luigi",
+   "Di Marco Moreno"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/f294d52b-2932-4928-a629-b5bfb9e11da3\/e25ff56c-6535-448f-a4fc-f8eaaa499399",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1047809",
+  "name":"Geologia Marina",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Latino Chiocci Francesco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/397ed6ff-983b-4941-a6e9-8e36615487fa\/d11b77db-ed96-4ed1-886e-bcbfc19247d4",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1016357",
+  "name":"Entomologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Aldo Audisio Paolo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/397ed6ff-983b-4941-a6e9-8e36615487fa\/c95ee4ec-6d3c-4435-9c95-9a1bec1ce529",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1016362",
+  "name":"Zoogeografia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mancini Emiliano"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/397ed6ff-983b-4941-a6e9-8e36615487fa\/0011aacc-5288-46a5-a7e6-49b4944cd304",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10596290",
+  "name":"Invasioni Biologiche E Cambiamenti Globali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Celesti Laura"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/397ed6ff-983b-4941-a6e9-8e36615487fa\/09cbbf09-03c4-49ec-b5bb-670437316c1e",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1023620",
+  "name":"Ecologia Umana E Storia Naturale Dei Primati",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Manzi Giorgio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/397ed6ff-983b-4941-a6e9-8e36615487fa\/79316c03-a8f1-4d52-82fb-8f705f1ecc1e",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1055500",
+  "name":"Conservazione Delle Risorse Forestali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Burrascano Sabina"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/397ed6ff-983b-4941-a6e9-8e36615487fa\/4e43014d-a91b-4560-a959-eefd29188f37",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600364",
+  "name":"Monitoraggio E Conservazione Della Biodiversita' E Degli Agroecosistemi",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Sanctis Michele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/397ed6ff-983b-4941-a6e9-8e36615487fa\/5ad82cfc-ba11-4771-b4dc-5d10fc51be1d",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "food",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1047805",
+  "name":"Conservazione E Gestione Della Vegetazione E Del Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ricotta Carlo",
+   "Attorre Fabio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/397ed6ff-983b-4941-a6e9-8e36615487fa\/81079e24-dc24-4777-b1d8-bff60585c1e7",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041627",
+  "name":"Biodiversita' Marina E Sistematica Biologica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Oliverio Marco",
+   "Fassio Giulia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/95246d55-db11-4d19-a9af-3eb6ad40a390\/4cbd46c5-9469-4d57-a2e3-05c400fc2b69",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1047803",
+  "name":"Psicologia Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bonaiuto Marino"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30061\/20190322084705\/455de795-7280-4c66-b906-9873b7784e7d\/448622d6-89b3-4abe-9baa-04075ec59428\/95246d55-db11-4d19-a9af-3eb6ad40a390\/6061cf09-948e-4718-bd91-22d553008714",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1049660-75f",
+  "name":"Biologia Delle Piante Ecologia E Territorio - Ecologia Del Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fusaro Lina"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30040\/20190322084705\/cae51028-0c03-4ce4-8214-8ec4cf260159\/d5b6a854-2c05-4622-9c99-1cfb362be9b4\/32bd214d-ecc7-4033-8a11-c1c06c1d4563\/75f3bce8-fcec-4d4c-b781-c38f613c4f79",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1049660-b82",
+  "name":"Biologia Delle Piante Ecologia E Territorio - Biologia Delle Piante",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Varone Laura"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30040\/20190322084705\/cae51028-0c03-4ce4-8214-8ec4cf260159\/d5b6a854-2c05-4622-9c99-1cfb362be9b4\/32bd214d-ecc7-4033-8a11-c1c06c1d4563\/b82cce29-3a37-481d-9885-135fe883ae52",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036024",
+  "name":"Geografia Del Turismo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Staniscia Barbara"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30432\/20190322084705\/d36c5b51-1354-4c38-89ac-a19cbe2d090a\/0db4b956-27ca-45e9-a73c-f80ce42fcc82\/3d75286d-fa58-4fdc-aaff-307ba76132e4\/9fc32d32-66b5-41d4-ad92-b23d89a45016",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1036300-696",
+  "name":"Fondamenti Di Urbanistica E Governo Del Territorio - Legislazione Edilizia E Governo Del Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Urbani Paolo",
+   "Stella Richter Paolo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29844\/20190322084705\/57364d7f-f92f-4502-bcb9-3338da1c2e4d\/2c37cf5b-fe91-4fe8-92ce-384147a57796\/bd70d985-57b4-4cd8-81d1-62bda2637c99\/696c1774-81da-44ec-9dc5-af801ef97440",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1036463",
+  "name":"Pianificazione Del Territorio E Del Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Valorani Carlo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29844\/20190322084705\/57364d7f-f92f-4502-bcb9-3338da1c2e4d\/2c37cf5b-fe91-4fe8-92ce-384147a57796\/9a64b396-a283-46a1-90f9-031d63bddaac\/73cc92c8-f07c-4cd2-a166-f6cfca46c5f6",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1044293",
+  "name":"Ecologia Preistorica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Conati Barbaro Cecilia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29943\/20190322084705\/011fd7e9-8488-440e-93d3-7134b4fdc05b\/2c3b7ca9-c3ee-48db-84b1-fd8115fce278\/ffab4357-9101-40e3-b751-09ea5613ef5d\/6c36f17a-7ba0-4770-b061-5e26f707f64c",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1023146",
+  "name":"Geografia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pesaresi Cristiano"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29943\/20190322084705\/011fd7e9-8488-440e-93d3-7134b4fdc05b\/2c3b7ca9-c3ee-48db-84b1-fd8115fce278\/ffab4357-9101-40e3-b751-09ea5613ef5d\/114b9e17-1845-4018-a572-08ac24d338f1",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1035573",
+  "name":"Archeologia E Culture Del Paleolitico",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Elena Spinapolice Enza"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29943\/20190322084705\/011fd7e9-8488-440e-93d3-7134b4fdc05b\/2c3b7ca9-c3ee-48db-84b1-fd8115fce278\/660672c7-7053-4458-bf46-77126eaa84cb\/02d0f48f-26a8-4a33-a734-2e944bf01fc4",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10596326",
+  "name":"Chimica Industriale I",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Piozzi Antonella",
+   "Chronopoulou Laura"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30858\/20190322084705\/3733dc0d-6ae3-4747-9f91-b6d6969ec6de\/e4f80407-5c0a-45d9-a49b-c95ba7689eb6\/e70602f7-2e11-4b3c-94a1-1b1eeece07cb\/123165f4-10f0-4904-8906-b65a62aebc9f",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041434-4ca",
+  "name":"Calcolo Biostatistica E Metodi Matematici E Informatici In Biologia - Calcolo E Biostatistica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Agliari Elena",
+   "Monaco Domenico",
+   "Cammarota Camillo",
+   "Piccioni Mauro"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30857\/20190322084705\/fa7582c8-bfa6-4a2f-ab52-64ab114b36e4\/7414caaf-2ccd-4bfd-8736-7ffbd91a5b1d\/8c667f63-0390-40f5-8a16-483bff1af04a\/4ca00eb3-0a1c-4829-8ce4-b22f96a5641a",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041434-d76",
+  "name":"Calcolo Biostatistica E Metodi Matematici E Informatici In Biologia - Metodi Matematici E Informatici In Biologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Panati Gianluca",
+   "Simonella Sergio",
+   "Cavallaro Guido",
+   "Taggi Lorenzo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30857\/20190322084705\/fa7582c8-bfa6-4a2f-ab52-64ab114b36e4\/7414caaf-2ccd-4bfd-8736-7ffbd91a5b1d\/11d1e60e-24d8-4f50-be16-036a5254b237\/d766fad6-0975-4746-a6d0-897071676801",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1011787",
+  "name":"Ecologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Calizza Edoardo",
+   "Letizia Costantini Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30857\/20190322084705\/fa7582c8-bfa6-4a2f-ab52-64ab114b36e4\/7414caaf-2ccd-4bfd-8736-7ffbd91a5b1d\/62211167-8edb-46f3-9662-a634c6d35a62\/ebdb1d9a-d266-407b-80e0-7e08a8837efd",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1019387",
+  "name":"Anatomia Comparata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fidaleo Marco",
+   "Franchini Paolo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30857\/20190322084705\/fa7582c8-bfa6-4a2f-ab52-64ab114b36e4\/7414caaf-2ccd-4bfd-8736-7ffbd91a5b1d\/98547771-afc1-4515-afc3-77f1e4ed040f\/8d1efdb2-6b19-4121-80f7-789380da00a1",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1016320",
+  "name":"Diversita' Animale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maiorano Luigi"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30047\/20190322084705\/5d3ce6f1-1ba3-472b-90ca-1c9279b7c2c8\/bd82a173-2e74-4809-ad47-1c5efc733146\/b6d0a064-2baa-4d16-bc13-0a9b5fba953a\/473c02f7-6192-4ec8-adf8-8f67723f4ef0",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1016325",
+  "name":"Diritto E Legislazione Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tallone Giuliano"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30047\/20190322084705\/5d3ce6f1-1ba3-472b-90ca-1c9279b7c2c8\/bd82a173-2e74-4809-ad47-1c5efc733146\/90a5f82b-52c3-4a24-a913-d78415691cea\/e7e541ce-23d0-4bcf-aaa9-2b81f31fcff1",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"97585",
+  "name":"Chimica Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Canepari Silvia",
+   "Massimi Lorenzo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30047\/20190322084705\/5d3ce6f1-1ba3-472b-90ca-1c9279b7c2c8\/bd82a173-2e74-4809-ad47-1c5efc733146\/90a5f82b-52c3-4a24-a913-d78415691cea\/a6d0a80b-659f-4443-a914-77ed48e30eef",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1016326",
+  "name":"Tassonomia Dei Vegetali E Flora D'Italia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Iberite Mauro"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30047\/20190322084705\/5d3ce6f1-1ba3-472b-90ca-1c9279b7c2c8\/bd82a173-2e74-4809-ad47-1c5efc733146\/51a498ff-657a-478e-9547-217ad78dd50f\/c2b4065b-d751-4725-920b-700da9661794",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1047552",
+  "name":"Diritto Internazionale Dell'Economia E Dello Sviluppo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cadin Raffaele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31289\/20190322084705\/15ba3723-b257-41d4-b4a1-8680faebc5a0\/68abf18c-d1cd-4e39-bd3b-beef5ec8df14\/c3f2c20b-53bc-454c-ac77-ae2227a89c7f\/a9ff4908-a320-4f9e-950f-b09a2d17ba41",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600326-63f",
+  "name":"Scienze Sociali Per La Sostenibilita' - Modernita' E Sostenibilita'",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Nocenzi Mariella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31301\/20190322084705\/c64dee4c-e133-4584-9d32-8f520536d725\/d1f602b6-bca2-4b03-b409-e7eca2b4f53b\/8f8b8bdd-58bc-461d-8aff-e528672ccca4\/63f6fcd4-236f-442a-bc44-527f0d2f465a",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600326-c67",
+  "name":"Scienze Sociali Per La Sostenibilita' - Sostenibilita' E Processi Comunicativi",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Binotto Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31301\/20190322084705\/c64dee4c-e133-4584-9d32-8f520536d725\/d1f602b6-bca2-4b03-b409-e7eca2b4f53b\/8f8b8bdd-58bc-461d-8aff-e528672ccca4\/c67ab3ed-a6c5-4b20-8ba4-72dc91df3808",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600326-303",
+  "name":"Scienze Sociali Per La Sostenibilita' - Vulnerabilita' Diritti E Giustizia Sociale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Nocenzi Mariella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31301\/20190322084705\/c64dee4c-e133-4584-9d32-8f520536d725\/d1f602b6-bca2-4b03-b409-e7eca2b4f53b\/8f8b8bdd-58bc-461d-8aff-e528672ccca4\/30396e99-d5e6-43f2-94c8-8b62bf8a5420",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10599126",
+  "name":"Tecnica Urbanistica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cappuccitti Antonio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31176\/20190322084705\/b7e60865-0000-4797-8e2e-9ee36bfaf076\/021c40ba-625a-4dac-9f90-ea430e9c2115\/a67473f2-01ec-40bf-864b-9b66aa96a378\/0810f0a8-76b9-4ab6-a759-f7ccc902bd2a",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10599960",
+  "name":"Tecniche E Strumenti Di Osservazione",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bellagamba Francesca"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30041\/20190322084705\/8760b6d3-b5c7-4a9f-9c48-b980ca3d0792\/fb11b3cc-8a32-4114-afbd-6204d9c3bd72\/b7c3a2aa-73f0-42d1-836c-c2f209222a01\/2f7979d4-c539-4e25-a77e-add6e00ff638",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1035084",
+  "name":"Monitoraggio Mediante Bioindicatori Animali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Giancarlo Morgana Jos\u00e9"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31833\/20190322084705\/e243c820-e4e9-4b69-9f95-0f08269f04dc\/03625e4e-5d44-44b7-8fd5-c2613a8bfff1\/6284298d-d7a8-4a91-bd2e-5298ee4f796c\/f357d7d6-800f-4ea9-866b-c353fce27a53",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600024",
+  "name":"Nonhuman Primate Models Of Human Behavior: Psychobiological  And  Evolutionary Perspectives",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Maestripieri Dario"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/28701\/20190322084705\/beac7c85-5dfa-42f6-8bee-d7cdc9da712f\/6ef7b746-f7cf-481e-bb3b-85ad4b6c1936\/9920cde1-91c2-47f7-8f0d-ebdc3ea8d007\/06a6a7ec-bb59-4f56-92f8-54866085533f",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600497",
+  "name":"Cinema E Cultura Visuale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vitiello Guido"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31824\/20190322084705\/a92a6b1c-94ce-49d7-9d61-71b1b843c46f\/7a8fe8eb-3714-4fb1-abfa-03f2073d74f8\/dc4fbbe8-e6d4-451d-9105-6deaf495f5ca\/a693b2a9-5e61-4ee2-9d68-b4a398a8aa8d",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10589237",
+  "name":"Gestione Sostenibile Delle Risorse",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Tarola Anna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31815\/20190322084705\/b2fc0ae9-cdb6-4251-bc75-4533cf2a3468\/ff8d0364-b2d9-43c9-aaa5-9734e48d46a7\/5cbdbedb-8cb9-4dc0-a1bb-6b04c61f83d6\/d2326561-ef03-4dd9-86ea-c1598eef4837",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596182",
+  "name":"Diritto Ambientale Dell'Unione Europea",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Crescenzi Andrea"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31298\/20190322084705\/54eed067-ec58-4119-806d-256b463aaf83\/2dd2bc74-b64f-4c63-8502-e223bd4db27d\/1e4aaff6-6122-4207-82a6-903fbac3756e\/6c3e184e-6a65-4bfb-9961-9da8db0d66e2",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10599062-39a",
+  "name":"Chimica Dell' Ambiente E Valorizzazione Delle Piante Di Interesse Alimentare - Chimica Dell' Ambiente E Dei Beni Culturali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Manetti Cesare"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31181\/20190322084705\/d2b4b57f-589d-47f3-b8bc-236ed7c7be89\/5bec9d32-231a-46f3-a407-675932425291\/930848b6-385d-4b68-9e16-d2905a310534\/39af6adc-f165-46d1-9a96-e9947c6fb21a",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10599076",
+  "name":"Innovazione Qualita' E Sostenibilita' Nella Filiera Del Vino E Dell'Ospitalita'",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vinci Giuliana"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31181\/20190322084705\/d2b4b57f-589d-47f3-b8bc-236ed7c7be89\/5bec9d32-231a-46f3-a407-675932425291\/8cfc02ff-2de7-4bdc-a075-03f85f5fddc8\/ddb3e030-a9ad-4a5d-b400-80b81e82581e",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "life"
   ],
   "dedicated":1
  },
@@ -173,7 +2766,367 @@
    "Other"
   ],
   "themes":[
-   "environment"
+   "economy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1019477",
+  "name":"Sviluppo Sostenibile Dell'Ambiente E Del Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Attili Giovanni"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29904\/20190322084705\/4a490e69-4e90-4802-933d-6b9153d0e977\/ee42793c-4047-42a5-b2f3-a699a9bbaefa\/161a1f31-9829-488f-89cc-cb1b784283fb\/1468ae8e-8d35-4363-a859-5e4553932d78",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1017434",
+  "name":"Ingegneria Sanitaria Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Polettini Alessandra"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29904\/20190322084705\/4a490e69-4e90-4802-933d-6b9153d0e977\/ee42793c-4047-42a5-b2f3-a699a9bbaefa\/debe43a9-57fe-4b00-9983-b00c79ec1c76\/89ffb89a-fdb5-4b72-ad1b-a9557e7fb834",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1022158",
+  "name":"Ingegneria Delle Materie Prime",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Piga Luigi"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29904\/20190322084705\/4a490e69-4e90-4802-933d-6b9153d0e977\/ee42793c-4047-42a5-b2f3-a699a9bbaefa\/debe43a9-57fe-4b00-9983-b00c79ec1c76\/a813acdc-619f-449d-bb7c-4e3c0a83b621",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1018759",
+  "name":"Sistemi Energetici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria De Pratti Giovanni"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29904\/20190322084705\/4a490e69-4e90-4802-933d-6b9153d0e977\/ee42793c-4047-42a5-b2f3-a699a9bbaefa\/debe43a9-57fe-4b00-9983-b00c79ec1c76\/69a34916-c98b-462b-9a11-028179423a93",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1019481",
+  "name":"Idrologia Tecnica E Fondamenti Di Ingegneria Dei Sistemi Idraulici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Napolitano Francesco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29904\/20190322084705\/4a490e69-4e90-4802-933d-6b9153d0e977\/ee42793c-4047-42a5-b2f3-a699a9bbaefa\/224ca986-0d57-443e-9656-94a147ddaa1b\/2cca0b3f-aa4f-4e59-881e-3ba567a9cdd0",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"AAF1216",
+  "name":"Altre",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cercato Michele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29904\/20190322084705\/4a490e69-4e90-4802-933d-6b9153d0e977\/ee42793c-4047-42a5-b2f3-a699a9bbaefa\/224ca986-0d57-443e-9656-94a147ddaa1b\/f5c505f6-734f-4343-ba5e-ad421c813710",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1019484",
+  "name":"Ecologia E Fenomeni Di Inquinamento Degli Ambienti Naturali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rosaria Boni Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29904\/20190322084705\/4a490e69-4e90-4802-933d-6b9153d0e977\/ee42793c-4047-42a5-b2f3-a699a9bbaefa\/224ca986-0d57-443e-9656-94a147ddaa1b\/2328336a-ce3c-4ae3-9031-6d6e0a80ad5a",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1017399",
+  "name":"Elettrotecnica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Bellis Giovanni"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29904\/20190322084705\/4a490e69-4e90-4802-933d-6b9153d0e977\/ee42793c-4047-42a5-b2f3-a699a9bbaefa\/224ca986-0d57-443e-9656-94a147ddaa1b\/538e1e82-6ea8-40e7-943f-8a9eec536513",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1022159",
+  "name":"Tecnologie Di Chimica Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Petrucci Elisabetta"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29904\/20190322084705\/4a490e69-4e90-4802-933d-6b9153d0e977\/ee42793c-4047-42a5-b2f3-a699a9bbaefa\/224ca986-0d57-443e-9656-94a147ddaa1b\/0c3194fa-5bd1-4152-9c63-fc2a1a080b80",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10599893",
+  "name":"Geofisica Applicata All'Ingegneria",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cercato Michele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/9899e19f-0a9d-4384-bba6-47a47231debb\/8d7d6a5f-a893-4ef3-922f-1f6a469c4b88",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1017654",
+  "name":"Pianificazione Territoriale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cellamare Carlo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/1c61205d-0c79-436a-9b77-4ec07d015b95\/96c08dd8-25fa-4ed0-9fe7-8be50423c20c",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1021791",
+  "name":"Fondamenti Di Chimica Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Petrucci Rita"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/1c61205d-0c79-436a-9b77-4ec07d015b95\/c3fb2bf2-9d53-4283-9eae-8ec7e39c3a30",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1047247",
+  "name":"Campionamento E Trattamento Fisico Dei Suoli Contaminati",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Piga Luigi"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/1c61205d-0c79-436a-9b77-4ec07d015b95\/1b02431d-8cf9-42ba-aa9c-e85ef81f1b6f",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1019361",
+  "name":"Idrogeologia Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sappa Giuseppe"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/1f31b6fe-7ad8-4027-8219-3d739bbb467d\/975f9d66-52a5-4ac7-b4ac-d9b19a7185fc",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10599892",
+  "name":"Geotecnica Per L'Ambiente E Il Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Napoleoni Quintilio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/1f31b6fe-7ad8-4027-8219-3d739bbb467d\/65e962b7-b6ee-4432-9865-1a7abcdc1c53",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600128",
+  "name":"Geotecnica Per L'Ambiente E Il Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Napoleoni Quintilio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/1f31b6fe-7ad8-4027-8219-3d739bbb467d\/73d01c5f-f315-471d-bce9-14d47228f8c7",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
   ],
   "dedicated":1
  },
@@ -195,9 +3148,103 @@
    "Other"
   ],
   "themes":[
-   "sustainability"
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600008-625",
+  "name":"Environmental Economics And Law - Environmental Economics",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/1f31b6fe-7ad8-4027-8219-3d739bbb467d\/625ca9bf-962b-42f5-99f3-99d57e63e5db",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"AAF1147",
+  "name":"Altre Conoscenze Utili Per L'Inserimento Nel Mondo Del Lavoro",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cercato Michele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/29b5505b-2894-402a-88ac-4f72c245138d\/9649c705-5152-42b6-92ea-56f9cb98665b",
+  "cycles":[
+   "bac",
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1022009",
+  "name":"Studio Di Impatto Ambientale E Analisi Di Rischio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Viotti Paolo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/29b5505b-2894-402a-88ac-4f72c245138d\/d59716e7-0dee-4635-8ab1-662160c874e9",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
   ],
   "dedicated":1
+ },
+ {
+  "id":"10599950",
+  "name":"Assessment And Sustainable Use Of Environmental Resources",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/29b5505b-2894-402a-88ac-4f72c245138d\/3ec84a5c-a35b-47fe-8475-30bfd3e126b5",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "energy",
+   "life"
+  ],
+  "dedicated":0
  },
  {
   "id":"10599943",
@@ -222,6 +3269,74 @@
   "dedicated":1
  },
  {
+  "id":"10599937",
+  "name":"Hydraulic Risk Adaptation And Mitigation Measures",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Napolitano Francesco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31286\/20190322084705\/70162393-01b5-4f44-bd9c-6154d40264bb\/7ee814e2-1d93-4e37-8ef3-ef7267ea78c6\/29b5505b-2894-402a-88ac-4f72c245138d\/a27269b2-6195-4234-8594-496aaa61d3e7",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1017989",
+  "name":"Elettrotecnica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Araneo Rodolfo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29910\/20190322084705\/6d92a6b4-fa63-43b6-962a-49c588dfe8ff\/c7474c52-e4d7-489a-91a1-bb9e41549c4a\/97178d6f-8a1a-46d6-880e-ef597ed8fb2c\/d4e0502e-742c-44f6-8091-9a26fbd176ba",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1022001",
+  "name":"Sistemi Energetici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Corsini Alessandro",
+   "Delibra Giovanni"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29910\/20190322084705\/6d92a6b4-fa63-43b6-962a-49c588dfe8ff\/c7474c52-e4d7-489a-91a1-bb9e41549c4a\/53d33671-0a2c-4e59-ae3f-f8cb4dc0c349\/80407e6e-ea03-416c-b52f-94c9d1fb7138",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"1047501",
   "name":"Advanced Methods In Mechanical Design",
   "year":"2022-2023",
@@ -240,22 +3355,113 @@
    "Other"
   ],
   "themes":[
-   "resources",
-   "sustainability"
+   "economy",
+   "prod&cons",
+   "resources"
   ],
   "dedicated":0
  },
  {
-  "id":"AAF1773",
-  "name":"Renewable Energy System Design",
+  "id":"1055643",
+  "name":"Engineering Tribology",
   "year":"2022-2023",
   "languages":[
    "en"
   ],
   "teachers":[
-   "Micangeli Andrea"
+   "Massi Francesco"
   ],
-  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30844\/20190322084705\/b536448d-a7d4-47de-9b7d-fde20390b888\/57258a87-368d-45e7-a247-cdff963e456d\/eb70b075-eed9-4a52-8eb1-91f4dd2ad01b\/e626bb9e-cfc8-423a-8fc7-f3523a2ca1f8",
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30844\/20190322084705\/b536448d-a7d4-47de-9b7d-fde20390b888\/57258a87-368d-45e7-a247-cdff963e456d\/eb70b075-eed9-4a52-8eb1-91f4dd2ad01b\/05a41c8c-c139-477e-babb-ea85da1a3164",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1016432",
+  "name":"Macchine Elettriche",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Attilio Caricchi Federico"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31828\/20190322084705\/7c1fb1c3-21dd-4af6-acad-0af6d24845a6\/ae3e3c7f-54b9-41eb-be72-7b4a9f8bfb19\/8f0fae68-406b-4beb-ba45-1a5e2c220966\/503fb6b3-fcf0-4462-9b7e-b524c08408cf",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1055637",
+  "name":"Sustainable Combustion Chemistry",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Zaza Fabio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31828\/20190322084705\/7c1fb1c3-21dd-4af6-acad-0af6d24845a6\/ae3e3c7f-54b9-41eb-be72-7b4a9f8bfb19\/1a6db54d-2ffe-4ac4-b6f1-f49cb19df84c\/91a702e3-5229-4da0-8126-8bcb5677dbd9",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"AAF2049",
+  "name":"Smart Grids Lab",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maccioni Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31828\/20190322084705\/7c1fb1c3-21dd-4af6-acad-0af6d24845a6\/ae3e3c7f-54b9-41eb-be72-7b4a9f8bfb19\/1a6db54d-2ffe-4ac4-b6f1-f49cb19df84c\/6c44dbea-e2fb-4e58-b225-07c46b185537",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1047241",
+  "name":"Energy Management",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Lo Basso Gianluigi"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31828\/20190322084705\/7c1fb1c3-21dd-4af6-acad-0af6d24845a6\/ae3e3c7f-54b9-41eb-be72-7b4a9f8bfb19\/aa72ec11-1c37-4bb8-84db-4d97f1bf09af\/4a0b5394-3457-49c8-b6c9-85b5a2d70b86",
   "cycles":[
    "master"
   ],
@@ -268,8 +3474,164 @@
   "dedicated":1
  },
  {
-  "id":"1051397",
-  "name":"Geothermal Energy",
+  "id":"1044574",
+  "name":"Sicurezza E Impatto Ambientale Dei Sistemi Energetici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Frullini Massimo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30839\/20190322084705\/7dd20b76-9120-4874-96a7-c5c7fb9566fa\/ba730fb5-8889-4763-860e-2601658af600\/c2068c0b-6095-4a28-b6eb-4a514b18db0c\/f8ad52f3-265f-46f4-bb63-1045bc69c935",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10589999",
+  "name":"Earth Observation",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Pierdicca Nazzareno"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31283\/20190322084705\/90087575-455d-4805-8479-728c86b80ad1\/518fa371-f4bc-44e7-b545-605a80a65e17\/26c0f573-d3ef-460b-86fd-56fa41321733\/00e93fbf-5354-47f2-9e1f-6c40ba897e4e",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10589453",
+  "name":"Fabbricazione E Caratterizzazione Di Nanostrutture",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mariani Carlo",
+   "Placidi Ernesto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30429\/20190322084705\/8d1572bf-4922-419d-bec8-dd7c0e73d2e9\/4d9d6ad3-dbeb-4595-8c48-5af106fb369e\/4de781df-803d-4f2b-a108-ce782c3ab63a\/ff1bd51c-6f0a-445d-9642-87abf2379eea",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1022031",
+  "name":"Architettura Tecnica Ii Con Laboratorio Progettuale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ferrero Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29922\/20190322084705\/0b9b2da5-c641-4116-887c-7dee297330e5\/154e3adc-921a-42bb-b3e4-147457b7a7f7\/7828d45a-7127-4854-a0bc-e8754a5d9bd2\/e1eb4ebd-3e4f-4d66-bb4d-e71e6399a75a",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1047245",
+  "name":"Architettura Tecnica E Sostenibilita' Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Morganti Michele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29922\/20190322084705\/0b9b2da5-c641-4116-887c-7dee297330e5\/154e3adc-921a-42bb-b3e4-147457b7a7f7\/b96a1e53-8b8b-4908-a38f-99cc5fe75c61\/e1b8ecb0-5689-47f0-93c2-cafaff1326fb",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600098",
+  "name":"Economia Circolare",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Menghinello Stefano"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30427\/20190322084705\/801fbb38-93be-4ead-8878-9c4e4f51fd84\/26514f88-e67a-450e-af83-cb43a87b9730\/836736c5-2c57-43ec-8d54-5353ce907c79\/8a485ecb-fcc3-4a56-99a2-ef9a14876902",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1036173",
+  "name":"Sistemi Di Gestione Integrati",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gentilini Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30427\/20190322084705\/801fbb38-93be-4ead-8878-9c4e4f51fd84\/26514f88-e67a-450e-af83-cb43a87b9730\/836736c5-2c57-43ec-8d54-5353ce907c79\/bd18d2c5-52a5-43b3-8ab9-f97e7c6d4379",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600038",
+  "name":"Sustainable Use Of Underground Resources",
   "year":"2022-2023",
   "languages":[
    "en"
@@ -277,29 +3639,7 @@
   "teachers":[
    "Alimonti Claudio"
   ],
-  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31828\/20190322084705\/7c1fb1c3-21dd-4af6-acad-0af6d24845a6\/ae3e3c7f-54b9-41eb-be72-7b4a9f8bfb19\/1a6db54d-2ffe-4ac4-b6f1-f49cb19df84c\/a92b3289-48f2-463e-b58e-ec841b3f669a",
-  "cycles":[
-   "master"
-  ],
-  "fields":[
-   "Other"
-  ],
-  "themes":[
-   "energy"
-  ],
-  "dedicated":1
- },
- {
-  "id":"10600473",
-  "name":"Nonrenewable Resources And Urban Mining",
-  "year":"2022-2023",
-  "languages":[
-   "en"
-  ],
-  "teachers":[
-   "Serranti Silvia"
-  ],
-  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31285\/20190322084705\/ca83b5bc-517e-4662-8239-083d4838cb6c\/e9ca991f-aee5-4ee3-be4e-064b42eb4c51\/6940fee8-4426-4b00-a348-e30e55fa72e5\/2e1b63b9-039c-40af-9e95-69c71d276728",
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30427\/20190322084705\/801fbb38-93be-4ead-8878-9c4e4f51fd84\/26514f88-e67a-450e-af83-cb43a87b9730\/e6023d7d-5ecb-4bb0-a287-c416122cd529\/9f8cb295-3265-431d-a929-853ae9810b9f",
   "cycles":[
    "master"
   ],
@@ -308,6 +3648,658 @@
   ],
   "themes":[
    "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10589758-ab6",
+  "name":"Safety Of Solid Processing Plants - Safety Of Solid Processing Plants Module Ii",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Bonifazi Giuseppe"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30427\/20190322084705\/801fbb38-93be-4ead-8878-9c4e4f51fd84\/26514f88-e67a-450e-af83-cb43a87b9730\/64cc2e95-319a-4624-8659-3d7727060de2\/ab65f91c-a6f7-4045-9b69-b4f897103707",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10589758-28e",
+  "name":"Safety Of Solid Processing Plants - Safety Of Solid Processing Plants Module I",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Bonifazi Giuseppe"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30427\/20190322084705\/801fbb38-93be-4ead-8878-9c4e4f51fd84\/26514f88-e67a-450e-af83-cb43a87b9730\/64cc2e95-319a-4624-8659-3d7727060de2\/28e9ddad-d694-45bc-bc68-51340b14cdd7",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10603002",
+  "name":"Tecnologia Dei Materiali Con Elementi Di Chimica Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Petrucci Elisabetta"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31775\/20190322084705\/5c851df7-9ad7-4604-8b97-ba35904d591e\/3e14f34d-9899-4c42-b627-73b8dbc5ad7a\/865f89c0-3ee5-48dd-bbdd-f3f177158cf7\/e6edcc57-c2ec-48c4-b96e-f46d06ec39b0",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1018025",
+  "name":"Impianti Di Produzione Dell'Energia Elettrica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Massimo Gatta Fabio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31827\/20190322084705\/72deaef8-b300-4d84-a172-6b7219b170ae\/be93fcfe-451f-4356-9b82-aff54abcfb35\/67dedc3b-02cf-4b23-bda6-69c528829582\/98f613d4-4cd3-4424-ab28-630e5d02f681",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1021990",
+  "name":"Produzione Combinata Dell'Energia Da Fonti Rinnovabili",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Boccaletti Chiara"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31827\/20190322084705\/72deaef8-b300-4d84-a172-6b7219b170ae\/be93fcfe-451f-4356-9b82-aff54abcfb35\/67dedc3b-02cf-4b23-bda6-69c528829582\/f2cce4bf-8e92-4b8c-b75b-6d032a51a8b6",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1021993",
+  "name":"Progettazione Di Veicoli Elettrici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Attilio Caricchi Federico"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31827\/20190322084705\/72deaef8-b300-4d84-a172-6b7219b170ae\/be93fcfe-451f-4356-9b82-aff54abcfb35\/3ed212a7-2b41-4890-8359-97714057ef56\/5bf33c59-874a-4121-8db9-457a2e7e2306",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10589509",
+  "name":"Costruzioni Elettromeccaniche",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bruzzese Claudio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31827\/20190322084705\/72deaef8-b300-4d84-a172-6b7219b170ae\/be93fcfe-451f-4356-9b82-aff54abcfb35\/3ed212a7-2b41-4890-8359-97714057ef56\/2a9a2f94-5952-4685-aaa8-169a1cab2aee",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"AAF1836",
+  "name":"Macchine Elettriche Speciali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Attilio Caricchi Federico"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31827\/20190322084705\/72deaef8-b300-4d84-a172-6b7219b170ae\/be93fcfe-451f-4356-9b82-aff54abcfb35\/3ed212a7-2b41-4890-8359-97714057ef56\/13296be2-ba0b-449a-bdd2-30b1b9d8b75f",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1021801",
+  "name":"Idraulica Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Monti Paolo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31811\/20190322084705\/d5698e25-f3e6-46eb-963f-95532745afad\/11f5fa48-2e17-4d26-897d-14a3c2541903\/a58fd4e0-925f-44cb-a735-c7ed2e79258c\/5fb43f40-a51d-46d1-b221-e87e14fe990c",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10606608",
+  "name":"Coastal Engineering",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "De Girolamo Paolo",
+   "Castellino Myrta"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31285\/20190322084705\/ca83b5bc-517e-4662-8239-083d4838cb6c\/e9ca991f-aee5-4ee3-be4e-064b42eb4c51\/95573fae-9004-404d-9f0d-24066c5a83a5\/9fb5206a-4bde-41cb-9af2-5db5629ba555",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1051669",
+  "name":"Progettazione Del Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Budoni Alberto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31285\/20190322084705\/ca83b5bc-517e-4662-8239-083d4838cb6c\/e9ca991f-aee5-4ee3-be4e-064b42eb4c51\/6940fee8-4426-4b00-a348-e30e55fa72e5\/196855d6-a67e-474c-be6b-5b80a2df2bbe",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1035952",
+  "name":"Geofisica Applicata All'Ingegneria",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Donno Giorgio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31285\/20190322084705\/ca83b5bc-517e-4662-8239-083d4838cb6c\/e9ca991f-aee5-4ee3-be4e-064b42eb4c51\/6940fee8-4426-4b00-a348-e30e55fa72e5\/387e9296-7fea-4e76-8d18-143c3aee34fc",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600270",
+  "name":"Principi Di Chimica Ambientale E Dei Processi Chimici Sostenibili",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Laura Santarelli Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31285\/20190322084705\/ca83b5bc-517e-4662-8239-083d4838cb6c\/e9ca991f-aee5-4ee3-be4e-064b42eb4c51\/6940fee8-4426-4b00-a348-e30e55fa72e5\/f742c85c-b716-4b09-93a7-18170376d0a5",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10592968",
+  "name":"Lca E Uso Sostenibile Delle Risorse Ambientali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cappelli Andrea"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31285\/20190322084705\/ca83b5bc-517e-4662-8239-083d4838cb6c\/e9ca991f-aee5-4ee3-be4e-064b42eb4c51\/57b7663e-41f3-47dd-8962-e742e5d8cfed\/04d021a0-4a2d-4e5e-b423-a10fd48f9cb2",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1051675",
+  "name":"Tecnologie Avanzate Per Il Riciclo Dei Materiali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Capobianco Giuseppe"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31285\/20190322084705\/ca83b5bc-517e-4662-8239-083d4838cb6c\/e9ca991f-aee5-4ee3-be4e-064b42eb4c51\/c451159a-8a27-48b9-8afb-c1f7c379ee62\/e553d1cb-df4a-4d47-bf27-02b098bb36fb",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"AAF1846",
+  "name":"Laboratorio Di Modellizzazione Sistemi Energetici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Corsini Alessandro"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31285\/20190322084705\/ca83b5bc-517e-4662-8239-083d4838cb6c\/e9ca991f-aee5-4ee3-be4e-064b42eb4c51\/c451159a-8a27-48b9-8afb-c1f7c379ee62\/20d2e477-7f4c-4272-851d-93395729ee29",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"AAF1848",
+  "name":"Laboratorio Di Progettazione Del Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Budoni Alberto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31285\/20190322084705\/ca83b5bc-517e-4662-8239-083d4838cb6c\/e9ca991f-aee5-4ee3-be4e-064b42eb4c51\/c451159a-8a27-48b9-8afb-c1f7c379ee62\/95b59e95-e281-428b-83da-74c8de5bfc57",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"AAF1978",
+  "name":"Laboratorio Di Gestione Dell'Economia Circolare",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "La Sala Antonio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31285\/20190322084705\/ca83b5bc-517e-4662-8239-083d4838cb6c\/e9ca991f-aee5-4ee3-be4e-064b42eb4c51\/c451159a-8a27-48b9-8afb-c1f7c379ee62\/e7c52c53-e0e3-4975-bb68-72b09044e9cd",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1048037",
+  "name":"Elettrotecnica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Bellis Giovanni"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30838\/20190322084705\/7b8e2c7c-a54a-4709-b70f-bf3c7f59fb53\/18980652-d6c3-49a6-be24-fcfe25ace20f\/874b3cc0-262b-46ea-b0ab-0014868ab71a\/e8b21f29-0f53-4398-a0bb-b5cf48e7d3d3",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1051087",
+  "name":"Principi Di Ingegneria Elettrica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bragatto Tommaso"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31282\/20190322084705\/e172b503-61d0-440f-b1bd-bb51bc2dc7d4\/719de85d-ecd0-421a-acc2-5bb6fd6bb7c6\/ad5f4cc3-77c7-498e-82d3-c954bbd60f41\/1e713559-976c-4b72-9880-5bfc50f07650",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1009408",
+  "name":"Infrastrutture Aeroportuali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Mascio Paola"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31282\/20190322084705\/e172b503-61d0-440f-b1bd-bb51bc2dc7d4\/719de85d-ecd0-421a-acc2-5bb6fd6bb7c6\/58c4c843-8f27-4326-a98a-28d40eef464b\/b2a22f4f-56fd-4cb5-89e0-e8a9209638a3",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1005076",
+  "name":"Protezione Idraulica Del Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Napolitano Francesco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31282\/20190322084705\/e172b503-61d0-440f-b1bd-bb51bc2dc7d4\/719de85d-ecd0-421a-acc2-5bb6fd6bb7c6\/d8f84c77-7048-4b64-b753-9f4502a729b1\/e11e86a4-3ddc-4369-81de-f17878d11962",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1017996-9f1",
+  "name":"Metodi Matematici Per L'Ingegneria - Metodi Matematici Per L'Ingegneria",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Petitta Francesco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30426\/20190322084705\/8bac062c-9e35-4f39-a8fe-d8cf033dc856\/8a2d091c-c711-4006-a678-c2496edefcfd\/4ce172c3-4c1e-49ce-9412-d002e4479dbe\/9f133a9b-7446-4eb9-a9b1-05107843ee16",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1017996-c5f",
+  "name":"Metodi Matematici Per L'Ingegneria - Metodi Matematici Per L'Ingegneria",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bruni Vittoria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30426\/20190322084705\/8bac062c-9e35-4f39-a8fe-d8cf033dc856\/8a2d091c-c711-4006-a678-c2496edefcfd\/4ce172c3-4c1e-49ce-9412-d002e4479dbe\/c5f35f53-5d95-4756-9cae-54e5244f9fea",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10606369-821",
+  "name":"Green And Sustainable Hydrogen Production - Processes",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Anna Murmura Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30426\/20190322084705\/8bac062c-9e35-4f39-a8fe-d8cf033dc856\/8a2d091c-c711-4006-a678-c2496edefcfd\/4ce172c3-4c1e-49ce-9412-d002e4479dbe\/821c1b61-5ee6-49bf-ac40-4cd6ad607615",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10606369-86b",
+  "name":"Green And Sustainable Hydrogen Production - Fundamentals",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "De Caprariis Benedetta"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30426\/20190322084705\/8bac062c-9e35-4f39-a8fe-d8cf033dc856\/8a2d091c-c711-4006-a678-c2496edefcfd\/4ce172c3-4c1e-49ce-9412-d002e4479dbe\/86b76569-260d-4b67-a0c9-f19be3d20328",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600081",
+  "name":"Catalisi Per L'Industria E Per L'Ambiente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Scarsella Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30426\/20190322084705\/8bac062c-9e35-4f39-a8fe-d8cf033dc856\/8a2d091c-c711-4006-a678-c2496edefcfd\/e5127398-49d3-4a49-b20b-c281cc642d9b\/46bc7920-677d-4015-ba4d-8c0c16a49318",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10592818",
+  "name":"Water Treatment Processes And Environmental Technology",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Di Palma Luca",
+   "Bavasso Irene"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30426\/20190322084705\/8bac062c-9e35-4f39-a8fe-d8cf033dc856\/8a2d091c-c711-4006-a678-c2496edefcfd\/0371c10b-798d-4466-bdc3-cf4acc5f245b\/c0e2f921-9ad9-42b0-aafb-628f5a9ec66b",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution",
+   "prod&cons"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600080",
+  "name":"Tecnologie Per La Produzione Di Combustibili Fossili E Rinnovabili",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Filippis Paolo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30426\/20190322084705\/8bac062c-9e35-4f39-a8fe-d8cf033dc856\/8a2d091c-c711-4006-a678-c2496edefcfd\/0371c10b-798d-4466-bdc3-cf4acc5f245b\/080fa061-4b7d-46e5-b7d9-67dd1b84dc98",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
   ],
   "dedicated":0
  },
@@ -330,21 +4322,45 @@
   ],
   "themes":[
    "climate",
-   "energy"
+   "energy",
+   "life",
+   "pollution"
   ],
   "dedicated":0
  },
  {
-  "id":"10595484",
-  "name":"Emerging Africa In The Framework Of The Sustainable Development Goals",
+  "id":"1019252",
+  "name":"Impianti Di Trattamento Degli Effluenti Gassosi",
   "year":"2022-2023",
   "languages":[
-   "en"
+   "it"
   ],
   "teachers":[
-   "Touadi Jean-L\u00e9onard"
+   "Verdone Nicola"
   ],
-  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31277\/20190322084705\/96d14c4a-c662-48f4-9714-d6a30be2aacf\/29ebf567-c8cb-49a3-837f-cdc65961425d\/d7529ec9-1892-4faa-bca8-7bf7d255904a\/eda57baa-a240-4a0a-800e-c9cf84fd3fa1",
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30426\/20190322084705\/8bac062c-9e35-4f39-a8fe-d8cf033dc856\/8a2d091c-c711-4006-a678-c2496edefcfd\/0c8d604e-555e-468d-8161-b3fffe1369d4\/dc62d443-251b-4a84-9307-66f8c4446c3e",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10596228-b34",
+  "name":"Scienze Della Sostenibilita' In Ingegneria - Diritto Dell'Ambiente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lalli Angelo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31809\/20190322084705\/5579ce14-769f-4e69-9df3-c350ba5b001f\/c9e54dc4-d5bb-4111-938f-c6ec8aae31ee\/94afe572-cfa5-403c-8a1b-3315ced001df\/b34b30ab-84ae-4f78-8b8b-91169861f781",
   "cycles":[
    "bac"
   ],
@@ -352,7 +4368,738 @@
    "Other"
   ],
   "themes":[
-   "sustainability"
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596228-40a",
+  "name":"Scienze Della Sostenibilita' In Ingegneria - Idroclimatologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cioffi Francesco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31809\/20190322084705\/5579ce14-769f-4e69-9df3-c350ba5b001f\/c9e54dc4-d5bb-4111-938f-c6ec8aae31ee\/94afe572-cfa5-403c-8a1b-3315ced001df\/40aa2aa0-6d41-4d1f-b889-c478630b44d9",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596228-71a",
+  "name":"Scienze Della Sostenibilita' In Ingegneria - Servizi Ecosistemici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Manes Fausto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31809\/20190322084705\/5579ce14-769f-4e69-9df3-c350ba5b001f\/c9e54dc4-d5bb-4111-938f-c6ec8aae31ee\/94afe572-cfa5-403c-8a1b-3315ced001df\/71a1a2f0-78bf-42a7-a654-0ad90c314523",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596228-ccb",
+  "name":"Scienze Della Sostenibilita' In Ingegneria - Materie Prime E Riciclo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Serranti Silvia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31809\/20190322084705\/5579ce14-769f-4e69-9df3-c350ba5b001f\/c9e54dc4-d5bb-4111-938f-c6ec8aae31ee\/94afe572-cfa5-403c-8a1b-3315ced001df\/ccb9a375-64c4-42d4-9347-03ae7e5d7075",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"AAF1476",
+  "name":"Laboratorio Di Ecologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Zerunian Sergio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31809\/20190322084705\/5579ce14-769f-4e69-9df3-c350ba5b001f\/c9e54dc4-d5bb-4111-938f-c6ec8aae31ee\/6f5485c8-d281-42ea-a466-72184637fb88\/7fb30f31-db01-43f4-8321-09cf3ddac6cc",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1038479",
+  "name":"Combustione E Impianti Di Trattamento Degli Effluenti",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Stoller Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31809\/20190322084705\/5579ce14-769f-4e69-9df3-c350ba5b001f\/c9e54dc4-d5bb-4111-938f-c6ec8aae31ee\/ed6bb61c-4e5f-46a0-9784-d415c20df38f\/8f29b820-13ad-4b68-9890-e71532a09ae3",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1051726",
+  "name":"Ingegneria Delle Materie Prime Primarie E Secondarie",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bonifazi Giuseppe"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31809\/20190322084705\/5579ce14-769f-4e69-9df3-c350ba5b001f\/c9e54dc4-d5bb-4111-938f-c6ec8aae31ee\/ed6bb61c-4e5f-46a0-9784-d415c20df38f\/f61cd53d-a06e-42c6-96d5-e79e84496ff8",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10596228-0ab",
+  "name":"Scienze Della Sostenibilita' In Ingegneria - Sostenibilita' Energetico-Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Santoli Livio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31808\/20190322084705\/b4c08649-60ab-4c2d-9041-be3d8d7fbd4e\/2484d5c3-b899-4598-8538-54c5bfc8f2c5\/5a0e7412-1523-4181-9010-f6417469bc36\/0ab6f3ee-f24d-416f-88a5-434107e6ca2e",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "energy",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596228-4ee",
+  "name":"Scienze Della Sostenibilita' In Ingegneria - Mobilita' Sostenibile",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Persia Luca"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31808\/20190322084705\/b4c08649-60ab-4c2d-9041-be3d8d7fbd4e\/2484d5c3-b899-4598-8538-54c5bfc8f2c5\/5a0e7412-1523-4181-9010-f6417469bc36\/4eea25a4-1d61-4eea-bbb4-19ef87685464",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "energy",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596228-af1",
+  "name":"Scienze Della Sostenibilita' In Ingegneria - Diritto Dell'Ambiente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lalli Angelo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31808\/20190322084705\/b4c08649-60ab-4c2d-9041-be3d8d7fbd4e\/2484d5c3-b899-4598-8538-54c5bfc8f2c5\/5a0e7412-1523-4181-9010-f6417469bc36\/af1dcba4-8a16-4f53-a008-23adbc795cea",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596228-8ff",
+  "name":"Scienze Della Sostenibilita' In Ingegneria - Idroclimatologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cioffi Francesco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31808\/20190322084705\/b4c08649-60ab-4c2d-9041-be3d8d7fbd4e\/2484d5c3-b899-4598-8538-54c5bfc8f2c5\/5a0e7412-1523-4181-9010-f6417469bc36\/8ff12b66-cccb-47b0-ac07-46f888aec029",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "climate",
+   "energy",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596228-952",
+  "name":"Scienze Della Sostenibilita' In Ingegneria - Servizi Ecosistemici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Manes Fausto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31808\/20190322084705\/b4c08649-60ab-4c2d-9041-be3d8d7fbd4e\/2484d5c3-b899-4598-8538-54c5bfc8f2c5\/5a0e7412-1523-4181-9010-f6417469bc36\/952af2a9-e619-4a5b-b305-821eee53ec55",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596228-101",
+  "name":"Scienze Della Sostenibilita' In Ingegneria - Materie Prime E Riciclo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Serranti Silvia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31808\/20190322084705\/b4c08649-60ab-4c2d-9041-be3d8d7fbd4e\/2484d5c3-b899-4598-8538-54c5bfc8f2c5\/5a0e7412-1523-4181-9010-f6417469bc36\/10154464-b509-43c8-8e13-334a52ff7d86",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1035463",
+  "name":"Gestione Dei Rifiuti Sanitari",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pomi Raffaella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31826\/20190322084705\/06fe23bc-0a59-4796-9b04-62105b1e55ed\/6ffa8933-9680-47c9-b69b-c7a721881bf5\/e2687417-f7e0-4edb-8b22-2ccfcc792f86\/d378611c-3a6d-4c00-aee4-d248a90ec784",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1021988",
+  "name":"Motori Aeronautici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Valorani Mauro",
+   "Docente In Fase Di Definizione. Assegnazione"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30840\/20190322084705\/a6154ab7-d89f-4070-9d8a-d5232b918e77\/be421bd5-f66d-4e95-8aa6-43258b0ac03b\/78d13a66-3eb3-4b0e-b2f4-d5ea4dff83a0\/ec485d1d-72c2-4fd1-be39-98229f9617a9",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1022008",
+  "name":"Strutture Aeronautiche",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mastroddi Franco",
+   "Saltari Francesco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30840\/20190322084705\/a6154ab7-d89f-4070-9d8a-d5232b918e77\/be421bd5-f66d-4e95-8aa6-43258b0ac03b\/78d13a66-3eb3-4b0e-b2f4-d5ea4dff83a0\/90a2ce14-25ea-47fa-84b4-0ba82ad53529",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10592716",
+  "name":"Gas Turbine Combustors",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Valorani Mauro",
+   "Paolo Ciottoli Pietro"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30840\/20190322084705\/a6154ab7-d89f-4070-9d8a-d5232b918e77\/be421bd5-f66d-4e95-8aa6-43258b0ac03b\/11fc0eed-6c11-4725-93b2-229e3eee241d\/ae63caff-f95e-4367-87c3-28fbc3c416e4",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1055722",
+  "name":"Aeroacoustics",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Pirozzoli Sergio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30840\/20190322084705\/a6154ab7-d89f-4070-9d8a-d5232b918e77\/be421bd5-f66d-4e95-8aa6-43258b0ac03b\/d67b0d02-97b6-4c66-8653-1b1238617d4e\/08936007-c0ab-4437-8022-eee4ccbd6d1b",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1047895-214",
+  "name":"Fondamenti Della Salute E Sicurezza Nei Contesti Assistenziali - Igiene Generale Ed Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Donia Anna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30013\/20190322084705\/2580d821-7de8-4ccd-a890-c4b03993cee2\/538e2edc-cb1b-41ac-9c2f-b12783f63bbf\/4a2e983c-e110-44e7-9210-da47d5c06d41\/2147ef6e-8910-4b13-bb65-4f270177d718",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1047895-032",
+  "name":"Fondamenti Della Salute E Sicurezza Nei Contesti Assistenziali - Epidemiologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Miceli Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30013\/20190322084705\/2580d821-7de8-4ccd-a890-c4b03993cee2\/538e2edc-cb1b-41ac-9c2f-b12783f63bbf\/4a2e983c-e110-44e7-9210-da47d5c06d41\/0327c27b-b460-483c-8a0b-b5a585cf316e",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1034955-d7a",
+  "name":"Promozione Della Salute E Sicurezza - Radioprotezione Infermieristica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gazzellone Fiorella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30870\/20190322084705\/d2e477ad-f28a-48a0-8d62-2247532e130d\/a3054e81-e93e-4b35-9191-0e8ca1df8e1d\/4bf97387-54e8-49d9-a461-98fee4d33abb\/d7a9bd89-6579-42bb-8db7-0d1d52981ee9",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1034955-796",
+  "name":"Promozione Della Salute E Sicurezza - Scienze Infermieristiche",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gazzellone Fiorella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30870\/20190322084705\/d2e477ad-f28a-48a0-8d62-2247532e130d\/a3054e81-e93e-4b35-9191-0e8ca1df8e1d\/4bf97387-54e8-49d9-a461-98fee4d33abb\/7968e343-ea25-4e2f-9374-27734a4798eb",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1034962-8ce",
+  "name":"Infermieristica In Area Materno-Infantile - Pediatria Generale E Specialistica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Alario Dario"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29972\/20190322084705\/5c0803d1-5eed-4e3d-9689-2bf7bd677d3e\/2f6ed8f4-0678-4d96-93d4-d0230b1f0403\/5a464abc-c3db-4cf8-9e84-d0070dc006b0\/8ce93912-7cf9-41d4-b566-fb794d6c82a6",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10596340",
+  "name":"Diritto Dell' Ambiente E Del Patrimonio Culturale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Moliterni Alfredo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29902\/20190322084705\/322c8735-509a-4f8d-a66b-d1a4683c0f83\/9725cfd5-70ab-4006-a426-faf28078d664\/53c3b1c2-91ba-48b0-874e-344087dc99eb\/a44099c8-0e0e-43ff-8a97-a27d9626e69b",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600285-8cc",
+  "name":"History And Anthropology Of South Asia - Environmental History Of India",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Das Gupta Sanjukta"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31277\/20190322084705\/96d14c4a-c662-48f4-9714-d6a30be2aacf\/29ebf567-c8cb-49a3-837f-cdc65961425d\/213e0983-f9c6-4efa-a96c-efe66a5af21a\/8cce42ca-20a8-4eef-8490-4ff5de091ad5",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1038346",
+  "name":"Micropaleontologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pignatti Johannes",
+   "Di Bella Letizia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30862\/20190322084705\/081c7232-0d4f-4b51-a497-a00731a43f42\/5221dd05-7fe7-46ab-8574-aa7d55cf2cdc\/610eef5d-0291-49c2-a668-157dbe075c22\/298c7f89-7ef7-46ea-a022-3d2bd7be71a3",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041864",
+  "name":"Geofisica Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cercato Michele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30862\/20190322084705\/081c7232-0d4f-4b51-a497-a00731a43f42\/5221dd05-7fe7-46ab-8574-aa7d55cf2cdc\/610eef5d-0291-49c2-a668-157dbe075c22\/2bf6d786-ee68-4fa9-96c2-9a7afec6bb75",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10606592",
+  "name":"I Sistemi Carbonatici Per Il Ciclo Del Carbonio E I Cambiamenti Climatici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Brandano Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30862\/20190322084705\/081c7232-0d4f-4b51-a497-a00731a43f42\/5221dd05-7fe7-46ab-8574-aa7d55cf2cdc\/880b4257-3479-4d8a-9e6b-afdd0c36e3e2\/96659873-4c29-4f12-a830-a1701b99b1cb",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1023391",
+  "name":"Geodinamica E Bacini Sedimentari",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Doglioni Carlo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30862\/20190322084705\/081c7232-0d4f-4b51-a497-a00731a43f42\/5221dd05-7fe7-46ab-8574-aa7d55cf2cdc\/880b4257-3479-4d8a-9e6b-afdd0c36e3e2\/d68f7d88-9c0c-4aa8-a962-b9c21ddf9909",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1044858",
+  "name":"Giacimenti Minerari E Coltivazione Dei Geomateriali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mignardi Silvano"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30862\/20190322084705\/081c7232-0d4f-4b51-a497-a00731a43f42\/5221dd05-7fe7-46ab-8574-aa7d55cf2cdc\/d640189d-b55c-455a-9fbe-0312ee2e8de1\/f174898a-cb9b-4f4b-8284-17775e439ebc",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1034856",
+  "name":"Biodiversita' E Evoluzione Umana",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Destro-Bisol Giovanni"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/28700\/20190322084705\/cae084a9-aacf-4c9e-917a-aaa93814feb8\/a9ca24c1-f71a-4148-be12-857074f4af33\/a7352c43-f6cb-4827-9a37-b40da95bdbd8\/3376e254-7508-471a-999f-5e2302debd4a",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600014",
+  "name":"Genome Evolution",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Giunta Simona"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/28700\/20190322084705\/cae084a9-aacf-4c9e-917a-aaa93814feb8\/a9ca24c1-f71a-4148-be12-857074f4af33\/a7352c43-f6cb-4827-9a37-b40da95bdbd8\/b6c7092a-9c55-4235-9420-3a61546b0f8b",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1044144-836",
+  "name":"Gestione Energetica Ambientale - Gestione Energetica Degli Edifici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Astiaso Garcia Davide"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31818\/20190322084705\/15e6e941-fbd8-4516-be8e-adb4aa86f52f\/c2b279b6-9e01-42ef-9235-7ef064926a6a\/87387ad6-b7d8-471b-b456-41ab82368fbb\/83600b19-5bb5-43b7-821d-5449b3f68356",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy",
+   "life"
   ],
   "dedicated":1
  },
@@ -374,24 +5121,23 @@
    "Other"
   ],
   "themes":[
+   "building",
    "energy",
-   "environment",
-   "sustainability"
+   "life"
   ],
   "dedicated":1
  },
  {
-  "id":"1052430-5c3",
-  "name":"Energy And Environmental Management - Environmental Certification",
+  "id":"1044144-3a8",
+  "name":"Gestione Energetica Ambientale - Certificazione Ambientale Degli Edifici",
   "year":"2022-2023",
   "languages":[
-   "en"
+   "it"
   ],
   "teachers":[
-   "Casini Marco",
-   "Docente In Fase Di Definizione. Assegnazione"
+   "Cinquepalmi Federico"
   ],
-  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31818\/20190322084705\/15e6e941-fbd8-4516-be8e-adb4aa86f52f\/c2b279b6-9e01-42ef-9235-7ef064926a6a\/a51dcef8-19ee-4369-b1bd-551a28cbedf7\/5c3336fa-9355-443d-a6a7-83d7480d3cf8",
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31818\/20190322084705\/15e6e941-fbd8-4516-be8e-adb4aa86f52f\/c2b279b6-9e01-42ef-9235-7ef064926a6a\/a51dcef8-19ee-4369-b1bd-551a28cbedf7\/3a88823b-3160-4ee1-a588-dd7f79acaab7",
   "cycles":[
    "bac"
   ],
@@ -399,9 +5145,131 @@
    "Other"
   ],
   "themes":[
-   "environment"
+   "life"
   ],
   "dedicated":1
+ },
+ {
+  "id":"1031665",
+  "name":"Sistemi Impiantistici A Scala Urbana E Degli Edifici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Piras Giuseppe"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31818\/20190322084705\/15e6e941-fbd8-4516-be8e-adb4aa86f52f\/c2b279b6-9e01-42ef-9235-7ef064926a6a\/e6286dd3-1bce-4575-99db-dd4ef7ed2953\/77a27a53-692b-46f1-b4d0-ecf4c1e2a842",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1020328",
+  "name":"Dinamica Degli Inquinanti E Risanamento Dei Siti Contaminati",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Petrangeli Papini Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30863\/20190322084705\/9be95a80-2fbc-4c31-bd95-f2df98c579c5\/09bf0a5d-cce8-4e6f-9bef-32461c25506b\/af0c5051-2717-4948-a7d3-b2173734bb47\/23a2f031-578c-4ed8-b00a-0dc03011fa81",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution",
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1012088",
+  "name":"Laboratorio Di Meccanica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Organtini Giovanni",
+   "Fantini Guido",
+   "Bordi Federico",
+   "Santanastasio Francesco",
+   "Coppolecchia Alessandro",
+   "Messina Andrea",
+   "Baldassarre Leonetta",
+   "Grilli Marco",
+   "Paramatti Riccardo",
+   "Di Pace Sibilla"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30046\/20190322084705\/3486242f-8426-4686-b729-18def0bae62e\/26895aa5-c65a-4a12-8e7e-acc8e733d13d\/28bd7ec0-3987-42ba-a194-fe91fac4a96d\/291a271d-ba60-4713-b961-03223dba1002",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1056093",
+  "name":"Biologia Farmaceutica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Toniolo Chiara",
+   "De Vita Daniela",
+   "Toniolo Chiara"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30828\/20190322084705\/896e665c-66a5-4fe7-85a6-75a084ab6792\/2f2f5a8b-504f-4bc3-b569-12304cef9f71\/88ba31d1-c1c0-4434-9e98-9a3196aa3aef\/c737b920-1750-460e-872c-1f71908b637e",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10596550",
+  "name":"Igiene E Management Sanitario",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Protano Carmela"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30828\/20190322084705\/896e665c-66a5-4fe7-85a6-75a084ab6792\/2f2f5a8b-504f-4bc3-b569-12304cef9f71\/50368674-8eae-416b-b54f-360581a735eb\/a1ff5767-eabb-4872-bc94-9573ce5c9434",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
  },
  {
   "id":"10595658-3ad",
@@ -421,9 +5289,9 @@
    "Other"
   ],
   "themes":[
-   "sustainability"
+   "life"
   ],
-  "dedicated":1
+  "dedicated":0
  },
  {
   "id":"10595658-113",
@@ -443,21 +5311,21 @@
    "Other"
   ],
   "themes":[
-   "sustainability"
+   "transport"
   ],
   "dedicated":1
  },
  {
-  "id":"10595650",
-  "name":"Bioclimatic Design",
+  "id":"10595664",
+  "name":"Architectural Engineering For Sustainable Buildings And Environment",
   "year":"2022-2023",
   "languages":[
    "en"
   ],
   "teachers":[
-   "Manganelli Matteo"
+   "Rosso Federica"
   ],
-  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30842\/20190322084705\/4b0bc061-124f-4379-a1f7-b7e8ef82e168\/1a7eba0d-ed17-44df-a612-761a86eb0023\/7e9a273c-d8da-46c6-b8f2-de1fedbe5e96\/5fbdec40-0b68-4efa-aba9-70e9510ba1cf",
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30842\/20190322084705\/4b0bc061-124f-4379-a1f7-b7e8ef82e168\/1a7eba0d-ed17-44df-a612-761a86eb0023\/7e9a273c-d8da-46c6-b8f2-de1fedbe5e96\/2c950bcb-42bd-4948-b3f6-0ec8b32ce3c3",
   "cycles":[
    "master"
   ],
@@ -465,9 +5333,9 @@
    "Other"
   ],
   "themes":[
-   "energy"
+   "life"
   ],
-  "dedicated":1
+  "dedicated":0
  },
  {
   "id":"10595651",
@@ -487,21 +5355,133 @@
    "Other"
   ],
   "themes":[
-   "sustainability"
+   "resources"
   ],
   "dedicated":0
  },
  {
-  "id":"AAF1739",
-  "name":"Further Learning Work And Training",
+  "id":"10595654",
+  "name":"Advanced Processes And Technologies For Water Sustainability",
   "year":"2022-2023",
   "languages":[
    "en"
   ],
   "teachers":[
-   "Candidi Matteo"
+   "Chiavola Agostina"
   ],
-  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29388\/20190322084705\/11b89a6d-be68-4a2a-b9ac-dbfa93ba68b5\/6a54305e-7b73-4d53-a96b-2bda5882577f\/48a7d185-1fd0-4334-8d40-c5ebddff8254\/d074dbf8-e59c-47d5-84a5-c45860956867",
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30842\/20190322084705\/4b0bc061-124f-4379-a1f7-b7e8ef82e168\/1a7eba0d-ed17-44df-a612-761a86eb0023\/1659bc47-67b2-4cb8-af47-f1b7547dbc4c\/545a89c9-2d59-4410-8d9f-b4175544313a",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10595656",
+  "name":"Sustainable Materials Technologies",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Petrucci Elisabetta"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30842\/20190322084705\/4b0bc061-124f-4379-a1f7-b7e8ef82e168\/1a7eba0d-ed17-44df-a612-761a86eb0023\/1659bc47-67b2-4cb8-af47-f1b7547dbc4c\/df6f1089-2356-496e-a1a4-c4c962d52a2c",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1038403",
+  "name":"Struttura E Funzione Degli Ecosistemi Marini",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Casoli Edoardo",
+   "Penna Marina"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/c3706e48-4279-4b45-b9b9-afea1685c16f",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041726",
+  "name":"Biodiversita' Marina E Sistematica Biologica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Oliverio Marco",
+   "Fassio Giulia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/741de522-cf5d-4847-913f-3347ad308150",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1034860",
+  "name":"Conservazione E Monitoraggio Della Flora Spontanea",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fabrini Giuseppe"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/fdd5ea47-ab49-4069-b768-9ecf962cab8a",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1038272",
+  "name":"Produttivita' Primaria Negli Ecosistemi E Cambiamenti Climatici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vitale Marcello"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/76e0636b-0e79-48bd-8bb6-fae6db68c6fc",
   "cycles":[
    "master"
   ],
@@ -510,6 +5490,887 @@
   ],
   "themes":[
    "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1016501",
+  "name":"Zoologia Dei Vertebrati",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Santini Luca"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/e3f349d1-ba05-4599-8d79-be39d5f15f23",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1044803",
+  "name":"Biorimedio Di Ambienti Acquatici E Terrestri Contaminati",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Massini Giulia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/e41e22d3-47fe-4d1d-8d82-05126be4e297",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1044793",
+  "name":"Entomologia Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Arnone Silvia",
+   "Porretta Daniele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/2cd5bebd-e3e7-4058-befa-af964db181ca",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10589198",
+  "name":"Biodiversita' Degli Ecosistemi D'Acqua Dolce",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Seminara Marco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/a8a7dca0-8842-4bf2-a102-61fde123a511",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1041675",
+  "name":"Evoluzione E Sviluppo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fanti Laura"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/02a329f3-00e2-44f4-8e96-198661810f46",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1023481",
+  "name":"Telerilevamento E Gis",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Valentini Emiliana"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/105250fb-18ff-4ea1-8c29-9c58c3b6c522",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041868",
+  "name":"Monitoraggio Ambientale Di Sistemi Naturali E Antropizzati",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ricotta Carlo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/4f55cfca-b3dc-4fdf-bcab-17bbd1ab2eae",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600189",
+  "name":"Ecologia E Biologia Evolutiva Dei Parassiti Umani E Zoonotici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Della Torre Alessandra"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/ee6f5f7d-4b39-48f9-808e-97fbd1b954d6\/4892b10d-5b1f-40be-8954-f6fa0e3931d0",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1023373",
+  "name":"Conservazione E Gestione Delle Risorse Marine",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ventura Daniele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/952eca3c-a0f5-4979-943b-89749a865a09\/6083bcd2-20d8-495a-8adc-965d4c3b6ee4",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041598",
+  "name":"Ecologia Sperimentale E Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rossi Loreto",
+   "Letizia Costantini Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/952eca3c-a0f5-4979-943b-89749a865a09\/69a0a839-8048-4e23-aedd-ea97ac0af7c9",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600194",
+  "name":"Biologia Evoluzionistica Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Biase Alessio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/952eca3c-a0f5-4979-943b-89749a865a09\/3b1ef67f-b06e-43f6-a6da-fed5ab5cd4f5",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10592793",
+  "name":"Ecologia E Comportamento Acustico Dei Mammiferi Marini",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Silvia Pace Daniela"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/952eca3c-a0f5-4979-943b-89749a865a09\/f52b0211-2001-4468-b5f1-eb3e8b3f398b",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600075",
+  "name":"Dinamiche Ecofisiologiche Delle Piante In Risposta A Stress Ambientali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Lorenzo Giulia",
+   "Fares Silvano"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/952eca3c-a0f5-4979-943b-89749a865a09\/01c61325-69a7-41b5-bcf9-eb7fbd345b32",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10589403",
+  "name":"Microbiologia Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Colonna Bianca",
+   "Gino Di Domenico Enea"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/952eca3c-a0f5-4979-943b-89749a865a09\/277b4095-8d67-4158-a3fc-0caae3805740",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600072",
+  "name":"Impatti Dei Cambiamenti Climatici Sulla Biodiversita' Marina",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Calizza Edoardo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/952eca3c-a0f5-4979-943b-89749a865a09\/fa9f86d8-a763-4d07-b19c-17fb4c785fcd",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10589150",
+  "name":"Genetica Della Conservazione",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Trombetta Beniamino"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/952eca3c-a0f5-4979-943b-89749a865a09\/eb3f556d-f1d4-489a-8ef3-8a776e71aeb3",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1031550",
+  "name":"Approccio Ecosistemico Alla Conservazione Della Biodiversita'",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Attorre Fabio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30053\/20190322084705\/ba889101-a2eb-47d4-9b75-56349ee87556\/6c2b1a2e-9968-4626-b328-7a5e425cdf5e\/952eca3c-a0f5-4979-943b-89749a865a09\/114cae01-5345-46b6-baa8-1d55fb8aea61",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600284-f28",
+  "name":"Materiali E Tecnologie Innovative - Requisiti Ambientali Degli Artefatti",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Baiani Serena",
+   "Cecafosso Valeria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31807\/20190322084705\/0f2d0eab-0e37-4946-a807-daf334e1f010\/db57d78c-0b6d-45ab-80f9-9e06e3a5499a\/4554a23c-e9e3-4dd7-95ad-e11f0c65913c\/f280655d-e366-42b9-ae4c-2fddf2a24345",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1031746",
+  "name":"Teoria E Tecniche Della Televisione",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gavrila Mihaela"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30068\/20190322084705\/1ea34074-1d70-4ebd-8149-36aa176b5437\/bb67cb80-ef1a-48a1-8c62-b1d68277a9b9\/671309e6-aadb-4631-8f54-fbd76974d23c\/42bb5547-953a-4d65-8919-7f1e02684747",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1020329",
+  "name":"Processi Di Trattamento Di Scarichi, Emissioni E Rifiuti, Recupero Di Materia Ed Energia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Villano Marianna",
+   "Lorini Laura"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30861\/20190322084705\/e6ee7b9a-7c80-403d-bd6c-d227a0119696\/f9900b18-f1d6-42d7-8aad-3acc092d032f\/34648c34-18ee-4f5f-a83a-06fdc82a75dc\/eb82b8db-6b2c-4995-8481-6a0f6553ef47",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1022454",
+  "name":"Sistemi Di Produzione E Accumulo Dell'Energia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Assunta Navarra Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30861\/20190322084705\/e6ee7b9a-7c80-403d-bd6c-d227a0119696\/f9900b18-f1d6-42d7-8aad-3acc092d032f\/af3d1b28-0d19-476b-a8a6-a694eccc5981\/dd89dcd1-00d9-418f-803f-958455a4dc11",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1041448",
+  "name":"Chimica Merceologica E Degli Alimenti Con Laboratorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rosa Festa Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30059\/20190322084705\/7fc626f4-3b88-4770-b14e-dc769f78687b\/3ff00d72-c240-4afa-96f5-cbcb1840af3d\/0a4dbaf1-ff1a-4518-8d2b-8599c3781a3f\/cffdfb4e-9c27-4004-b969-57f6ba311a4e",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1020348",
+  "name":"Chimica Dell'Ambiente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Laura Capriotti Anna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30059\/20190322084705\/7fc626f4-3b88-4770-b14e-dc769f78687b\/3ff00d72-c240-4afa-96f5-cbcb1840af3d\/0a4dbaf1-ff1a-4518-8d2b-8599c3781a3f\/ff2868e4-b52b-4480-953e-eea8e678dec7",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1022407",
+  "name":"Microbiologia Farmaceutica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Passariello Claudio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29896\/20190322084705\/664295fb-cec1-45ff-83e6-4ae8c67c4b9b\/094843ae-d35d-49e0-8f04-0d9bf6f10924\/74580c5c-36b6-4e8b-9fc4-35d3ce09fdd2\/41423751-cc0b-4977-b75e-1a07e20fc408",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1035083-7ee",
+  "name":"Biotecnologie Microbiche Industriali E Ambientali - Modulo I",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Uccelletti Daniela"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31278\/20190322084705\/41fd9f11-6a84-474b-9019-1370e92e4b90\/c8a5bb7e-5e0d-44c5-a839-7b33fa4e5a34\/1ecee26f-4cd3-4f74-a6ef-9ad246bbdf18\/7eecf657-abfa-4852-b008-63564ad8927b",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596046",
+  "name":"Biotecnologie Applicate E Evoluzione",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Porretta Daniele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31278\/20190322084705\/41fd9f11-6a84-474b-9019-1370e92e4b90\/c8a5bb7e-5e0d-44c5-a839-7b33fa4e5a34\/1ecee26f-4cd3-4f74-a6ef-9ad246bbdf18\/724cc4a8-f904-4f59-9623-cc29836a9de6",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10592908",
+  "name":"Bio E Nanomateriali Per Applicazioni Tecnologiche",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Palocci Cleofe"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31278\/20190322084705\/41fd9f11-6a84-474b-9019-1370e92e4b90\/c8a5bb7e-5e0d-44c5-a839-7b33fa4e5a34\/1ecee26f-4cd3-4f74-a6ef-9ad246bbdf18\/a70d8314-9f67-4506-9e18-23529eb8ebbb",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10606479",
+  "name":"Sistemi Modello Animali Per Le Biotecnologie: Applicazioni In Ambito Biomedico E Ecologico-Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Verni' Fiammetta",
+   "Piacentini Lucia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31278\/20190322084705\/41fd9f11-6a84-474b-9019-1370e92e4b90\/c8a5bb7e-5e0d-44c5-a839-7b33fa4e5a34\/b1d37c18-c725-491f-8941-73f15ccd1c34\/cd1be1e2-d85e-4ffc-b645-37f30791ff7a",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10600076",
+  "name":"Miglioramento Biotecnologico Vegetale Per Le Fonti Rinnovabili E La Sostenibilita' Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lorrai Riccardo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31278\/20190322084705\/41fd9f11-6a84-474b-9019-1370e92e4b90\/c8a5bb7e-5e0d-44c5-a839-7b33fa4e5a34\/b1d37c18-c725-491f-8941-73f15ccd1c34\/de54ecc7-96e0-4c92-9ae8-808bd4da6a0d",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "food",
+   "pollution",
+   "prod&cons",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1017329",
+  "name":"Ingegneria Genetica E Terapia Genica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Presutti Carlo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31278\/20190322084705\/41fd9f11-6a84-474b-9019-1370e92e4b90\/c8a5bb7e-5e0d-44c5-a839-7b33fa4e5a34\/b1d37c18-c725-491f-8941-73f15ccd1c34\/9ae7a315-b25f-4054-a12c-2df13bd4ffd0",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10600110",
+  "name":"Etica Dell'Ambiente E Della Sostenibilita'",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rufo Fabrizio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31278\/20190322084705\/41fd9f11-6a84-474b-9019-1370e92e4b90\/c8a5bb7e-5e0d-44c5-a839-7b33fa4e5a34\/408679ae-a550-4b45-af40-e3a920df5710\/0e2b5e6e-620a-46e9-9d51-62e294b546f7",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1035085",
+  "name":"Processi Biotecnologici Per L'Ambiente E L'Energia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Villano Marianna",
+   "Lorini Laura"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31278\/20190322084705\/41fd9f11-6a84-474b-9019-1370e92e4b90\/c8a5bb7e-5e0d-44c5-a839-7b33fa4e5a34\/408679ae-a550-4b45-af40-e3a920df5710\/ffae83f1-bec7-4f0a-ae36-f53afa38979a",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1003884",
+  "name":"Ecologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Porretta Daniele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31269\/20190322084705\/3718b516-78ac-449f-a8f0-243c2c4c5c4d\/522de9d5-322b-414f-b583-02024ab869c3\/35c209b7-93c8-4f1c-9d5b-4650d3567d59\/a7c44ff8-fc0c-4713-b83b-48baa079b94f",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1047959",
+  "name":"Fondamenti Di Microbiologia Alimentare",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Giuseppe Rizzello Carlo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31269\/20190322084705\/3718b516-78ac-449f-a8f0-243c2c4c5c4d\/522de9d5-322b-414f-b583-02024ab869c3\/59a76b05-7b52-4063-b644-ae83bdfa5d5f\/f7cf6d1a-5149-4772-bcc2-b1f0cc6fb1ec",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1038265",
+  "name":"Fisiopatologia Vegetale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Faino Luigi"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/31269\/20190322084705\/3718b516-78ac-449f-a8f0-243c2c4c5c4d\/522de9d5-322b-414f-b583-02024ab869c3\/c78f3f57-bcfe-4668-ad87-fbec8aea0a77\/c6cee9af-cd93-4e6d-84fd-85b4578ec3d2",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1023907-518",
+  "name":"Microbiologia Generale, Biotecnologie Microbiche Ed Elementi Di Microbiologia Medica - Microbiologia Generale, Biotecnologie Microbiche Ed Elementi Di Microbiologia Medica I",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Longhi Catia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29887\/20190322084705\/e5a4c4d5-cd0e-40f0-ad5f-5167c7084a90\/74460504-07bd-4b14-b6bc-5c58204fed75\/c042e6ac-b8f1-48f0-a521-024c5f71bdb1\/518f89ea-1549-4081-af29-355e8c07f262",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1023907-6cf",
+  "name":"Microbiologia Generale, Biotecnologie Microbiche Ed Elementi Di Microbiologia Medica - Microbiologia Generale, Biotecnologie Microbiche Ed Elementi Di Microbiologia Medica Ii",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Prosseda Gianni"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29887\/20190322084705\/e5a4c4d5-cd0e-40f0-ad5f-5167c7084a90\/74460504-07bd-4b14-b6bc-5c58204fed75\/416abec0-c37a-454a-8d68-e44cf1814669\/6cfe5b22-64e8-4464-b46c-0d5c2efee01e",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1041679",
+  "name":"Microbiologia Industriale E Tecnologie Ambientali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Uccelletti Daniela",
+   "Maria Bianchi Michele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29887\/20190322084705\/e5a4c4d5-cd0e-40f0-ad5f-5167c7084a90\/74460504-07bd-4b14-b6bc-5c58204fed75\/d78dff1f-ec90-48f2-9c65-9af5646413dd\/05391596-84d7-4708-931b-0dca8e794533",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "prod&cons"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1052141",
+  "name":"Plasticita' Cellulare E Differenziamento Delle Piante: Applicazioni  Industriali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pasqua Gabriella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30052\/20190322084705\/5e7bca50-7159-40ba-829c-1d08debcec51\/7733bd17-8c0e-47c6-9c7b-2b6265092a5e\/0651f7df-34ef-433d-acd3-009df004baa0\/5aaf244f-0888-45fc-ab75-744aa29e99e9",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
   ],
   "dedicated":0
  },
@@ -531,9 +6392,11 @@
    "Other"
   ],
   "themes":[
-   "environment"
+   "life",
+   "pollution",
+   "resources"
   ],
-  "dedicated":1
+  "dedicated":0
  },
  {
   "id":"10598580-de8",
@@ -553,7 +6416,624 @@
    "Other"
   ],
   "themes":[
-   "environment"
+   "energy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1036685-e68",
+  "name":"Sanita' Pubblica - Igiene Generale Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Marzuillo Carolina",
+   "Di Rosa Enrico"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30002\/20190322084705\/e11b0dcf-6b20-468b-927a-af58c549f776\/d1ccb313-57c2-4ddc-bb1f-8701cb1d9f02\/d59fc3cd-33a5-4024-979f-0fe65f85d50f\/e6804184-8083-467a-8f18-9c0bd26a2f2a",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10588657",
+  "name":"Estetica Del Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Catucci Stefano"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/ec57d747-9004-4fe8-904f-d99c1a6707ee\/b8ca6167-7831-43b5-b242-809b14a92aca",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1008505",
+  "name":"Fitogeografia E Geobotanica Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Pietro Romeo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/ec57d747-9004-4fe8-904f-d99c1a6707ee\/d1628481-af39-4696-815c-d312d24be65c",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10588661",
+  "name":"Selvicoltura Urbana E Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maesano Mauro"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/ec57d747-9004-4fe8-904f-d99c1a6707ee\/36ea1ed2-bc93-469e-87c5-8ab284522979",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10588669-4f7",
+  "name":"Laboratorio Di Architettura Del Paesaggio I - Valutazione Economica Dei Progetti",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rosaria Guarini Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/ae732b40-9cbf-4b97-9cc1-20e440e53806\/4f78a304-7b4f-49bb-8ac6-c72f7e1aefa8",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10588666-c73",
+  "name":"Laboratorio Di Restauro E Paesaggio - Conservazione E Valorizzazione Del Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vitiello Maria"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/ae732b40-9cbf-4b97-9cc1-20e440e53806\/c73cdad2-abc9-4fe2-8d4e-4dc7d00104e9",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10588670-523",
+  "name":"Laboratorio Di Piani E Infrastrutture Di Paesaggio - Pianificazione Del Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cialdea Donatella"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/d35c837f-b801-4a9f-84d6-4f75f6767443\/523f5e9c-61fd-4e4c-9f3c-6d5f060d840d",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10588670-b96",
+  "name":"Laboratorio Di Piani E Infrastrutture Di Paesaggio - Progettazione Del Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lei Anna"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/d35c837f-b801-4a9f-84d6-4f75f6767443\/b96553af-e1d2-4246-ab8d-adcceece20bd",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10588670-e08",
+  "name":"Laboratorio Di Piani E Infrastrutture Di Paesaggio - Ecologia Del Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Capotorti Giulia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/d35c837f-b801-4a9f-84d6-4f75f6767443\/e084cd81-09c0-40bb-817a-6b606f57a701",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10588668-b19",
+  "name":"Laboratorio Di Architettura Del Paesaggio Ii - Architettura Del Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Celestini Gianni"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/d35c837f-b801-4a9f-84d6-4f75f6767443\/b197a73c-c06b-4802-84ac-550a310bb939",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10588668-04a",
+  "name":"Laboratorio Di Architettura Del Paesaggio Ii - Agricoltura Urbana E Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Biasi Rita"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/d35c837f-b801-4a9f-84d6-4f75f6767443\/04ab0518-5d4e-4bf4-bf0e-2e05035b86f6",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1035635",
+  "name":"Progettazione Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Conteduca Michele"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/d35c837f-b801-4a9f-84d6-4f75f6767443\/d528633e-afa6-4562-8fec-022692dca8f4",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life",
+   "pollution",
+   "resources",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10588664",
+  "name":"Biodiversita' Animale E Reti Ecologiche",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pacifici Michela"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30813\/20190322084705\/34b9eddb-8699-4462-86a1-8518a2f11cfb\/4e652666-f6f0-442f-a28d-f206cb01633e\/213b4cf6-bc18-4be1-80d9-a93c7edddb1c\/9e8d881a-c6dd-4a3d-885e-665e8ec6ddea",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10588638-0d7",
+  "name":"Laboratorio Integrato Di Progettazione Urbanistica E Governo Del Territorio - Progettazione Urbanistica E Assetto Del Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Valorani Carlo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30814\/20190322084705\/fbaf99d9-2bcb-446a-89fe-72acae2576a3\/61bb5711-597f-4f60-bce2-0974043f206d\/88499a47-c672-4951-8270-9c255f7aac92\/0d7fcc86-b9f3-4fb6-bbd9-d0b5a0437a82",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"10588642-b5e",
+  "name":"Laboratorio Integrato Di Progettazione Tecnologica Ambientale - Progettazione Tecnologica Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Baiani Serena"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30814\/20190322084705\/fbaf99d9-2bcb-446a-89fe-72acae2576a3\/61bb5711-597f-4f60-bce2-0974043f206d\/20ffa598-5402-4bf3-bb0d-494bd974906f\/b5e1ef4d-32cc-4e3f-9b66-e82b2d48aca4",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10588642-e75",
+  "name":"Laboratorio Integrato Di Progettazione Tecnologica Ambientale - Fisica Tecnica Ambientale Ed Energetica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mancini Francesco"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30814\/20190322084705\/fbaf99d9-2bcb-446a-89fe-72acae2576a3\/61bb5711-597f-4f60-bce2-0974043f206d\/20ffa598-5402-4bf3-bb0d-494bd974906f\/e7543266-6e28-4337-90c5-e46e8e570632",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10589048",
+  "name":"Ecologia Vegetale E Botanica Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Pietro Romeo"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30814\/20190322084705\/fbaf99d9-2bcb-446a-89fe-72acae2576a3\/61bb5711-597f-4f60-bce2-0974043f206d\/20ffa598-5402-4bf3-bb0d-494bd974906f\/b51d6b8f-17b5-4f89-b79b-e3371235ae06",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10596662",
+  "name":"Laboratorio Di Progettazione Tecnologica Ambientale Per La Rigenerazione E La Sostenibilita'",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Battisti Alessandra"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30814\/20190322084705\/fbaf99d9-2bcb-446a-89fe-72acae2576a3\/61bb5711-597f-4f60-bce2-0974043f206d\/6dad0f8a-b9e3-458d-8aef-1eb5b540b9fc\/2cfd49e2-6d45-4498-b67b-5f0eca0299b4",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"10588646",
+  "name":"Costruire Sostenibile Per 'Greener Cities'",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "D'Olimpio Domenico"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30814\/20190322084705\/fbaf99d9-2bcb-446a-89fe-72acae2576a3\/61bb5711-597f-4f60-bce2-0974043f206d\/6dad0f8a-b9e3-458d-8aef-1eb5b540b9fc\/db972f20-b4d5-4e1a-a670-855d3d799574",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1052143-aad",
+  "name":"Structural Consolidation And Hvac Plant In Historical Buildings - Technical Systems",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Astiaso Garcia Davide"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/30815\/20190322084705\/b17a4a18-63ba-4fda-b747-8b0d33bbce04\/c89aa9ca-c4e3-4236-b941-657ab3c9b8d7\/7ea093b6-b484-4878-bda9-167f6f8b70a9\/aad65379-cf39-4f49-87b8-51e460d49264",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1056423",
+  "name":"Design Studio",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Del Monaco Anna",
+   "Barbera Lucio"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29390\/20190322084705\/8025b822-20bd-4e08-836b-76b34f58c2e2\/c05c89b9-54dd-40d0-b623-e78aaa270693\/fab39f08-0868-4fdd-aa04-713a15702d25\/a71a322f-ec1f-44fa-8202-c4e221264c81",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1014324",
+  "name":"Geoarchitettura",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bertini Viola"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29390\/20190322084705\/8025b822-20bd-4e08-836b-76b34f58c2e2\/c05c89b9-54dd-40d0-b623-e78aaa270693\/ff6ceca4-666b-4068-9bdd-a15fb4180005\/f00512c0-9946-4950-a3dd-783f1ce32c93",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1025857",
+  "name":"Impianti Tecnici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Habib Emanuele",
+   "Mancini Francesco",
+   "Paiolo Romano"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29390\/20190322084705\/8025b822-20bd-4e08-836b-76b34f58c2e2\/c05c89b9-54dd-40d0-b623-e78aaa270693\/dcebca12-b2e7-4dee-a512-68926f623eb3\/2eb7b0b2-a1d5-4f3b-9ec1-f9024902eb52",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1044253",
+  "name":"Laboratorio Di Progettazione Architettonica Iv",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Nencini Dina",
+   "Criconia Alessandra",
+   "Reale Luca",
+   "Valeria Ferretti Laura",
+   "Maria Valentin Nilda"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29390\/20190322084705\/8025b822-20bd-4e08-836b-76b34f58c2e2\/c05c89b9-54dd-40d0-b623-e78aaa270693\/496ed9f9-be72-4224-bb99-4a062d532c5c\/dbfd15db-b2fc-460e-a481-2df8b0aaa7a8",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1022659",
+  "name":"Illuminotecnica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Groppi Daniele",
+   "Nastasi Benedetto"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29390\/20190322084705\/8025b822-20bd-4e08-836b-76b34f58c2e2\/c05c89b9-54dd-40d0-b623-e78aaa270693\/a0eb9ac4-07cf-41c7-83ee-fef46a6fe5ba\/0b1f3c89-46ce-4add-959c-aa7820b60165",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1036432",
+  "name":"Pianificazione Territoriale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Poli Irene"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29390\/20190322084705\/8025b822-20bd-4e08-836b-76b34f58c2e2\/c05c89b9-54dd-40d0-b623-e78aaa270693\/eec1df0e-e262-4292-a842-ab23fbd4e631\/bd8d125b-46d8-47cd-81ee-e876ad012b65",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1038438",
+  "name":"Ecologia Preistorica Avanzato Ia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Conati Barbaro Cecilia"
+  ],
+  "url":"https:\/\/corsidilaurea.uniroma1.it\/it\/view-course-details\/2022\/29953\/20190322084705\/27c9a4d0-8a54-4744-aafe-1f235a1e237f\/80a48b29-e3cb-45a3-8037-fad5bfa072c8\/184b84dd-edd8-4129-8379-1b264f943640\/c5c6702e-6ac5-48c8-8bcf-89fbbc28fc54",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
   ],
   "dedicated":1
  },
@@ -575,7 +7055,7 @@
    "Other"
   ],
   "themes":[
-   "environment"
+   "life"
   ],
   "dedicated":1
  }

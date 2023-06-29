@@ -1,5 +1,497 @@
 [
  {
+  "id":"2223-2-F8204B040",
+  "name":"Statistica Ambientale M",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Quatto Piero"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44924",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F8501R067",
+  "name":"Coordinamento dei Servizi Educativi",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galimberti Andrea",
+   "Marazzi Elisabetta",
+   "Luini Letizia",
+   "Rinaldi Angela",
+   "Guerra Monica"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45564",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F8501R069",
+  "name":"Agire Sociale e Sostenibilit\u00e0",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Alessio Contadini Didier"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45578",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F8501R001",
+  "name":"Fondamenti della Consulenza Pedagogica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Corradi Daniela",
+   "Bianchi Daniela",
+   "Carriera Lucia",
+   "Palmieri Cristina",
+   "Biffi Elisabetta"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45568",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F8501R011",
+  "name":"Consulenza nel Disagio Educativo: Teorie e Pratiche",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Benedetta Gambacorti Passerini Maria"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45552",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F9201P026",
+  "name":"Sistemi Informativi",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44669",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F9201P220",
+  "name":"Tecnologie e Applicazioni Web",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Viviani Marco",
+   "Ognibene Dimitri",
+   "Maria Luigi Sarn\u00e8 Giuseppe",
+   "Aceti Gaia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44678",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-H4601D006",
+  "name":"Fisiologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Alfredo Sancini Giulio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42065",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E1901R113",
+  "name":"Pedagogia dell'Inclusione Sociale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Peter Ferrante Alessandro",
+   "Palmieri Cristina",
+   "Benedetta Gambacorti Passerini Maria"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45401",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F5401Q023",
+  "name":"Chimica Bioinorganica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bertini Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44420",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F5401Q065",
+  "name":"Processi a Basso Impatto Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Lange Heiko"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44425",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F5401Q055",
+  "name":"Biotecnologie Industriali per la Produzione di Prodotti Chimici e Bioenergie",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Teresa Mapelli Valeria",
+   "Serra Immacolata"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44437",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F5401Q072",
+  "name":"Catalisi per l'Ambiente e l'Energia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Giordano Livia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44405",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F5401Q048",
+  "name":"Chimica Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44414",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F5401Q068",
+  "name":"Termodinamica di Non Equilibrio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Narducci Dario"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44427",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F5401Q074",
+  "name":"Sintesi Avanzate di Polimeri",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Simonutti Roberto"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44416",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F5401Q070",
+  "name":"Fondamenti Chimici della Sostenibilit\u00e0",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Collina Elena",
+   "Lasagni Marina"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44438",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "economy",
+   "energy",
+   "life",
+   "prod&cons",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7401Q082",
+  "name":"Biofacies",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Maria Basso Daniela",
+   "Malinverno Elisa",
+   "Coletti Giovanni"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44545",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F5401Q047",
+  "name":"Processi e Impianti di Trattamento e Bonifica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44418",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life",
+   "pollution",
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7401Q108",
+  "name":"Environmental Geochemistry",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Rotiroti Marco"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44512",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7401Q099",
+  "name":"Fondamenti di Geografia Fisica Marina",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Savini Alessandra"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44546",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"2223-1-F7401Q046",
   "name":"Geobiologia",
   "year":"2022-2023",
@@ -44,17 +536,18 @@
   "dedicated":1
  },
  {
-  "id":"2223-2-F7401Q110",
-  "name":"Climate Change Impacts On Geohazards",
+  "id":"2223-1-F7401Q103",
+  "name":"Minerali alla Nanoscala",
   "year":"2022-2023",
   "languages":[
-   "en"
+   "it"
   ],
   "teachers":[
-   "Lanfranconi Camilla",
-   "Frattini Paolo"
+   "Campione Marcello",
+   "Cerantola Valerio",
+   "Capitani Giancarlo"
   ],
-  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44536",
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44539",
   "cycles":[
    "master"
   ],
@@ -62,7 +555,101 @@
    "Other"
   ],
   "themes":[
-   "climate"
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7401Q100",
+  "name":"Mineralogia Industriale ed Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cavallo Alessandro"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44540",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7401Q065",
+  "name":"Valutazione dei Rischi Geologici",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Frattini Paolo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44532",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7501Q091",
+  "name":"Biologia Ambientale Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mantecca Paride",
+   "Daniela Bengalli Rossella",
+   "Gualtieri Maurizio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44653",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7501Q082",
+  "name":"Biodiversit\u00e0 e Conservazione",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bani Luciano",
+   "Dondina Olivia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44640",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
   ],
   "dedicated":1
  },
@@ -84,9 +671,563 @@
    "Other"
   ],
   "themes":[
-   "climate"
+   "climate",
+   "life"
   ],
   "dedicated":1
+ },
+ {
+  "id":"2223-1-F7501Q037",
+  "name":"Diritto Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galli Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44639",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "economy",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7501Q089",
+  "name":"Ecologia e Gestione delle Acque Interne",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Leoni Barbara"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44635",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7501Q104",
+  "name":"Chimica Sostenibile",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Collina Elena",
+   "Lange Heiko",
+   "Giovanni Bolzacchini Ezio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44641",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "energy",
+   "life",
+   "pollution",
+   "prod&cons",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7501Q077",
+  "name":"Fisica dell'Atmosfera",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Paolo Luigi Sudati Francesco",
+   "Giuliacci Andrea"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44657",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7501Q103",
+  "name":"Processi Biologici per la Valorizzazione delle Biomasse",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Citterio Sandra",
+   "Franzetti Andrea"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44655",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "energy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7501Q101",
+  "name":"Geologia, Ambiente e Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Giovanni Maria De Amicis Mattia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44646",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7501Q102",
+  "name":"Gestione Sostenibile del Territorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bosino Alberto",
+   "Albani Samuel"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44650",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "energy",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7501Q040",
+  "name":"Botanica Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Filippo Gentili Rodolfo",
+   "Citterio Sandra",
+   "Montagnani Chiara"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44654",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7501Q081",
+  "name":"Qualit\u00e0, Degradazione e Conservazione dei Suoli",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ferr\u00e8 Chiara",
+   "Comolli Roberto"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44656",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7501Q105",
+  "name":"Sostenibilit\u00e0 Agraria, Urbana, Industriale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Finizio Antonio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44649",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "food",
+   "life",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7501Q072",
+  "name":"Acustica Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Zambon Giovanni"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44617",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7501Q049",
+  "name":"Chimica dell'Atmosfera",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ferrero Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44625",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7501Q046",
+  "name":"Ecologia del Paesaggio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Padoa Schioppa Emilio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44619",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7501Q080",
+  "name":"Processi e Impianti di Trattamento e Bonifica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Collina Elena"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44644",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life",
+   "pollution",
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7501Q085",
+  "name":"Ecotossicologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Villa Sara"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44615",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7501Q056",
+  "name":"Gestione delle Emergenze Idrogeologiche",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44616",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7501Q087",
+  "name":"Microbiologia Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gandolfi Isabella",
+   "Franzetti Andrea"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44658",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7501Q086",
+  "name":"Inquinamento e Bonifica delle Acque Sotterranee",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rotiroti Marco",
+   "Letizia Fumagalli Maria"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44628",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7501Q053",
+  "name":"Processi a Basso Impatto Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Zoia Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44623",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7501Q074",
+  "name":"Sistemi Energetici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Luciano Bossi Claudio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44621",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7501Q100",
+  "name":"Telerilevamento Applicato",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cogliati Sergio",
+   "Colombo Roberto"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44629",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7501Q076",
+  "name":"Economia dell'Ambiente e dell'Energia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Visconti Parisio Lucia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44634",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7501Q090",
+  "name":"Microbiologia Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Franzetti Andrea"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44620",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
  },
  {
   "id":"2223-1-F5302Q014",
@@ -107,6 +1248,474 @@
   ],
   "themes":[
    "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F5302Q021",
+  "name":"Materials and Devices for Energy Engineering",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Olga Binetti Simona",
+   "Manfredi Norberto"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44471",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F5302Q006",
+  "name":"Nanotechnology and Innovation",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Brovelli Sergio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44470",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7501Q084",
+  "name":"Cambiamenti Climatici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Delmonte Barbara",
+   "Maggi Valter"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44627",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F7501Q004",
+  "name":"Valutazione Impatto Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Federica Maria Mezzanotte Valeria"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44622",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-4-A5810204",
+  "name":"Diritto Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Marra Alfredo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42711",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-5-A5810197",
+  "name":"Diritto Penale dell'Ambiente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ruga Riva Carlo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42670",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-5-A5810214",
+  "name":"International Humanitarian Law",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Nicola Fornari Matteo",
+   "Santori Valeria"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42674",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-G8501R045",
+  "name":"Biologia: Fondamenti e Didattica con Laboratorio",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Canedoli Claudia",
+   "Ardemagni Alessandra",
+   "Padoa Schioppa Emilio",
+   "Chiara Carpinelli Rock Eva",
+   "Bovio Federica",
+   "Emma Forcella Matilde",
+   "Francesco Pietro Masin Simone",
+   "Urani Chiara"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42907",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-4-G8501R036",
+  "name":"Chimica e Didattica della Biologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Marcaccio Michele",
+   "Padoa Schioppa Emilio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42828",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-FDS01Q005",
+  "name":"Juridical and Social Issues in Information Society",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Ricci Stefano",
+   "Bellini Camilla",
+   "Masiero Roberto"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45608",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-FDS01Q004",
+  "name":"Statistical Modeling",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Pennoni Fulvia",
+   "Brusa Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45613",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F1701Q094",
+  "name":"Energetica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sozzi Carlo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45880",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F1701Q143",
+  "name":"Processi a Basso Impatto Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45897",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F1701Q138",
+  "name":"Radiazioni Elettromagnetiche Non Ionizzanti",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sgorbati Giuseppe"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45898",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F1701Q142",
+  "name":"Sostenibilit\u00e0 Energetica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Chiesa Davide"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45910",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F4901N098",
+  "name":"Demografia e Turismo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Farina Patrizia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44961",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F4901N117",
+  "name":"Geografia dei Beni Culturali e Ambientali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Benetti Stefania",
+   "Dell'Agnese Elena"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44958",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F4901N120",
+  "name":"Scienza dell'Informazione Geografica per la Ricerca Sociale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Daconto Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44968",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F4901N105",
+  "name":"Tourism and Local Development",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Borrelli Nunzia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44966",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F4901N084",
+  "name":"Ecologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galli Paolo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44950",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "energy",
+   "life",
+   "pollution"
   ],
   "dedicated":1
  },
@@ -133,6 +1742,210 @@
   "dedicated":0
  },
  {
+  "id":"2223-2-F4901N094",
+  "name":"Laboratorio 4 - Ecoturismo e turismo nelle aree protette",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pecoraro Scanio Alfonso"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44954",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F4901N085",
+  "name":"Politiche per lo Sviluppo Rurale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Benetti Stefania",
+   "Ferretto Matilde"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44955",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0802Q047",
+  "name":"Biochimica Industriale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lotti Marina"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45843",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0802Q039",
+  "name":"Biologia Molecolare Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Martegani Enzo",
+   "Vai Marina"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45848",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0802Q058",
+  "name":"Ingegneria Metabolica e Bioprocessi di Nuova Generazione",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Branduardi Paola"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45856",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "economy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0802Q072",
+  "name":"Microbiologia Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45853",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0802Q069",
+  "name":"Systems Biochemistry",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ercole Vanoni Marco"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45857",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F9101Q024",
+  "name":"Data Science Lab in Environment and Physics",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Biancini Andrea",
+   "Paganoni Marco",
+   "Albani Samuel"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44550",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F9101Q055",
+  "name":"Data Science Lab On Smart Cities",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Argia Andreotti Alberta",
+   "Ciavotta Michele"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44571",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"2223-1-F0601Q068",
   "name":"Analisi e Gestione Biocenosi",
   "year":"2022-2023",
@@ -143,6 +1956,374 @@
 
   ],
   "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45941",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0601Q106",
+  "name":"Biochimica delle Sostanze Naturali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Coccetti Paola"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45949",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0601Q100",
+  "name":"Biogeografia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Biella Paolo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45945",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0601Q103",
+  "name":"Biologia dell'adattamento delle piante",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Guidi Nissim Werther"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45948",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0601Q108",
+  "name":"Biologia Vegetale Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Labra Massimo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45959",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0601Q082",
+  "name":"Biologia delle Interazioni Animali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galimberti Andrea"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45940",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "food",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0601Q052",
+  "name":"Microbiologia Molecolare",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Gennaro Patrizia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45969",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0601Q109",
+  "name":"Laboratorio di Biodiversit\u00e0 Funzionale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galimberti Andrea",
+   "Biella Paolo",
+   "Guidi Nissim Werther"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45960",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F0601Q099",
+  "name":"Biodiversit\u00e0 e Bioprospecting",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Labra Massimo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45944",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F0601Q110",
+  "name":"Laboratorio One Health: Dall'Ambiente alla Salute",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Coccetti Paola",
+   "Campone Luca",
+   "Labra Massimo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45964",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F0601Q105",
+  "name":"Stress Ecology",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Villa Sara"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45975",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F1801Q103",
+  "name":"Sistemi Informativi",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Antonio Niccol\u00f2 Amedeo Cabitza Federico",
+   "Riganelli Oliviero"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44609",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F0601Q107",
+  "name":"Meccanismi Funzionali di Adattamento all'Ambiente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lodola Francesco",
+   "Becchetti Andrea"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45976",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F6302N006",
+  "name":"Economia Pubblica e dei Servizi",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Paolo Bosco Bruno"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45332",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7702M037",
+  "name":"Diritto Commerciale dell'Unione Europea",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Biscaretti Di Ruffia Claudio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45765",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F5602M015",
+  "name":"The Economics and History of European Integration",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Tedeschi Paolo",
+   "Jos\u00e8 Dores Cassola E Barata Nuno"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45293",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7502Q021",
+  "name":"Applied Geomorphology and Habitat",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Maria Basso Daniela",
+   "Savini Alessandra",
+   "Alice Bracchi Valentina"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44743",
   "cycles":[
    "master"
   ],
@@ -224,6 +2405,28 @@
   "dedicated":0
  },
  {
+  "id":"2223-1-F7502Q038",
+  "name":"Fundamentals of Marine Physical Geography",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Savini Alessandra"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44747",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"2223-1-F7502Q013",
   "name":"Geobiology",
   "year":"2022-2023",
@@ -269,29 +2472,6 @@
   "dedicated":0
  },
  {
-  "id":"2223-1-F7502Q035",
-  "name":"Marine Environmental Microbiology",
-  "year":"2022-2023",
-  "languages":[
-   "en"
-  ],
-  "teachers":[
-   "Gandolfi Isabella",
-   "Franzetti Andrea"
-  ],
-  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44748",
-  "cycles":[
-   "master"
-  ],
-  "fields":[
-   "Other"
-  ],
-  "themes":[
-   "life"
-  ],
-  "dedicated":1
- },
- {
   "id":"2223-1-F7502Q012",
   "name":"Marine Vertebrate Zoology",
   "year":"2022-2023",
@@ -314,6 +2494,98 @@
   "dedicated":0
  },
  {
+  "id":"2223-2-F7502Q040",
+  "name":"Applied Marine Geology",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Savini Alessandra",
+   "Fallati Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44744",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7502Q007",
+  "name":"Coastal and Marine Hazard and Resilience",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Schmidt Muller Di Friedberg Marcella"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44724",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7502Q023",
+  "name":"Coastal Risks and Dynamics",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "D'Alessandro Felice"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44723",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7502Q014",
+  "name":"Biofacies",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Maria Basso Daniela",
+   "Malinverno Elisa"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44742",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"2223-2-F7502Q019",
   "name":"Marine Molecular Biology",
   "year":"2022-2023",
@@ -324,6 +2596,29 @@
    "Orlandi Ivan"
   ],
   "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44728",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7502Q042",
+  "name":"Ocean Monitoring and Data Analysis",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Pasquero Claudia",
+   "Desbiolles Fabien"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44746",
   "cycles":[
    "master"
   ],
@@ -378,9 +2673,108 @@
    "Other"
   ],
   "themes":[
-   "life"
+   "life",
+   "pollution"
   ],
   "dedicated":1
+ },
+ {
+  "id":"2223-1-F7601M011",
+  "name":"Geografia del Turismo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Malatesta Stefano"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44866",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7601M050",
+  "name":"Diritto dell'Ambiente e dei Beni Culturali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Salomoni Luciano",
+   "Candido Alessandro",
+   "Camerlengo Quirino"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44860",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-F7601M052",
+  "name":"Programmazione Economico-Territoriale e Politiche del Turismo",
+  "year":"2022-2023",
+  "languages":[
+   "it",
+   "en"
+  ],
+  "teachers":[
+   "Colombo Stefano",
+   "Di Giovinazzo Viviana",
+   "Lanati Mauro"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44874",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F7601M058",
+  "name":"Lingua Spagnola per le Scienze Turistiche",
+  "year":"2022-2023",
+  "languages":[
+   "es"
+  ],
+  "teachers":[
+   "Sagi-vela Gonzalez Ana",
+   "Maria Gonzalez Luna Corvera Ana",
+   "Emanuele Onesti Niccol\u00f2"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44889",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
  },
  {
   "id":"2223-2-F7601M057",
@@ -394,6 +2788,30 @@
    "Anderson Robin"
   ],
   "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44880",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F8203B042",
+  "name":"Modelli Statistici e Inferenza Bayesiana",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pennoni Fulvia",
+   "Pasquale Cortese Federico",
+   "Brusa Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45361",
   "cycles":[
    "master"
   ],
@@ -428,6 +2846,30 @@
   "dedicated":0
  },
  {
+  "id":"2223-2-F7601M061",
+  "name":"Organizzazione e Controllo delle Aziende",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Quacquarelli Barbara",
+   "Massimiliano Corsico Piccolini Emanuele",
+   "Angelo Sancino Alessandro"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44892",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"2223-2-F7502Q018",
   "name":"Management of Aquatic Resources: Fisheries",
   "year":"2022-2023",
@@ -445,6 +2887,7 @@
    "Other"
   ],
   "themes":[
+   "climate",
    "life"
   ],
   "dedicated":0
@@ -462,6 +2905,905 @@
   "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45287",
   "cycles":[
    "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F5103P093",
+  "name":"Pedagogia Interculturale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Agliati Alessia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45075",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F7701M127",
+  "name":"Economia Industriale e della Concorrenza ed Economia dell'Ambiente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Foggia Giacomo",
+   "Beccarello Massimo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45714",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "climate",
+   "economy",
+   "energy",
+   "life",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F8701N081",
+  "name":"Governance e Sistemi Locali di Welfare",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mozzana Carlotta"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45276",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F5106P003",
+  "name":"Psicologia del Pensiero, Decision Making e Comunicazione",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Macchi Laura"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44988",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F5103P102",
+  "name":"Ecologia dello Sviluppo Psicologico",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sergio Bulf Hermann",
+   "Varin Dario"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45073",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-H4101D006",
+  "name":"Chimica Biologica e Biologia Molecolare",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cazzaniga Emanuela",
+   "Noverina Palestini Paola",
+   "Bulbarelli Alessandra"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42498",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-4-H4101D263",
+  "name":"Sanit\u00e0 Pubblica, Igiene e Medicina del Lavoro",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Madotto Fabiana",
+   "Giovanni Mantovani Lorenzo",
+   "Emilia Paladino Maria",
+   "Mazzaglia Giampiero",
+   "Italo D'Orso Marco",
+   "Belingheri Michael",
+   "Beretta Enrico",
+   "Chiara Bonazzi Maria",
+   "Lanfranco Patrizia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42394",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F5701R039",
+  "name":"Pedagogia del Lavoro",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galimberti Andrea"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45535",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E2001R065",
+  "name":"Didattica dei Media",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Moriggi Stefano"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45505",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-F5701R038",
+  "name":"Teorie e Metodologie della Formazione Permanente",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Schiavone Giulia",
+   "Antonacci Francesca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45543",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E3201Q067",
+  "name":"Chimica Generale ed Inorganica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Paolo Tosoni Sergio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43206",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E3201Q008",
+  "name":"Laboratorio di Integrazione I",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Leoni Barbara",
+   "Citterio Sandra",
+   "Lange Heiko",
+   "Maggi Valter",
+   "Vezzoli Giovanni",
+   "Comolli Roberto",
+   "Bani Luciano"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43215",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E3201Q088",
+  "name":"Biologia Animale e Cellulare",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Emilia Colombo Anita",
+   "Bani Luciano",
+   "Gualtieri Maurizio",
+   "Orioli Valerio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43207",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E3201Q069",
+  "name":"Botanica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Citterio Sandra"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43210",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E3201Q110",
+  "name":"Principi di Scienze della Terra",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vezzoli Giovanni",
+   "Bonomi Tullia",
+   "Chiara Onida Monica",
+   "Delmonte Barbara",
+   "Sabatini Daniela"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43211",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-E3201Q073",
+  "name":"Fisica Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Benocci Roberto",
+   "Zambon Giovanni"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43193",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-E3201Q108",
+  "name":"Biochimica e Microbiologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Parenti Paolo",
+   "Franzetti Andrea"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43189",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E3201Q079",
+  "name":"Geopedologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ferr\u00e8 Chiara",
+   "Comolli Roberto"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43201",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E3201Q016",
+  "name":"Laboratorio di Integrazione II",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Parenti Paolo",
+   "Maria Collina Elena",
+   "Urani Chiara",
+   "Greco Claudio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43218",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E3201Q112",
+  "name":"Laboratorio per L\u2019analisi della Qualit\u00e0 Biologica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gandolfi Isabella",
+   "Villa Sara",
+   "Gualtieri Maurizio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43204",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E3201Q072",
+  "name":"Principi di Diritto Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Belviso Luca",
+   "Vernile Scilla"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43182",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-3-E3201Q113",
+  "name":"Strumenti e Metodi per la Sostenibilit\u00e0",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Saliu Francesco",
+   "Maria Collina Elena"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43202",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "economy",
+   "life",
+   "prod&cons",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-E3201Q090",
+  "name":"Geografia Fisica e Sistemi Informativi Territoriali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Delmonte Barbara",
+   "Maggi Valter",
+   "Sironi Simone",
+   "Giovanni Maria De Amicis Mattia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43194",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E4102B020",
+  "name":"Epidemiologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Zambon Antonella"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43506",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E4102B061",
+  "name":"Popolazione, Territorio e Societ\u00e0 I (blended)",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Lorenza Rimoldi Stefania"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43512",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E4001N075",
+  "name":"Psicologia Sociale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pancani Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43569",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-E4001N080",
+  "name":"Sociologia Urbana",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Nuvolati Giampaolo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43560",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E4001N094",
+  "name":"Ambiente e Reti Territoriali",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bernardi Monica",
+   "Sergio D'Agata Senzio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43536",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-3-E4001N089",
+  "name":"Geopolitics",
+  "year":"2022-2023",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Grasso Marco"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43531",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E4001N102",
+  "name":"Laboratorio 2 - Fonti e analisi di dati ecologici nella ricerca sociale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bottini Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43544",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-E3201Q076",
+  "name":"Ecologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Finizio Antonio"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43184",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-F0101R029",
+  "name":"Culture e Societ\u00e0 del Pacifico",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Schierano Paola"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=45517",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E4001N105",
+  "name":"Laboratorio 5 - Analisi di dati geo-referenziati",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caiello Simone"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43546",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E3301M191",
+  "name":"Microeconomia e Storia Economica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mocarelli Luca",
+   "Pagani Laura",
+   "Matteo Stanca Luca"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43229",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E3301M201",
+  "name":"Pianificazione e Politiche Economiche per il Turismo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Macchiavelli Andrea"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43302",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F8802N014",
+  "name":"Politiche Urbane",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caiello Simone",
+   "Colleoni Matteo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44800",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-E3301M193",
+  "name":"Macroeconomia e Politiche Economiche",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Morana Claudio",
+   "Marchesi Silvia",
+   "Mendola Mariapia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43254",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E1501N139",
+  "name":"Fondamenti dei Sistemi Turistici",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Colleoni Matteo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43889",
+  "cycles":[
+   "bac"
   ],
   "fields":[
    "Other"
@@ -490,8 +3832,735 @@
    "Other"
   ],
   "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E1501N092",
+  "name":"Turismo Sostenibile",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Borrelli Nunzia",
+   "Caterina Razzano Chiara"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43895",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-E1501N130",
+  "name":"Marketing per il Turismo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Trivellato Benedetta"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43886",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E1501N104",
+  "name":"Economia Culturale e Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Benetti Stefania",
+   "Ferretto Matilde"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43862",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "prod&cons"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-3-E3901N060",
+  "name":"Laboratorio 4 - Prevenire le dipendenze",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Celata Corrado"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43825",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E1501N113",
+  "name":"Laboratorio 7 - Pianificazione dei trasporti per la mobilit\u00e0 turistica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caiello Simone"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43865",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E1501N082",
+  "name":"Archeologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vismara Novella"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43861",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E2702Q043",
+  "name":"Controllo Ambientale e Sicurezza",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fregni Alessandro"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43124",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-3-E1501N114",
+  "name":"Laboratorio 8 - Comunicazione multimediale applicata al turismo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Leotta Nicol\u00f2"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43867",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E2702Q110",
+  "name":"Elementi di Polimeri",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bracco Silvia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43115",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E3401Q040",
+  "name":"Geografia Fisica",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "And\u00f2 Sergio",
+   "Bosino Alberto"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43048",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
    "life",
    "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-E3401Q006",
+  "name":"Paleontologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maria Basso Daniela",
+   "Malinverno Elisa",
+   "Alice Bracchi Valentina"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43058",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E3401Q057",
+  "name":"Geomorfologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bosino Alberto",
+   "Maggi Valter"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43052",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E3401Q053",
+  "name":"Introduzione alla Geografia degli Oceani",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Malinverno Elisa",
+   "Savini Alessandra"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43041",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E3401Q046",
+  "name":"Georisorse",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cavallo Alessandro"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43053",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E0201Q079",
+  "name":"Processi Biotecnologici e Bioraffinerie",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Branduardi Paola"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42914",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "energy",
+   "life",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-E1301Q082",
+  "name":"Microbiologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Gennaro Patrizia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42960",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E1301Q059",
+  "name":"Ecologia Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Federica Maria Mezzanotte Valeria"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42949",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-E0201Q069",
+  "name":"Microbiologia Industriale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Branduardi Paola"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42932",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-3-E1301Q060",
+  "name":"Sistematica Vegetale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Labra Massimo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42950",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-E1301Q087",
+  "name":"Ecologia",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galli Paolo",
+   "Leoni Barbara",
+   "Montalbetti Enrico",
+   "Montano Simone"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42963",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-2-E0201Q052",
+  "name":"Laboratori di Tecnologie Abilitanti",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Stucchi Giulia",
+   "Colombo Sonia",
+   "Clerici Michela",
+   "Ceriani Michela",
+   "Mingozzi Francesca",
+   "Casari Erika",
+   "Maria Teresa Mapelli Valeria",
+   "Orlandi Ivan",
+   "Bonetti Diego",
+   "Tripodi Farida",
+   "Chiaradonna Ferdinando",
+   "Serra Immacolata",
+   "Cotugno Davide",
+   "Baeri Alberto",
+   "Fraschini Roberta",
+   "Andreata Francesco",
+   "Maria Colangelo Anna",
+   "Frascotti Gianni",
+   "Strati Francesco",
+   "Anita Tisi Renata",
+   "Giuseppe Brambilla Luca",
+   "Fiandra Luisa",
+   "Rocca Giuseppe",
+   "Ferrari Daniela"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=42934",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-I0202D123",
+  "name":"Scienze Neurologiche e Neurochirurgiche Infantili",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Coco Silvia",
+   "Nacinovich Renata",
+   "Marfone Mirella",
+   "Stoppa Patrizia",
+   "Eugenio Cavanna Andrea",
+   "Giorgio Giussani Carlo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43922",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-FSG01A010",
+  "name":"Diritto Ambientale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44697",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"2223-1-I0303D005",
+  "name":"Prevenzione Sanitaria",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Serino Silvia",
+   "Augusto Riva Michele",
+   "Moretti Antonella",
+   "Bianchi Claudia",
+   "Alberio Massimo",
+   "Vitali Elisabetta",
+   "Arcangeli Stefano",
+   "Francesco Farina Claudio",
+   "De Ponti Elena",
+   "Maria Bignamini Chiara",
+   "Cologni Luigi"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44216",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E2401P010",
+  "name":"Psicologia dello Sviluppo",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caprin Claudia",
+   "Marina Macchi Cassia Viola"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43725",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-E2401P136",
+  "name":"Psicologia Sociale Applicata",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mari Silvia"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43712",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-E2004P005",
+  "name":"Psicologia Sociale",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Riva Paolo"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=43796",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-I0301D004",
+  "name":"Prevenzione Sanitaria",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Belingheri Michael",
+   "Augusta Bodega Valeria"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44286",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-1-I0302D004",
+  "name":"Prevenzione Sanitaria",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Corti Nicole"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44376",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"2223-2-F0901D058",
+  "name":"Nutrizione: dagli Alimenti Ai New Foods",
+  "year":"2022-2023",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cazzaniga Emanuela",
+   "Noverina Palestini Paola",
+   "Sculati Michele"
+  ],
+  "url":"https:\/\/elearning.unimib.it\/course\/info.php?id=44453",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
   ],
   "dedicated":0
  }

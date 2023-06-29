@@ -19,32 +19,12 @@
    "Other"
   ],
   "themes":[
-   "economy"
+   "economy",
+   "energy",
+   "pollution",
+   "prod&cons"
   ],
-  "dedicated":1
- },
- {
-  "id":"607344",
-  "name":"Economic Geography In The Anthropocene & Socio-Ecological Transition Policies (With Lab)",
-  "year":"2022-2023",
-  "url":"https:\/\/www.unifi.it\/p-ins2-2022-607344-0.html",
-  "languages":[
-   "en"
-  ],
-  "teachers":[
-   "Martellozzo Federico",
-   "Randelli Filippo"
-  ],
-  "cycles":[
-   "bac"
-  ],
-  "fields":[
-   "Other"
-  ],
-  "themes":[
-   "life"
-  ],
-  "dedicated":1
+  "dedicated":0
  },
  {
   "id":"607355",
@@ -114,6 +94,642 @@
   "dedicated":0
  },
  {
+  "id":"610006",
+  "name":"Zootecnia Biologica, Salute E Benessere Degli Animali",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-610006-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"610014",
+  "name":"Ecologia Forestale",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-610014-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cocozza  Claudia",
+   "Raddi  Sabrina"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"611104",
+  "name":"Gestione Delle Risorse Foraggere E Pastorali",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611104-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Argenti  Giovanni"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"611105",
+  "name":"Diritto Ambientale",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611105-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ferrucci  Nicoletta"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"611108",
+  "name":"Conservazione Della Fauna",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611108-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Dapporto  Leonardo",
+   "Fratini  Sara"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"611110",
+  "name":"Gestione Dell'Ittiofauna",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611110-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Parisi  Giuliana"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"611130",
+  "name":"Entomologia Merceologica E Patologie In Post-Raccolta",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611130-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Marchi  Guido",
+   "Rosi  Marzia Cristiana"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"611745",
+  "name":"Sicurezza Ed Energia Nell'Impiantistica",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611745-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Masella  Piernicola",
+   "Parenti  Alessandro"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"611792",
+  "name":"Gestione Ecologica Ed Agronomica Del Vigneto",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611792-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Dalla Marta  Anna"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"611836",
+  "name":"Laboratorio Di Risorse Forestali",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611836-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Santoro  Antonio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"611839",
+  "name":"Elementi Di Botanica Generale",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611839-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Macchioni  Nicola",
+   "Pollastrini  Martina"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"611841",
+  "name":"Elementi Di Economia E Marketing Per Le Imprese Del Legno",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611841-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fratini  Roberto"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"611844",
+  "name":"Risorse Forestali",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-611844-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Santoro  Antonio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"612125",
+  "name":"Diritto Delle Biotecnologie Agroambientali",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-612125-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mauro  Mario"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"612126",
+  "name":"Energia E Biomateriali Da Processi Microbici",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-612126-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rodolfi  Liliana"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"612128",
+  "name":"Biotecnologie Per Lo Studio E Il Recupero Del Suolo",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-612128-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pietramellara  Giacomo"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"612129",
+  "name":"Cambiamenti Climatici E Loro Effetti Su Agro-Ambiente E Produzione Primaria Agraria",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-612129-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bindi  Marco",
+   "Ferrise  Roberto"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"612130",
+  "name":"Bioeconomia E Politiche Ambientali",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-612130-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Boncinelli  Fabio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"616220",
+  "name":"Laboratorio Di Ambiente E Cultura",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-616220-0.html",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "teachers":[
+   "Niccoli Ariele"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"618192",
+  "name":"Pedagogia Interculturale Dello Sviluppo Sostenibile Per La Transizione Ecologica Con Laboratorio",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-618192-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"623486",
+  "name":"Fondamenti Di Ecologia Generale",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-623486-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cocozza  Claudia",
+   "Raddi  Sabrina"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"626794",
+  "name":"Energetica Del Sistema Edificio-Impianto\/Impianti Tecnici Civili C.I.",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-626794-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rocchetti  Andrea"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"627094",
+  "name":"Macchine Elettriche",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-627094-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mastromauro  Rosa Anna"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"627530",
+  "name":"Fluvial Hydraulics",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-627530-0.html",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Paris Enio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"627531",
+  "name":"Engineering Geomorphology",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-627531-0.html",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Moretti Sandro",
+   "Confuorto Pierluigi"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"627536",
+  "name":"Coastal Dynamics",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-627536-0.html",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Simonetti Irene",
+   "Cappietti Lorenzo"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"627609",
+  "name":"Lca, Economia Circolare E Materiali Innovativi",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-627609-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Trombadore  Antonella",
+   "Dipasquale  Letizia"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"627620",
+  "name":"Fashion Law C.I.",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-627620-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Barsotti  Vittoria",
+   "Palandri  Lucrezia"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"627630",
   "name":"Demography And Tourism",
   "year":"2022-2023",
@@ -157,6 +773,542 @@
   "themes":[
    "life"
   ],
+  "dedicated":0
+ },
+ {
+  "id":"627639",
+  "name":"Destination Management",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-627639-0.html",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Rosati Massimo"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"628048",
+  "name":"Climatologia E Geografia Fisica",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-628048-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Piccini  Leonardo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
   "dedicated":1
+ },
+ {
+  "id":"628074",
+  "name":"Geografia Fisica E Geomorfologia",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-628074-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Raspini  Federico",
+   "Moretti  Sandro"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"628156",
+  "name":"Zoologia Con Laboratorio",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-628156-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Baracchi  David",
+   "Cannicci  Stefano"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"632566",
+  "name":"Tecnologia Del Legno E Dei Materiali Bio-Based",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-632566-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fioravanti  Marco",
+   "Goli  Giacomo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"633407",
+  "name":"Analisi Del Territorio E Degli Insediamenti",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-633407-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fanfani  David",
+   "Gisotti  Maria Rita",
+   "Saragosa  Claudio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"633502",
+  "name":"Scienze Infermieristiche Generali, Cliniche E Pediatriche I",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-633502-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Braschi  Francesca",
+   "Lumachi  Laura",
+   "Pietrini  Luca",
+   "Brandi  Angela",
+   "Gregorini  Mirco",
+   "Visceglia  Maria",
+   "Nardini  Francesca"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"633537",
+  "name":"Approfondimenti Nell'Area Del Management I",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-633537-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Braschi  Francesca"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"633544",
+  "name":"Approfondimenti Nell'Area Del Management Ii",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-633544-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Braschi  Francesca"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"633554",
+  "name":"Seminario Di Studio Nell'Area Del Management Ii",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-633554-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Braschi  Francesca"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"634736",
+  "name":"Fondamenti Di Urbanistica",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-634736-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Carta  Massimo",
+   "Babalis  Dimitra",
+   "Scamporrino  Matteo",
+   "Perrone  Camilla"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"635044",
+  "name":"Etica Ambientale E Filosofia Dell'Antropocene",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-635044-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galletti  Matteo"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"635097",
+  "name":"Temi Avanzati Di Estetica Contemporanea",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-635097-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Portera  Mariagrazia"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"635098",
+  "name":"Temi Avanzati Di Estetica Contemporanea",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-635098-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Portera  Mariagrazia"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"635099",
+  "name":"Temi Avanzati Di Estetica Contemporanea",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-635099-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Portera  Mariagrazia"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"635109",
+  "name":"Temi Avanzati Di Estetica Contemporanea",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-635109-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Portera  Mariagrazia"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"635114",
+  "name":"Teorie Del Mutamento Sociale",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-635114-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bazzani  Giacomo",
+   "Bontempi  Marco"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"637661",
+  "name":"Filosofia Dell'Educazione E Della Comunicazione",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-637661-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mariani  Alessandro"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"637897",
+  "name":"Teorie Del Mutamento Sociale",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-637897-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bazzani  Giacomo",
+   "Bontempi  Marco"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"638446",
+  "name":"Scienze Propedeutiche",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-638446-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Marrazzo  Livia",
+   "Grisotto  Laura",
+   "Guelfi  Maria Renza",
+   "Sciagra'  Roberto"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"638452",
+  "name":"Chimica E Tecnologie Alimentari",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-638452-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vignolini  Pamela",
+   "Spinelli  Sara",
+   "Innocenti  Marzia"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"640439",
+  "name":"Igiene E Scienze Informatiche E Statistiche",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-640439-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lorini  Chiara",
+   "Benucci  Paolo",
+   "Bonaccorsi  Guglielmo",
+   "D'Agostino  Giuseppe",
+   "Grisotto  Laura",
+   "Pentella  Tommaso"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"641151",
+  "name":"Basi Generali Di Processi Morbosi, Prevenzione E Trattamento",
+  "year":"2022-2023",
+  "url":"https:\/\/www.unifi.it\/p-ins2-2022-641151-0.html",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caderni  Giovanna",
+   "Donato  Rosa",
+   "Giannecchini  Simone",
+   "Rovida  Elisabetta"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
  }
 ]

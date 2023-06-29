@@ -155,6 +155,54 @@
   "dedicated":0
  },
  {
+  "id":"051184",
+  "name":"Tecnologie Innovative Per L'Energia",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=352&k_indir=E5N&codDescr=051184&lang=IT&semestre=1&anno_corso=3&idItemOfferta=161350&idRiga=287348",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mereu Riccardo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"051189",
+  "name":"Progettazione Di Impianti Energetici Negli Edifici - Diagnosi E Certificazioni Energetiche",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=352&k_indir=E5N&codDescr=051189&lang=IT&semestre=2&anno_corso=3&idItemOfferta=161352&idRiga=287351",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "La Mura Sergio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"051249",
   "name":"Design Per La Sostenibilit\u00e0 Ambientale",
   "year":"2022-2023",
@@ -172,8 +220,31 @@
    "Other"
   ],
   "themes":[
+   "economy",
    "energy",
    "life",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"051250",
+  "name":"Strategia Ed Economia Del Progetto",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=19&k_corso_la=1090&k_indir=P1&codDescr=051250&lang=IT&semestre=2&anno_corso=3&idItemOfferta=161996&idRiga=288860",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Dell'Era Claudio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
    "resources"
   ],
   "dedicated":0
@@ -277,6 +348,76 @@
   "dedicated":0
  },
  {
+  "id":"051495",
+  "name":"Laboratorio Di Urbanistica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1217&k_indir=ADU&codDescr=051495&lang=IT&semestre=1&anno_corso=1&idItemOfferta=163009&idRiga=291485",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Marini Edoardo",
+   "Tamini Luca"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"051498",
+  "name":"Laboratorio Di Costruibilita' E Sostenibilita' Del Progetto",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1217&k_indir=ADU&codDescr=051498&lang=IT&semestre=1&anno_corso=1&idItemOfferta=163008&idRiga=291484",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Leonforte Fabrizio",
+   "Delera Anna Caterina"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"051509",
+  "name":"Diritto Dell'Energia",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=479&k_indir=ENM&codDescr=051509&lang=IT&semestre=2&anno_corso=2&idItemOfferta=159678&idRiga=282977",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caruccio Lorenzo Silvio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"051520",
   "name":"Construction And Sustainability Design Studio",
   "year":"2022-2023",
@@ -302,6 +443,29 @@
   "dedicated":1
  },
  {
+  "id":"051555",
+  "name":"Laboratorio Di Progetto E Costruzione Dell'Architettura",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=051555&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162773&idRiga=290770",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Formis Luca Francesco",
+   "Ginelli Elisabetta"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"051571",
   "name":"Design And Construction Studio",
   "year":"2022-2023",
@@ -324,6 +488,28 @@
    "energy",
    "life",
    "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"051592",
+  "name":"Tecnica Delle Costruzioni",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1217&k_indir=ADU&codDescr=051592&lang=IT&semestre=1&anno_corso=1&idItemOfferta=163006&idRiga=291480",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Quaglini Virginio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
   ],
   "dedicated":0
  },
@@ -395,6 +581,28 @@
   "themes":[
    "life",
    "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052345",
+  "name":"Laboratorio Di Microreti",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=352&k_indir=E1N&codDescr=052345&lang=IT&semestre=2&anno_corso=3&idItemOfferta=161342&idRiga=287336",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Marcoberardino Gioele"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
   ],
   "dedicated":0
  },
@@ -492,6 +700,170 @@
   "dedicated":1
  },
  {
+  "id":"052408",
+  "name":"Modelli Statistici E Processi Stocastici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2A&codDescr=052408&lang=IT&semestre=1&anno_corso=1&idItemOfferta=158708&idRiga=279859",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Epifani Ilenia"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052460",
+  "name":"Sistemi Energetici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=394&k_indir=PND&codDescr=052460&lang=IT&semestre=1&anno_corso=3&idItemOfferta=159549&idRiga=282386",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bonalumi Davide"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "climate",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"052461",
+  "name":"Applicazioni Dell'Energia Elettrica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=394&k_indir=PND&codDescr=052461&lang=IT&semestre=1&anno_corso=3&idItemOfferta=159549&idRiga=282387",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Grimaccia Francesco"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"052518",
+  "name":"Idrologia",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=052518&lang=IT&semestre=1&anno_corso=3&idItemOfferta=163052&idRiga=291689",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Michele Carlo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052522",
+  "name":"Economia Ambientale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=052522&lang=IT&semestre=2&anno_corso=1&idItemOfferta=158746&idRiga=279937",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tavoni Massimo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"052566",
+  "name":"Pianificazione Territoriale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=052566&lang=IT&semestre=1&anno_corso=3&idItemOfferta=163054&idRiga=291694",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fossa Giovanna"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy",
+   "life",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052567",
+  "name":"Prova Finale (Iat-Icar\/20)",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=052567&lang=IT&semestre=1&anno_corso=3&idItemOfferta=163054&idRiga=291695",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fossa Giovanna"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"052572",
   "name":"Materials For Electrical Applications",
   "year":"2022-2023",
@@ -532,6 +904,82 @@
   ],
   "themes":[
    "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052620",
+  "name":"Tecnica Urbanistica 1 + Laboratorio",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=052620&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162743&idRiga=290698",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pinto Fulvia"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "life",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052623",
+  "name":"Laboratorio Di Architettura Tecnica Ed Ergotecnica Edile",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=052623&lang=IT&semestre=3&anno_corso=3&idItemOfferta=162748&idRiga=290719",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mazzucchelli Enrico Sergio",
+   "Villa Valentina",
+   "Seghezzi Elena",
+   "Poli Tiziana"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052641",
+  "name":"Progettazione Urbanistica + Laboratorio",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1098&k_indir=UPD&codDescr=052641&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162573&idRiga=293452",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Minucci Guido",
+   "Colucci Angela"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04",
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
   ],
   "dedicated":0
  },
@@ -721,6 +1169,166 @@
   "dedicated":1
  },
  {
+  "id":"052921",
+  "name":"Fisica Tecnica E Impianti",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=MNA&codDescr=052921&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162786&idRiga=290790",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mazzon Manlio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052928",
+  "name":"Laboratorio Di Conservazione Dell'Edilizia Storica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=MIA&codDescr=052928&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162658&idRiga=290567",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Landi Angelo Giuseppe",
+   "Brumana Raffaella"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052934",
+  "name":"Laboratorio Di Conservazione Dell'Edilizia Storica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=MIA&codDescr=052934&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162658&idRiga=290569",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cardani Giuliana",
+   "Fiorillo Fausta"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052937",
+  "name":"Laboratorio Di Conservazione Dell'Edilizia Storica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=MIA&codDescr=052937&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162658&idRiga=290570",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Riva Nicolo' Carlo Maria",
+   "Albani Francesca Lucia Maria"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052940",
+  "name":"Laboratorio Di Conservazione Dell'Edilizia Storica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=MIA&codDescr=052940&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162658&idRiga=290571",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Condoleo Paola",
+   "Barazzetti Luigi"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052969",
+  "name":"Diritto Della Rigenerazione Urbana",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1098&k_indir=UPD&codDescr=052969&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162573&idRiga=290265",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mantini Pierluigi"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"052991",
+  "name":"Laboratorio Di Conservazione Dell'Edilizia Storica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=MIA&codDescr=052991&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162658&idRiga=290572",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tiganea Oana Cristina",
+   "Aliverti Lucia"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"053002",
   "name":"Contemporary Architectural Design Theory",
   "year":"2022-2023",
@@ -809,6 +1417,30 @@
   ],
   "themes":[
    "energy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"053098",
+  "name":"Laboratorio Di Progettazione Finale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=PCA&codDescr=053098&lang=IT&semestre=2&anno_corso=3&idItemOfferta=162626&idRiga=290364",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Clerici Maria Antonietta",
+   "Oldani Andrea",
+   "Bellintani Stefano"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
    "life"
   ],
   "dedicated":0
@@ -1096,6 +1728,72 @@
   "dedicated":1
  },
  {
+  "id":"054121",
+  "name":"Laboratorio Di Processi Metallurgici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=367&k_indir=PPF&codDescr=054121&lang=IT&semestre=1&anno_corso=3&idItemOfferta=159216&idRiga=280942",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Baggioli Andrea"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"054150",
+  "name":"Modellistica Delle Macchine E Degli Impianti Elettrici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=349&k_indir=R1O&codDescr=054150&lang=IT&semestre=2&anno_corso=3&idItemOfferta=160982&idRiga=286443",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Carmeli Maria Stefania"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"054151",
+  "name":"Prova Finale (Modellistica Delle Macchine E Degli Impianti Elettrici)",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=349&k_indir=R1O&codDescr=054151&lang=IT&semestre=2&anno_corso=3&idItemOfferta=160982&idRiga=286444",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Carmeli Maria Stefania"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"054173",
   "name":"Smart Grids: Components, Functionalities And Benefits",
   "year":"2022-2023",
@@ -1137,6 +1835,53 @@
   ],
   "themes":[
    "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"054180",
+  "name":"Ecologia",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=054180&lang=IT&semestre=2&anno_corso=2&idItemOfferta=158753&idRiga=279944",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Casagrandi Renato"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "climate",
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"054181",
+  "name":"Modellistica E Simulazione",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=054181&lang=IT&semestre=2&anno_corso=2&idItemOfferta=158752&idRiga=279943",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Guariso Giorgio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
   ],
   "dedicated":0
  },
@@ -1185,6 +1930,28 @@
    "energy"
   ],
   "dedicated":1
+ },
+ {
+  "id":"054226",
+  "name":"Elettrotecnica E Elettronica Applicata",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=350&k_indir=AER&codDescr=054226&lang=IT&semestre=1&anno_corso=2&idItemOfferta=159434&idRiga=282233",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Zich Riccardo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
  },
  {
   "id":"054242",
@@ -1249,6 +2016,28 @@
   ],
   "themes":[
    "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"054264",
+  "name":"Chimica Generale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=348&k_indir=U1L&codDescr=054264&lang=IT&semestre=1&anno_corso=1&idItemOfferta=161309&idRiga=287283",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sebastiano Roberto"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
   ],
   "dedicated":0
  },
@@ -1371,6 +2160,147 @@
   "dedicated":0
  },
  {
+  "id":"054374",
+  "name":"Tecnica Urbanistica 2",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=054374&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162515&idRiga=290138",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bonfantini Giuseppe Bertrando"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"054376",
+  "name":"Ci Metodi E Tecniche Della Valutazione Ambientale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=054376&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162517&idRiga=290140",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ronchi Silvia",
+   "Arcidiacono Andrea"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"054387",
+  "name":"Economia E Pianificazione Dei Trasporti",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=054387&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162520&idRiga=290144",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Beria Paolo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"054388",
+  "name":"Ci Metodi E Strumenti Della Prevenzione E Gestione Dei Rischi",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=054388&lang=IT&semestre=2&anno_corso=3&idItemOfferta=162523&idRiga=290148",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pergalani Floriana",
+   "Gazzola Veronica"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"054397",
+  "name":"Laboratorio Di Architettura Tecnica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=497&k_indir=IE1&codDescr=054397&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162714&idRiga=290635",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Poli Tiziana"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"054399",
+  "name":"Laboratorio Di Integrazione Impiantistica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=497&k_indir=IE1&codDescr=054399&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162715&idRiga=290636",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mazzucchelli Enrico Sergio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "climate",
+   "energy",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"054400",
   "name":"Ecology And Agronomic Science",
   "year":"2022-2023",
@@ -1488,6 +2418,29 @@
   ],
   "themes":[
    "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"054427",
+  "name":"Laboratorio Di Architettura E Composizione Architettonica M",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=054427&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162750&idRiga=290721",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Carones Maurizio"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate"
   ],
   "dedicated":0
  },
@@ -1843,6 +2796,28 @@
   "dedicated":0
  },
  {
+  "id":"054531",
+  "name":"Diritto Dell'Edilizia E Degli Appalti",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1017&k_indir=COS&codDescr=054531&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162995&idRiga=291468",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Iacovelli Danila"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"054571",
   "name":"Smart Cities And Urban Innovation",
   "year":"2022-2023",
@@ -2169,6 +3144,29 @@
   "dedicated":0
  },
  {
+  "id":"055363",
+  "name":"Diritto Dell'Energia",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=1096&k_indir=ME3&codDescr=055363&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162811&idRiga=290828",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caruccio Lorenzo Silvio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"055385",
   "name":"Network Interface",
   "year":"2022-2023",
@@ -2215,6 +3213,146 @@
   "dedicated":1
  },
  {
+  "id":"055401",
+  "name":"Gestione Degli Impianti Industriali",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=367&k_indir=PPG&codDescr=055401&lang=IT&semestre=1&anno_corso=3&idItemOfferta=159227&idRiga=280956",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sala Guido"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055472",
+  "name":"Strategie Per Le Sfide Ambientali [C]",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=055472&lang=IT&semestre=2&anno_corso=3&idItemOfferta=163057&idRiga=291696",
+  "languages":[
+   "Insegnamento erogato in lingua     --"
+  ],
+  "teachers":[
+   "Turolla Andrea"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"055534",
+  "name":"Progetto Di Impianti Negli Edifici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1142&k_indir=PEC&codDescr=055534&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162935&idRiga=291277",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Motta Mario Gualtiero Francesco"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "climate",
+   "energy",
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055535",
+  "name":"Progettazione Edilizia Integrata",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1142&k_indir=PEC&codDescr=055535&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162938&idRiga=291290",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ruta Matteo Francesco"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055536",
+  "name":"Progettazione Di Sottosistemi E Componenti Edilizi",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1142&k_indir=PEC&codDescr=055536&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162934&idRiga=291276",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mainini Andrea Giovanni"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "economy",
+   "energy",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055538",
+  "name":"Fondamenti Di Tecnologia Dell'Architettura",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=MNA&codDescr=055538&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162783&idRiga=290787",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Migliore Marco"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"055545",
   "name":"Architectural Technology Fundamentals",
   "year":"2022-2023",
@@ -2256,6 +3394,104 @@
   ],
   "themes":[
    "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055566",
+  "name":"Geotecnica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=306&k_indir=CMG&codDescr=055566&lang=IT&semestre=1&anno_corso=3&idItemOfferta=158848&idRiga=280152",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galli Andrea"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055572",
+  "name":"Fenomeni E Controllo Delle Alterazioni Ambientali",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=306&k_indir=CMG&codDescr=055572&lang=IT&semestre=2&anno_corso=3&idItemOfferta=158850&idRiga=280155",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rigamonti Lucia"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"055604",
+  "name":"Laboratorio Di Strutture E Infrastrutture Nel Paesaggio",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1017&k_indir=COS&codDescr=055604&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162989&idRiga=291460",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gianinetto Marco",
+   "Guidarini Stefano",
+   "Smerzini Chiara"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055613",
+  "name":"Laboratorio Di Architettura Delle Costruzioni Complesse II",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1017&k_indir=COS&codDescr=055613&lang=IT&semestre=3&anno_corso=2&idItemOfferta=162993&idRiga=291465",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Monestiroli Tomaso",
+   "Oliaro Paolo",
+   "Re Cecconi Fulvio",
+   "Mpampatsikos Vassilis",
+   "Gallo Stampino Paola"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "energy",
+   "life",
+   "resources"
   ],
   "dedicated":0
  },
@@ -2733,6 +3969,126 @@
   "dedicated":0
  },
  {
+  "id":"055821",
+  "name":"Laboratorio Di Urbanistica 2",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=055821&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162519&idRiga=290142",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mareggi Marco",
+   "Salata Stefano"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055838",
+  "name":"Laboratorio Di Architettura E Composizione Architettonica Xl",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=055838&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162737&idRiga=290692",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cesena Fausto",
+   "Poggioli Piero"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055842",
+  "name":"Laboratorio Di Economia E Pianificazione Territoriale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=055842&lang=IT&semestre=2&anno_corso=4&idItemOfferta=162758&idRiga=290730",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cerisola Silvia",
+   "Pinto Fulvia"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055847",
+  "name":"Modellazione Informativa E Coordinamento Prova Finale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=055847&lang=IT&semestre=3&anno_corso=5&idItemOfferta=162761&idRiga=290734",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Poggioli Piero",
+   "Ruta Matteo Francesco",
+   "Bozzoli Parasacchi Dario"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "energy",
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055851",
+  "name":"Fondamenti Di Motori A Combustione Interna",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=353&k_indir=VA2&codDescr=055851&lang=IT&semestre=1&anno_corso=3&idItemOfferta=160057&idRiga=283942",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sforza Lorenzo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"055856",
   "name":"Advanced Manufacturing Processes Lab A",
   "year":"2022-2023",
@@ -2818,6 +4174,29 @@
   "themes":[
    "economy",
    "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055871",
+  "name":"Teorie Dell'Urbanistica E Della Pianificazione Del Territorio",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=055871&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162508&idRiga=290131",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lanzani Arturo Sergio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
   ],
   "dedicated":0
  },
@@ -2995,6 +4374,361 @@
   "dedicated":0
  },
  {
+  "id":"055983",
+  "name":"Laboratorio Di Progettazione Architettonica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=055983&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162767&idRiga=290749",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rebecchi Andrea",
+   "Ravegnani Morosini Roberto"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055988",
+  "name":"Laboratorio Di Progettazione Architettonica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=055988&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162767&idRiga=290750",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Franco Andrea",
+   "Cognetti De Martiis Francesca"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055990",
+  "name":"Laboratorio Di Progettazione Architettonica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=055990&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162767&idRiga=290751",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lunati Angelo Raffaele",
+   "Gasparini Christian"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055992",
+  "name":"Laboratorio Di Progettazione Architettonica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=055992&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162767&idRiga=290753",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Puglisi Valentina",
+   "Calzoni Sonia Beatrice"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055994",
+  "name":"Laboratorio Di Progettazione Architettonica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=055994&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162767&idRiga=290752",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Orsini Filippo",
+   "Pastore Maria Chiara"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055995",
+  "name":"Laboratorio Di Progettazione Architettonica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=055995&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162767&idRiga=290754",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Forino Immacolata Concezione",
+   "Lucchini Marco"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055998",
+  "name":"Fisica Tecnica E Impianti",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=055998&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162771&idRiga=290763",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sarto Luca"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"055999",
+  "name":"Fisica Tecnica E Impianti",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=055999&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162771&idRiga=290764",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caputo Paola"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056000",
+  "name":"Laboratorio Di Architettura Degli Interni",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=056000&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162772&idRiga=290765",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ghidoni Matteo",
+   "Dalla Valle Anna"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056002",
+  "name":"Laboratorio Di Architettura Degli Interni",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=056002&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162772&idRiga=290766",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cao Elena",
+   "Basso Peressut Gian Luca Francesco"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056006",
+  "name":"Laboratorio Di Architettura Degli Interni",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=056006&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162772&idRiga=290768",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gabaglio Rossana",
+   "Varvaro Stefania"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056008",
+  "name":"Laboratorio Di Architettura Degli Interni",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=056008&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162772&idRiga=290769",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ottolini Lola Elisabetta",
+   "Catalanotti Cristina"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056025",
+  "name":"Laboratorio Tematico",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=056025&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162776&idRiga=290775",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lavagna Monica",
+   "Comi Giovanni"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "economy",
+   "life",
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056029",
+  "name":"Laboratorio Tematico",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=056029&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162776&idRiga=290777",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gritti Andrea",
+   "Pracchi Valeria Natalina"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056037",
+  "name":"Ci Urbanistica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=056037&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162777&idRiga=290780",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Peraboni Carlo",
+   "Mariotti Ilaria"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"056058",
   "name":"Architectural Design Studio",
   "year":"2022-2023",
@@ -3134,6 +4868,30 @@
    "energy",
    "life",
    "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056071",
+  "name":"New Interiors 1",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=19&k_corso_la=1260&k_indir=IS1&codDescr=056071&lang=IT&semestre=1&anno_corso=1&idItemOfferta=161788&idRiga=288298",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lecce Chiara",
+   "Levanti Giovanni"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "transport"
   ],
   "dedicated":0
  },
@@ -3399,6 +5157,29 @@
   "dedicated":0
  },
  {
+  "id":"056135",
+  "name":"Cambiamenti Climatici E Resilienza Idrologica Urbana",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1187&k_indir=LLH&codDescr=056135&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162600&idRiga=290318",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bocchiola Daniele"
+  ],
+  "cycles":[
+   "bac",
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"056136",
   "name":"Landscape And Public Space Design",
   "year":"2022-2023",
@@ -3451,6 +5232,29 @@
   "dedicated":0
  },
  {
+  "id":"056195",
+  "name":"Laboratorio Di Componenti E Sistemi Edilizi E Impiantistici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=497&k_indir=IE1&codDescr=056195&lang=IT&semestre=1&anno_corso=2&idItemOfferta=163095&idRiga=291852",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Salvalai Graziano"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"056258",
   "name":"Geotechnical Modelling",
   "year":"2022-2023",
@@ -3471,6 +5275,51 @@
    "life"
   ],
   "dedicated":0
+ },
+ {
+  "id":"056328",
+  "name":"Sviluppo Imprenditoriale E Politiche Territoriali",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1085&k_indir=SAL&codDescr=056328&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162542&idRiga=290192",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Saguatti Alessandro"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056444",
+  "name":"Diritto Dell'Ambiente",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1187&k_indir=LLH&codDescr=056444&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162600&idRiga=292592",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Basile Francesco"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
  },
  {
   "id":"056516",
@@ -3662,6 +5511,29 @@
   "dedicated":1
  },
  {
+  "id":"056944",
+  "name":"Ingegneria Delle Prestazioni Degli Edifici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1142&k_indir=PEC&codDescr=056944&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162932&idRiga=291274",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Angelis Enrico",
+   "Fiori Matteo Paolo Giovanni"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"056956",
   "name":"Thermoeconomics And Energy Modeling",
   "year":"2022-2023",
@@ -3683,6 +5555,103 @@
    "pollution"
   ],
   "dedicated":1
+ },
+ {
+  "id":"056969",
+  "name":"Seminario Tematico Di Ricerca",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1217&k_indir=ADU&codDescr=056969&lang=IT&semestre=1&anno_corso=2&idItemOfferta=163015&idRiga=291500",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rosso Renzo",
+   "Dessi' Valentina Maddalena"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056970",
+  "name":"Seminario Tematico Di Ricerca",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1217&k_indir=ADU&codDescr=056970&lang=IT&semestre=2&anno_corso=2&idItemOfferta=163015&idRiga=291501",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vanetti Dario",
+   "Bertelli Guya Grazia Maria"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056975",
+  "name":"Laboratorio Tematico",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1217&k_indir=ADU&codDescr=056975&lang=IT&semestre=1&anno_corso=2&idItemOfferta=163016&idRiga=291504",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lepratto Fabio",
+   "Bellini Oscar Eugenio",
+   "Crespi Pietro Giuseppe"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"056980",
+  "name":"Laboratorio Tematico",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1217&k_indir=ADU&codDescr=056980&lang=IT&semestre=2&anno_corso=2&idItemOfferta=163016&idRiga=291505",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Vita Stefano",
+   "Vigotti Francesca",
+   "Menini Giacomo"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "life"
+  ],
+  "dedicated":0
  },
  {
   "id":"056998",
@@ -3707,6 +5676,28 @@
    "carbon",
    "climate",
    "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"057004",
+  "name":"Laboratorio Progettuale Di Ingegneria Chimica + Prova Finale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=347&k_indir=N1L&codDescr=057004&lang=IT&semestre=1&anno_corso=3&idItemOfferta=161306&idRiga=292572",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pelucchi Matteo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
   ],
   "dedicated":0
  },
@@ -4020,6 +6011,52 @@
   "dedicated":1
  },
  {
+  "id":"057103",
+  "name":"Adattabilita' E Rigenerazione Degli Edifici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=497&k_indir=IE1&codDescr=057103&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162719&idRiga=290645",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Grecchi Manuela"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"057106",
+  "name":"Principi Diconservazione Degli Edifici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=497&k_indir=IE1&codDescr=057106&lang=IT&semestre=2&anno_corso=3&idItemOfferta=162719&idRiga=290648",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cantini Lorenzo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"057133",
   "name":"Sustainable Architecture Construction Studio",
   "year":"2022-2023",
@@ -4072,6 +6109,56 @@
   "dedicated":1
  },
  {
+  "id":"057159",
+  "name":"Festinalente: Pianificazione E Progettazione Di Linee Lente Ciclabili E Camminabili",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1098&k_indir=UPD&codDescr=057159&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162573&idRiga=290267",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pileri Paolo"
+  ],
+  "cycles":[
+   "bac",
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"057164",
+  "name":"Strumenti Per La Valutazione Della Sostenibilita' Ambientale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=057164&lang=IT&semestre=1&anno_corso=5&idItemOfferta=162764&idRiga=290743",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Assumma Vanessa",
+   "Pittau Francesco"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"057174",
   "name":"Eu Policies For Sustainability And The City",
   "year":"2022-2023",
@@ -4115,6 +6202,28 @@
    "prod&cons"
   ],
   "dedicated":0
+ },
+ {
+  "id":"057295",
+  "name":"Diritto Dell'Ambiente E Del Territorio",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=306&k_indir=CMG&codDescr=057295&lang=IT&semestre=2&anno_corso=2&idItemOfferta=158845&idRiga=280149",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caruccio Lorenzo Silvio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
  },
  {
   "id":"057307",
@@ -4185,6 +6294,28 @@
   "dedicated":1
  },
  {
+  "id":"057430",
+  "name":"Ricerca Operativa",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=358&k_indir=I1C&codDescr=057430&lang=IT&semestre=2&anno_corso=3&idItemOfferta=160097&idRiga=284009",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fumero Francesca"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"057614",
   "name":"Social Entrepreneurship",
   "year":"2022-2023",
@@ -4205,6 +6336,31 @@
    "life"
   ],
   "dedicated":0
+ },
+ {
+  "id":"057679",
+  "name":"Sistemi Energetici E Impatto Ambientale - Lc",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=367&k_indir=PPE&codDescr=057679&lang=IT&semestre=2&anno_corso=3&idItemOfferta=160731&idRiga=285648",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lozza Giovanni Gustavo"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
  },
  {
   "id":"057696",
@@ -4413,7 +6569,8 @@
   ],
   "themes":[
    "climate",
-   "energy"
+   "energy",
+   "resources"
   ],
   "dedicated":1
  },
@@ -4457,6 +6614,28 @@
   ],
   "cycles":[
    "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"057888",
+  "name":"Elementi Di Ingegneria Aerospaziale I",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=350&k_indir=AER&codDescr=057888&lang=IT&semestre=2&anno_corso=1&idItemOfferta=159430&idRiga=290109",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Gaspari Alessandro"
+  ],
+  "cycles":[
+   "bac"
   ],
   "fields":[
    "Other"
@@ -4518,6 +6697,28 @@
   "dedicated":1
  },
  {
+  "id":"057904",
+  "name":"Scambio Termico E Di Massa",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=477&k_indir=EEH&codDescr=057904&lang=IT&semestre=1&anno_corso=1&idItemOfferta=160468&idRiga=291518",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Niro Alfonso"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"057905",
   "name":"Energy Accounting And Impact Assessment Methods",
   "year":"2022-2023",
@@ -4540,6 +6741,29 @@
    "resources"
   ],
   "dedicated":1
+ },
+ {
+  "id":"057920",
+  "name":"Radiochimica Applicata A+B",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=478&k_indir=X2A&codDescr=057920&lang=IT&semestre=2&anno_corso=1&idItemOfferta=159288&idRiga=291550",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mariani Mario"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "pollution"
+  ],
+  "dedicated":0
  },
  {
   "id":"057923",
@@ -4845,6 +7069,28 @@
   "dedicated":0
  },
  {
+  "id":"058043",
+  "name":"Progettazione Di Sistemi Informativi Territoriali",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=058043&lang=IT&semestre=1&anno_corso=2&idItemOfferta=163093&idRiga=291842",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Migliaccio Federica"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"058062",
   "name":"Fluid Machines",
   "year":"2022-2023",
@@ -4886,6 +7132,73 @@
   ],
   "themes":[
    "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"058073",
+  "name":"Design Futures",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=19&k_corso_la=1261&k_indir=IP1&codDescr=058073&lang=IT&semestre=2&anno_corso=1&idItemOfferta=163102&idRiga=291910",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Canina Maria Rita"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"058075",
+  "name":"Programmazione Per La Gestione Delle Informazioni Negli Smart Buildings",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=497&k_indir=IE1&codDescr=058075&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162719&idRiga=291913",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Zoni Davide",
+   "Blanco Cadena Juan Diego"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"058100",
+  "name":"Geotecnica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAI&codDescr=058100&lang=IT&semestre=1&anno_corso=3&idItemOfferta=163086&idRiga=291950",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Prisco Claudio Giulio Mario"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
   ],
   "dedicated":0
  },
@@ -4945,6 +7258,29 @@
   ],
   "teachers":[
    "Mambretti Stefano"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"058128",
+  "name":"Laboratorio Tematico",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1195&k_indir=ACI&codDescr=058128&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162776&idRiga=292093",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Scaramellini Enrico Attilio",
+   "Bassanelli Michela"
   ],
   "cycles":[
    "master"
@@ -5175,6 +7511,52 @@
   "dedicated":0
  },
  {
+  "id":"058304",
+  "name":"Tecnica Ed Economia Dei Trasporti",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1098&k_indir=UPD&codDescr=058304&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162573&idRiga=293493",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maja Roberto"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"058306",
+  "name":"Aeroporti E Trasporto Aereo",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1098&k_indir=UPD&codDescr=058306&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162573&idRiga=293455",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pignataro Pietro"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"058312",
   "name":"Transport Systems And Transport Risk",
   "year":"2022-2023",
@@ -5246,6 +7628,56 @@
   "dedicated":0
  },
  {
+  "id":"058499",
+  "name":"Progettazione E Innovazione Tecnologica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=1096&k_indir=ME3&codDescr=058499&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162801&idRiga=292819",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tagliabue Pietro",
+   "Imperadori Marco"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "climate",
+   "economy",
+   "energy",
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"058621",
+  "name":"Valutazione Economica Delle Trasformazioni Urbane",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=497&k_indir=IE1&codDescr=058621&lang=IT&semestre=2&anno_corso=3&idItemOfferta=162719&idRiga=293017",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Perucca Giovanni"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"058727",
   "name":"Urban Planning And Design For Transition Studio",
   "year":"2022-2023",
@@ -5269,6 +7701,624 @@
    "resources"
   ],
   "dedicated":1
+ },
+ {
+  "id":"060116",
+  "name":"Scienza E Tecnologia Dei Materiali",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=366&k_indir=F1P&codDescr=060116&lang=IT&semestre=1&anno_corso=3&idItemOfferta=160393&idRiga=284695",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Castiglioni Chiara",
+   "Diamanti Maria Vittoria"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"061168",
+  "name":"Siderurgia",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=348&k_indir=U1L&codDescr=061168&lang=IT&semestre=1&anno_corso=3&idItemOfferta=161330&idRiga=287306",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mombelli Davide"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"061182",
+  "name":"Macchine E Sistemi Energetici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=347&k_indir=N1L&codDescr=061182&lang=IT&semestre=2&anno_corso=2&idItemOfferta=161299&idRiga=287215",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Spinelli Andrea"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"070783",
+  "name":"Combustibili E Processi Di Combustione",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=352&k_indir=E4N&codDescr=070783&lang=IT&semestre=1&anno_corso=3&idItemOfferta=159145&idRiga=280838",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Castoldi Lidia"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"070918",
+  "name":"Meccanica Del Veicolo",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=353&k_indir=VA6&codDescr=070918&lang=IT&semestre=2&anno_corso=3&idItemOfferta=161378&idRiga=287389",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Melzi Stefano"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"071207",
+  "name":"Teorie E Storia Del Restauro *",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1187&k_indir=LLH&codDescr=071207&lang=IT&semestre=1&anno_corso=2&idItemOfferta=162600&idRiga=290308",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Grimoldi Alberto"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"072366",
+  "name":"Gestione Degli Impianti Industriali",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=394&k_indir=PND&codDescr=072366&lang=IT&semestre=1&anno_corso=3&idItemOfferta=159553&idRiga=282394",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fumagalli Luca",
+   "Calabrese Antonio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"072574",
+  "name":"Sistemi Energetici E Impatto Ambientale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=352&k_indir=E1N&codDescr=072574&lang=IT&semestre=2&anno_corso=3&idItemOfferta=161339&idRiga=287331",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Binotti Marco"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"079483",
+  "name":"Fisica Tecnica Ambientale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=079483&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162744&idRiga=290699",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Buzzetti Michela"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "climate",
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"081374",
+  "name":"Fondamenti Di Chimica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=350&k_indir=AER&codDescr=081374&lang=IT&semestre=1&anno_corso=1&idItemOfferta=159428&idRiga=282224",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cametti Massimo",
+   "Macchi Piero"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"082355",
+  "name":"Geologia Ambientale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=082355&lang=IT&semestre=2&anno_corso=1&idItemOfferta=158745&idRiga=279936",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gattinoni Paola"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"082890",
+  "name":"Progettazione Di Sistemi Informativi Territoriali",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=082890&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162521&idRiga=290145",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Migliaccio Federica"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"083047",
+  "name":"Biomateriali [C.I.]",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=471&k_indir=BBB&codDescr=083047&lang=IT&semestre=2&anno_corso=1&idItemOfferta=160200&idRiga=284161",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fare' Silvia"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"083451",
+  "name":"Climatizzazione E Termofisica Dell'Edificio",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1142&k_indir=PEC&codDescr=083451&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162925&idRiga=291255",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Scoccia Rossano"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"083795",
+  "name":"Fisica Tecnica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=350&k_indir=AER&codDescr=083795&lang=IT&semestre=1&anno_corso=2&idItemOfferta=159436&idRiga=282235",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Niro Alfonso",
+   "Inzoli Fabio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"085639",
+  "name":"Ingegneria Sanitaria Ambientale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=085639&lang=IT&semestre=2&anno_corso=2&idItemOfferta=158755&idRiga=279946",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cernuschi Stefano"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"085721",
+  "name":"Trattamento Delle Acque Di Approvvigionamento",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=488&k_indir=WAT&codDescr=085721&lang=IT&semestre=2&anno_corso=2&idItemOfferta=163129&idRiga=292084",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Antonelli Manuela"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"085742",
+  "name":"Macchine Elettriche E Azionamenti",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=355&k_indir=A1A&codDescr=085742&lang=IT&semestre=1&anno_corso=3&idItemOfferta=160324&idRiga=284584",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mauri Marco"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"085850",
+  "name":"Elettrotecnica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=363&k_indir=BND&codDescr=085850&lang=IT&semestre=1&anno_corso=2&idItemOfferta=160692&idRiga=285602",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gruosso Giambattista"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"085973",
+  "name":"Gestione Degli Impianti Industriali",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=367&k_indir=PPF&codDescr=085973&lang=IT&semestre=1&anno_corso=3&idItemOfferta=159215&idRiga=280941",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sala Guido"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"086012",
+  "name":"Fondamenti Di Climatizzazione Ambientale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=352&k_indir=E1N&codDescr=086012&lang=IT&semestre=1&anno_corso=3&idItemOfferta=161337&idRiga=287329",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Romano Francesco"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"086218",
+  "name":"Macchine",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=354&k_indir=VA1&codDescr=086218&lang=IT&semestre=2&anno_corso=3&idItemOfferta=160069&idRiga=283960",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Dossena Vincenzo",
+   "Vigano' Federico"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"086469",
+  "name":"Sistemi Energetici L",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=353&k_indir=VA2&codDescr=086469&lang=IT&semestre=2&anno_corso=3&idItemOfferta=160059&idRiga=283944",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Giuffrida Antonio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"086470",
+  "name":"Macchine E Sistemi Energetici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=353&k_indir=VA2&codDescr=086470&lang=IT&semestre=1&anno_corso=3&idItemOfferta=160055&idRiga=283940",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Della Torre Augusto"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"086666",
+  "name":"Elettrotecnica I",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=349&k_indir=R1O&codDescr=086666&lang=IT&semestre=1&anno_corso=2&idItemOfferta=160973&idRiga=286432",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Grassi Flavia"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"086825",
+  "name":"Gestione Ambientale D'Impresa E Delle Energie Rinnovabili",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=368&k_indir=PND&codDescr=086825&lang=IT&semestre=1&anno_corso=3&idItemOfferta=160172&idRiga=284099",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Casula Alessandro"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy",
+   "life",
+   "pollution",
+   "prod&cons"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"086956",
+  "name":"Idraulica + Costruzioni Idrauliche",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=086956&lang=IT&semestre=2&anno_corso=3&idItemOfferta=162752&idRiga=290723",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Porta Giovanni Michele"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "resources"
+  ],
+  "dedicated":0
  },
  {
   "id":"087073",
@@ -5316,6 +8366,324 @@
   "dedicated":1
  },
  {
+  "id":"088508",
+  "name":"Elettrotecnica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAE&codDescr=088508&lang=IT&semestre=2&anno_corso=3&idItemOfferta=163084&idRiga=291819",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Grassi Flavia"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088639",
+  "name":"Progetto Di Strade",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=488&k_indir=OT2&codDescr=088639&lang=IT&semestre=2&anno_corso=1&idItemOfferta=158991&idRiga=280471",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Toraldo Emanuele"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088640",
+  "name":"Aeroporti E Trasporto Aereo",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=488&k_indir=OT2&codDescr=088640&lang=IT&semestre=1&anno_corso=1&idItemOfferta=158988&idRiga=280468",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pignataro Pietro"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088641",
+  "name":"Tecnica Ed Economia Dei Trasporti",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=488&k_indir=OT2&codDescr=088641&lang=IT&semestre=2&anno_corso=1&idItemOfferta=158992&idRiga=280472",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maja Roberto"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088675",
+  "name":"Prospezioni Geofisiche",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2A&codDescr=088675&lang=IT&semestre=2&anno_corso=1&idItemOfferta=158709&idRiga=279863",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Zanzi Luigi"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "pollution",
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088689",
+  "name":"Prova Finale (Macchine Elettriche E Azionamenti)",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=355&k_indir=A1A&codDescr=088689&lang=IT&semestre=1&anno_corso=3&idItemOfferta=160324&idRiga=284583",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mauri Marco"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088698",
+  "name":"Fondamenti Di Ricerca Operativa",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=358&k_indir=I1C&codDescr=088698&lang=IT&semestre=2&anno_corso=3&idItemOfferta=160097&idRiga=284002",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fumero Francesca",
+   "Malucelli Federico"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088713",
+  "name":"Macchine Elettriche",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=357&k_indir=E1A&codDescr=088713&lang=IT&semestre=2&anno_corso=3&idItemOfferta=161017&idRiga=286492",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Piegari Luigi"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088717",
+  "name":"Trattamenti Delle Acque Di Rifiuto",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2C&codDescr=088717&lang=IT&semestre=2&anno_corso=2&idItemOfferta=159017&idRiga=280541",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Malpei Francesca"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "energy",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088719",
+  "name":"Inquinamento Atmosferico",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2C&codDescr=088719&lang=IT&semestre=2&anno_corso=2&idItemOfferta=163037&idRiga=291619",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lonati Giovanni"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"088721",
+  "name":"Elettrotecnica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2C&codDescr=088721&lang=IT&semestre=2&anno_corso=1&idItemOfferta=159007&idRiga=280533",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Grassi Flavia"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088776",
+  "name":"Mitigazione Dei Cambiamenti Climatici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2C&codDescr=088776&lang=IT&semestre=1&anno_corso=2&idItemOfferta=159015&idRiga=280536",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caserini Stefano"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"088805",
+  "name":"Fisica Tecnica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=357&k_indir=E1A&codDescr=088805&lang=IT&semestre=2&anno_corso=3&idItemOfferta=161017&idRiga=286490",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Salioni Alberto"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"088886",
+  "name":"Valutazione Di Impatto Ambientale Dell'Inquinamento",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2C&codDescr=088886&lang=IT&semestre=1&anno_corso=1&idItemOfferta=159008&idRiga=280534",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Azzellino Arianna"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"089027",
   "name":"Buildings In Seismic Areas",
   "year":"2022-2023",
@@ -5335,6 +8703,77 @@
   ],
   "themes":[
    "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"089122",
+  "name":"Telerilevamento",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2B&codDescr=089122&lang=IT&semestre=1&anno_corso=1&idItemOfferta=159111&idRiga=280712",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Gianinetto Marco"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "food",
+   "life",
+   "pollution",
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"089127",
+  "name":"Valutazione Di Impatto Ambientale Dell'Inquinamento",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2D&codDescr=089127&lang=IT&semestre=1&anno_corso=1&idItemOfferta=158642&idRiga=279533",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Azzellino Arianna"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"089244",
+  "name":"Macchine Elettriche",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=349&k_indir=R1O&codDescr=089244&lang=IT&semestre=1&anno_corso=3&idItemOfferta=160980&idRiga=286440",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Gerlando Antonino"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
   ],
   "dedicated":0
  },
@@ -5361,6 +8800,140 @@
   "dedicated":1
  },
  {
+  "id":"089653",
+  "name":"Tecnologie Di Presidio Per I Processi Industriali A+B",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=422&k_indir=P2E&codDescr=089653&lang=IT&semestre=2&anno_corso=1&idItemOfferta=159556&idRiga=282399",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Invernizzi Marzio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"089785",
+  "name":"Energetica Generale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=477&k_indir=EEH&codDescr=089785&lang=IT&semestre=2&anno_corso=1&idItemOfferta=160471&idRiga=285005",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galliani Andrea"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"089786",
+  "name":"Combustione E Sicurezza",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=477&k_indir=EEP&codDescr=089786&lang=IT&semestre=2&anno_corso=1&idItemOfferta=159276&idRiga=281141",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cozzi Fabio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"089787",
+  "name":"Sistemi E Macchine Elettriche",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=477&k_indir=EES&codDescr=089787&lang=IT&semestre=2&anno_corso=1&idItemOfferta=160809&idRiga=285901",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Falabretti Davide"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"089914",
+  "name":"Economia Dei Trasporti",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2B&codDescr=089914&lang=IT&semestre=2&anno_corso=2&idItemOfferta=159118&idRiga=280723",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maja Roberto"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"090870",
+  "name":"Cantieri Di Infrastrutture",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=488&k_indir=OT2&codDescr=090870&lang=IT&semestre=2&anno_corso=2&idItemOfferta=158997&idRiga=280475",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Oliva Giuseppe"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"090907",
   "name":"Air Pollution And Control Engineering",
   "year":"2022-2023",
@@ -5381,6 +8954,74 @@
    "pollution"
   ],
   "dedicated":0
+ },
+ {
+  "id":"090929",
+  "name":"Sistemi Energetici Avanzati",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=477&k_indir=EEP&codDescr=090929&lang=IT&semestre=1&anno_corso=2&idItemOfferta=159277&idRiga=281147",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Chiesa Paolo"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"091130",
+  "name":"Combustione E Sicurezza  B",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=483&k_indir=ME4&codDescr=091130&lang=IT&semestre=2&anno_corso=2&idItemOfferta=159705&idRiga=283058",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cozzi Fabio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"091132",
+  "name":"Sistemi Energetici Avanzati  B",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=483&k_indir=ME4&codDescr=091132&lang=IT&semestre=1&anno_corso=2&idItemOfferta=159705&idRiga=283059",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Chiesa Paolo"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution",
+   "transport"
+  ],
+  "dedicated":1
  },
  {
   "id":"091560",
@@ -5408,6 +9049,29 @@
   "dedicated":1
  },
  {
+  "id":"091617",
+  "name":"Fattori Umani Nella Gestione Hseq",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=422&k_indir=P2E&codDescr=091617&lang=IT&semestre=1&anno_corso=2&idItemOfferta=159563&idRiga=282409",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bacchetta Adriano Paolo"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"093473",
   "name":"Smart Grids And Regulation For Renewable Energy Sources",
   "year":"2022-2023",
@@ -5428,6 +9092,99 @@
    "carbon",
    "climate",
    "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"093501",
+  "name":"Diritto Dell'Energia",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=477&k_indir=EES&codDescr=093501&lang=IT&semestre=2&anno_corso=1&idItemOfferta=160810&idRiga=285903",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caruccio Lorenzo Silvio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"093598",
+  "name":"Impianti E Processi Chimici (C.I.)",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=477&k_indir=EEH&codDescr=093598&lang=IT&semestre=2&anno_corso=1&idItemOfferta=160472&idRiga=285008",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Groppi Gianpiero"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"093688",
+  "name":"Rischio Idrogeologico E Protezione Civile",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2D&codDescr=093688&lang=IT&semestre=2&anno_corso=1&idItemOfferta=158642&idRiga=279535",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Menduni Giovanni"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"093815",
+  "name":"Usi Del Suolo Ed Effetti Ambientali",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=489&k_indir=M2B&codDescr=093815&lang=IT&semestre=2&anno_corso=1&idItemOfferta=159109&idRiga=280710",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pileri Paolo"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "life",
+   "transport"
   ],
   "dedicated":1
  },
@@ -5782,6 +9539,30 @@
   "dedicated":0
  },
  {
+  "id":"095968",
+  "name":"Laboratorio Di Urbanistica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=MNA&codDescr=095968&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162784&idRiga=290788",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Visentin Chiara",
+   "De Toni Andrea"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"095990",
   "name":"Urban Planning Studio",
   "year":"2022-2023",
@@ -5897,6 +9678,53 @@
   "dedicated":0
  },
  {
+  "id":"096339",
+  "name":"Laboratorio Di Analisi Della Citta' E Del Territorio",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=096339&lang=IT&semestre=1&anno_corso=1&idItemOfferta=162509&idRiga=290132",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fedeli Valeria",
+   "Rabaiotti Gabriele"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"096341",
+  "name":"Laboratorio Di Urbanistica 1",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=096341&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162512&idRiga=290135",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Innocenti Massimiliano",
+   "Pogliani Laura"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"096562",
   "name":"Advanced Building Envelope Components Engineering",
   "year":"2022-2023",
@@ -5942,6 +9770,52 @@
   "dedicated":0
  },
  {
+  "id":"097253",
+  "name":"Chimica A  E Chimica Ambientale",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=097253&lang=IT&semestre=1&anno_corso=1&idItemOfferta=158741&idRiga=279932",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Volonterio Alessandro"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"097280",
+  "name":"Trattamento Delle Osservazioni",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=346&k_indir=M1A&codDescr=097280&lang=IT&semestre=1&anno_corso=2&idItemOfferta=158751&idRiga=279942",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Venuti Giovanna"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"097327",
   "name":"Product Life Cycle Management",
   "year":"2022-2023",
@@ -5964,6 +9838,28 @@
   "dedicated":0
  },
  {
+  "id":"097358",
+  "name":"Urbanistica",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=MNA&codDescr=097358&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162792&idRiga=290797",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vitillo Piergiorgio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"097365",
   "name":"Engineering Of Solar Thermal Processes",
   "year":"2022-2023",
@@ -5982,6 +9878,29 @@
   ],
   "themes":[
    "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"097366",
+  "name":"Laboratorio Di Costruzione Dell'Architettura",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1094&k_indir=MNA&codDescr=097366&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162790&idRiga=290795",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Pasquale Joseph",
+   "Golfieri Diego Loris"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
   ],
   "dedicated":0
  },
@@ -6235,6 +10154,29 @@
    "transport"
   ],
   "dedicated":0
+ },
+ {
+  "id":"097575",
+  "name":"Termodinamica E Processi Energetici",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=365&k_indir=MTM&codDescr=097575&lang=IT&semestre=1&anno_corso=3&idItemOfferta=160386&idRiga=284666",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Salioni Alberto"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy"
+  ],
+  "dedicated":1
  },
  {
   "id":"097601",
@@ -6497,6 +10439,28 @@
   "dedicated":0
  },
  {
+  "id":"098474",
+  "name":"Metodi Di Ottimizzazione Della Ricerca Operativa",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=394&k_indir=PND&codDescr=098474&lang=IT&semestre=1&anno_corso=2&idItemOfferta=159543&idRiga=282379",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Orsenigo Carlotta"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"098634",
   "name":"Advanced Environmental Systems Analysis [I.C.]",
   "year":"2022-2023",
@@ -6540,6 +10504,51 @@
   ],
   "themes":[
    "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"099236",
+  "name":"Modellistica E Simulazione",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=488&k_indir=OT2&codDescr=099236&lang=IT&semestre=2&anno_corso=1&idItemOfferta=158990&idRiga=280470",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Guariso Giorgio"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"099240",
+  "name":"Elementi Di Valutazione Di Impatto Ambientale Dell'Inquinamento",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=488&k_indir=OT2&codDescr=099240&lang=IT&semestre=1&anno_corso=2&idItemOfferta=158998&idRiga=280478",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Azzellino Arianna"
+  ],
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
   ],
   "dedicated":1
  },
@@ -6668,6 +10677,55 @@
   "dedicated":0
  },
  {
+  "id":"099365",
+  "name":"Ci Elementi Di Progettazione Dell'Ambiente",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=099365&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162518&idRiga=290141",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Casagrandi Renato",
+   "Morello Eugenio"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"099378",
+  "name":"Laboratorio Di Urbanistica 3",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=099378&lang=IT&semestre=2&anno_corso=3&idItemOfferta=162522&idRiga=290146",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Donadoni Ettore",
+   "Arcidiacono Andrea"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"099481",
   "name":"Final Design Workshop",
   "year":"2022-2023",
@@ -6690,6 +10748,32 @@
    "energy"
   ],
   "dedicated":0
+ },
+ {
+  "id":"099541",
+  "name":"Sostenibilita' Ambientale E Lca Dei Materiali Delle Costruzioni",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1093&k_indir=CAP&codDescr=099541&lang=IT&semestre=1&anno_corso=3&idItemOfferta=162524&idRiga=290152",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Dotelli Giovanni"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "energy",
+   "life",
+   "resources"
+  ],
+  "dedicated":1
  },
  {
   "id":"099636",
@@ -6715,6 +10799,80 @@
   "dedicated":0
  },
  {
+  "id":"099668",
+  "name":"Diritto Urbanistico + Sociologia Urbana",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=099668&lang=IT&semestre=2&anno_corso=1&idItemOfferta=162734&idRiga=290689",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ruscigno Costantino",
+   "Parma Andrea"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"099676",
+  "name":"Strategia Ed Economia Del Progetto",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=19&k_corso_la=1088&k_indir=C1&codDescr=099676&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162255&idRiga=289559",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Magistretti Stefano"
+  ],
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"099683",
+  "name":"Progettazione Degli Elementi Costruttivi + Laboratorio",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=099683&lang=IT&semestre=2&anno_corso=2&idItemOfferta=162745&idRiga=290700",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ruta Matteo Francesco",
+   "Pagani Oscar Luigi",
+   "Pittau Francesco"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "climate",
+   "economy",
+   "energy",
+   "life",
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"099732",
   "name":"Ic Economics Of Public Issues",
   "year":"2022-2023",
@@ -6733,6 +10891,34 @@
   ],
   "themes":[
    "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"099754",
+  "name":"Progettazione E Innovazione Tecnologica + Laboratorio Di Tecnologia Stratificata A Secco",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=099754&lang=IT&semestre=1&anno_corso=5&idItemOfferta=162762&idRiga=290735",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tagliabue Pietro",
+   "Imperadori Marco"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "climate",
+   "economy",
+   "energy",
+   "prod&cons"
   ],
   "dedicated":0
  },
@@ -6762,6 +10948,34 @@
    "energy"
   ],
   "dedicated":1
+ },
+ {
+  "id":"099760",
+  "name":"Recupero E Conservazione Degli Edifici + Laboratorio",
+  "year":"2022-2023",
+  "url":"https:\/\/www4.ceda.polimi.it\/manifesti\/manifesti\/controller\/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=222&k_corso_la=1144&k_indir=EQ2&codDescr=099760&lang=IT&semestre=1&anno_corso=5&idItemOfferta=162762&idRiga=290737",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Salvini Chiara Maria",
+   "Malighetti Laura Elisabetta"
+  ],
+  "cycles":[
+   "Laurea A Ciclo Unico - Ordinamento 270\/04"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "climate",
+   "economy",
+   "energy",
+   "prod&cons"
+  ],
+  "dedicated":0
  },
  {
   "id":"099823",

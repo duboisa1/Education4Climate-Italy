@@ -26,14 +26,15 @@
    "prod&cons"
   ],
   "themes_scores":[
-   4,
+   5,
    1,
    1,
    2,
-   3,
+   6,
    2
   ],
   "matched_courses":[
+   "01BDGPM",
    "01OTYLU",
    "01SUAPM",
    "01SUBPM",
@@ -41,11 +42,12 @@
    "01VQCLU",
    "01VQDLU",
    "02SSULU",
+   "03AXZPM",
    "03OUDLU",
    "14CFRPM"
   ],
-  "nb_dedicated_courses":1,
-  "nb_matched_courses":9,
+  "nb_dedicated_courses":3,
+  "nb_matched_courses":11,
   "nb_total_courses":68
  },
  {
@@ -67,17 +69,54 @@
    "Other"
   ],
   "themes":[
-   "resources"
+   "energy",
+   "resources",
+   "transport"
+  ],
+  "themes_scores":[
+   2,
+   1,
+   2
+  ],
+  "matched_courses":[
+   "04CIIPI",
+   "04CIIPL",
+   "05ENCPI"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":3,
+  "nb_total_courses":50
+ },
+ {
+  "id":"ingegneria-fisica-bac",
+  "name":"Ingegneria Fisica",
+  "cycle":"bac",
+  "url":"https:\/\/www.polito.it\/didattica\/corsi-di-laurea\/ingegneria-fisica",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Dipartimento di Elettronica e Telecomunicazioni"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
   ],
   "themes_scores":[
    1
   ],
   "matched_courses":[
-   "05ENCPI"
+   "01MODOD"
   ],
   "nb_dedicated_courses":0,
   "nb_matched_courses":1,
-  "nb_total_courses":50
+  "nb_total_courses":26
  },
  {
   "id":"ingegneria-energetica-bac",
@@ -98,28 +137,33 @@
    "Other"
   ],
   "themes":[
+   "building",
    "carbon",
    "energy",
    "life",
    "pollution",
-   "resources"
+   "resources",
+   "transport"
   ],
   "themes_scores":[
    1,
-   5,
+   1,
+   6,
    2,
    2,
+   1,
    1
   ],
   "matched_courses":[
    "01TWTMK",
    "01TWVMK",
+   "01TYHMK",
    "01UTHMK",
    "03MUSMK",
    "17AULMK"
   ],
-  "nb_dedicated_courses":3,
-  "nb_matched_courses":5,
+  "nb_dedicated_courses":5,
+  "nb_matched_courses":6,
   "nb_total_courses":25
  },
  {
@@ -142,21 +186,34 @@
   ],
   "themes":[
    "building",
+   "economy",
    "energy",
-   "life"
+   "life",
+   "pollution",
+   "prod&cons"
   ],
   "themes_scores":[
+   8,
+   1,
    2,
+   3,
    1,
    1
   ],
   "matched_courses":[
+   "01UTWPW",
+   "01UTZPW",
+   "01UUDPW",
+   "01UUHPW",
    "01UUIPW",
+   "01UUKPW",
+   "01UULPW",
    "02JNLPW",
-   "02NSEPW"
+   "02NSEPW",
+   "34CWHPW"
   ],
-  "nb_dedicated_courses":0,
-  "nb_matched_courses":3,
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":10,
   "nb_total_courses":27
  },
  {
@@ -178,19 +235,25 @@
    "Other"
   ],
   "themes":[
+   "building",
    "climate",
+   "energy",
    "life"
   ],
   "themes_scores":[
    1,
+   1,
+   1,
    1
   ],
   "matched_courses":[
+   "01GZWQA",
+   "02CWHQA",
    "02UWGQA",
    "03RVGQA"
   ],
-  "nb_dedicated_courses":1,
-  "nb_matched_courses":2,
+  "nb_dedicated_courses":2,
+  "nb_matched_courses":4,
   "nb_total_courses":29
  },
  {
@@ -212,19 +275,25 @@
    "Other"
   ],
   "themes":[
+   "building",
    "climate",
+   "energy",
    "life"
   ],
   "themes_scores":[
    1,
+   1,
+   1,
    1
   ],
   "matched_courses":[
+   "01GZWQA",
+   "02CWHQA",
    "02UWGQA",
    "03RVGQA"
   ],
-  "nb_dedicated_courses":1,
-  "nb_matched_courses":2,
+  "nb_dedicated_courses":2,
+  "nb_matched_courses":4,
   "nb_total_courses":30
  },
  {
@@ -251,32 +320,45 @@
    "climate",
    "economy",
    "energy",
+   "food",
    "life",
    "pollution",
-   "resources"
+   "resources",
+   "transport"
   ],
   "themes_scores":[
-   4,
+   9,
    1,
-   3,
+   6,
    1,
+   5,
+   1,
+   10,
    4,
-   7,
-   3,
-   2
+   2,
+   1
   ],
   "matched_courses":[
+   "01DTYQA",
+   "01NTCQA",
+   "01NTMQA",
+   "01PGEQA",
+   "01RUOQA",
    "01RUTQA",
+   "01RUUQA",
    "01RVBQA",
    "01RVGQA",
    "01RVXQA",
    "01SOQQA",
    "01SOSQA",
    "01SOXQA",
+   "02CWHQA",
+   "02JIWQA",
+   "04BWIQA",
    "04EOEQA"
   ],
-  "nb_dedicated_courses":4,
-  "nb_matched_courses":8,
+  "nb_dedicated_courses":5,
+  "nb_matched_courses":17,
   "nb_total_courses":33
  },
  {
@@ -303,32 +385,45 @@
    "climate",
    "economy",
    "energy",
+   "food",
    "life",
    "pollution",
-   "resources"
+   "resources",
+   "transport"
   ],
   "themes_scores":[
-   4,
+   9,
    1,
-   3,
+   6,
    1,
+   5,
+   1,
+   10,
    4,
-   7,
-   3,
-   2
+   2,
+   1
   ],
   "matched_courses":[
+   "01DTYQA",
+   "01NTCQA",
+   "01NTMQA",
+   "01PGEQA",
+   "01RUOQA",
    "01RUTQA",
+   "01RUUQA",
    "01RVBQA",
    "01RVGQA",
    "01RVXQA",
    "01SOQQA",
    "01SOSQA",
    "01SOXQA",
+   "02CWHQA",
+   "02JIWQA",
+   "04BWIQA",
    "04EOEQA"
   ],
-  "nb_dedicated_courses":4,
-  "nb_matched_courses":8,
+  "nb_dedicated_courses":5,
+  "nb_matched_courses":17,
   "nb_total_courses":47
  },
  {
@@ -398,19 +493,21 @@
   "themes_scores":[
    1,
    1,
-   7,
+   9,
    2,
    5,
-   13,
-   8,
+   14,
+   11,
    1,
    6,
    1
   ],
   "matched_courses":[
+   "01HGMNF",
    "01HGVNF",
    "01HLFNF",
    "01RKPNF",
+   "01RKSNF",
    "01RKVNF",
    "01RVLNF",
    "01RVONF",
@@ -425,10 +522,11 @@
    "02ODKNF",
    "02UCDNF",
    "04OULNF",
-   "05SQZNF"
+   "05SQZNF",
+   "08BHXNF"
   ],
-  "nb_dedicated_courses":11,
-  "nb_matched_courses":18,
+  "nb_dedicated_courses":13,
+  "nb_matched_courses":21,
   "nb_total_courses":52
  },
  {
@@ -464,19 +562,21 @@
   "themes_scores":[
    1,
    1,
-   7,
+   9,
    2,
    5,
-   13,
-   8,
+   14,
+   11,
    1,
    6,
    1
   ],
   "matched_courses":[
+   "01HGMNF",
    "01HGVNF",
    "01HLFNF",
    "01RKPNF",
+   "01RKSNF",
    "01RKVNF",
    "01RVLNF",
    "01RVONF",
@@ -491,10 +591,11 @@
    "02ODKNF",
    "02UCDNF",
    "04OULNF",
-   "05SQZNF"
+   "05SQZNF",
+   "08BHXNF"
   ],
-  "nb_dedicated_courses":11,
-  "nb_matched_courses":18,
+  "nb_dedicated_courses":13,
+  "nb_matched_courses":21,
   "nb_total_courses":59
  },
  {
@@ -516,6 +617,7 @@
    "Other"
   ],
   "themes":[
+   "building",
    "climate",
    "energy",
    "life",
@@ -525,21 +627,25 @@
   "themes_scores":[
    1,
    1,
-   4,
+   1,
+   5,
    2,
-   3
+   5
   ],
   "matched_courses":[
    "01NIMNE",
    "01OAINE",
    "01OAIQD",
+   "01VJHNE",
    "02IHDNE",
    "02SQLQD",
    "03EXGNE",
-   "03MCHQD"
+   "03MCHQD",
+   "06AFDNE",
+   "12ALPNE"
   ],
   "nb_dedicated_courses":0,
-  "nb_matched_courses":7,
+  "nb_matched_courses":10,
   "nb_total_courses":107
  },
  {
@@ -561,6 +667,7 @@
    "Other"
   ],
   "themes":[
+   "building",
    "climate",
    "energy",
    "life",
@@ -570,22 +677,88 @@
   "themes_scores":[
    1,
    1,
-   4,
+   1,
+   5,
    2,
-   3
+   5
   ],
   "matched_courses":[
    "01NIMNE",
    "01OAINE",
    "01OAIQD",
+   "01VJHNE",
    "02IHDNE",
    "02SQLQD",
    "03EXGNE",
-   "03MCHQD"
+   "03MCHQD",
+   "06AFDNE",
+   "12ALPNE"
   ],
   "nb_dedicated_courses":0,
-  "nb_matched_courses":7,
+  "nb_matched_courses":10,
   "nb_total_courses":130
+ },
+ {
+  "id":"ingegneria-matematica-master",
+  "name":"Ingegneria Matematica",
+  "cycle":"master",
+  "url":"https:\/\/www.polito.it\/didattica\/corsi-di-laurea-magistrale\/ingegneria-matematica",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Dipartimento di Scienze Matematiche 'G. L. Lagrange'"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "04FDENG"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":37
+ },
+ {
+  "id":"ingegneria-informatica-computer-engineering-master",
+  "name":"Ingegneria Informatica (Computer Engineering)",
+  "cycle":"master",
+  "url":"https:\/\/www.polito.it\/didattica\/corsi-di-laurea-magistrale\/ingegneria-informatica-computer-engineering",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Dipartimento di Automatica e Informatica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "02GRSOV"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":157
  },
  {
   "id":"engineering-and-management-master",
@@ -619,17 +792,49 @@
    1,
    1,
    1,
-   1,
+   2,
    1,
    2
   ],
   "matched_courses":[
    "01QGKPH",
+   "01QKLPG",
    "01VJSPH"
   ],
   "nb_dedicated_courses":2,
-  "nb_matched_courses":2,
+  "nb_matched_courses":3,
   "nb_total_courses":177
+ },
+ {
+  "id":"computer-engineering-master",
+  "name":"Computer Engineering",
+  "cycle":"master",
+  "url":"https:\/\/www.polito.it\/en\/education\/master-s-degree-programmes\/computer-engineering",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Department of Control and Computer Engineering"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "02GRSOV"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":139
  },
  {
   "id":"energy-and-nuclear-engineering-master",
@@ -661,15 +866,15 @@
    "transport"
   ],
   "themes_scores":[
-   3,
+   6,
    3,
    4,
-   14,
-   7,
+   17,
+   9,
+   3,
    2,
    2,
-   2,
-   4
+   5
   ],
   "matched_courses":[
    "01QGXND",
@@ -682,16 +887,23 @@
    "01TVJND",
    "01TVKND",
    "01TVMND",
+   "01TWCND",
    "01TWDND",
+   "01TWEND",
    "01TWHND",
+   "01TWIND",
    "01TWKND",
    "01TWRND",
+   "01UUMND",
    "01VAFND",
    "02OKGND",
+   "02QZSND",
+   "04CGYND",
+   "05BHAND",
    "16EBGND"
   ],
-  "nb_dedicated_courses":7,
-  "nb_matched_courses":17,
+  "nb_dedicated_courses":13,
+  "nb_matched_courses":24,
   "nb_total_courses":58
  },
  {
@@ -726,16 +938,17 @@
    1,
    1,
    1,
-   1,
+   2,
    1,
    2
   ],
   "matched_courses":[
    "01QGKPH",
+   "01QKLPG",
    "01VJSPH"
   ],
   "nb_dedicated_courses":2,
-  "nb_matched_courses":2,
+  "nb_matched_courses":3,
   "nb_total_courses":188
  },
  {
@@ -768,15 +981,15 @@
    "transport"
   ],
   "themes_scores":[
-   3,
+   6,
    3,
    4,
-   14,
-   7,
+   17,
+   9,
+   3,
    2,
    2,
-   2,
-   4
+   5
   ],
   "matched_courses":[
    "01QGXND",
@@ -789,16 +1002,23 @@
    "01TVJND",
    "01TVKND",
    "01TVMND",
+   "01TWCND",
    "01TWDND",
+   "01TWEND",
    "01TWHND",
+   "01TWIND",
    "01TWKND",
    "01TWRND",
+   "01UUMND",
    "01VAFND",
    "02OKGND",
+   "02QZSND",
+   "04CGYND",
+   "05BHAND",
    "16EBGND"
   ],
-  "nb_dedicated_courses":7,
-  "nb_matched_courses":17,
+  "nb_dedicated_courses":13,
+  "nb_matched_courses":24,
   "nb_total_courses":61
  },
  {
@@ -893,9 +1113,9 @@
   "themes_scores":[
    1,
    1,
-   4,
+   7,
    1,
-   3
+   5
   ],
   "matched_courses":[
    "01RUGNC",
@@ -903,10 +1123,15 @@
    "01UQNNC",
    "01UQONC",
    "01UQPNC",
-   "04RUKNC"
+   "03AFINC",
+   "03EOONC",
+   "04KBHNC",
+   "04RUKNC",
+   "34CWHNC",
+   "66CWHNC"
   ],
   "nb_dedicated_courses":3,
-  "nb_matched_courses":6,
+  "nb_matched_courses":11,
   "nb_total_courses":52
  },
  {
@@ -1023,6 +1248,7 @@
   ],
   "themes":[
    "building",
+   "carbon",
    "economy",
    "energy",
    "life",
@@ -1033,22 +1259,26 @@
   "themes_scores":[
    2,
    1,
+   1,
+   3,
+   3,
    2,
-   1,
-   1,
    5,
    5
   ],
   "matched_courses":[
    "01DWNMZ",
    "01DWOMZ",
+   "01NGHMZ",
    "01QGKMZ",
    "01RVYMZ",
    "01RXBMZ",
+   "01VJLMZ",
+   "02BGIMZ",
    "04OULMZ"
   ],
   "nb_dedicated_courses":2,
-  "nb_matched_courses":6,
+  "nb_matched_courses":9,
   "nb_total_courses":47
  },
  {
@@ -1071,6 +1301,7 @@
   ],
   "themes":[
    "building",
+   "carbon",
    "economy",
    "energy",
    "life",
@@ -1081,22 +1312,26 @@
   "themes_scores":[
    2,
    1,
+   1,
+   3,
+   3,
    2,
-   1,
-   1,
    5,
    5
   ],
   "matched_courses":[
    "01DWNMZ",
    "01DWOMZ",
+   "01NGHMZ",
    "01QGKMZ",
    "01RVYMZ",
    "01RXBMZ",
+   "01VJLMZ",
+   "02BGIMZ",
    "04OULMZ"
   ],
   "nb_dedicated_courses":2,
-  "nb_matched_courses":6,
+  "nb_matched_courses":9,
   "nb_total_courses":49
  },
  {
@@ -1118,6 +1353,8 @@
    "Other"
   ],
   "themes":[
+   "building",
+   "carbon",
    "energy",
    "life",
    "pollution",
@@ -1126,21 +1363,25 @@
    "transport"
   ],
   "themes_scores":[
+   1,
+   1,
+   4,
+   3,
+   3,
    2,
-   1,
    2,
-   1,
-   1,
-   1
+   2
   ],
   "matched_courses":[
    "01QXHMW",
    "01SSCMW",
+   "01TZPMW",
    "01TZQMW",
+   "02OCTMW",
    "06RWNMW"
   ],
-  "nb_dedicated_courses":0,
-  "nb_matched_courses":4,
+  "nb_dedicated_courses":2,
+  "nb_matched_courses":6,
   "nb_total_courses":48
  },
  {
@@ -1173,6 +1414,36 @@
   "nb_dedicated_courses":0,
   "nb_matched_courses":1,
   "nb_total_courses":71
+ },
+ {
+  "id":"ingegneria-aerospaziale-master",
+  "name":"Ingegneria Aerospaziale",
+  "cycle":"master",
+  "url":"https:\/\/www.polito.it\/didattica\/corsi-di-laurea-magistrale\/ingegneria-aerospaziale",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Dipartimento di Ingegneria Meccanica e Aerospaziale"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "02NHSMT"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":70
  },
  {
   "id":"ict-for-smart-societies-ict-per-la-societa-del-futuro-master",
@@ -1404,21 +1675,25 @@
    "Other"
   ],
   "themes":[
+   "building",
    "climate",
    "life",
    "resources"
   ],
   "themes_scores":[
+   1,
    2,
    1,
-   1
+   2
   ],
   "matched_courses":[
    "01RXYMX",
-   "01VKRMX"
+   "01VKMMX",
+   "01VKRMX",
+   "01VLBMX"
   ],
   "nb_dedicated_courses":0,
-  "nb_matched_courses":2,
+  "nb_matched_courses":4,
   "nb_total_courses":75
  },
  {
@@ -1447,7 +1722,7 @@
   "themes_scores":[
    1,
    2,
-   3
+   2
   ],
   "matched_courses":[
    "01USELO",
@@ -1480,40 +1755,49 @@
    "building",
    "carbon",
    "climate",
-   "economy",
    "energy",
    "life",
    "pollution",
    "prod&cons",
-   "resources"
+   "resources",
+   "transport"
   ],
   "themes_scores":[
-   6,
-   2,
-   7,
-   1,
+   12,
+   3,
+   13,
+   12,
+   19,
    8,
-   11,
-   5,
-   1,
-   5
+   3,
+   6,
+   2
   ],
   "matched_courses":[
    "01DXJPX",
    "01DXKPX",
-   "01RMDPX",
+   "01VMNPX",
+   "01VNCPX",
+   "01VNJPX",
+   "01VNKPX",
    "01VNLPX",
    "01VNMPX",
+   "01VNQPX",
+   "01VNRPX",
    "01VNSPX",
    "01VNTPX",
+   "01VNVPX",
+   "01VNZPX",
    "01VOAPX",
+   "01VODPX",
    "01VOFPX",
    "01VOGPX",
    "01VOJPX",
+   "01VOKPX",
    "01VOLPX"
   ],
-  "nb_dedicated_courses":5,
-  "nb_matched_courses":12,
+  "nb_dedicated_courses":10,
+  "nb_matched_courses":21,
   "nb_total_courses":59
  },
  {
@@ -1538,40 +1822,49 @@
    "building",
    "carbon",
    "climate",
-   "economy",
    "energy",
    "life",
    "pollution",
    "prod&cons",
-   "resources"
+   "resources",
+   "transport"
   ],
   "themes_scores":[
-   6,
-   2,
-   7,
-   1,
+   12,
+   3,
+   13,
+   12,
+   19,
    8,
-   11,
-   5,
-   1,
-   5
+   3,
+   6,
+   2
   ],
   "matched_courses":[
    "01DXJPX",
    "01DXKPX",
-   "01RMDPX",
+   "01VMNPX",
+   "01VNCPX",
+   "01VNJPX",
+   "01VNKPX",
    "01VNLPX",
    "01VNMPX",
+   "01VNQPX",
+   "01VNRPX",
    "01VNSPX",
    "01VNTPX",
+   "01VNVPX",
+   "01VNZPX",
    "01VOAPX",
+   "01VODPX",
    "01VOFPX",
    "01VOGPX",
    "01VOJPX",
+   "01VOKPX",
    "01VOLPX"
   ],
-  "nb_dedicated_courses":5,
-  "nb_matched_courses":12,
+  "nb_dedicated_courses":10,
+  "nb_matched_courses":21,
   "nb_total_courses":66
  },
  {
@@ -1599,15 +1892,17 @@
   ],
   "themes_scores":[
    2,
-   1,
-   1
+   2,
+   2
   ],
   "matched_courses":[
+   "01VMETE",
+   "01VMPTE",
    "01VMQTE",
    "02VMFTE"
   ],
   "nb_dedicated_courses":0,
-  "nb_matched_courses":2,
+  "nb_matched_courses":4,
   "nb_total_courses":40
  },
  {
@@ -1635,16 +1930,61 @@
   ],
   "themes_scores":[
    2,
-   1,
-   1
+   2,
+   2
   ],
   "matched_courses":[
+   "01VMETE",
+   "01VMPTE",
    "01VMQTE",
    "02VMFTE"
   ],
   "nb_dedicated_courses":0,
-  "nb_matched_courses":2,
+  "nb_matched_courses":4,
   "nb_total_courses":47
+ },
+ {
+  "id":"architettura-del-paesaggio-master",
+  "name":"Architettura Del Paesaggio",
+  "cycle":"master",
+  "url":"https:\/\/www.polito.it\/didattica\/corsi-di-laurea-magistrale\/architettura-del-paesaggio",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Dipartimento Interateneo di Scienze, Progetto e Politiche del Territorio"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "food",
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   3,
+   1,
+   7,
+   2
+  ],
+  "matched_courses":[
+   "01GZRUS",
+   "01HEZUS",
+   "01HFAUS",
+   "01HFCUS",
+   "01HFFUS",
+   "01HFIUS",
+   "02JGXUS"
+  ],
+  "nb_dedicated_courses":4,
+  "nb_matched_courses":7,
+  "nb_total_courses":14
  },
  {
   "id":"architecture-construction-city-master",
@@ -1670,28 +2010,36 @@
    "climate",
    "energy",
    "life",
-   "pollution"
+   "pollution",
+   "transport"
   ],
   "themes_scores":[
-   2,
+   3,
    1,
-   1,
    2,
-   7,
+   3,
+   11,
+   3,
    2
   ],
   "matched_courses":[
+   "01VOMPQ",
    "01VONPQ",
    "01VOQPQ",
+   "01VOTPQ",
+   "01VOWPQ",
    "01VOXPQ",
+   "01VOZPQ",
    "01VPAPQ",
+   "01VPDPQ",
    "01VPJPQ",
    "02VLPPQ",
+   "03QLRPQ",
    "03QLYPQ",
    "06QLVPQ"
   ],
-  "nb_dedicated_courses":3,
-  "nb_matched_courses":8,
+  "nb_dedicated_courses":5,
+  "nb_matched_courses":14,
   "nb_total_courses":63
  },
  {
@@ -1718,28 +2066,36 @@
    "climate",
    "energy",
    "life",
-   "pollution"
+   "pollution",
+   "transport"
   ],
   "themes_scores":[
-   2,
+   3,
    1,
-   1,
    2,
-   7,
+   3,
+   11,
+   3,
    2
   ],
   "matched_courses":[
+   "01VOMPQ",
    "01VONPQ",
    "01VOQPQ",
+   "01VOTPQ",
+   "01VOWPQ",
    "01VOXPQ",
+   "01VOZPQ",
    "01VPAPQ",
+   "01VPDPQ",
    "01VPJPQ",
    "02VLPPQ",
+   "03QLRPQ",
    "03QLYPQ",
    "06QLVPQ"
   ],
-  "nb_dedicated_courses":3,
-  "nb_matched_courses":8,
+  "nb_dedicated_courses":5,
+  "nb_matched_courses":14,
   "nb_total_courses":73
  },
  {
@@ -1813,22 +2169,170 @@
    "Other"
   ],
   "themes":[
+   "building",
+   "climate",
+   "economy",
+   "energy",
+   "food",
    "life",
    "pollution",
    "resources"
   ],
   "themes_scores":[
+   1,
    2,
+   1,
+   2,
+   1,
+   7,
+   4,
+   3
+  ],
+  "matched_courses":[
+   "01NIYMO",
+   "01USXMO",
+   "02NIWMO",
+   "03RUQMO",
+   "05BIKMO",
+   "08BEKMO",
+   "13AOOMO"
+  ],
+  "nb_dedicated_courses":4,
+  "nb_matched_courses":7,
+  "nb_total_courses":23
+ },
+ {
+  "id":"mechanical-engineering-bac",
+  "name":"Mechanical Engineering",
+  "cycle":"bac",
+  "url":"https:\/\/www.polito.it\/en\/education\/bachelor-s-degree-programmes\/mechanical-engineering",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Department of Mechanical and Aerospace Engineering"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "themes_scores":[
+   1,
+   2
+  ],
+  "matched_courses":[
+   "01JWDMN",
+   "20AXPMN"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":44
+ },
+ {
+  "id":"ingegneria-meccanica-bac",
+  "name":"Ingegneria Meccanica",
+  "cycle":"bac",
+  "url":"https:\/\/www.polito.it\/didattica\/corsi-di-laurea\/ingegneria-meccanica",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Dipartimento di Ingegneria Meccanica e Aerospaziale"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "themes_scores":[
+   1,
+   2
+  ],
+  "matched_courses":[
+   "01JWDMN",
+   "20AXPMN"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":48
+ },
+ {
+  "id":"ingegneria-elettrica-bac",
+  "name":"Ingegneria Elettrica",
+  "cycle":"bac",
+  "url":"https:\/\/www.polito.it\/didattica\/corsi-di-laurea\/ingegneria-elettrica",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Dipartimento Energia"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "themes_scores":[
    1,
    1
   ],
   "matched_courses":[
-   "01NIYMO",
-   "05BIKMO"
+   "01UQRLX",
+   "16BNMLX"
   ],
   "nb_dedicated_courses":0,
   "nb_matched_courses":2,
   "nb_total_courses":23
+ },
+ {
+  "id":"ingegneria-edile-bac",
+  "name":"Ingegneria Edile",
+  "cycle":"bac",
+  "url":"https:\/\/www.polito.it\/didattica\/corsi-di-laurea\/ingegneria-edile",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Dipartimento di Ingegneria Strutturale, Edile e Geotecnica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "01UXVMH"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":26
  },
  {
   "id":"ingegneria-della-produzione-industriale-bac",
@@ -1851,6 +2355,7 @@
    "Other"
   ],
   "themes":[
+   "building",
    "carbon",
    "economy",
    "energy",
@@ -1860,8 +2365,9 @@
   "themes_scores":[
    3,
    3,
-   6,
    3,
+   6,
+   6,
    3
   ],
   "matched_courses":[
@@ -1870,10 +2376,13 @@
    "02NKFQR",
    "02NZENL",
    "02NZENM",
-   "02NZEQR"
+   "02NZEQR",
+   "03AOFNL",
+   "03AOFNM",
+   "03AOFQR"
   ],
   "nb_dedicated_courses":3,
-  "nb_matched_courses":6,
+  "nb_matched_courses":9,
   "nb_total_courses":71
  },
  {
@@ -1898,14 +2407,15 @@
    "transport"
   ],
   "themes_scores":[
-   2
+   3
   ],
   "matched_courses":[
    "04LONLI",
-   "04LONLN"
+   "04LONLN",
+   "20AXPLN"
   ],
   "nb_dedicated_courses":0,
-  "nb_matched_courses":2,
+  "nb_matched_courses":3,
   "nb_total_courses":42
  },
  {
@@ -1930,15 +2440,54 @@
    "transport"
   ],
   "themes_scores":[
-   2
+   3
   ],
   "matched_courses":[
    "04LONLI",
-   "04LONLN"
+   "04LONLN",
+   "20AXPLN"
   ],
   "nb_dedicated_courses":0,
-  "nb_matched_courses":2,
+  "nb_matched_courses":3,
   "nb_total_courses":46
+ },
+ {
+  "id":"ingegneria-civile-bac",
+  "name":"Ingegneria Civile",
+  "cycle":"bac",
+  "url":"https:\/\/www.polito.it\/didattica\/corsi-di-laurea\/ingegneria-civile",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Dipartimento di Ingegneria Strutturale, Edile e Geotecnica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life",
+   "resources"
+  ],
+  "themes_scores":[
+   1,
+   2,
+   2
+  ],
+  "matched_courses":[
+   "01USWMC",
+   "01VLIMC",
+   "03BHRMC",
+   "08BEKMC"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":4,
+  "nb_total_courses":24
  },
  {
   "id":"ingegneria-dei-materiali-bac",
@@ -1972,6 +2521,40 @@
   "nb_total_courses":24
  },
  {
+  "id":"ingegneria-chimica-e-alimentare-bac",
+  "name":"Ingegneria Chimica E Alimentare",
+  "cycle":"bac",
+  "url":"https:\/\/www.polito.it\/didattica\/corsi-di-laurea\/ingegneria-chimica-e-alimentare",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Torino"
+  ],
+  "faculties":[
+   "Dipartimento Scienza Applicata e Tecnologia"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources",
+   "transport"
+  ],
+  "themes_scores":[
+   1,
+   1
+  ],
+  "matched_courses":[
+   "02NFEMB",
+   "06AULMB"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":23
+ },
+ {
   "id":"ingegneria-aerospaziale-bac",
   "name":"Ingegneria Aerospaziale",
   "cycle":"bac",
@@ -1990,16 +2573,26 @@
    "Other"
   ],
   "themes":[
-   "life"
+   "energy",
+   "life",
+   "pollution",
+   "prod&cons",
+   "transport"
   ],
   "themes_scores":[
+   1,
+   1,
+   1,
+   1,
    1
   ],
   "matched_courses":[
-   "01MZBLZ"
+   "01MZALZ",
+   "01MZBLZ",
+   "03MYVLZ"
   ],
   "nb_dedicated_courses":0,
-  "nb_matched_courses":1,
+  "nb_matched_courses":3,
   "nb_total_courses":24
  },
  {
@@ -2022,21 +2615,28 @@
   ],
   "themes":[
    "economy",
+   "energy",
    "life",
    "prod&cons",
+   "resources",
    "transport"
   ],
   "themes_scores":[
    1,
    1,
+   2,
+   2,
    1,
-   1
+   2
   ],
   "matched_courses":[
-   "01UAFLH"
+   "01UAFLH",
+   "01VLKLH",
+   "03NBYLH",
+   "03NBZLH"
   ],
-  "nb_dedicated_courses":0,
-  "nb_matched_courses":1,
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":4,
   "nb_total_courses":46
  },
  {
@@ -2117,14 +2717,15 @@
    "prod&cons"
   ],
   "themes_scores":[
-   4,
+   5,
    1,
    1,
    2,
-   3,
+   6,
    2
   ],
   "matched_courses":[
+   "01BDGPM",
    "01OTYLU",
    "01SUAPM",
    "01SUBPM",
@@ -2132,11 +2733,12 @@
    "01VQCLU",
    "01VQDLU",
    "02SSULU",
+   "03AXZPM",
    "03OUDLU",
    "14CFRPM"
   ],
-  "nb_dedicated_courses":1,
-  "nb_matched_courses":9,
+  "nb_dedicated_courses":3,
+  "nb_matched_courses":11,
   "nb_total_courses":61
  }
 ]

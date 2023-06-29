@@ -7,4 +7,4 @@ PATTERNS_PATH = path.join('data', 'patterns', 'themes_patterns.json')
 
 YEAR = 2023
 
-ACCEPTED_LANGUAGES = ['en']
+ACCEPTED_LANGUAGES = ['en', 'it']

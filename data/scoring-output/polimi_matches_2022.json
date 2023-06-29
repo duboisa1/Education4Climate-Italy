@@ -74,6 +74,82 @@
             ]
         }
     },
+    "051184: Tecnologie Innovative Per L'Energia": {
+        "it": {
+            "[risparmio? energetic, industria]": [
+                "itici e sociali del risparmio energetico  politiche energet",
+                "con gli altri paesi industrializzati e specificit"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "ll aria  e globale  cambiamenti climatici ed effetto serra  "
+            ],
+            "effetto serra": [
+                "amenti climatici ed effetto serra   cenni su tecnolog"
+            ],
+            "bio[ -]?gas": [
+                "er la produzione di biogas  filiera di approvv"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "relativi alle fonti energetiche rinnovabili trattate e relativ"
+            ],
+            "idroelettric": [
+                "a e tecnologia mini-idroelettrica     tipologie di i"
+            ],
+            "pannelli fotovoltaici": [
+                "etto fotoelettrico  pannelli fotovoltaici  inverter  sistemi "
+            ],
+            "[energi, sostenibil]": [
+                "ie innovative per l energia energia e sviluppo",
+                "ative per l energia energia e sviluppo   indic",
+                "iale e locale       energia e ambiente   intro",
+                " alla produzione di energia  l impatto delle c",
+                "stro della co2      energia e economia   costi",
+                " di produzione dell energia elettrica  inciden",
+                "ione italiana per l energia primaria e per l e",
+                "ia primaria e per l energia elettrica e previs",
+                "ione italiana       energia e tecnologie solar",
+                " della radiazione   energia solare fotovoltaic",
+                " connesso in rete   energia solare termica   p",
+                "calda sanitaria     energia solare termodinami",
+                "oncentrazione       energia e tecnologia eolic",
+                "lazione eolica      energia e tecnologia mini-",
+                "to ambientale       energia da biomasse   tipo",
+                "nterconnessioni tra energia  ambiente e svilup",
+                "onti rinnovabili ed energia nucleare  con appr",
+                "er la generazioe di energia      - e in grado ",
+                "ita cosi come sulla sostenibilita nel medio-lungo "
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "   introduzione all impatto ambientale ed alla produzio",
+                "omiche mini-eolico  impatto ambientale di un installazi",
+                "tazioni economiche  impatto ambientale       energia da",
+                "alla riduzione dell impatto ambientale delle stesse    "
+            ],
+            "qualita dell aria": [
+                "tti a scala locale  qualita dell aria  e globale  cambiam"
+            ]
+        }
+    },
+    "051189: Progettazione Di Impianti Energetici Negli Edifici - Diagnosi E Certificazioni Energetiche": {
+        "it": {
+            "[risparmio? energetic, edificio]": [
+                "ibili interventi di risparmio energetico per la loro succes",
+                "operativo i sistemi edificio-impianto per quanto",
+                "rgetica dei sistemi edificio /impianto    * sa i"
+            ],
+            "[risparmio? energetic, industria]": [
+                "ibili interventi di risparmio energetico per la loro succes",
+                "i di tipo civile ed industriale  analisi del quad",
+                "ifici con cenni sui industriali  termici  condizi",
+                " per siti civili ed industriali  modellizzando i "
+            ],
+            "[prestazion(?:e|i) energetic, edificio]": [
+                "miglioramento della prestazione energetica   questi saranno i",
+                "operativo i sistemi edificio-impianto per quanto",
+                "rgetica dei sistemi edificio /impianto    * sa i"
+            ]
+        }
+    },
     "051249: Design Per La Sostenibilit\u00e0 Ambientale": {
         "en": {
             "[energy, sustaina]": [
@@ -97,6 +173,13 @@
             ]
         }
     },
+    "051250: Strategia Ed Economia Del Progetto": {
+        "it": {
+            "(?:analisi|valutazion(?:e|i)) (?:del|dei|di) cicl(?:o|i) (?:di )?vita": [
+                "el corso affronta l analisi del ciclo di vita di un prodotto  lo "
+            ]
+        }
+    },
     "051304: Resilient Strategies In Risk Situations": {
         "en": {
             "climate change": [
@@ -117,11 +200,11 @@
             "[energy, sustaina]": [
                 "ampling techniques  energy distribution of neu",
                 "e model for several energy groups        stati",
-                "chnologies'     the sustainability of industrial"
+                "chnologies      the sustainability of industrial"
             ],
             "green technolog": [
-                "gram 'ambassador in green technologies'      the detail",
-                "gram 'ambassador in green technologies'     the sustain"
+                "gram  ambassador in green technologies       the detail",
+                "gram  ambassador in green technologies      the sustain"
             ],
             "(?:nuclear|radioactive) waste": [
                 "    repositories of radioactive waste     characteristics",
@@ -178,6 +261,40 @@
             ]
         }
     },
+    "051495: Laboratorio Di Urbanistica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "i da una transizione ecologica e socio-economica c",
+                "te dalla transizione ecologica e dall agenda2030 d"
+            ]
+        }
+    },
+    "051498: Laboratorio Di Costruibilita' E Sostenibilita' Del Progetto": {
+        "it": {
+            "decarbon": [
+                "munita sostenibili  decarbonizazione dell ambien"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "mozione delle fonti energetiche rinnovabili  riduzione disugua"
+            ]
+        }
+    },
+    "051509: Diritto Dell'Energia": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                "  aia         fonti energetiche rinnovabili e loro incentivazi"
+            ],
+            "idroelettric": [
+                "e    le concessioni idroelettriche    gli appalti ne"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "  a  valutazione di impatto ambientale   via           "
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "itto dell energia e tutela dell ambiente        l intreccio "
+            ]
+        }
+    },
     "051520: Construction And Sustainability Design Studio": {
         "en": {
             "(?:sustainable urban|urban sustaina)": [
@@ -215,12 +332,19 @@
                 "ices in relation to energy design and plant en",
                 "construction and sustainability design studio",
                 "he construction and sustainable design  section ",
-                " united nations' 17 sustainable development goal",
+                " united nations  17 sustainable development goal",
                 "   construction and sustainable design  section ",
                 "or  decent work and sustainable economic growth ",
                 "aspects related to  sustainable urban design  ar",
                 "andscape design and sustainable energy design  a",
                 " attention to some  sustainable  features viz  s"
+            ]
+        }
+    },
+    "051555: Laboratorio Di Progetto E Costruzione Dell'Architettura": {
+        "it": {
+            "tecnologi(?:a|e) sostenibil": [
+                "tura parole chiave  tecnologie sostenibili resilienti  design"
             ]
         }
     },
@@ -253,6 +377,13 @@
             "life[- ]?cycle (?:analys|assess)": [
                 "ctions systems  the life cycle assessment  the structural",
                 "ctions systems  the life cycle assessment  the structural"
+            ]
+        }
+    },
+    "051592: Tecnica Delle Costruzioni": {
+        "it": {
+            "impatt(?:o|i) climatic": [
+                "do conto anche dell impatto climatico  delle emissioni d"
             ]
         }
     },
@@ -322,6 +453,19 @@
             ],
             "life[- ]?cycle (?:analys|assess)": [
                 "mental issues     * life-cycle assessment  building susta"
+            ]
+        }
+    },
+    "052345: Laboratorio Di Microreti": {
+        "it": {
+            "micro[- ]?rete": [
+                "oncetto generale di microrete  dai punti di vista",
+                "rogettazione di una microrete ed e in grado di se",
+                " costruzione di una microrete     lo studente con",
+                "unzionamento di una microrete             lo stud",
+                "ne di massima della microrete completa di selezio",
+                "unzionamento di una microrete     analizzare il f",
+                "unzionamento di una microrete media complessita r"
             ]
         }
     },
@@ -513,6 +657,151 @@
             ]
         }
     },
+    "052408: Modelli Statistici E Processi Stocastici": {
+        "it": {
+            "gestione (?:delle|di) risorse naturali": [
+                "e  pianificazione e gestione delle risorse naturali e tecnologie di ris"
+            ]
+        }
+    },
+    "052460: Sistemi Energetici": {
+        "it": {
+            "[prestazion(?:e|i) energetic, architettura]": [
+                "li      valutare le prestazioni energetiche ed economiche di ",
+                "neratori di vapore  architettura  configurazioni e a"
+            ],
+            "emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio)": [
+                "imiti di emissione  emissioni di co2 ed effetto serra  s",
+                " la riduzione delle emissioni di co2        scambiatori "
+            ],
+            "effetto serra": [
+                "emissioni di co2 ed effetto serra  strategie per la r"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "applicazioni        energia rinnovabile     revisione dell"
+            ],
+            "idroelettric": [
+                "idraulici  impianti idroelettrici        cicli di va",
+                "i  csp  geotermici  idroelettrici ed eolici         "
+            ],
+            "transizi[^ ]+ energ": [
+                "etici  i temi della transizione energetica sono protagoni"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "ssi di combustione  impatto ambientale      stechiometr"
+            ],
+            "inquina": [
+                "e principali specie inquinanti durante la combu",
+                "re la formazione di inquinanti  sistemi di post",
+                "llo delle emissioni inquinanti      i principal"
+            ]
+        }
+    },
+    "052461: Applicazioni Dell'Energia Elettrica": {
+        "it": {
+            "[risparmio? energetic, industria]": [
+                "    7  efficienza e risparmio energetico  ruolo delle fonti",
+                " in ambito civile e industriale  fino alle ricadu",
+                "derivanti del mondo industriale  con particolare "
+            ],
+            "mobilita elettric": [
+                "i mercato  storage  mobilita elettrica  illuminazione pub"
+            ],
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "ci  trasformatori e macchine elettriche  generalita e pri"
+            ]
+        }
+    },
+    "052518: Idrologia": {
+        "it": {
+            "ingegneria ambientale": [
+                "ore interesse per l ingegneria ambientale  precipitazione  ru",
+                "rtanti ai fini dell ingegneria ambientale  quali la precipita",
+                "rtanti ai fini dell ingegneria ambientale  - acquisira concet"
+            ]
+        }
+    },
+    "052522: Economia Ambientale": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                " costi benefici dei cambiamenti climatici    giochi economic",
+                "nomia e scienza dei cambiamenti climatici  vista la loro att",
+                "ni del problema del cambiamento climatico    - conosce le po"
+            ],
+            "politic(?:a|he) (?:ambient|ecosist)": [
+                "a comportamentale e politiche ambientali        contenuti",
+                "ico    - conosce le politiche ambientali sia di mercato c",
+                " pro e contro delle politiche ambientali    - sa giudicar"
+            ],
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "     free riding  e problemi ambientali globali        2",
+                "2  cause e cure dei problemi ambientali        il concet"
+            ]
+        }
+    },
+    "052566: Pianificazione Territoriale": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "pianificazione territoriale si insegna un appr",
+                "ccio integrato alla pianificazione territoriale  che sappia correl",
+                "nali     lezioni    pianificazione territoriale - modulo 2    si p",
+                " il rapporto fra la pianificazione territoriale e quella comunale ",
+                "cala regionale  fra pianificazione territoriale e pianificazione p",
+                "temi e strumenti di pianificazione territoriale e governo del terr",
+                "emi emergenti nella pianificazione territoriale a livello internaz",
+                "istituzionali della pianificazione territoriale in ambito nazional",
+                " sulle questioni di pianificazione territoriale    - capacita di d",
+                "ntegrati con quelli ambientali  culturali  soci",
+                "re fra le questioni ambientali si affrontano il",
+                "stici ed indicatori ambientali      - si metton",
+                "lo e di valutazione ambientale  a livello di pr",
+                "one e compensazione ambientale     laboratorio "
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "pianificazione territoriale si insegna un appr",
+                "ccio integrato alla pianificazione territoriale  che sappia correl",
+                "nali     lezioni    pianificazione territoriale - modulo 2    si p",
+                " il rapporto fra la pianificazione territoriale e quella comunale ",
+                "cala regionale  fra pianificazione territoriale e pianificazione p",
+                "temi e strumenti di pianificazione territoriale e governo del terr",
+                "emi emergenti nella pianificazione territoriale a livello internaz",
+                "istituzionali della pianificazione territoriale in ambito nazional",
+                " sulle questioni di pianificazione territoriale    - capacita di d",
+                "pettiva di sviluppo sostenibile  il paradigma em",
+                "dalita  la mobilita sostenibile e l energia     ",
+                "ategica di sviluppo sostenibile  a partire dalla",
+                "rategie di sviluppo sostenibile a scala territor"
+            ],
+            "[energi, sostenibil]": [
+                "ita sostenibile e l energia       i contenuti ",
+                "pettiva di sviluppo sostenibile  il paradigma emer",
+                "dalita  la mobilita sostenibile e l energia       ",
+                "ategica di sviluppo sostenibile  a partire dalla s",
+                "rategie di sviluppo sostenibile a scala territoria"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                " del suolo e le reti ecologiche  fra quelli infrast",
+                "zione paesaggistica  ecologica e di bacino idrogra"
+            ],
+            "question(?:e|i) ambiental": [
+                " particolare fra le questioni ambientali si affrontano il c"
+            ],
+            "mobilita sostenibil": [
+                "l intermodalita  la mobilita sostenibile e l energia       "
+            ]
+        }
+    },
+    "052567: Prova Finale (Iat-Icar/20)": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "orio progettuale di pianificazione territoriale     - metodologia ",
+                " la prova finale di pianificazione territoriale parte dai risultat",
+                " corso integrato di pianificazione territoriale 1 e 2 che consisto",
+                "rategie di sviluppo sostenibile per un dato cont",
+                "rategie di sviluppo sostenibile in un documento "
+            ]
+        }
+    },
     "052572: Materials For Electrical Applications": {
         "en": {
             "alternative energy": [
@@ -525,6 +814,109 @@
         "en": {
             "renewable energy": [
                 "he non-programmable renewable energy sources       to ev"
+            ]
+        }
+    },
+    "052620: Tecnica Urbanistica 1 + Laboratorio": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "cnologici     b  la pianificazione territoriale ed urbanistica    ",
+                "ciale  economico ed ambientale     ricerca e in",
+                "vizi per la qualita ambientale e servizi tecnol",
+                "n la pianificazione ambientale e di settore  vi",
+                "l territorio e dell ambiente    studio dei proc",
+                "della sostenibilita ambientale ed ai protocolli",
+                "utazione di impatto ambientale e valutazione am",
+                "ntale e valutazione ambientale strategica     a",
+                "ilevanza naturale e ambientale  vincoli idrogeo",
+                "ogici  monumentali  ambientali  militari  fasce",
+                "ale  insediativo ed ambientale  sistema del tra",
+                "a infrastrutturale  ambientale ed insediativo  ",
+                "a alla qualita dell ambiente urbano e del terri"
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "cnologici     b  la pianificazione territoriale ed urbanistica    ",
+                "anistica e sviluppo sostenibile del territorio  ",
+                "o ai principi della sostenibilita ambientale ed ",
+                "030 per lo sviluppo sostenibile  con particolare",
+                " sicuri  duraturi e sostenibili\"     la citta re",
+                "alificazione urbana sostenibile  eco-quartieri  ",
+                "nti per la mobilita sostenibile  piano urbano de",
+                "bano della mobilita sostenibile  piano urbano de",
+                "1  citta e comunita sostenibili - pianificazione",
+                "anificazione urbana sostenibile - citta resilien",
+                "siliente - mobilita sostenibile - patrimonio nat",
+                "sara il concetto di sostenibilita  il corso si a"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "to e mitigazione ai cambiamenti climatici     politiche e st",
+                "13  lotta contro il cambiamento climatico - mitigazione del ",
+                "o - mitigazione del cambiamento climatico - adattamento al c",
+                "co - adattamento al cambiamento climatico il corso ha l obie"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "     valutazione di impatto ambientale e valutazione am"
+            ],
+            "riserv(?:a|e) natural": [
+                "ionali e regionali  riserve naturali  zone di particola"
+            ],
+            "mobilita sostenibil": [
+                " e strumenti per la mobilita sostenibile  piano urbano dell",
+                " piano urbano della mobilita sostenibile  piano urbano del ",
+                " citta resiliente - mobilita sostenibile - patrimonio natur"
+            ]
+        }
+    },
+    "052623: Laboratorio Di Architettura Tecnica Ed Ergotecnica Edile": {
+        "it": {
+            "[prestazion(?:e|i) energetic, edificio]": [
+                "degli indicatori di prestazione energetica dell edificio  edi",
+                " ambientali e della prestazione energetica dell organismo edi",
+                "ddisfacimento della prestazione energetica dell edificio e de",
+                "one energetica dell edificio  edifici zero energ",
+                " e ambientale di un edificio complesso  il lavor",
+                "nto energetico dell edificio e l integrazione fr",
+                "one energetica dell edificio e delle prestazioni",
+                "iche  alla scala di edificio e di componente edi",
+                "che invernali di un edificio  - e in grado di de",
+                "i tecnologici in un edificio  coordinandone la p"
+            ],
+            "[prestazion(?:e|i) energetic, architettura]": [
+                "degli indicatori di prestazione energetica dell edificio  edi",
+                " ambientali e della prestazione energetica dell organismo edi",
+                "ddisfacimento della prestazione energetica dell edificio e de",
+                "laboratorio di architettura tecnica ed ergotecn",
+                "edile il modulo di  architettura tecnica   primo sem",
+                "nel  laboratorio di architettura tecnica   secondo s",
+                " nel laboratorio di architettura e composizione arch",
+                "ntati nel modulo di architettura tecnica  durante il",
+                "n il laboratorio di architettura tecnica  prevede lo",
+                "e di illuminazione  architettura d impianto  protezi",
+                "  il laboratorio di architettura tecnica ed ergotecn",
+                "di ingegneria edile-architettura  esso costituisce  ",
+                "i     il modulo di  architettura tecnica   primo sem",
+                " il  laboratorio di architettura tecnica   secondo s"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "tamento di fonti di energia rinnovabile  - impianti di cli"
+            ],
+            "[energi, sostenibil]": [
+                "tamento di fonti di energia rinnovabile  - imp",
+                "ale interno e della sostenibilita ambientale  in u",
+                "assima efficienza e sostenibilita energetica  e ve"
+            ],
+            "prestazion(?:e|i) ambiental": [
+                "degli indicatori di prestazione ambientale  rispetto a fattor"
+            ]
+        }
+    },
+    "052641: Progettazione Urbanistica + Laboratorio": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ato nel testo \"urban ecological design  a process f"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "re based solutions  servizi ecosistemici urbani e green"
             ]
         }
     },
@@ -699,7 +1091,8 @@
             "[[ ]ecolo[^ ]+]": [
                 "s     \"the essential ecology of the botanical ga",
                 "and    botanical and ecological science  b  identif",
-                "ions matter equally  ecological matters and cultura"
+                "ions matter equally  ecological matters and cultura",
+                "cago  naissance de l ecologie  paris     aubier  "
             ],
             "(?:environment[^ ]*|ecosystem) benefits": [
                 "ssible cultural and environmental benefits     considering the"
@@ -722,7 +1115,7 @@
                 "dable/sustainable + energy  resource s /source",
                 "erelict areas       sustainability at territoria",
                 "itorial scale       sustainable neighborhoods   ",
-                " united nations' 17 sustainable development goal",
+                " united nations  17 sustainable development goal",
                 "le/clean/affordable/sustainable + energy  resour",
                 "ids        sgd 8  - sustainable economic growth ",
                 "omy        sdg 9  - sustainable/resilient/green ",
@@ -785,6 +1178,80 @@
             ],
             "environment[^ ]* performance": [
                 "ces on economic and environmental performance of companies     be"
+            ]
+        }
+    },
+    "052921: Fisica Tecnica E Impianti": {
+        "it": {
+            "[prestazion(?:e|i) energetic, edificio]": [
+                "ale lo studio delle prestazioni energetico-ambientali degli e",
+                "   termofisica dell edificio  trasmissione del c",
+                "io energetico di un edificio  metodo cen  simula",
+                " ambiente esterno - edificio - ambiente interno "
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "erimento alle fonti energetiche rinnovabili  ed al soddisfacim"
+            ],
+            "[energi, sostenibil]": [
+                " determinazione     energia solare  geografia ",
+                "ivare ad edifici ad energia quasi zero  sia di",
+                " alla progettazione sostenibile del costruito     ",
+                "  eco-compatibile e sostenibile  nello specifico v",
+                "ntale sia realmente sostenibile"
+            ]
+        }
+    },
+    "052928: Laboratorio Di Conservazione Dell'Edilizia Storica": {
+        "it": {
+            "[turismo, sostenibil]": [
+                "ita culturali e del turismo  rappresentanti di ",
+                "ita culturali e del turismo  rappresentanti di ",
+                "ne virtuale e reale sostenibile futura con cenni d"
+            ]
+        }
+    },
+    "052934: Laboratorio Di Conservazione Dell'Edilizia Storica": {
+        "it": {
+            "(?:turismo sostenibile|ecoturismo)": [
+                "  nell ottica di un turismo sostenibile     gli studenti  o"
+            ],
+            "[turismo, sostenibil]": [
+                "  nell ottica di un turismo sostenibile     gli",
+                "onio costruito e il turismo\"  il \"patrimonio co",
+                "ita culturali e del turismo  rappresentanti di ",
+                "ogramma di gestione sostenibile delle risorse  arg",
+                "ttica di un turismo sostenibile     gli studenti  "
+            ]
+        }
+    },
+    "052937: Laboratorio Di Conservazione Dell'Edilizia Storica": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "rimonio costruito e cambiamenti climatici\"  tenute da espert"
+            ]
+        }
+    },
+    "052940: Laboratorio Di Conservazione Dell'Edilizia Storica": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "rimonio costruito e cambiamento climatico\"  attraverso l asc"
+            ]
+        }
+    },
+    "052969: Diritto Della Rigenerazione Urbana": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "all esercizio della pianificazione territoriale  della progettazio",
+                "zione urbanistica e ambientale  alla disciplina",
+                "tico-edilizie  dell ambiente  delle opere pubbl",
+                "l suolo  efficienza ambientale ed energetica  s"
+            ]
+        }
+    },
+    "052991: Laboratorio Di Conservazione Dell'Edilizia Storica": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "onio costruito e il cambiamento climatico\"  attraverso l asc"
             ]
         }
     },
@@ -851,6 +1318,13 @@
             ],
             "environment[^ ]* performance": [
                 "study of the energy-environmental performance of buildings and th"
+            ]
+        }
+    },
+    "053098: Laboratorio Di Progettazione Finale": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "tali e degli aspetti ecologici del sito  le eserci"
             ]
         }
     },
@@ -1028,7 +1502,7 @@
             "[energy, sustaina]": [
                 " approach    - zero energy building design    ",
                 "ding    - tools for energy performance evaluat",
-                "nents' behaviour in energy design    - thermal",
+                "nents  behaviour in energy design    - thermal",
                 "tems    - renewable energy technologies    - l",
                 "sustainability and the built"
             ],
@@ -1085,6 +1559,29 @@
             ]
         }
     },
+    "054121: Laboratorio Di Processi Metallurgici": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "ti  arco elettrico  macchine elettriche per saldatura ad "
+            ]
+        }
+    },
+    "054150: Modellistica Delle Macchine E Degli Impianti Elettrici": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                " fondamentali delle macchine elettriche rotanti  in termi",
+                "ella dinamica delle macchine elettriche rotanti  consapev"
+            ]
+        }
+    },
+    "054151: Prova Finale (Modellistica Delle Macchine E Degli Impianti Elettrici)": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "modellistica di una macchina elettrica in un caso applica",
+                "funzionamento delle macchine elettriche con quelle pratic"
+            ]
+        }
+    },
     "054173: Smart Grids: Components, Functionalities And Benefits": {
         "en": {
             "bioga(?:s|z)": [
@@ -1114,6 +1611,64 @@
         "en": {
             "shared mobility": [
                 "uropean strategies  shared mobility  credit-based mobil"
+            ]
+        }
+    },
+    "054180: Ecologia": {
+        "it": {
+            "cicl(?:o|i) del carbonio": [
+                "i biogeochimici  il ciclo del carbonio  l effetto serra e "
+            ],
+            "effetto serra": [
+                "clo del carbonio  l effetto serra e il riscaldamento "
+            ],
+            "riscaldament(?:o|i) globale": [
+                " effetto serra e il riscaldamento globale  la circolazione de",
+                "i effetti ecologici riscaldamento globale  tali temi vengono "
+            ],
+            "[energi, sostenibil]": [
+                "logiche   flussi di energia e di materia negli",
+                "ipale dei flussi di energia e di materia al lo",
+                " agenda di sviluppo sostenibile promosso dalle naz"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "eciale  che cosa e l ecologia  problemi e metodi ",
+                "oblemi e metodi dell ecologia  importanza pratica",
+                "ortanza pratica dell ecologia e problemi attuali ",
+                "  nozioni di base ed ecologia di una singola popo",
+                "limentari e piramidi ecologiche   flussi di energia",
+                "alimentari  piramidi ecologiche e bilanci energetic",
+                " risorse  la nicchia ecologica  allargamento della",
+                "a pagina  http //www ecologia polimi it/courses/e",
+                "a/ l insegnamento di ecologia si propone di intro",
+                "uadrare le basi dell ecologia  i fondamenti di ge",
+                "dei grandi temi dell ecologia proposti coinvolgon",
+                "rsita  e gli effetti ecologici riscaldamento globa",
+                "anza nei problemi di ecologici  che giocano spesso",
+                "enza della relazioni ecologiche osservate nei dati "
+            ],
+            "biodiversit": [
+                "e negli ecosistemi  biodiversita e cenni di conserv",
+                "stemi            la biodiversita   quante specie ci",
+                " terra  misurare la biodiversita  esempi di gradien",
+                "cesso di perdita di biodiversita           oltre al",
+                " interspecifica  la biodiversita  e gli effetti eco",
+                "sce il valore della biodiversita  che ha riesce a m"
+            ],
+            "biosfera": [
+                "ologica  di bioma e biosfera   alcuni dei grandi"
+            ],
+            "cicl(?:o|i) bio-?geo-?chimic": [
+                "egli ecosistemi e i cicli biogeochimici   bilanci biogeoch",
+                "azione dei maggiori cicli biogeochimici che producono i gr"
+            ]
+        }
+    },
+    "054181: Modellistica E Simulazione": {
+        "it": {
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "li nel contesto dei problemi ambientali e territoriali  ",
+                "mplessita dei reali problemi ambientali e territoriali  "
             ]
         }
     },
@@ -1168,6 +1723,13 @@
             ]
         }
     },
+    "054226: Elettrotecnica E Elettronica Applicata": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "  introduzione alle macchine elettriche  l insegnamento s"
+            ]
+        }
+    },
     "054242: Trends In Food Industry Lab": {
         "en": {
             "(?:responsible consumption|consume responsib)": [
@@ -1186,6 +1748,27 @@
         "en": {
             "environmental consideration": [
                 "ntegration  safety  environmental considerations  constructability "
+            ]
+        }
+    },
+    "054264: Chimica Generale": {
+        "it": {
+            "[energi, sostenibil]": [
+                "mica      materia e energia  stati della mater",
+                "quantizzazione dell energia e proprieta ondula",
+                "paccamento di ioni  energia reticolare  solidi",
+                "fia   relazione tra energia libera e costante ",
+                "locita di reazione  energia di attivazione e d",
+                "locita di reazione  energia di attivazione  co",
+                "ita termica molare  energia interna e primo pr",
+                "ella termodinamica  energia libera di gibbs e ",
+                "ita di un processo  energia libera standard   ",
+                "rico  relazione tra energia libera e potenzial",
+                "si e conversione di energia elettrica in energ",
+                "nergia elettrica in energia chimica  cella ele",
+                "bilanci di massa ed energia       e in grado d",
+                " reazioni chimiche  sostenibilita delle reazioni c",
+                "le esperienze  e la sostenibilita di prodotto e di"
             ]
         }
     },
@@ -1234,9 +1817,9 @@
             "electric (?:vehicle|car)": [
                 "hybrid and electric vehicle the main topics of ",
                 "ation of hybrid and electric vehicles  requirements for ",
-                "ket      hybrid and electric vehicles' architectures   o",
+                "ket      hybrid and electric vehicles  architectures   o",
                 "d in battery/hybrid electric vehicles  sizing and therma",
-                "ing      hybrid and electric vehicles' layout   effect o",
+                "ing      hybrid and electric vehicles  layout   effect o",
                 "ion algorithms      electric vehicles battery charging s",
                 " analyze the hybrid/electric vehicle at system level  th"
             ]
@@ -1309,6 +1892,123 @@
             ],
             "hybrid (?:vehicle|car)": [
                 "on in mild and full hybrid vehicles  the course aims t"
+            ]
+        }
+    },
+    "054374: Tecnica Urbanistica 2": {
+        "it": {
+            "espansion(?:e|i) urban": [
+                " urbanistico  per l espansione urbana e la costruzione d"
+            ]
+        }
+    },
+    "054376: Ci Metodi E Tecniche Della Valutazione Ambientale": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "ne e adattamento ai cambiamenti climatici    conservazione d"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "i valori ambientali  ecologici e paesaggistici del",
+                "inizione di progetti ecologico-ambientali a scala urbana e te",
+                "ruzione del bilancio ecologico di un piano urbanis",
+                "zzazione della citta ecologicamente orientata  i se ver",
+                "progetto urbanistico ecologicamente orientato  a partir",
+                "uazione di strategie ecologico-paesaggistiche territoriali e alla",
+                "ali  etc   e la rete ecologica regionale  rer   se",
+                "lenza naturalista ed ecologica della rvr e complem",
+                "to delle connessioni ecologiche  l attuazione della",
+                "i valori ambientali  ecologici e paesaggistici del",
+                "inizione di progetti ecologico ambientali a scala ",
+                "atiche sui caratteri ecologico e ambientali del te"
+            ],
+            "biodiversit": [
+                "conservazione della biodiversita  incentivandone la",
+                "e del suolo e della biodiversita    valutazione e i"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "are spazialmente le problematiche ambientale e paesaggistiche"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "i     il modulo di  servizi ecosistemici e pianificazio",
+                "ispetto al tema dei servizi ecosistemici  se  a partire",
+                "ita del suolo e dei servizi ecosistemici forniti  all i",
+                "rgenti  il tema dei servizi ecosistemici  se  verra per",
+                "  13 e 15        02_servizi ecosistemici e pianificazio",
+                "  il contributo dei servizi ecosistemici  se  quali ele",
+                " la valutazione dei servizi ecosistemici introduce la d",
+                "un ampio spettro di servizi ecosistemici  ne fanno part",
+                "implementazione dei servizi ecosistemici il corso integ"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "blu  nel caso degli ecosistemi acquatici  e altri elementi "
+            ],
+            "effic[^ ]+ (?:delle |della )?risors": [
+                "el suolo e a un uso efficiente delle risorse e richiamata anche"
+            ]
+        }
+    },
+    "054387: Economia E Pianificazione Dei Trasporti": {
+        "it": {
+            "mobilita sostenibil": [
+                "a  effetto mohring  mobilita sostenibile  milano e il suo t"
+            ]
+        }
+    },
+    "054388: Ci Metodi E Strumenti Della Prevenzione E Gestione Dei Rischi": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "ti urbanistici e di pianificazione territoriale che possono essere",
+                " e valutazione dell ambiente  in particolare st"
+            ]
+        }
+    },
+    "054397: Laboratorio Di Architettura Tecnica": {
+        "it": {
+            "[prestazion(?:e|i) energetic, edificio]": [
+                "gli   indicatori di prestazione energetica dell edificio    e",
+                " ambientali e della prestazione energetica   dell organismo e",
+                "one energetica dell edificio    edifici   zero e",
+                "entali e d uso dell edificio  - e in grado di se"
+            ],
+            "[prestazion(?:e|i) energetic, architettura]": [
+                "gli   indicatori di prestazione energetica dell edificio    e",
+                " ambientali e della prestazione energetica   dell organismo e",
+                "laboratorio di architettura tecnica nello speci",
+                "  il laboratorio di architettura tecnica tratta la p",
+                " del laboratorio di architettura tecnica lo studente"
+            ],
+            "prestazion(?:e|i) ambiental": [
+                "gli   indicatori di prestazione ambientale    rispetto a fatt",
+                "  per una specifica prestazione ambientale  piu complessi  vr"
+            ]
+        }
+    },
+    "054399: Laboratorio Di Integrazione Impiantistica": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                " sostenibili        architettura sostenibile               sdg "
+            ],
+            "emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio)": [
+                "  mitigazione delle emissioni di co2 il corso e finalizz"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "13  lotta contro il cambiamento climatico        mitigazione",
+                "    mitigazione del cambiamento climatico       mitigazione "
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "tilizzo di fonti di energia rinnovabile negli edifici  gli"
+            ],
+            "[energi, sostenibil]": [
+                "tilizzo di fonti di energia rinnovabile negli ",
+                "ti negli edifici ad energia quasi zero  nzeb  ",
+                " lo sfruttamento di energia aerotermica  idrot",
+                " utilizzazione dell energia elettrica  archite",
+                "             sdg 7  energia pulita e accessibi",
+                "1  citta e comunita sostenibili        architettur",
+                "       architettura sostenibile               sdg "
+            ],
+            "qualita dell aria": [
+                "tc  controllo della qualita dell aria negli ambienti conf"
             ]
         }
     },
@@ -1489,13 +2189,25 @@
     "054422: Adaptive Facade Studio": {
         "en": {
             "[energy performance, building]": [
-                "s able to cope with energy performance  users' requirement",
+                "s able to cope with energy performance  users  requirement",
                 "ourse  the theme of building envelopes will take",
                 "our of users inside buildings will be thoroughly",
                 "f existing adaptive building skins     developme",
                 "rks on the topic of building envelopes  biomimic",
                 "esign concept for a building located in differen",
                 "e conception of the building component/envelope "
+            ]
+        }
+    },
+    "054427: Laboratorio Di Architettura E Composizione Architettonica M": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "unita sostenibili - architettura sostenibile    sdg 13  lotta c"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "13  lotta contro il cambiamento climatico - mitigazione del ",
+                "o - mitigazione del cambiamento climatico - adattamento al c",
+                "co - adattamento al cambiamento climatico l obiettivo dell i"
             ]
         }
     },
@@ -1589,7 +2301,7 @@
             "[energy, sustaina]": [
                 "for sustainability  energy efficiency and beha",
                 "round 29% of global energy consumption is due ",
-                "increasing people's energy literacy is essenti",
+                "increasing people s energy literacy is essenti",
                 "y is essential      energy-literate people und",
                 "erstand the role of energy in their daily live",
                 "s can make informed energy use decisions  howe",
@@ -1687,6 +2399,13 @@
         "en": {
             "climate change": [
                 "ies in the field of climate change  activism  and the "
+            ]
+        }
+    },
+    "054531: Diritto Dell'Edilizia E Degli Appalti": {
+        "it": {
+            "economi(?:a|e) circolar": [
+                "le e regionale nell economia circolare e si sofferma sull"
             ]
         }
     },
@@ -1815,7 +2534,7 @@
     "054685: Land Use Ethics And The Law": {
         "en": {
             "environment[^ ]* ethics": [
-                "urse  'land use and environmental ethics'  is focused on the"
+                "urse   land use and environmental ethics   is focused on the"
             ]
         }
     },
@@ -1941,6 +2660,22 @@
             ]
         }
     },
+    "055363: Diritto Dell'Energia": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                "  aia         fonti energetiche rinnovabili e loro incentivazi"
+            ],
+            "idroelettric": [
+                "e    le concessioni idroelettriche    gli appalti ne"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "  a  valutazione di impatto ambientale   via           "
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "itto dell energia e tutela dell ambiente        l intreccio "
+            ]
+        }
+    },
     "055385: Network Interface": {
         "en": {
             "wind energy": [
@@ -1988,6 +2723,88 @@
             ]
         }
     },
+    "055401: Gestione Degli Impianti Industriali": {
+        "it": {
+            "[energi, sostenibil]": [
+                " distribuzione dell energia termica  servizio ",
+                "riali  obiettivo di sostenibilita a lungo termine "
+            ]
+        }
+    },
+    "055472: Strategie Per Le Sfide Ambientali [C]": {
+        "it": {
+            "sfid(?:a|e) (?:ambient|ecosist)": [
+                "strategie per le sfide ambientali [c] i problemi o",
+                "ori coinvolti nella sfida ambientale analizzata  cosi"
+            ],
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "eristiche di tipici problemi ambientali  incluse le riso"
+            ],
+            "inquina": [
+                "ione di fenomeni di inquinamento eccezionali  i"
+            ]
+        }
+    },
+    "055534: Progetto Di Impianti Negli Edifici": {
+        "it": {
+            "decarbon": [
+                "e che permettano la decarbonizzazione del settor"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "ac  introduzione al cambiamento climatico e suo impatto sull"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "civile     fonti di energia rinnovabile  rinnovabile e la "
+            ],
+            "(?:analisi|valutazion(?:e|i)) (?:del|dei|di) cicl(?:o|i) (?:di )?vita": [
+                "licazione           valutazione del ciclo di vita  lca  del sistema e",
+                "bito degli studi di valutazione del ciclo di vita  lca   gli aspetti "
+            ]
+        }
+    },
+    "055535: Progettazione Edilizia Integrata": {
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "inquadramento della problematica ambientale globale e rifles"
+            ]
+        }
+    },
+    "055536: Progettazione Di Sottosistemi E Componenti Edilizi": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "n / mitigazione del cambiamento climatico    sustainable res"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "e energetiche/fonti energetiche rinnovabili/    smart/micro gr"
+            ],
+            "[energi, sostenibil]": [
+                "rce s /source s   / energia/risorse energetich",
+                "he la fattibilita e sostenibilita sul piano tecnic",
+                "nagement / gestione sostenibile delle risorse    c",
+                "oduzione alimentare sostenibile    urban/urbanisat",
+                "itettura / design + sostenibile    urban/cities/bu"
+            ],
+            "inquina": [
+                "oor air pollution / inquinamento indoor    well"
+            ],
+            "qualita dell aria": [
+                "/a/urbanizzazione + qualita dell aria    social housing /"
+            ],
+            "economi(?:a|e) circolar": [
+                " circular economy / economia circolare    indoor air poll"
+            ]
+        }
+    },
+    "055538: Fondamenti Di Tecnologia Dell'Architettura": {
+        "it": {
+            "(?:analisi|valutazion(?:e|i)) (?:del|dei|di) cicl(?:o|i) (?:di )?vita": [
+                "stione dei rifiuti  analisi del ciclo di vita oltre a produzione "
+            ],
+            "economi(?:a|e) circolar": [
+                "bile delle risorse  economia circolare  gestione dei rifi"
+            ]
+        }
+    },
     "055545: Architectural Technology Fundamentals": {
         "en": {
             "[energy, sustaina]": [
@@ -2003,6 +2820,68 @@
             ],
             "sustainable cit(?:y|ies)": [
                 " inclusion  sdg 11  sustainable cities and communities  wi"
+            ]
+        }
+    },
+    "055566: Geotecnica": {
+        "it": {
+            "fald(?:a|e) (?:freatic|acquifer|sotterrane)": [
+                "ove di pompaggio in falde freatiche e artesiane  moti"
+            ]
+        }
+    },
+    "055572: Fenomeni E Controllo Delle Alterazioni Ambientali": {
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "utare le principali problematiche ambientali  verranno pertan"
+            ],
+            "contaminazion(?:e|i) (?:dei|del) suol|suol(?:o|i) contaminat": [
+                "gine e bonifica dei suoli contaminati obiettivo dell ins"
+            ],
+            "inquina": [
+                " fenomenologia dell inquinamento associata a ci",
+                "le tecnologie di disinquinamento e di bonifica ",
+                "parametri indici di inquinamento e dei relativi",
+                "lle interazioni tra inquinanti e comparti ambie",
+                " fenomenologia dell inquinamento di tali matric",
+                "matrici ambientali  inquinamento dei corsi d ac",
+                " acqua e dei laghi  inquinamento atmosferico  d",
+                "o  diffusione degli inquinanti nel suolo  siti ",
+                "ndere i fenomeni di inquinamento dei diversi co",
+                "principali forme di inquinamento dell acqua  de",
+                "ificare il grado di inquinamento di un acqua  d"
+            ]
+        }
+    },
+    "055604: Laboratorio Di Strutture E Infrastrutture Nel Paesaggio": {
+        "it": {
+            "ciclabil": [
+                "e  ponti pedonale e ciclabile  o strutture porti"
+            ]
+        }
+    },
+    "055613: Laboratorio Di Architettura Delle Costruzioni Complesse II": {
+        "it": {
+            "impront(?:a|e) (?:del|di) carbonio": [
+                "colare riguardo all impronta di carbonio e all energia incor"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "       - sistemi ad energie rinnovabili       - certificaz"
+            ],
+            "[energi, sostenibil]": [
+                "       - sistemi ad energie rinnovabili       ",
+                "a di carbonio e all energia incorporata       ",
+                "onente    materiali sostenibili per l architettura",
+                "unto di vista della sostenibilita ambientale      ",
+                "a critica i dati di sostenibilita ambientale che s",
+                "  introduzione alla sostenibilita e alla metodolog",
+                "tica      materiali sostenibili per l architettura"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                " agli indicatori di impatto ambientale con particolare "
+            ],
+            "(?:analisi|valutazion(?:e|i)) (?:del|dei|di) cicl(?:o|i) (?:di )?vita": [
+                "la metodologia dell analisi del ciclo di vita       fornire le ba"
             ]
         }
     },
@@ -2476,6 +3355,85 @@
             ]
         }
     },
+    "055821: Laboratorio Di Urbanistica 2": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "nea  adattamento al cambiamento climatico  riduzione delle d"
+            ]
+        }
+    },
+    "055838: Laboratorio Di Architettura E Composizione Architettonica Xl": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "unita sostenibili - architettura sostenibile - progettazione so"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "13  lotta contro il cambiamento climatico - mitigazione del ",
+                "o - mitigazione del cambiamento climatico - adattamento al c",
+                "co - adattamento al cambiamento climatico nell avvio dell es"
+            ]
+        }
+    },
+    "055842: Laboratorio Di Economia E Pianificazione Territoriale": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "torio di economia e pianificazione territoriale economia del terri",
+                "eti       modulo di pianificazione territoriale  prof  fulvia pint",
+                "o di sostenibilita  ambientale  economica e soc"
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "torio di economia e pianificazione territoriale economia del terri",
+                "eti       modulo di pianificazione territoriale  prof  fulvia pint",
+                " urbana per essere \"sostenibile\" deve essere il ",
+                "to e il concetto di sostenibilita  ambientale  e",
+                " crescita economica sostenibile    sdg 9  impres",
+                "1  citta e comunita sostenibili - citta smart - "
+            ],
+            "cambiament(?:o|i) climatic": [
+                "inclusione sociale  cambiamento climatico  riduzione del con"
+            ]
+        }
+    },
+    "055847: Modellazione Informativa E Coordinamento Prova Finale": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "rbana sostenibile - architettura sostenibile    sdg 13  lotta c"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "13  lotta contro il cambiamento climatico - mitigazione del ",
+                "o - mitigazione del cambiamento climatico - adattamento al c",
+                "co - adattamento al cambiamento climatico durante lo svolgim"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                " energetica - fonti energetiche rinnovabili    sdg 9  imprese "
+            ],
+            "[energi, sostenibil]": [
+                " chiave      sdg 7  energia pulita e accessibi",
+                "utture - tecnologie sostenibili / digitali - innov",
+                "1  citta e comunita sostenibili - pianificazione u",
+                "anificazione urbana sostenibile - architettura sos",
+                "bile - architettura sostenibile    sdg 13  lotta c"
+            ],
+            "tecnologi(?:a|e) sostenibil": [
+                " e infrastrutture - tecnologie sostenibili / digitali - innov"
+            ]
+        }
+    },
+    "055851: Fondamenti Di Motori A Combustione Interna": {
+        "it": {
+            "controll(?:o|i) (?:dell inquinamento|degli inquinanti)": [
+                "       formazione e controllo degli inquinanti       limiti legisl"
+            ],
+            "inquina": [
+                "e e controllo degli inquinanti       limiti leg",
+                "opei      emissioni inquinanti dei motori ad ac",
+                "rincipali emissioni inquinanti e i metodi adott",
+                "e principali specie inquinanti in camera di com",
+                "one delle emissioni inquinanti posti lungo il s",
+                "one delle emissioni inquinanti consentono di ri"
+            ]
+        }
+    },
     "055856: Advanced Manufacturing Processes Lab A": {
         "en": {
             "efficient (?:resource use|use of resource)": [
@@ -2556,6 +3514,19 @@
                 " key definitions of circular economy business processes ",
                 " the development of circular economy business models  se",
                 "n the most relevant circular economy problems of the fut"
+            ]
+        }
+    },
+    "055871: Teorie Dell'Urbanistica E Della Pianificazione Del Territorio": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "urbanistica e della pianificazione territoriale come campi del sap",
+                "rbanistiche e della pianificazione territoriale e alla successvia ",
+                "urbanistica e della pianificazione territoriale  l obiettivo e que",
+                "di diverse forme di ambiente antropizzato  agra"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "ente nuova questione ecologica in relazione alle q"
             ]
         }
     },
@@ -2661,6 +3632,224 @@
             ]
         }
     },
+    "055983: Laboratorio Di Progettazione Architettonica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "giche e tipologiche  ecologiche e ambientali  econo"
+            ]
+        }
+    },
+    "055988: Laboratorio Di Progettazione Architettonica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "giche e tipologiche  ecologiche e ambientali  econo"
+            ]
+        }
+    },
+    "055990: Laboratorio Di Progettazione Architettonica": {
+        "it": {
+            "impront(?:a|e) (?:del|di) carbonio": [
+                "cente per ridurre l impronta di carbonio  ma soprattutto un "
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "giche e tipologiche  ecologiche e ambientali  econo"
+            ]
+        }
+    },
+    "055992: Laboratorio Di Progettazione Architettonica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "giche e tipologiche  ecologiche e ambientali  econo"
+            ]
+        }
+    },
+    "055994: Laboratorio Di Progettazione Architettonica": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "lle conseguenze del cambiamento climatico e dei fenomeni pan",
+                "da fenomeni quali i cambiamenti climatici o le pandemie  2  "
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "are la sostenibilita ecologica \"verde\" e la resili",
+                "te di  bio diversita ecologica  oppure nei   base ",
+                "giche e tipologiche  ecologiche e ambientali  econo"
+            ],
+            "biodiversit": [
+                "accrescimento della biodiversita nelle aree metropo",
+                "o  5  aumento della biodiversita  e continuita del "
+            ]
+        }
+    },
+    "055995: Laboratorio Di Progettazione Architettonica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "giche e tipologiche  ecologiche e ambientali  econo"
+            ]
+        }
+    },
+    "055998: Fisica Tecnica E Impianti": {
+        "it": {
+            "[energi, sostenibil]": [
+                " e conversione dell energia solare e i sistemi",
+                "o piu consapevole e sostenibile alla progettazione"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "ettivo di ridurre l impatto ambientale complessivo dell"
+            ]
+        }
+    },
+    "055999: Fisica Tecnica E Impianti": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "nergie rinnovabili  architettura sostenibile  inquinamento indd"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "or  mitigazione del cambiamento climatico  nel contesto attu"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "icienza energetica  energie rinnovabili  architettura sost"
+            ],
+            "[energi, sostenibil]": [
+                " e conversione dell energia solare e i sistemi",
+                "icienza energetica  energie rinnovabili  archi",
+                "o piu consapevole e sostenibile alla progettazione",
+                "abili  architettura sostenibile  inquinamento indd"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "ettivo di ridurre l impatto ambientale complessivo dell"
+            ],
+            "inquina": [
+                "ettura sostenibile  inquinamento inddoor  mitig"
+            ]
+        }
+    },
+    "056000: Laboratorio Di Architettura Degli Interni": {
+        "it": {
+            "[prestazion(?:e|i) energetic, architettura]": [
+                "ntrollo ambientale  prestazioni energetiche  il laboratorio p",
+                "laboratorio di architettura degli interni labor",
+                "erni laboratorio di architettura degli interni     p",
+                "atteo ghidoni  6cfu architettura degli interni     p",
+                "cfu tecnologia dell architettura          il laborat",
+                "  il ridisegno dell architettura oggetto di studio  ",
+                " le relazioni con l architettura delle residenze e c",
+                "nico e il modello d architettura          4  una sce",
+                "onta il progetto di architettura dal punto di vista ",
+                "ca  tecnologia dell architettura  architettura del p",
+                " dell architettura  architettura del paesaggio  rest",
+                "i fondamentali dell architettura degli interni e del"
+            ],
+            "[energi, sostenibil]": [
+                "zione di materiali  energia  acqua e salvaguar",
+                "lli specifici della sostenibilita ambientale  uso ",
+                "nclusivita sociale  sostenibilita ambientale  attr"
+            ]
+        }
+    },
+    "056002: Laboratorio Di Architettura Degli Interni": {
+        "it": {
+            "[prestazion(?:e|i) energetic, edificio]": [
+                "ntrollo ambientale  prestazioni energetiche  il laboratorio p",
+                "la costruzione dell edificio come a quella del d",
+                "tico d assieme dell edificio  scala 1 200 o 1 10"
+            ],
+            "[prestazion(?:e|i) energetic, architettura]": [
+                "ntrollo ambientale  prestazioni energetiche  il laboratorio p",
+                "laboratorio di architettura degli interni prese",
+                "  il laboratorio di architettura degli interni affro",
+                "e il rapporto fra l architettura come costruzione e ",
+                "mensione umana dell architettura  alla scala urbana ",
+                "mensione umana dell architettura\" si dilata e si app",
+                "nta il rapporto fra architettura e arte  nella sua e",
+                " e delle forme dell architettura in relazione alle d",
+                "po progettuale dell architettura e degli interni  da",
+                "onta il progetto di architettura dal punto di vista ",
+                "ca  tecnologia dell architettura  architettura del p",
+                " dell architettura  architettura del paesaggio  rest",
+                "i fondamentali dell architettura degli interni e del"
+            ]
+        }
+    },
+    "056006: Laboratorio Di Architettura Degli Interni": {
+        "it": {
+            "[prestazion(?:e|i) energetic, architettura]": [
+                "ntrollo ambientale  prestazioni energetiche  il laboratorio p",
+                "laboratorio di architettura degli interni labor",
+                "erni laboratorio di architettura degli interni      ",
+                "egli interni        architettura degli interni   6  ",
+                "dante il progetto d architettura  l architettura e c",
+                "o d architettura  l architettura e corpo e materia  ",
+                "  il laboratorio di architettura degli interni integ",
+                " progettazione dell architettura e degli interni con",
+                "ne specificita dell architettura di cui il progetto ",
+                "iu in generale dell architettura       obiettivo e s",
+                "onsapevolezza che l architettura e corpo costruito v",
+                "guardare  sentire l architettura  per comprenderla n",
+                "a e articolata dell architettura  nel tempo e nella ",
+                " progettazione dell architettura e degli interni  de",
+                "onta il progetto di architettura dal punto di vista ",
+                "ca  tecnologia dell architettura  architettura del p",
+                " dell architettura  architettura del paesaggio  rest",
+                "i fondamentali dell architettura degli interni e del"
+            ]
+        }
+    },
+    "056008: Laboratorio Di Architettura Degli Interni": {
+        "it": {
+            "[prestazion(?:e|i) energetic, architettura]": [
+                "ntrollo ambientale  prestazioni energetiche  il laboratorio p",
+                "laboratorio di architettura degli interni progr",
+                "ito di ricerca dell architettura degli interni il la",
+                "ulla didattica dell architettura degli interni     p",
+                "isciplinare icar/16 architettura degli interni in it",
+                "onta il progetto di architettura dal punto di vista ",
+                "ca  tecnologia dell architettura  architettura del p",
+                " dell architettura  architettura del paesaggio  rest",
+                "i fondamentali dell architettura degli interni e del"
+            ]
+        }
+    },
+    "056025: Laboratorio Tematico": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "bana sostenibile    architettura sostenibile    design sostenib"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "    mitigazione del cambiamento climatico       azioni per i",
+                " il clima/contro il cambiamento climatico       adattamento ",
+                "     adattamento al cambiamento climatico       riduzione d ",
+                "zione d impatto del cambiamento climatico       mitigazione "
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "cnico-costruttivi ed ecologico-ambientali  simultaneamente il"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "corre conoscere gli impatti ambientali generati lungo i",
+                "stenibilita e basso impatto ambientale  resilienza  ada",
+                "e soluzioni a minor impatto ambientale        l area di"
+            ],
+            "(?:analisi|valutazion(?:e|i)) (?:del|dei|di) cicl(?:o|i) (?:di )?vita": [
+                " responsabile       analisi del ciclo di vita       economia circ"
+            ],
+            "economi(?:a|e) circolar": [
+                "ciclo di vita       economia circolare       gestione dei"
+            ]
+        }
+    },
+    "056029: Laboratorio Tematico": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "mativo  tecnologico  ecologico  imposti dall azion"
+            ]
+        }
+    },
+    "056037: Ci Urbanistica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ma della transizione ecologica  delle nuove forme "
+            ]
+        }
+    },
     "056058: Architectural Design Studio": {
         "en": {
             "[[ ]ecolo[^ ]+]": [
@@ -2743,6 +3932,17 @@
             ]
         }
     },
+    "056071: New Interiors 1": {
+        "it": {
+            "crisi? climatica": [
+                "tato  ad esempio la crisi climatica   questo ci riporta",
+                "li n possibili - la crisi climatica e la crescente cons"
+            ],
+            "[[ ]biciclett(?:a|e)[ ]]": [
+                "oro  la macchina  la bicicletta  le risorse material"
+            ]
+        }
+    },
     "056094: Building Physics": {
         "en": {
             "renewable energy": [
@@ -2761,7 +3961,7 @@
                 "bs        keywords  energy efiiciency  renewab",
                 "iiciency  renewable energy sources  sustainabl",
                 "easing attention to energy and environmental a",
-                "zing the building's energy behavior  defining ",
+                "zing the building s energy behavior  defining ",
                 "rategies to improve energy efficiency  thermal",
                 "ble energy sources  sustainable technologies  in"
             ],
@@ -2885,7 +4085,7 @@
                 "ying districts  new energy has to be found for",
                 "  materials  water  energy  mobility and natur",
                 "ons  matter  water  energy  mobility and natur",
-                "rse  and above all 'sustainability'  should anal",
+                "rse  and above all  sustainability   should anal",
                 " improvements to    sustainability  economic com",
                 "sons  the following sustainable development crit",
                 "ucture      sdg11 - sustainable cities and commu",
@@ -2918,14 +4118,14 @@
                 "s the environmental sustainability  the populati"
             ],
             "circular economy": [
-                "nsition towards the circular economy  and risks' mitigat"
+                "nsition towards the circular economy  and risks  mitigat"
             ]
         }
     },
     "056113: Ic Urban Planning": {
         "en": {
             "circular economy": [
-                "nsition towards the circular economy  and risks' mitigat"
+                "nsition towards the circular economy  and risks  mitigat"
             ]
         }
     },
@@ -2933,8 +4133,8 @@
         "en": {
             "[energy performance, building]": [
                 "ironmental control  energy performance  the studio pays pa",
-                "cting upon existing buildings' or - more precise",
-                "ortions of existing buildings' what we mostly do",
+                "cting upon existing buildings  or - more precise",
+                "ortions of existing buildings  what we mostly do",
                 "aluable - modernist building not yet identified ",
                 "n 3 steps         rebuilding the past           ",
                 "        reusing the building the laboratory deal",
@@ -2943,13 +4143,13 @@
             "[energy performance, architecture]": [
                 "ironmental control  energy performance  the studio pays pa",
                 "architecture of interiors design",
-                "alk about 'interior architecture'    are we comforta",
-                " the term 'interior architecture' or is it rather me",
-                "istinction between 'architecture' and 'interior arch",
-                "ture' and 'interior architecture' make sense at all ",
-                "alk about 'exterior architecture' as opposed to 'int",
-                "pposed to 'interior architecture'    is that because",
-                "do we say 'interior architecture' when the project n",
+                "alk about  interior architecture     are we comforta",
+                " the term  interior architecture  or is it rather me",
+                "istinction between  architecture  and  interior arch",
+                "ture  and  interior architecture  make sense at all ",
+                "alk about  exterior architecture  as opposed to  int",
+                "pposed to  interior architecture     is that because",
+                "do we say  interior architecture  when the project n",
                 "chnology  landscape architecture  restoration  urban",
                 "lements of interior architecture and its methods of "
             ]
@@ -2969,6 +4169,21 @@
                 "architecture of interiors design",
                 "chnology  landscape architecture  restoration  urban",
                 "lements of interior architecture and its methods of "
+            ]
+        }
+    },
+    "056135: Cambiamenti Climatici E Resilienza Idrologica Urbana": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "cambiamenti climatici e resilienza idrol",
+                "ti di significativi cambiamenti climatici  e  in un secondo "
+            ],
+            "climatolog": [
+                "etti generali della climatologia e dell idrologia ",
+                "ione al ruolo della climatologia  fattori che dete"
+            ],
+            "riscaldament(?:o|i) globale": [
+                "ati all impatto del riscaldamento globale sul governo dell ac"
             ]
         }
     },
@@ -3031,10 +4246,53 @@
             ]
         }
     },
+    "056195: Laboratorio Di Componenti E Sistemi Edilizi E Impiantistici": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                " sostenibili        architettura sostenibile il corso di labora"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "e energetiche/fonti energetiche rinnovabili/pulite/accessibili",
+                "di energia da fonte energetica rinnovabile  al termine del co"
+            ],
+            "[energi, sostenibil]": [
+                "er la produzione di energia da fonti rinnovabi",
+                "iave         sdg 7  energia pulita e accessibi",
+                " accessibile        energia/risorse energetich",
+                "er la produzione di energia da fonte energetic",
+                "menti            la sostenibilita energetico-ambie",
+                "/pulite/accessibili/sostenibili       sdg 11  citt",
+                "1  citta e comunita sostenibili        architettur",
+                "       architettura sostenibile il corso di labora"
+            ]
+        }
+    },
     "056258: Geotechnical Modelling": {
         "en": {
             "environment[^ ]* engineering": [
                 "phasis on civil and environmental engineering applications   viii"
+            ]
+        }
+    },
+    "056328: Sviluppo Imprenditoriale E Politiche Territoriali": {
+        "it": {
+            "economi(?:a|e) circolar": [
+                "si di mercato  dell economia circolare e della sostenibil"
+            ]
+        }
+    },
+    "056444: Diritto Dell'Ambiente": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ca della transizione ecologica e dello sviluppo so"
+            ],
+            "riserv(?:a|e) natural": [
+                " dei parchi e delle riserve naturali      si tratta di "
+            ],
+            "inquina": [
+                "la delle acque dall inquinamento  b  gestione d",
+                "iti contaminati  c  inquinamento atmosferico  d",
+                "nto atmosferico  d  inquinamento elettromagneti"
             ]
         }
     },
@@ -3290,6 +4548,13 @@
             ]
         }
     },
+    "056944: Ingegneria Delle Prestazioni Degli Edifici": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "ne di rifiuti e gli impatti ambientali degli edifici   "
+            ]
+        }
+    },
     "056956: Thermoeconomics And Energy Modeling": {
         "en": {
             "renewable energy": [
@@ -3297,6 +4562,67 @@
             ],
             "pollut": [
                 "ucing emissions and pollutants             com"
+            ]
+        }
+    },
+    "056969: Seminario Tematico Di Ricerca": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "e di adattamento ai cambiamenti climatici nelle aree urbaniz",
+                "ta agli effetti dei cambiamenti climatici  affrontera il tem"
+            ],
+            "riscaldament(?:o|i) globale": [
+                "li che innescano il riscaldamento globale  l inerzia climatic"
+            ]
+        }
+    },
+    "056970: Seminario Tematico Di Ricerca": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                " all adattamento al cambiamento climatico e alla protezione "
+            ],
+            "biodiversit": [
+                "la protezione della biodiversita                 la"
+            ]
+        }
+    },
+    "056975: Laboratorio Tematico": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                " immagine  requisiti ecologici e ambientali - si c"
+            ]
+        }
+    },
+    "056980: Laboratorio Tematico": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                " scale i temi della pianificazione territoriale e paesaggistica  d",
+                "ressione sui valori ambientali e paesaggistici ",
+                "complesso di valori ambientali e paesaggistici ",
+                "ione paesaggistica  ambientale e storica e una ",
+                "no il paesaggio e l ambiente costruito  finaliz",
+                "rizzi per i sistemi ambientali  insediativi e d",
+                "tazione dei servizi ecosistemici      rigeneraz"
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                " scale i temi della pianificazione territoriale e paesaggistica  d",
+                "apacita di progetto sostenibile e resiliente per",
+                "to di architettura  sostenibile  ecologicamente ",
+                "ezza  funzionalita  sostenibilita           stru",
+                "rogettazione urbana sostenibile      welfare e s",
+                "ocali      gestione sostenibile delle risorse   "
+            ],
+            "cambiament(?:o|i) climatic": [
+                "ne e adattamento ai cambiamenti climatici      conservazione"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "ettura  sostenibile  ecologicamente orientato  che affr"
+            ],
+            "biodiversit": [
+                "e del suolo e della biodiversita      valutazione e"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "implementazione dei servizi ecosistemici      rigeneraz"
             ]
         }
     },
@@ -3325,6 +4651,14 @@
             ]
         }
     },
+    "057004: Laboratorio Progettuale Di Ingegneria Chimica + Prova Finale": {
+        "it": {
+            "[energi, sostenibil]": [
+                "lanci di materia ed energia con/senza reazione",
+                "nica  economica  di sostenibilita e di sicurezza  "
+            ]
+        }
+    },
     "057013: Green Logistics": {
         "en": {
             "carbon footprint": [
@@ -3337,7 +4671,7 @@
                 "tworks and types of sustainable transport soluti",
                 "  cost  service and sustainability performance  ",
                 "bility performance  sustainability performance q",
-                " 'green it'         sustainability strategies fo",
+                "  green it          sustainability strategies fo",
                 "s and environmental sustainability  city logisti",
                 "n service level and sustainability         new m",
                 "llaboration towards sustainability     collabora",
@@ -3347,7 +4681,7 @@
                 "     b2c ecommerce  sustainable packaging  rever",
                 "  logistics 4 0 and sustainability              ",
                 "o design and manage sustainable logistics system",
-                "mers' expectations  sustainable logistics has no",
+                "mers  expectations  sustainable logistics has no",
                 "l issues related to sustainable logistics operat",
                 "ers to embrace more sustainable logistics strate",
                 "ols and methods for sustainability quantificatio",
@@ -3666,6 +5000,32 @@
             ]
         }
     },
+    "057103: Adattabilita' E Rigenerazione Degli Edifici": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "ili      sdg 11 -   architettura sostenibile                   "
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "                    energie rinnovabili      sdg 11 -   ar"
+            ],
+            "[energi, sostenibil]": [
+                "                    energie rinnovabili      s",
+                "trofit energetico e sostenibilita ambientale      ",
+                "11 -   architettura sostenibile                   ",
+                "sdg 12 -   gestione sostenibile delle risorse obie"
+            ]
+        }
+    },
+    "057106: Principi Diconservazione Degli Edifici": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "ita sostenibili     architettura sostenibile  rendere le citta "
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "e 11  inerente alla tutela dell ambiente urbano inteso come "
+            ]
+        }
+    },
     "057133: Sustainable Architecture Construction Studio": {
         "en": {
             "sustainable architecture": [
@@ -3683,6 +5043,78 @@
             ]
         }
     },
+    "057159: Festinalente: Pianificazione E Progettazione Di Linee Lente Ciclabili E Camminabili": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "po della transizione ecologica  la lentezza e in c",
+                " e della transizione ecologica  anche di questo si"
+            ],
+            "ciclabil": [
+                "ione di linee lente ciclabili e camminabili - de",
+                "   - definizioni di ciclabilita  camminabilita  "
+            ]
+        }
+    },
+    "057164: Strumenti Per La Valutazione Della Sostenibilita' Ambientale": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "le  a partire dalla pianificazione territoriale di area vasta  sin",
+                "ella sostenibilita  ambientale in dettaglio  sa",
+                "     1  il problema ambientale e il ruolo degli",
+                "a 2  la valutazione ambientale per edifici e am",
+                "dicatori di impatto ambientale e metodi di valu",
+                "utazione di impatto ambientale e la valutazione",
+                "le e la valutazione ambientale strategica 9  la",
+                "isici  inquinamenti ambientali  15  la valutazi",
+                " e di inquadramento ambientale per la propria t",
+                "della sostenibilita ambientale  svasa  ha l obi",
+                " vita degli impatti ambientali  sociali ed econ",
+                " rigenerazione dell ambiente costruito e sui ra",
+                "della sostenibilita ambientale tramite vere e p",
+                "i di certificazione ambientale  leed  bream  et",
+                " alla sostenibilita ambientale  con particolare",
+                "e attuali politiche ambientali regionali per il"
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "le  a partire dalla pianificazione territoriale di area vasta  sin",
+                "a valutazione della sostenibilita  ambientale in",
+                " via preliminare la sostenibilita di progetti pe",
+                "a valutazione della sostenibilita ambientale  sv",
+                "a misurazione della sostenibilita  nelle sue sva",
+                "e valutative per la sostenibilita di un progetto",
+                "mentali legati alla sostenibilita e alla rigener",
+                "a misurazione della sostenibilita ambientale tra",
+                "tiche relative alla sostenibilita ambientale  co",
+                "a valutazione della sostenibilita operanti a div"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "lematiche legate al cambiamento climatico e al ruolo dell ed"
+            ],
+            "crisi? climatica": [
+                "degli edifici nella crisi climatica 2  la valutazione a"
+            ],
+            "riscaldament(?:o|i) globale": [
+                "lle costruzioni sul riscaldamento globale  e sara in grado di"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "cesso di transizione ecologica verso una societa \""
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "ca 5  indicatori di impatto ambientale e metodi di valu",
+                "e di valutazione di impatto ambientale e la valutazione",
+                "ciclo di vita degli impatti ambientali  sociali ed econ"
+            ],
+            "politic(?:a|he) (?:ambient|ecosist)": [
+                "ntale delle attuali politiche ambientali regionali per il"
+            ],
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "argomenti     1  il problema ambientale e il ruolo degli"
+            ],
+            "inquina": [
+                " impatti biofisici  inquinamenti ambientali  15"
+            ]
+        }
+    },
     "057174: Eu Policies For Sustainability And The City": {
         "en": {
             "(?:sustainable urban|urban sustaina)": [
@@ -3697,6 +5129,17 @@
             ],
             "water treatment": [
                 "scharge systems for water treatment  electric discharge"
+            ]
+        }
+    },
+    "057295: Diritto Dell'Ambiente E Del Territorio": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "  la valutazione di impatto ambientale dei progetti  vi",
+                "ione degli studi di impatto ambientale e dei rapporti a"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "ativi in materia di tutela dell ambiente  l attivita di prog"
             ]
         }
     },
@@ -3736,6 +5179,16 @@
             ]
         }
     },
+    "057430: Ricerca Operativa": {
+        "it": {
+            "controll(?:o|i) (?:dell inquinamento|degli inquinanti)": [
+                "attaglia dei sessi  controllo dell inquinamento  assenza di equilib"
+            ],
+            "inquina": [
+                "ssi  controllo dell inquinamento  assenza di eq"
+            ]
+        }
+    },
     "057614: Social Entrepreneurship": {
         "en": {
             "(?:environment[^ ]*|ecosystem) challenge": [
@@ -3748,6 +5201,35 @@
             "(?:environment[^ ]*|ecosystem) problem": [
                 " solving social and environmental problems and the peculiar c",
                 "ions for social and environmental problems     analyze the po"
+            ]
+        }
+    },
+    "057679: Sistemi Energetici E Impatto Ambientale - Lc": {
+        "it": {
+            "effetto serra": [
+                "la mitigazione dell effetto serra    emissioni di co "
+            ],
+            "riscaldament(?:o|i) globale": [
+                "missioni di co 2  e riscaldamento globale  tecnologie per la "
+            ],
+            "energ[^ ]+ eolic": [
+                "    mini idraulica  energia eolica  energia solare  t"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "i fattibilita       energie rinnovabili e tecnologie per l",
+                "uasi  di gas serra  energia rinnovabile  tipologie  dispon"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "istemi energetici e impatto ambientale - lc criteri gen",
+                "l contenimento dell impatto ambientale ad esse correlat",
+                "etti economici e di impatto ambientale che guidano la p"
+            ],
+            "inquina": [
+                "ica sulle emissioni inquinanti       le central",
+                "e e abbattimento di inquinanti    unita di misu",
+                "a concentrazione di inquinanti in miscele gasso",
+                " di rimozione degli inquinanti   ma viene forni",
+                "la formazione degli inquinanti gassosi e alle t"
             ]
         }
     },
@@ -3897,15 +5379,12 @@
         }
     },
     "057850: Smart Irrigation Climate Adaptive Tools For Optimal Water Productivity": {
-        "en": {
-            "climate change": [
-                "n water efficiency  climate change impacts on water av",
-                "aptation measure to climate change  the course will de"
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "a di adattamento ai cambiamenti climatici  il corso analizze"
             ],
-            "[energy, sustaina]": [
-                " and modelling soil energy and mass fluxes  cr",
-                " and modelling soil energy and mass fluxes  cr",
-                "he elements for the sustainable and efficient ma"
+            "effic[^ ]+ (?:delle |della )?risors": [
+                "ione sostenibile ed efficiente delle risorse idriche in agricol"
             ]
         }
     },
@@ -3973,6 +5452,13 @@
         "en": {
             "environment[^ ]* management": [
                 "ourism  healthcare  environmental management  arts and culture  "
+            ]
+        }
+    },
+    "057888: Elementi Di Ingegneria Aerospaziale I": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "o  costi operativi  impatto ambientale  impatto tecnolo"
             ]
         }
     },
@@ -4084,6 +5570,13 @@
             ]
         }
     },
+    "057904: Scambio Termico E Di Massa": {
+        "it": {
+            "effetto serra": [
+                "ientale  radiatori  effetto serra  scambio termico ra"
+            ]
+        }
+    },
     "057905: Energy Accounting And Impact Assessment Methods": {
         "en": {
             "[energy, sustaina]": [
@@ -4102,6 +5595,25 @@
             "life[- ]?cycle (?:analys|assess)": [
                 "ustrial ecology and life cycle assessment  impact assessm",
                 "assessment methods  life cycle assessment and industrial "
+            ]
+        }
+    },
+    "057920: Radiochimica Applicata A+B": {
+        "it": {
+            "[energi, sostenibil]": [
+                "decadimento e sulle energie x e g emesse  effe",
+                "della produzione di energia dal nucleo che le ",
+                "le di produzione di energia dal nucleo  riduzi",
+                "e e futura gestione sostenibile dello  spent nucle",
+                "li per uno sviluppo sostenibile della produzione d",
+                "rbon-free  sviluppo sostenibile di produzione di e"
+            ],
+            "rifiut(:o|i) (?:nuclear|radioattiv)": [
+                "zione e gestione di rifiuti radioattivi  rifiuti challengi",
+                "-classificazione di rifiuti radioattivi fino ai livelli di"
+            ],
+            "inquina": [
+                "potabilizzare acque inquinate in aree desertich"
             ]
         }
     },
@@ -4322,14 +5834,14 @@
     "058032: Building Technology Studio": {
         "en": {
             "[energy performance, building]": [
-                "e to the building's energy performance  mainly passive sol",
+                "e to the building s energy performance  mainly passive sol",
                 "building technology studio t",
                 "nology studio the   building technology studio  ",
                 "to create different buildings in the future  the",
                 "how to\" construct a building or produce a physic",
                 "op a mixed function building located in an empty",
                 " or commercial  the building is also expected to",
-                "th reference to the building's energy performanc",
+                "th reference to the building s energy performanc",
                 "racteristics of the building and its insertion i",
                 "s on both urban and building scales  in respect ",
                 " elaboration on the building elements and constr",
@@ -4339,11 +5851,11 @@
                 "trolled complexity\" building  paying close atten"
             ],
             "[energy performance, architecture]": [
-                "e to the building's energy performance  mainly passive sol",
+                "e to the building s energy performance  mainly passive sol",
                 "echnological design architecture  8 cfu  and environ"
             ],
             "[energy, sustaina]": [
-                "e to the building's energy performance  mainly",
+                "e to the building s energy performance  mainly",
                 "icular attention to energy efficiency and indo",
                 " the building  with energy simulations        ",
                 "es are appropriate  sustainable  reusable  servi"
@@ -4366,6 +5878,21 @@
             ]
         }
     },
+    "058043: Progettazione Di Sistemi Informativi Territoriali": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "urbanistica e della pianificazione territoriale  in particolare  g",
+                "analisi spaziali in ambiente gis proprietario  ",
+                "ti la sostenibilita ambientale e l analisi del ",
+                "ento dei geodati in ambiente gis     progettazi",
+                "orazioni di base in ambiente gis  conoscenza e "
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "urbanistica e della pianificazione territoriale  in particolare  g",
+                "ioni riguardanti la sostenibilita ambientale e l"
+            ]
+        }
+    },
     "058062: Fluid Machines": {
         "en": {
             "wind energy": [
@@ -4377,6 +5904,28 @@
         "en": {
             "(?:environment[^ ]*|ecosystem) cris(?:e|i)s": [
                 "conomic  social and environmental crises  highlighted by the"
+            ]
+        }
+    },
+    "058073: Design Futures": {
+        "it": {
+            "biodiversit": [
+                "e al rispetto della biodiversita  more-than-human a"
+            ]
+        }
+    },
+    "058075: Programmazione Per La Gestione Delle Informazioni Negli Smart Buildings": {
+        "it": {
+            "[prestazion(?:e|i) energetic, architettura]": [
+                "miglioramento della prestazione energetica di cio  e la quali",
+                "ei dati in input    architettura del software e stru"
+            ]
+        }
+    },
+    "058100: Geotecnica": {
+        "it": {
+            "fald(?:a|e) (?:freatic|acquifer|sotterrane)": [
+                "terra  del pozzo in falda freatica  permeametro a car"
             ]
         }
     },
@@ -4430,6 +5979,16 @@
             "(?:environment[^ ]*|ecosystem) impact": [
                 " indirect costs and environmental impact  numerical and heur",
                 "e request to reduce environmental impacts  has allowed the d"
+            ]
+        }
+    },
+    "058128: Laboratorio Tematico": {
+        "it": {
+            "biodiversit": [
+                "i habitat ricchi di biodiversita  dalle aree umide "
+            ],
+            "biosfera": [
+                " come    riserva di biosfera mab unesco     alla"
             ]
         }
     },
@@ -4570,6 +6129,35 @@
             ]
         }
     },
+    "058304: Tecnica Ed Economia Dei Trasporti": {
+        "it": {
+            "inquina": [
+                "rto  incidentalita  inquinamento  consumi energ",
+                " filovie  emissioni inquinanti  carburanti alte",
+                "rto  incidentalita  inquinamento  consumi energ",
+                " filovie  emissioni inquinanti  carburanti alte",
+                " e mista  emissioni inquinanti da traffico  car"
+            ],
+            "carburant(?:e|i) alternativ": [
+                "issioni inquinanti  carburanti alternativi  veicoli innovativ",
+                "issioni inquinanti  carburanti alternativi    sistemi a guida",
+                "inanti da traffico  carburanti alternativi  veicoli elettrici"
+            ],
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "uranti alternativi  veicoli elettrici innovativi e a gui"
+            ]
+        }
+    },
+    "058306: Aeroporti E Trasporto Aereo": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "mitazione ostacoli  impatto ambientale e fono-inquiname"
+            ],
+            "inquina": [
+                "o ambientale e fono-inquinamento in campo aerop"
+            ]
+        }
+    },
     "058312: Transport Systems And Transport Risk": {
         "en": {
             "shared mobility": [
@@ -4610,6 +6198,50 @@
             ]
         }
     },
+    "058499: Progettazione E Innovazione Tecnologica": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "zione tecnologica e architettura sostenibile  t  herzog     la ",
+                "unita sostenibili - architettura sostenibile    sdg 12  consumo"
+            ],
+            "emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio)": [
+                "- mitigazione delle emissioni di co2 il modulo di proget"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "13  lotta contro il cambiamento climatico - mitigazione del ",
+                "o - mitigazione del cambiamento climatico - mitigazione dell"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "enibilita ed uso di energie rinnovabili    la comunicazion"
+            ],
+            "[energi, sostenibil]": [
+                "enibilita ed uso di energie rinnovabili    la ",
+                "benessere    sdg 7  energia pulita e accessibi",
+                "e  ecc            - sostenibilita ed uso di energi",
+                "zzazione di edifici sostenibili          - innovaz",
+                "gica e architettura sostenibile  t  herzog     la ",
+                "ogica in termini di sostenibilita          - relaz",
+                " casi di interventi sostenibili e ad alta efficien",
+                "utture - tecnologie sostenibili    sdg 11  citta e",
+                "1  citta e comunita sostenibili - architettura sos",
+                "bili - architettura sostenibile    sdg 12  consumo",
+                "te e in generale la sostenibilita      una serie d"
+            ],
+            "tecnologi(?:a|e) sostenibil": [
+                " e infrastrutture - tecnologie sostenibili    sdg 11  citta e"
+            ],
+            "economi(?:a|e) circolar": [
+                "sumo responsabili - economia circolare    sdg 13  lotta c"
+            ]
+        }
+    },
+    "058621: Valutazione Economica Delle Trasformazioni Urbane": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "ita sostenibili     architettura sostenibile    urbano/citta/co"
+            ]
+        }
+    },
     "058727: Urban Planning And Design For Transition Studio": {
         "en": {
             "climate change": [
@@ -4623,6 +6255,386 @@
                 "gility of urban and environmental systems which are",
                 "ht of the urban and environmental \"transition\" para",
                 " contexts and their environmental  social and infra"
+            ]
+        }
+    },
+    "060116: Scienza E Tecnologia Dei Materiali": {
+        "it": {
+            "[energi, sostenibil]": [
+                "      interazioni e energia potenziale del cri",
+                "apevoli  efficaci e sostenibili  conoscere le prin"
+            ]
+        }
+    },
+    "061168: Siderurgia": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "      gestione dell impatto ambientale dei processi sid",
+                "na diminuzione dell impatto ambientale che le prestazio",
+                " il dri  nonche gli impatti ambientali ad essi associat",
+                "li impianti e sugli impatti ambientali ad essi associat"
+            ],
+            "economi(?:a|e) circolar": [
+                "ltre lavorazioni ed economia circolare    operazioni prel"
+            ]
+        }
+    },
+    "061182: Macchine E Sistemi Energetici": {
+        "it": {
+            "idroelettric": [
+                "atori      impianti idroelettrici e turbine idraulic"
+            ]
+        }
+    },
+    "070783: Combustibili E Processi Di Combustione": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "e e analisi     5 2 impatto ambientale degli inquinanti"
+            ],
+            "inquina": [
+                "ione             5  inquinanti nei processi di ",
+                "to ambientale degli inquinanti della combustion",
+                "esse alle emissioni inquinanti          lo stud",
+                " delle emissioni    inquinanti      *   analizz"
+            ]
+        }
+    },
+    "070918: Meccanica Del Veicolo": {
+        "it": {
+            "[[ ]biciclett(?:a|e)[ ]]": [
+                "           modello a bicicletta dell autoveicolo per",
+                " impiegare modelli a bicicletta o piu complessi per "
+            ]
+        }
+    },
+    "071207: Teorie E Storia Del Restauro *": {
+        "it": {
+            "[energi, sostenibil]": [
+                "nche una riserva di energia e di lavoro - e pr",
+                "nde ovviamente alla sostenibilita  nella lunga dur"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                " tecniche  sul loro impatto ambientale e la loro nocivi"
+            ],
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "la comprensione dei problemi ambientali di lunga durata "
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "gia e di lavoro - e problematiche ambientali  senza miti ma a"
+            ]
+        }
+    },
+    "072366: Gestione Degli Impianti Industriali": {
+        "it": {
+            "[energi, sostenibil]": [
+                " distribuzione dell energia termica  servizio ",
+                "riali  obiettivo di sostenibilita a lungo termine "
+            ]
+        }
+    },
+    "072574: Sistemi Energetici E Impatto Ambientale": {
+        "it": {
+            "effetto serra": [
+                "la mitigazione dell effetto serra    emissioni di co "
+            ],
+            "riscaldament(?:o|i) globale": [
+                "missioni di co 2  e riscaldamento globale  tecnologie per la "
+            ],
+            "energ[^ ]+ eolic": [
+                "    mini idraulica  energia eolica  energia solare  t"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "i fattibilita       energie rinnovabili e tecnologie per l",
+                "uasi  di gas serra  energia rinnovabile  tipologie  dispon"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "istemi energetici e impatto ambientale criteri generali",
+                "l contenimento dell impatto ambientale ad esse correlat",
+                "etti economici e di impatto ambientale che guidano la p"
+            ],
+            "inquina": [
+                "ica sulle emissioni inquinanti       le central",
+                "e e abbattimento di inquinanti    unita di misu",
+                "a concentrazione di inquinanti in miscele gasso",
+                " di rimozione degli inquinanti   ma viene forni",
+                "la formazione degli inquinanti gassosi e alle t"
+            ]
+        }
+    },
+    "079483: Fisica Tecnica Ambientale": {
+        "it": {
+            "emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio)": [
+                "- mitigazione delle emissioni di co2 l obiettivo del cor"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "13  lotta contro il cambiamento climatico - mitigazione del ",
+                "o - mitigazione del cambiamento climatico - mitigazione dell"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "sostenibile - fonti energetiche rinnovabili    sdg 13  lotta c"
+            ],
+            "[energi, sostenibil]": [
+                " determinazione     energia solare  geografia ",
+                " chiave      sdg 7  energia pulita e accessibi",
+                "cienza energetica - energia sostenibile - font",
+                "trasformazioni dell energia e le sue interazio",
+                "o     - calcolare l energia prodotta dai siste",
+                "nergetica - energia sostenibile - fonti energetich"
+            ]
+        }
+    },
+    "081374: Fondamenti Di Chimica": {
+        "it": {
+            "effetto serra": [
+                "zono  piogge acide  effetto serra         argomento 9"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "stanze inquinanti e impatto ambientale    smog   fotoch"
+            ],
+            "inquina": [
+                "atmosfera  sostanze inquinanti e impatto ambien"
+            ]
+        }
+    },
+    "082355: Geologia Ambientale": {
+        "it": {
+            "inquina": [
+                " la protezione dall inquinamento delle acque so"
+            ]
+        }
+    },
+    "082890: Progettazione Di Sistemi Informativi Territoriali": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "urbanistica e della pianificazione territoriale  in particolare  g",
+                "analisi spaziali in ambiente gis proprietario  ",
+                "ti la sostenibilita ambientale e l analisi del ",
+                "ento dei geodati in ambiente gis     progettazi",
+                "orazioni di base in ambiente gis  conoscenza e "
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "urbanistica e della pianificazione territoriale  in particolare  g",
+                "ioni riguardanti la sostenibilita ambientale e l"
+            ]
+        }
+    },
+    "083047: Biomateriali [C.I.]": {
+        "it": {
+            "bio[ -]?degradabil": [
+                "olimerici  polimeri biodegradabili di sintesi  metodi"
+            ]
+        }
+    },
+    "083451: Climatizzazione E Termofisica Dell'Edificio": {
+        "it": {
+            "[prestazion(?:e|i) energetic, edificio]": [
+                "er il calcolo della prestazione energetica degli edifici  la ",
+                "in modo autonomo la prestazione energetica di un edificio    ",
+                "ado di calcolare le prestazioni energetiche di un edificio",
+                " e termofisica dell edificio obbiettivi formativ",
+                "e negli elementi di edificio     soluzioni anali",
+                "ancio termico per l edificio     l equazione gen",
+                "le per un modulo di edificio  metodo generale e ",
+                " applicazione ad un edificio campione di quanto ",
+                "getiche del sistema edificio impianto  di fatto ",
+                "ne energetica di un edificio     essere in grado",
+                "i energetiche di un edificio"
+            ],
+            "qualita dell aria": [
+                "rmoigrometrico      qualita dell aria     presentazione d"
+            ]
+        }
+    },
+    "083795: Fisica Tecnica": {
+        "it": {
+            "effetto serra": [
+                "sparenti  cenni all effetto serra   r elazione fra em",
+                "sparenti  cenni all effetto serra   relazione fra emi"
+            ]
+        }
+    },
+    "085639: Ingegneria Sanitaria Ambientale": {
+        "it": {
+            "biosfera": [
+                "ria  acqua  suolo e biosfera  ed all inquadramen"
+            ],
+            "ingegneria ambientale": [
+                "i di interesse dell ingegneria ambientale  aria  acqua  suolo",
+                "ici settoriali dell ingegneria ambientale  le attivita di lez"
+            ],
+            "(?:depurazion(?:e|i)|risanament(?:o|i)) delle acque": [
+                "delle tecnologie di depurazione delle acque primarie e di scari"
+            ],
+            "depurazion(?:e|i) delle acque": [
+                "delle tecnologie di depurazione delle acque primarie e di scari"
+            ],
+            "inquina": [
+                "anitaria ambientale inquinamento   definizione ",
+                "assificazione degli inquinanti  principi genera",
+                " e prevenzione dell inquinamento  0 5 cfu      ",
+                "one dei fenomeni di inquinamento   definizione ",
+                "assa  1 5 cfu       inquinamento atmosferico   ",
+                "assificazione degli inquinanti di interesse  sc",
+                "llo dei fenomeni di inquinamento alla scala glo",
+                " di emissione degli inquinanti atmosferici  pri",
+                "tore  2 5 cfu       inquinamento delle acque   ",
+                "one dei fenomeni di inquinamento delle acque su",
+                "e che interessano l inquinamento dell aria  del",
+                "identificativi dell inquinamento atmosferico ed",
+                "ncipali problemi di inquinamento atmosferico e "
+            ]
+        }
+    },
+    "085721: Trattamento Delle Acque Di Approvvigionamento": {
+        "it": {
+            "inquina": [
+                "ozione di specifici inquinanti   ferro  mangane",
+                "ato  ammonio   microinquinanti organici  voc  p"
+            ]
+        }
+    },
+    "085742: Macchine Elettriche E Azionamenti": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "macchine elettriche e azionamenti sis",
+                "funzionamento delle macchine elettriche e degli azionamen",
+                "o matematico di una macchina elettrica e in particolare s",
+                "unzionamento di una macchina elettrica dal punto di vista",
+                "to delle principali macchine elettriche    comprende e co",
+                "me delle principali macchine elettriche    conosce il fun",
+                "to delle principali macchine elettriche     e in grado di",
+                "to delle principali macchina elettriche     e in grado di",
+                "ratteristiche delle macchine elettriche ed azionamenti   ",
+                "si di regime di una macchina elettrica valutandone la pre"
+            ]
+        }
+    },
+    "085850: Elettrotecnica": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "nto alle base delle macchine elettriche      ddd 2  capac"
+            ]
+        }
+    },
+    "085973: Gestione Degli Impianti Industriali": {
+        "it": {
+            "[energi, sostenibil]": [
+                " distribuzione dell energia termica  servizio ",
+                "riali  obiettivo di sostenibilita a lungo termine "
+            ]
+        }
+    },
+    "086012: Fondamenti Di Climatizzazione Ambientale": {
+        "it": {
+            "qualita dell aria": [
+                "  comfort termico e qualita dell aria in ambienti indoor ",
+                "ica  contaminanti e qualita dell aria  grandezze e strume",
+                "prestazionali sulla qualita dell aria indoor  controllo d",
+                "moigrometriche e di qualita dell aria adatte per tutelare"
+            ]
+        }
+    },
+    "086218: Macchine": {
+        "it": {
+            "energ[^ ]+ eolic": [
+                "    generalita sull energia eolica e tipiche architet"
+            ]
+        }
+    },
+    "086469: Sistemi Energetici L": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                " combinati          impatto ambientale dei processi di "
+            ],
+            "inquina": [
+                "a concentrazione di inquinanti -   meccanismi d",
+                "di formazione degli inquinanti -   riduzione di",
+                "llo delle emissioni inquinanti e degli aspetti ",
+                "one delle emissioni inquinanti       applicare "
+            ]
+        }
+    },
+    "086470: Macchine E Sistemi Energetici": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "stione interna    8 impatto ambientale dei sistemi ener",
+                " 2 valutazione dell impatto ambientale delle diverse te"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "tiche primarie e le problematiche ambientali che ne conseguon"
+            ],
+            "inquina": [
+                "ione dei principali inquinanti   8 2 valutazion",
+                "novabili  emissioni inquinanti   * i principi d"
+            ]
+        }
+    },
+    "086666: Elettrotecnica I": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "funzionamento delle macchine elettriche e dei sistemi ele",
+                "funzionamento delle macchine elettriche e apprendere gli "
+            ]
+        }
+    },
+    "086825: Gestione Ambientale D'Impresa E Delle Energie Rinnovabili": {
+        "it": {
+            "effetto serra": [
+                "i gas cosiddetti ad effetto serra  le connesse proble"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "e d impresa e delle energie rinnovabili il corso tra i pri",
+                "gente dell energia  energie rinnovabili  permessi di inqui",
+                "etico e delle fonti energetiche rinnovabili        fonti energ",
+                "vabili        fonti energetiche rinnovabili     classificazion",
+                "cazione delle fonti energetiche rinnovabili  ingegneria di bas",
+                "ti di produzione di energia rinnovabile  ottimizzazione de",
+                "o nel settore delle energie rinnovabili e delle tecnologie",
+                "dei rifiuti e delle energie rinnovabili  l evoluzione e le",
+                " sviluppo  le fonti energetiche rinnovabili rappresentano un a"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "o le caratteristiche ecologiche del prodotto e dei "
+            ],
+            "(?:beneficio?|vantaggio?) (?:dello ambiente|ambientali|dello ecosistema)": [
+                "tazione dei costi e benefici ambientali  il ricorso al merc"
+            ],
+            "biosfera": [
+                "aria  acqua  suolo  biosfera  e gli standard di "
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "ita ambientale  gli impatti ambientali e gli strumenti ",
+                "  la valutazione di impatto ambientale  via   l autoriz"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "a e ambiente     le problematiche ambientali legate alla prod"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "umenti volontari di tutela ambientale  sga  ecolabel  com"
+            ],
+            "(?:norm(?:e|i)|regolament(?:e|i)) ambiental": [
+                "a ambientale     le norme ambientali  direttive europee"
+            ],
+            "tecnologi(?:a|e) ambiental": [
+                "rinnovabili e delle tecnologie ambientali  l applicazione de"
+            ],
+            "inquina": [
+                "vabili  permessi di inquinamento  strategie amb",
+                "e ambientali        inquinamento ambientale    "
+            ]
+        }
+    },
+    "086956: Idraulica + Costruzioni Idrauliche": {
+        "it": {
+            "[energi, sostenibil]": [
+                "li ed il consumo di energie che condizionano i",
+                " conservazione dell energia meccanica e conser",
+                "uppi secondo canoni sostenibili     nella fattispe",
+                "della progettazione sostenibile delle condotte di "
+            ],
+            "[gestion(?:e|i) (?:dell |delle )?acqu(?:a|e), ambiente]": [
+                "laminazione     8   gestione delle acque in ambito urbano   ",
+                "ante l economia e l ambiente e i cui effetti si "
             ]
         }
     },
@@ -4654,6 +6666,218 @@
             ]
         }
     },
+    "088508: Elettrotecnica": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "tue induttanze    - macchine elettriche statiche  il tras",
+                "progettazione delle macchine elettriche     tali obiettiv",
+                "funzionamento delle macchine elettriche statiche e della "
+            ]
+        }
+    },
+    "088639: Progetto Di Strade": {
+        "it": {
+            "ciclabil": [
+                "piedi e delle piste ciclabili  necessita dimensi"
+            ]
+        }
+    },
+    "088640: Aeroporti E Trasporto Aereo": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "mitazione ostacoli  impatto ambientale e fono-inquiname"
+            ],
+            "inquina": [
+                "o ambientale e fono-inquinamento in campo aerop"
+            ]
+        }
+    },
+    "088641: Tecnica Ed Economia Dei Trasporti": {
+        "it": {
+            "inquina": [
+                "rto  incidentalita  inquinamento  consumi energ",
+                " filovie  emissioni inquinanti  carburanti alte",
+                "rto  incidentalita  inquinamento  consumi energ",
+                " filovie  emissioni inquinanti  carburanti alte",
+                " e mista  emissioni inquinanti da traffico  car"
+            ],
+            "carburant(?:e|i) alternativ": [
+                "issioni inquinanti  carburanti alternativi  veicoli innovativ",
+                "issioni inquinanti  carburanti alternativi    sistemi a guida",
+                "inanti da traffico  carburanti alternativi  veicoli elettrici"
+            ],
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "uranti alternativi  veicoli elettrici innovativi e a gui"
+            ]
+        }
+    },
+    "088675: Prospezioni Geofisiche": {
+        "it": {
+            "glaciolog": [
+                "l sottosuolo  studi glaciologici  o di natura ing"
+            ],
+            "inquina": [
+                "o  falde acquifere  inquinamento delle falde  r",
+                "isici   problemi di inquinamento  falde acquife",
+                " natura ambientale  inquinamento  sicurezza del"
+            ],
+            "fald(?:a|e) (?:freatic|acquifer|sotterrane)": [
+                "bilita del terreno  falde acquifere e campi geotermici",
+                "udio del basamento  falde acquifere  inquinamento dell",
+                "i di applicazione   falde acquifere  intrusioni di acq",
+                "zione della roccia  falde acquifere  controllo dei con",
+                "mi di inquinamento  falde acquifere  costruzione di ga"
+            ]
+        }
+    },
+    "088689: Prova Finale (Macchine Elettriche E Azionamenti)": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "prova finale  macchine elettriche e azionamenti   q",
+                "ell insegnamento di macchine elettriche e azionamenti  co"
+            ]
+        }
+    },
+    "088698: Fondamenti Di Ricerca Operativa": {
+        "it": {
+            "controll(?:o|i) (?:dell inquinamento|degli inquinanti)": [
+                "attaglia dei sessi  controllo dell inquinamento  assenza di equilib"
+            ],
+            "inquina": [
+                "ssi  controllo dell inquinamento  assenza di eq"
+            ]
+        }
+    },
+    "088713: Macchine Elettriche": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "macchine elettriche gli argomenti tra",
+                "e convenzioni nelle macchine elettriche  il meccanismo di",
+                "ere  le forze nelle macchine elettriche  il rendimento e ",
+                " e le perdite nelle macchine elettriche  costruzione dei ",
+                "cipale del corso di macchine elettriche e rendere gli stu",
+                "namento di tutte le macchine elettriche  analizzandone so",
+                " solo alcune     le macchine elettriche sono diffuse in o",
+                "funzionamento delle macchine elettriche e per analizzare ",
+                "ali impiegati nelle macchine elettriche     conosce e com",
+                "funzionamento delle macchine elettriche        conoscenza",
+                "termini astratti le macchine elettriche per poterne simul",
+                "comportamento delle macchine elettriche a regime staziona"
+            ]
+        }
+    },
+    "088717: Trattamenti Delle Acque Di Rifiuto": {
+        "it": {
+            "cicl(?:o|i) del carbonio": [
+                "himici e biologici  ciclo del carbonio  bod  cod  e dell a"
+            ],
+            "bio[ -]?gas": [
+                "oduzione ed uso del biogas  bilancio di massa "
+            ],
+            "bio[ -]?degradabil": [
+                "quinamento organico biodegradabile   tempo di residen"
+            ],
+            "inquina": [
+                " la rimozione dell  inquinamento organico biode",
+                "14  normativa sugli inquinamenti idrici   obbie"
+            ]
+        }
+    },
+    "088719: Inquinamento Atmosferico": {
+        "it": {
+            "climatolog": [
+                "     meteorologia e climatologia dell inquinamento"
+            ],
+            "inquina": [
+                "inquinamento atmosferico fe",
+                "omeni e sorgenti di inquinamento atmosferico   ",
+                "rico            gli inquinanti atmosferici  tip",
+                "ali dei fenomeni di inquinamento           mecc",
+                " le grandi fonti di inquinamento  processi di c",
+                "e climatologia dell inquinamento atmosferico   ",
+                "e ed il deposito di inquinanti in atmosfera  il",
+                "a dell aria per gli inquinanti presenti nell ar",
+                " alla tematica dell inquinamento atmosferico co",
+                "ncipali fenomeni di inquinamento atmosferico ed",
+                "principali fonti di inquinamento atmosferico e ",
+                "iversi aspetti dell inquinamento atmosferico ed"
+            ],
+            "qualita dell aria": [
+                "ella gestione della qualita dell aria e riferimenti norma",
+                "issioni e limiti di qualita dell aria per gli inquinanti ",
+                "lle emissioni sulla qualita dell aria    conosce i princi"
+            ]
+        }
+    },
+    "088721: Elettrotecnica": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "tue induttanze    - macchine elettriche statiche  il tras",
+                "progettazione delle macchine elettriche     tali obiettiv",
+                "funzionamento delle macchine elettriche statiche e della "
+            ]
+        }
+    },
+    "088776: Mitigazione Dei Cambiamenti Climatici": {
+        "it": {
+            "bilancio? del carbonio": [
+                "di stima      3  il bilancio del carbonio  e gli inventari de"
+            ],
+            "decarbon": [
+                "nio nel favorire la decarbonizzazione del sistem"
+            ],
+            "accord(?:o|i) di parigi(?:(?: sul| per il) clima)?": [
+                "venzione unfccc all accordo di parigi  analisi degli ndc ",
+                "ti dell art  6 dell accordo di parigi   il sistema europe",
+                "ti nell ambito dell accordo di parigi  - impara a giudica"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "mitigazione dei cambiamenti climatici parte i      1  in",
+                " 1  introduzione ai cambiamenti climatici   scale temporali ",
+                "ati osservativi sui cambiamenti climatici   gas serra in atm",
+                "     7  impatti dei cambiamenti climatici  e misure di adatt",
+                "ti del problema dei cambiamenti climatici globali  con l obi",
+                " internazionale sui cambiamenti climatici  nonche di mostrar",
+                " di mitigazione del cambiamento climatico  affrontando anche",
+                "zione informano sul cambiamento climatico  nonche a riconosc"
+            ],
+            "effetto serra": [
+                " fenomenologia dell effetto serra  e principali fenom"
+            ],
+            "riscaldament(?:o|i) globale": [
+                "ci del problema del riscaldamento globale  il ruolo dei fatto"
+            ]
+        }
+    },
+    "088805: Fisica Tecnica": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                "ia idraulica  altre energie rinnovabili  solare  geotermic"
+            ]
+        }
+    },
+    "088886: Valutazione Di Impatto Ambientale Dell'Inquinamento": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "valutazione di impatto ambientale dell inquinament",
+                "alla valutazione di impatto ambientale  via   per es  d",
+                "l sia  lo studio di impatto ambientale  scopo  indice  ",
+                "rcorso di studio di impatto ambientale  sia  per dei ca",
+                "ella valutazione di impatto ambientale di nuove opere/i",
+                " una valutazione di impatto ambientale  ddd 2     e in "
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "ientale  atmosfera  ambiente idrico  suolo e sottosuol"
+            ],
+            "inquina": [
+                "tto ambientale dell inquinamento l insegnamento",
+                "di diffusione degli inquinanti  gis  visti nel "
+            ],
+            "qualita dell aria": [
+                "peggioramento della qualita dell aria      orientarsi ed "
+            ]
+        }
+    },
     "089027: Buildings In Seismic Areas": {
         "en": {
             "[energy, sustaina]": [
@@ -4664,10 +6888,161 @@
             ]
         }
     },
+    "089122: Telerilevamento": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "mbientali legati al cambiamento climatico  che cos e  il tel",
+                " ambientale      i  cambiamenti climatici  interessano tutte",
+                "te per adattarsi ai cambiamenti climatici          in questo",
+                "n  azioni contro il cambiamento climatico  e trasformare l e",
+                "all  adattamento al cambiamento climatico  del nostro pianet",
+                "le e resiliente  al cambiamento climatico           obiettiv",
+                "13  lotta contro il cambiamento climatico     sdg 14  utiliz"
+            ],
+            "impatt(?:o|i) climatic": [
+                " primo continente a impatto climatico netto nullo entro "
+            ],
+            "biodiversit": [
+                "a  protezione della biodiversita  e ridurre l inqui"
+            ],
+            "degrado (?:del|dei) suol": [
+                "ua   lo studio del  degrado del suolo   la  pianificazio"
+            ],
+            "[[ ]+suol(?:o|i)[ ]+, erosione]": [
+                "ssi di copertura del suolo     * immagini telerilev",
+                "vuto all erosione di suolo     * stima della qualit",
+                "dio del  degrado del suolo   la  pianificazione u",
+                "eologico dovuto all erosione di suolo     * stim"
+            ],
+            "calott(?:a|e) (?:polar|glacial)|permafrost|pergelisol": [
+                "gioni del mondo  le calotte polari ed i ghiacciai si "
+            ],
+            "agricoltura sostenibil": [
+                "lo sviluppo di una  agricoltura sostenibile e resiliente  al c"
+            ],
+            "inquina": [
+                "ersita  e ridurre l inquinamento  https //ec eu"
+            ],
+            "sfruttament(?:o|i) sostenibile": [
+                "e  citta smart   lo sfruttamento sostenibile dell  ecosistema ma"
+            ]
+        }
+    },
+    "089127: Valutazione Di Impatto Ambientale Dell'Inquinamento": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "valutazione di impatto ambientale dell inquinament",
+                "alla valutazione di impatto ambientale  via   per es  d",
+                "l sia  lo studio di impatto ambientale  scopo  indice  ",
+                "rcorso di studio di impatto ambientale  sia  per dei ca",
+                "ella valutazione di impatto ambientale di nuove opere/i",
+                " una valutazione di impatto ambientale  ddd 2     e in "
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "ientale  atmosfera  ambiente idrico  suolo e sottosuol"
+            ],
+            "inquina": [
+                "tto ambientale dell inquinamento l insegnamento",
+                "di diffusione degli inquinanti  gis  visti nel "
+            ],
+            "qualita dell aria": [
+                "peggioramento della qualita dell aria      orientarsi ed "
+            ]
+        }
+    },
+    "089244: Macchine Elettriche": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "macchine elettriche argomenti di teor",
+                " transitorio di una macchina elettrica  potenza nominale ",
+                " di servizio di una macchina elettrica  i valori relativi",
+                " macchina a c c  le macchine elettriche sono componenti d",
+                "ti  lo studio delle macchine elettriche viene sviluppato ",
+                "concetti base delle macchine elettriche     conosce i ter",
+                " della teoria delle macchine elettriche statiche e rotant",
+                "rga di ogni tipo di macchina elettrica     comprende il f",
+                "unzionamento di una macchina elettrica  ne conosce i mode",
+                " prestazioni di una macchina elettrica          capacita ",
+                "e prestazioni delle macchine elettriche     e in grado di",
+                "e  per ogni tipo di macchina elettrica in studio  il circ",
+                "unzionamento di una macchina elettrica     e capace di ad",
+                "dei diversi tipi di macchina elettrica     e capace di di",
+                "a funzionali di una macchina elettrica  variazione di ten",
+                "r lo studio di ogni macchina elettrica  scegliendo l appr",
+                "funzionamento delle macchine elettriche  evidenziando la "
+            ]
+        }
+    },
     "089302: Energy And Environmental Technologies For Building Systems": {
         "en": {
             "environment[^ ]* technolog": [
                 "energy and environmental technologies for building sys"
+            ]
+        }
+    },
+    "089653: Tecnologie Di Presidio Per I Processi Industriali A+B": {
+        "it": {
+            "inquina": [
+                "l trattamento degli inquinanti in flussi aerifo",
+                "l trattamento degli inquinanti in flussi acquos",
+                "amento ordinario di inquinanti  derivanti da di",
+                "erenti tipologie di inquinamento e relative mat",
+                "anti di trattamento inquinanti     - e in grado"
+            ]
+        }
+    },
+    "089785: Energetica Generale": {
+        "it": {
+            "effetto serra": [
+                "emissioni di gas ad effetto serra  dello sviluppo del"
+            ],
+            "politic(?:a|he) (?:ambient|ecosist)": [
+                "ci di uno stato  le politiche ambientali europee finalizz"
+            ]
+        }
+    },
+    "089786: Combustione E Sicurezza": {
+        "it": {
+            "inquina": [
+                "mazione di sostanze inquinanti  ossido di carbo"
+            ]
+        }
+    },
+    "089787: Sistemi E Macchine Elettriche": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "sistemi e macchine elettriche argomento 1   int",
+                "  introduzione alle macchine elettriche rotanti  la macch",
+                "ttriche rotanti  la macchina elettrica rudimentale  rever",
+                "rca le tipologie di macchine elettriche di maggiore impie",
+                "funzionamento delle macchine elettriche  specie sincrone ",
+                "funzionamento delle macchine elettriche  cfr  generatori "
+            ]
+        }
+    },
+    "089914: Economia Dei Trasporti": {
+        "it": {
+            "inquina": [
+                "rto  incidentalita  inquinamento  consumi energ",
+                " filovie  emissioni inquinanti  carburanti alte",
+                "rto  incidentalita  inquinamento  consumi energ",
+                " filovie  emissioni inquinanti  carburanti alte",
+                " e mista  emissioni inquinanti da traffico  car"
+            ],
+            "carburant(?:e|i) alternativ": [
+                "issioni inquinanti  carburanti alternativi  veicoli innovativ",
+                "issioni inquinanti  carburanti alternativi    sistemi a guida",
+                "inanti da traffico  carburanti alternativi  veicoli elettrici"
+            ],
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "uranti alternativi  veicoli elettrici innovativi e a gui"
+            ]
+        }
+    },
+    "090870: Cantieri Di Infrastrutture": {
+        "it": {
+            "iso 1400": [
+                "ntegrata  iso 9001  iso 14001  bs ohsas 18001  d"
             ]
         }
     },
@@ -4698,6 +7073,45 @@
             "air quality": [
                 "ved in the field of air quality remediation and mai",
                 "eral perspective on air quality  through the illust"
+            ]
+        }
+    },
+    "090929: Sistemi Energetici Avanzati": {
+        "it": {
+            "inquina": [
+                "ante  formazione di inquinanti e trattamenti di",
+                "nergia ed emissioni inquinanti sulla filiera de",
+                "ed economici e meno inquinanti  conoscenza e co",
+                "nto di emissioni di inquinanti locali e globali"
+            ],
+            "bio[ -]?diesel": [
+                "duzione di etanolo  biodiesel  benzine e gasoli d"
+            ],
+            "carburant(?:e|i) alternativ": [
+                "r la generazione di carburanti alternativi per la propulsione"
+            ]
+        }
+    },
+    "091130: Combustione E Sicurezza  B": {
+        "it": {
+            "inquina": [
+                "mazione di sostanze inquinanti  ossido di carbo"
+            ]
+        }
+    },
+    "091132: Sistemi Energetici Avanzati  B": {
+        "it": {
+            "inquina": [
+                "ante  formazione di inquinanti e trattamenti di",
+                "nergia ed emissioni inquinanti sulla filiera de",
+                "ed economici e meno inquinanti  conoscenza e co",
+                "nto di emissioni di inquinanti locali e globali"
+            ],
+            "bio[ -]?diesel": [
+                "duzione di etanolo  biodiesel  benzine e gasoli d"
+            ],
+            "carburant(?:e|i) alternativ": [
+                "r la generazione di carburanti alternativi per la propulsione"
             ]
         }
     },
@@ -4733,6 +7147,17 @@
             ]
         }
     },
+    "091617: Fattori Umani Nella Gestione Hseq": {
+        "it": {
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "licabili a qualita  protezione ambientale e sicurezza sul lav"
+            ],
+            "iso 1400": [
+                "ente attive  uni en iso 14001  uni en iso 9001  ",
+                "   ambiente  uni en iso 14001 / emas    salute/s"
+            ]
+        }
+    },
     "093473: Smart Grids And Regulation For Renewable Energy Sources": {
         "en": {
             "low-carbon": [
@@ -4744,7 +7169,7 @@
                 "nomic assessment of decarbonization projects      the r",
                 "d with reference to decarbonization projects linked to ",
                 "mpact on society of decarbonization projects  as a resu",
-                "nancing options and decarbonization projects' analysis ",
+                "nancing options and decarbonization projects  analysis ",
                 "ted to power system decarbonization and renewable energ",
                 "tions have designed decarbonization policies in which a",
                 "n level in defining decarbonization targets  and examin"
@@ -4756,6 +7181,72 @@
                 " and regulation for renewable energy sources topic 1  po",
                 "ept of citizens and renewable energy communities  third ",
                 "decarbonization and renewable energy sources  res  diffu"
+            ]
+        }
+    },
+    "093501: Diritto Dell'Energia": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                "  aia         fonti energetiche rinnovabili e loro incentivazi"
+            ],
+            "idroelettric": [
+                "e    le concessioni idroelettriche    gli appalti ne"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "  a  valutazione di impatto ambientale   via           "
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "itto dell energia e tutela dell ambiente        l intreccio "
+            ]
+        }
+    },
+    "093598: Impianti E Processi Chimici (C.I.)": {
+        "it": {
+            "inquina": [
+                " la riduzione degli inquinanti della combustion",
+                "si  riduzione degli inquinanti della combustion"
+            ],
+            "carburant(?:e|i) sintetic": [
+                "er la produzione di carburanti sintetici ed additivi per be"
+            ]
+        }
+    },
+    "093688: Rischio Idrogeologico E Protezione Civile": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "o idrogeologico  il cambiamento climatico ha accentuato alcu"
+            ]
+        }
+    },
+    "093815: Usi Del Suolo Ed Effetti Ambientali": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "re a un processo di pianificazione territoriale e/o di valutazione",
+                "el suolo ed effetti ambientali apprendimento de",
+                "unzioni e i servizi ecosistemici      introduzi",
+                "cetto di indicatore ambientale  quale strumento",
+                "cnico per l analisi ambientale di supporto alla",
+                " e alla valutazione ambientale strategica      ",
+                "ncipali geodatabase ambientali   corine land co",
+                "principali  effetti ambientali del consumo di s",
+                "inuirne gli effetti ambientali  viene richiesto",
+                "ogatrice di servizi ecosistemici  questo gli co",
+                " e/o di valutazione ambientale     * avra acqui",
+                "tazione  indicatori ambientali  che gli saranno",
+                "iche di rilevazione ambientali tipiche dei sopr"
+            ],
+            "emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio)": [
+                "aggio di carbonio e emissione di co2     alterazione del"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "o aperto con valenze ecologiche  il luogo si raggiu"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "le sue funzioni e i servizi ecosistemici      introduzi",
+                "le ed erogatrice di servizi ecosistemici  questo gli co"
+            ],
+            "[[ ]biciclett(?:a|e)[ ]]": [
+                "era possibilmente in bicicletta      bookworkshop   "
             ]
         }
     },
@@ -5020,6 +7511,22 @@
             ]
         }
     },
+    "095968: Laboratorio Di Urbanistica": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "  - attenzione alla pianificazione territoriale negli spazi rurali",
+                "vo e negativo con l ambiente      le attivita i",
+                "anea  sostenibilita ambientale  pratiche dell a"
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "  - attenzione alla pianificazione territoriale negli spazi rurali",
+                "itta contemporanea  sostenibilita ambientale  pr"
+            ],
+            "effic[^ ]+ (?:delle |della )?risors": [
+                "qualificazione  uso efficiente delle risorse e rigenerazione ur"
+            ]
+        }
+    },
     "095990: Urban Planning Studio": {
         "en": {
             "(?:sustainable urban|urban sustaina)": [
@@ -5066,6 +7573,26 @@
             ]
         }
     },
+    "096339: Laboratorio Di Analisi Della Citta' E Del Territorio": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                " sviluppo  lotta al cambiamento climatico         i contribu"
+            ]
+        }
+    },
+    "096341: Laboratorio Di Urbanistica 1": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "eta  adattamento ai cambiamenti climatici  protezione della "
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "mi della transizione ecologica e in coerenza con g"
+            ],
+            "biodiversit": [
+                "i  protezione della biodiversita        la sperimen"
+            ]
+        }
+    },
     "096562: Advanced Building Envelope Components Engineering": {
         "en": {
             "renewable energy": [
@@ -5088,6 +7615,35 @@
             ]
         }
     },
+    "097253: Chimica A  E Chimica Ambientale": {
+        "it": {
+            "effetto serra": [
+                "zono  piogge acide  effetto serra  inquinamento termi"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "stanze inquinanti e impatto ambientale  smog fotochimic"
+            ],
+            "(?:depurazion(?:e|i)|risanament(?:o|i)) delle acque": [
+                " ma non solo  nella depurazione delle acque da metalli o inquin"
+            ],
+            "depurazion(?:e|i) delle acque": [
+                " ma non solo  nella depurazione delle acque da metalli o inquin"
+            ],
+            "inquina": [
+                "atmosfera  sostanze inquinanti e impatto ambien",
+                "ide  effetto serra  inquinamento termico       ",
+                " fare un esempio  l inquinamento idrico e atmos",
+                " acque da metalli o inquinanti organici"
+            ]
+        }
+    },
+    "097280: Trattamento Delle Osservazioni": {
+        "it": {
+            "inquina": [
+                "a di processi di disinquinamento  l analisi di "
+            ]
+        }
+    },
     "097327: Product Life Cycle Management": {
         "en": {
             "circular economy": [
@@ -5095,10 +7651,35 @@
             ]
         }
     },
+    "097358: Urbanistica": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "intervento  oggi il cambiamento climatico  l invecchiamento "
+            ]
+        }
+    },
     "097365: Engineering Of Solar Thermal Processes": {
         "en": {
             "renewable energy": [
                 "mented by different renewable energy technologies   * ma"
+            ]
+        }
+    },
+    "097366: Laboratorio Di Costruzione Dell'Architettura": {
+        "it": {
+            "[prestazion(?:e|i) energetic, edificio]": [
+                "nto  ciclo di vita  prestazioni energetico ambientali        ",
+                "i che compongono un edificio       muri       te"
+            ],
+            "[prestazion(?:e|i) energetic, architettura]": [
+                "nto  ciclo di vita  prestazioni energetico ambientali        ",
+                "di costruzione dell architettura principali obiettiv",
+                "a nel progetto dell architettura procede come rispos",
+                " la tecnologia dell architettura venga assimilata no",
+                "di costruzione dell architettura come strumento esse",
+                "iale al progetto di architettura in relazione ad uno",
+                "ve  tecnologia dell architettura  materiali ed eleme",
+                "di costruzione dell architettura intende promuovere "
             ]
         }
     },
@@ -5188,7 +7769,7 @@
                 "ary to solve applied ecological problems that are n"
             ],
             "biological control": [
-                "and bailey's model  biological control of alien and noxiou"
+                "and bailey s model  biological control of alien and noxiou"
             ]
         }
     },
@@ -5268,6 +7849,20 @@
             ]
         }
     },
+    "097575: Termodinamica E Processi Energetici": {
+        "it": {
+            "effetto serra": [
+                "sparenti  cenni all effetto serra   relazione fra emi",
+                "e  la tematica dell effetto serra e del riscaldamento"
+            ],
+            "riscaldament(?:o|i) globale": [
+                "effetto serra e del riscaldamento globale  la situazione ener"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "ia idraulica  altre energie rinnovabili  solare  geotermic"
+            ]
+        }
+    },
     "097601: Power Production From Renewable Energy B": {
         "en": {
             "bioga(?:s|z)": [
@@ -5340,7 +7935,7 @@
                 " sources    sdg 11  sustainable cities and communities - s"
             ],
             "[energy performance, building]": [
-                "n of the building's energy performance  at the conclusion ",
+                "n of the building s energy performance  at the conclusion ",
                 "nt topics about the energy performance of buildings and it",
                 "n evaluation of the energy performance of a building and o",
                 "   - illustrate the energy performance of buildings and id",
@@ -5367,7 +7962,7 @@
                 "nderstanding of the building energy simulation p",
                 "national standards  building technologies and co",
                 "es and controls for buildings through systematic",
-                "d simulation of the building's energy performanc",
+                "d simulation of the building s energy performanc",
                 "ergy performance of buildings and its evaluation",
                 "gy performance of a building and of the comfort ",
                 "rds for zero-energy building  zeb  design     - ",
@@ -5376,7 +7971,7 @@
                 "- carry out dynamic building energy simulations "
             ],
             "[energy performance, architecture]": [
-                "n of the building's energy performance  at the conclusion ",
+                "n of the building s energy performance  at the conclusion ",
                 "nt topics about the energy performance of buildings and it",
                 "n evaluation of the energy performance of a building and o",
                 "   - illustrate the energy performance of buildings and id",
@@ -5410,14 +8005,14 @@
                 "sion buildings  the energy efficient buildings",
                 "ing of the building energy simulation process ",
                 " evaluate different energy conservation measur",
-                "n of the building's energy performance  at the",
+                "n of the building s energy performance  at the",
                 "nt topics about the energy performance of buil",
                 "n evaluation of the energy performance of a bu",
                 " standards for zero-energy building  zeb  desi",
                 "   - illustrate the energy performance of buil",
                 "enefits of building energy simulation     dd2 ",
                 "ut dynamic building energy simulations     - a",
-                "the united nation's sustainable development goal",
+                "the united nation s sustainable development goal",
                 " sources    sdg 11  sustainable cities and commu",
                 "s and communities - sustainable architecture    "
             ]
@@ -5494,11 +8089,11 @@
             "[energy, sustaina]": [
                 "ampling techniques  energy distribution of neu",
                 "e model for several energy groups        stati",
-                "chnologies'     the sustainability of industrial"
+                "chnologies      the sustainability of industrial"
             ],
             "green technolog": [
-                "gram 'ambassador in green technologies'      the detail",
-                "gram 'ambassador in green technologies'     the sustain"
+                "gram  ambassador in green technologies       the detail",
+                "gram  ambassador in green technologies      the sustain"
             ],
             "(?:nuclear|radioactive) waste": [
                 "    repositories of radioactive waste     characteristics",
@@ -5522,11 +8117,11 @@
             "[energy, sustaina]": [
                 "ampling techniques  energy distribution of neu",
                 "e model for several energy groups        stati",
-                "chnologies'     the sustainability of industrial"
+                "chnologies      the sustainability of industrial"
             ],
             "green technolog": [
-                "gram 'ambassador in green technologies'      the detail",
-                "gram 'ambassador in green technologies'     the sustain"
+                "gram  ambassador in green technologies       the detail",
+                "gram  ambassador in green technologies      the sustain"
             ],
             "(?:nuclear|radioactive) waste": [
                 "    repositories of radioactive waste     characteristics",
@@ -5592,6 +8187,16 @@
             ]
         }
     },
+    "098474: Metodi Di Ottimizzazione Della Ricerca Operativa": {
+        "it": {
+            "controll(?:o|i) (?:dell inquinamento|degli inquinanti)": [
+                "attaglia dei sessi  controllo dell inquinamento  assenza di equilib"
+            ],
+            "inquina": [
+                "ssi  controllo dell inquinamento  assenza di eq"
+            ]
+        }
+    },
     "098634: Advanced Environmental Systems Analysis [I.C.]": {
         "en": {
             "climate change": [
@@ -5632,6 +8237,36 @@
         "en": {
             "renewable energy": [
                 "ions  as well as to renewable energy source  such offsho"
+            ]
+        }
+    },
+    "099236: Modellistica E Simulazione": {
+        "it": {
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "li nel contesto dei problemi ambientali e territoriali  ",
+                "mplessita dei reali problemi ambientali e territoriali  "
+            ]
+        }
+    },
+    "099240: Elementi Di Valutazione Di Impatto Ambientale Dell'Inquinamento": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "i di valutazione di impatto ambientale dell inquinament",
+                "alla valutazione di impatto ambientale  via   per es  d",
+                "l sia  lo studio di impatto ambientale  scopo  indice  ",
+                "rcorso di studio di impatto ambientale  sia  per dei ca",
+                "ella valutazione di impatto ambientale di nuove opere/i",
+                " una valutazione di impatto ambientale  ddd 2     e in "
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "ientale  atmosfera  ambiente idrico  suolo e sottosuol"
+            ],
+            "inquina": [
+                "tto ambientale dell inquinamento l insegnamento",
+                "di diffusione degli inquinanti  gis  visti nel "
+            ],
+            "qualita dell aria": [
+                "peggioramento della qualita dell aria      orientarsi ed "
             ]
         }
     },
@@ -5832,11 +8467,123 @@
             ]
         }
     },
+    "099365: Ci Elementi Di Progettazione Dell'Ambiente": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "pecie speciale e il cambiamento climatico  7 - sostenibilita",
+                "ano    affrontare i cambiamenti climatici verso territori re",
+                "une    affrontare i cambiamenti climatici verso territori re",
+                "e e adattamento dei cambiamenti climatici  resilienza  l obi"
+            ],
+            "[energi, sostenibil]": [
+                "mana  3 - flussi di energia negli ecosistemi  ",
+                "mbientali  parte 3  energia e forma urbana    ",
+                "iani d azione per l energia sostenibile del co",
+                "   le comunita dell energia  macerata  quodlib",
+                "ento climatico  7 - sostenibilita  definizioni  in",
+                "rogettazione urbana sostenibile \\ prof  eugenio mo",
+                "rogettazione urbana sostenibile e all ecologia urb",
+                "oncetti legati alla sostenibilita del territorio  ",
+                "ita ambientale e la sostenibilita in senso lato  s",
+                "rogettazione urbana sostenibile  l agenda 2030 e i",
+                "iettivi di sviluppo sostenibile  sdg  sottoscritti",
+                "zione per l energia sostenibile del comune    affr",
+                "a valutazione della sostenibilita alla scala urban",
+                "rogettazione urbana sostenibile  ma non costituisc",
+                "rogettazione urbana sostenibile  dell ecologia e d",
+                "tivo 11 di sviluppo sostenibile delle nazioni unit",
+                "a  ecologia urbana  sostenibilita urbana e svilupp",
+                "a urbana e sviluppo sostenibile in generale  mitig"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "azione dell ambiente ecologia urbana \\ prof  rena",
+                "ntali alla base dell ecologia   1 - che cosa e un",
+                " corso  http //www   ecologia polimi it/ecoarch  ",
+                "na sostenibile e all ecologia urbana applicata al",
+                "temi ambientali e di ecologia urbana saranno intr",
+                "    introduzione all ecologia urbana applicata al",
+                "   advances in urban ecology  integrating humans",
+                "tegrating humans and ecological processes in urban ",
+                "r  t   2014    urban ecology  science of cities ",
+                " ed     2011   urban ecology  patterns  processe",
+                "05   fundamentals of ecology  v ed    belmont   ",
+                "amp  koh  j   2010   ecological concepts and strate",
+                "rees  w   1996   our ecological footprint  reducing",
+                "na sostenibile  dell ecologia e dell ecologia urb",
+                "dell ecologia e dell ecologia urbana  tradurre i ",
+                " i temi teorici dell ecologia urbana e della qual",
+                "ettivi collegati all ecologia urbana  ovvero sdg7",
+                " teoriche in tema di ecologia  ecologia urbana  s",
+                "in tema di ecologia  ecologia urbana  sostenibili",
+                "rire i principi dell ecologia urbana all analisi ",
+                "agli indicatori dell ecologia urbana   2  strateg"
+            ],
+            "biodiversit": [
+                "iche e sociali  5 - biodiversita  dalle misure in a"
+            ],
+            "sfid(?:a|e) (?:ambient|ecosist)": [
+                "are e ricondurre le sfide ambientali globali alla dim"
+            ],
+            "politic(?:a|he) (?:ambient|ecosist)": [
+                "ci per costruire le politiche ambientali  indicatori per "
+            ]
+        }
+    },
+    "099378: Laboratorio Di Urbanistica 3": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "ne e adattamento ai cambiamenti climatici      conservazione",
+                "che in relazione ai cambiamenti climatici e ai nuovi adempim"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "rbana  dal ridisegno ecologicamente orientato delle str",
+                "ciali  ambientali ed ecologiche  sia l insieme dell",
+                "bientale  sociale ed ecologica dei contesti degrad"
+            ],
+            "biodiversit": [
+                "e del suolo e della biodiversita      valutazione e"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "implementazione dei servizi ecosistemici il laboratorio"
+            ]
+        }
+    },
     "099481: Final Design Workshop": {
         "en": {
             "[energy, sustaina]": [
                 "features draw their energy from the desire to ",
                 "ctible and socially sustainable       topic     "
+            ]
+        }
+    },
+    "099541: Sostenibilita' Ambientale E Lca Dei Materiali Delle Costruzioni": {
+        "it": {
+            "costruzion(?:e|i) sostenibil": [
+                "dei materiali delle costruzioni sostenibilita e teoria dei tre"
+            ],
+            "impront(?:a|e) (?:del|di) carbonio": [
+                " norma en 15978     impronta di carbonio ed energia incorpor",
+                "per il calcolo dell impronta di carbonio e dell energia inco"
+            ],
+            "[energi, sostenibil]": [
+                "onta di carbonio ed energia incorporata     in",
+                " di carbonio e dell energia incorporata     ut",
+                "sostenibilita  ambientale e lc",
+                "i delle costruzioni sostenibilita e teoria dei tre",
+                "alla valutazione di sostenibilita di citta e comun",
+                "unto di vista della sostenibilita ambientale      ",
+                "a critica i dati di sostenibilita ambientale che s"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "ipali indicatori di impatto ambientale        ddd 2  ca"
+            ],
+            "prestazion(?:e|i) ambiental": [
+                "alla valutazione di prestazione ambientale di un edificio sec"
+            ],
+            "(?:analisi|valutazion(?:e|i)) (?:del|dei|di) cicl(?:o|i) (?:di )?vita": [
+                "   metodologia dell analisi del ciclo di vita secondo gli standar",
+                "la metodologia dell analisi del ciclo di vita     fornire le basi",
+                "la metodologia dell analisi del ciclo di vita o life cycle assess"
             ]
         }
     },
@@ -5850,10 +8597,87 @@
             ]
         }
     },
+    "099668: Diritto Urbanistico + Sociologia Urbana": {
+        "it": {
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "azione urbanistica  tutela dell ambiente e del paesaggio  ar"
+            ]
+        }
+    },
+    "099676: Strategia Ed Economia Del Progetto": {
+        "it": {
+            "(?:analisi|valutazion(?:e|i)) (?:del|dei|di) cicl(?:o|i) (?:di )?vita": [
+                "el corso affronta l analisi del ciclo di vita di un prodotto  lo "
+            ]
+        }
+    },
+    "099683: Progettazione Degli Elementi Costruttivi + Laboratorio": {
+        "it": {
+            "emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio)": [
+                "- mitigazione delle emissioni di co2 i principali obiett"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "13  lotta contro il cambiamento climatico - mitigazione del ",
+                "o - mitigazione del cambiamento climatico - mitigazione dell"
+            ],
+            "[energi, sostenibil]": [
+                " chiave      sdg 7  energia pulita e accessibi",
+                "ica           2  la sostenibilita dell architettur",
+                "utture - tecnologie sostenibili    sdg 12  consumo",
+                "o     - principi di sostenibilita ambientale delle"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "inquadramento della problematica ambientale globale e rifles"
+            ],
+            "tecnologi(?:a|e) sostenibil": [
+                " e infrastrutture - tecnologie sostenibili    sdg 12  consumo"
+            ],
+            "economi(?:a|e) circolar": [
+                "sumo responsabili - economia circolare    sdg 13  lotta c"
+            ]
+        }
+    },
     "099732: Ic Economics Of Public Issues": {
         "en": {
             "pollut": [
                 "g      environment  pollution regulation vs em"
+            ]
+        }
+    },
+    "099754: Progettazione E Innovazione Tecnologica + Laboratorio Di Tecnologia Stratificata A Secco": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "zione tecnologica e architettura sostenibile  t  herzog     la ",
+                "unita sostenibili - architettura sostenibile    sdg 12  consumo"
+            ],
+            "emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio)": [
+                "- mitigazione delle emissioni di co2 il modulo di proget"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "13  lotta contro il cambiamento climatico - mitigazione del ",
+                "o - mitigazione del cambiamento climatico - mitigazione dell"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "enibilita ed uso di energie rinnovabili    la comunicazion"
+            ],
+            "[energi, sostenibil]": [
+                "enibilita ed uso di energie rinnovabili    la ",
+                "benessere    sdg 7  energia pulita e accessibi",
+                "e  ecc            - sostenibilita ed uso di energi",
+                "zzazione di edifici sostenibili          - innovaz",
+                "gica e architettura sostenibile  t  herzog     la ",
+                "ogica in termini di sostenibilita          - relaz",
+                " casi di interventi sostenibili e ad alta efficien",
+                "utture - tecnologie sostenibili    sdg 11  citta e",
+                "1  citta e comunita sostenibili - architettura sos",
+                "bili - architettura sostenibile    sdg 12  consumo",
+                "te e in generale la sostenibilita      una serie d"
+            ],
+            "tecnologi(?:a|e) sostenibil": [
+                " e infrastrutture - tecnologie sostenibili    sdg 11  citta e"
+            ],
+            "economi(?:a|e) circolar": [
+                "sumo responsabili - economia circolare    sdg 13  lotta c"
             ]
         }
     },
@@ -5895,7 +8719,7 @@
                 "on the tectonics of architecture  - understands inno"
             ],
             "decarboni(?:s|z)ation": [
-                " with the eu's 2050 decarbonisation target  at the conc"
+                " with the eu s 2050 decarbonisation target  at the conc"
             ],
             "climat[^ ]+ strateg": [
                 "d understand the bioclimatic strategies of the building "
@@ -5922,6 +8746,38 @@
                 "t and environmental sustainability  in line with",
                 "ergy efficiency and sustainability in the buildi",
                 "ogies deriving from sustainability requirements "
+            ]
+        }
+    },
+    "099760: Recupero E Conservazione Degli Edifici + Laboratorio": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "unita sostenibili - architettura sostenibile - patrimonio cultu"
+            ],
+            "[risparmio? energetic, edificio]": [
+                "ve e finalizzate al risparmio energetico  al quale attinger",
+                "azioni proprie dell edificio e del territorio   ",
+                "alle vocazioni dell edificio  alla definizione d",
+                "so piu adeguate all edificio dismesso     - sa p"
+            ],
+            "emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio)": [
+                "- mitigazione delle emissioni di co2 l insegnamento si p"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "13  lotta contro il cambiamento climatico - mitigazione del ",
+                "o - mitigazione del cambiamento climatico - mitigazione dell"
+            ],
+            "[energi, sostenibil]": [
+                " chiave      sdg 7  energia pulita e accessibi",
+                "utture - tecnologie sostenibili    sdg 11  citta e",
+                "1  citta e comunita sostenibili - architettura sos",
+                "bili - architettura sostenibile - patrimonio cultu"
+            ],
+            "tecnologi(?:a|e) sostenibil": [
+                " e infrastrutture - tecnologie sostenibili    sdg 11  citta e"
+            ],
+            "economi(?:a|e) circolar": [
+                "sumo responsabili - economia circolare    sdg 13  lotta c"
             ]
         }
     },

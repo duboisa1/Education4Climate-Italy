@@ -44,6 +44,30 @@
   "dedicated":0
  },
  {
+  "id":"01UUDPW",
+  "name":"Pianificare il territorio (Atelier)",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Taddia Glenda",
+   "Staricco Luca",
+   "Salizzoni Emma Paola Germana"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01UUDPW&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"01HHQUT",
   "name":"Organic and environmental chemistry and Sustainability and safety",
   "year":"2023-2024",
@@ -96,9 +120,10 @@
    "economy",
    "life",
    "prod&cons",
+   "resources",
    "transport"
   ],
-  "dedicated":0
+  "dedicated":1
  },
  {
   "id":"01TVFND",
@@ -124,6 +149,31 @@
    "energy",
    "prod&cons",
    "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01VODPX",
+  "name":"Progetto dell'abitare sostenibile e inclusivo",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Docente Da Nominare",
+   "Savio Lorenzo",
+   "Minucciani Valeria"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VODPX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
   ],
   "dedicated":1
  },
@@ -207,16 +257,17 @@
   "dedicated":0
  },
  {
-  "id":"01RMDPX",
-  "name":"Evaluation of Project Economic Sustainability",
+  "id":"02GRSOV",
+  "name":"Programmazione di sistema",
   "year":"2023-2024",
   "languages":[
-   "en"
+   "it"
   ],
   "teachers":[
-   "Fregonara Elena"
+   "Cabodi Gianpiero",
+   "Azimi Sarah"
   ],
-  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01RMDPX&p_a_acc=2024",
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02GRSOV&p_a_acc=2024",
   "cycles":[
    "master"
   ],
@@ -224,10 +275,9 @@
    "Other"
   ],
   "themes":[
-   "economy",
    "resources"
   ],
-  "dedicated":1
+  "dedicated":0
  },
  {
   "id":"02VLPPQ",
@@ -276,6 +326,30 @@
   "dedicated":0
  },
  {
+  "id":"01HFCUS",
+  "name":"Progettare per la mitigazione del rischio (Atelier)",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Docente Da Nominare",
+   "Canone Davide"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01HFCUS&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"02SSULU",
   "name":"Building design with climate Studio",
   "year":"2023-2024",
@@ -318,6 +392,51 @@
   ],
   "themes":[
    "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02NHSMT",
+  "name":"Progettazione di veicoli aerospaziali",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Carrera Erasmo",
+   "Frulla Giacomo"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02NHSMT&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"03AOFNL",
+  "name":"Diritto dell'impresa",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rivaro Rossella"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03AOFNL&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
   ],
   "dedicated":0
  },
@@ -439,6 +558,28 @@
   "dedicated":0
  },
  {
+  "id":"05BHAND",
+  "name":"Impiego industriale dell'energia",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Badami Marco"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=05BHAND&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"05NYRPO",
   "name":"Innovazione",
   "year":"2023-2024",
@@ -492,6 +633,78 @@
   "dedicated":1
  },
  {
+  "id":"20AXPMN",
+  "name":"Fisica II",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Iotti Rita Claudia",
+   "Raffa Francesco Antonino",
+   "Descrovi Emiliano"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=20AXPMN&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"04CIIPL",
+  "name":"Sistemi elettrici industriali",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Russo Angela",
+   "Spertino Filippo",
+   "Mazza Andrea"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=04CIIPL&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"06AFDNE",
+  "name":"Automazione a fluido",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Raparelli Terenziano"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=06AFDNE&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"01OAINE",
   "name":"Dynamic design of machines",
   "year":"2023-2024",
@@ -512,6 +725,56 @@
    "life"
   ],
   "dedicated":0
+ },
+ {
+  "id":"01VMETE",
+  "name":"Progetto di restauro",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ballarini Ilaria",
+   "Naretto Monica",
+   "Palmero Paola"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VMETE&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"03RUQMO",
+  "name":"Circular economy e sostenibilit\u00e0 ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fiore Silvia"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03RUQMO&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "energy",
+   "life",
+   "pollution",
+   "resources"
+  ],
+  "dedicated":1
  },
  {
   "id":"01VOAPX",
@@ -550,6 +813,55 @@
   "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=14CFRPM&p_a_acc=2024",
   "cycles":[
    "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01VNQPX",
+  "name":"Progettazione ecocompatibile dell'architettura A",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pellegrino Anna",
+   "Docente Da Nominare",
+   "De Rossi Antonio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VNQPX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy",
+   "life",
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01HEZUS",
+  "name":"Strumenti e metodi dell'architettura del paesaggio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rinaldi Bianca Maria"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01HEZUS&p_a_acc=2024",
+  "cycles":[
+   "master"
   ],
   "fields":[
    "Other"
@@ -608,6 +920,29 @@
   "dedicated":1
  },
  {
+  "id":"02JIWQA",
+  "name":"Pianificazione territoriale e pianificazione strategica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02JIWQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"05LNMTR",
   "name":"Fluid mechanics",
   "year":"2023-2024",
@@ -647,8 +982,7 @@
    "Other"
   ],
   "themes":[
-   "pollution",
-   "transport"
+   "pollution"
   ],
   "dedicated":0
  },
@@ -674,6 +1008,30 @@
    "life",
    "pollution",
    "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01UTWPW",
+  "name":"Interpretare la citt\u00e0 e il territorio (Atelier)",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Devoti Chiara",
+   "Santangelo Marco",
+   "Caldarice Ombretta"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01UTWPW&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
   ],
   "dedicated":0
  },
@@ -842,9 +1200,32 @@
    "Other"
   ],
   "themes":[
-   "life"
+   "life",
+   "pollution"
   ],
   "dedicated":0
+ },
+ {
+  "id":"01VNZPX",
+  "name":"Storia ambientale dell'architettura B",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pace Sergio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VNZPX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
  },
  {
   "id":"05BIKMO",
@@ -868,6 +1249,28 @@
    "pollution",
    "resources"
   ],
+  "dedicated":1
+ },
+ {
+  "id":"01NGHMZ",
+  "name":"Chimica, fisica e ingegneria delle superfici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cicero Giancarlo"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01NGHMZ&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
   "dedicated":0
  },
  {
@@ -889,6 +1292,51 @@
   ],
   "themes":[
    "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01VOTPQ",
+  "name":"Architettura e spazio urbano",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Armando Alessandro",
+   "Di Campli Antonio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VOTPQ&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01NTMQA",
+  "name":"Tesi professionalizzante",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01NTMQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
   ],
   "dedicated":0
  },
@@ -965,6 +1413,51 @@
   "dedicated":1
  },
  {
+  "id":"04KBHNC",
+  "name":"Impianti idroelettrici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vezza Paolo"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=04KBHNC&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02OCTMW",
+  "name":"Fondamenti di sviluppo dei processi chimici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Barresi Antonello"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02OCTMW&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"02NKFNM",
   "name":"Comunicazione grafica e fabbricazione meccanica",
   "year":"2023-2024",
@@ -983,6 +1476,32 @@
   ],
   "themes":[
    "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"03NBZLH",
+  "name":"Design per l'industrializzazione",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Franco Walter",
+   "Minetola Paolo",
+   "Salmi Alessandro",
+   "Germak Claudio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03NBZLH&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
   ],
   "dedicated":0
  },
@@ -1029,6 +1548,74 @@
   ],
   "themes":[
    "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01TWEND",
+  "name":"Laboratorio di impianti energetici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Papurello Davide"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01TWEND&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"03QLRPQ",
+  "name":"Architecture and structural forms",
+  "year":"2023-2024",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Raffaele Lorenzo",
+   "Berta Mauro"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03QLRPQ&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01UTZPW",
+  "name":"Geografia e sociologia urbane",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Santangelo Marco"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01UTZPW&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
   ],
   "dedicated":0
  },
@@ -1170,6 +1757,29 @@
   "dedicated":0
  },
  {
+  "id":"01VLKLH",
+  "name":"Materiali e loro tecnologie applicati al design",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Manfredi Diego Giovanni",
+   "Montanaro Laura"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VLKLH&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"01VOQPQ",
   "name":"Low impact technology",
   "year":"2023-2024",
@@ -1211,6 +1821,28 @@
   "themes":[
    "building",
    "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"08BHXNF",
+  "name":"Ingegneria degli acquiferi",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sethi Rajandrea"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=08BHXNF&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
   ],
   "dedicated":0
  },
@@ -1278,6 +1910,96 @@
   "themes":[
    "energy",
    "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01VMPTE",
+  "name":"Progetto di riuso del costruito",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Docente Da Nominare",
+   "Bosia Daniela",
+   "Corrado Mauro"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VMPTE&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01QKLPG",
+  "name":"Supply Chain Management",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rafele Carlo"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01QKLPG&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"03BHRMC",
+  "name":"Infrastrutture idrauliche",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ganora Daniele"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03BHRMC&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"16BNMLX",
+  "name":"Macchine elettriche",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tenconi Alberto"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=16BNMLX&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
   ],
   "dedicated":0
  },
@@ -1373,6 +2095,52 @@
   "dedicated":1
  },
  {
+  "id":"66CWHNC",
+  "name":"Tirocinio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Repetto Maurizio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=66CWHNC&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01VOMPQ",
+  "name":"Architettura ambiente e spazio costruito",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maspoli Rossella",
+   "Gregory Paola"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VOMPQ&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"04LONLN",
   "name":"Electrical machines",
   "year":"2023-2024",
@@ -1391,6 +2159,31 @@
   ],
   "themes":[
    "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01RUUQA",
+  "name":"Pianificare la citt\u00e0 (Atelier)",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Docente Da Nominare",
+   "Dell'Anna Federico",
+   "Giaimo Carolina"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01RUUQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
   ],
   "dedicated":0
  },
@@ -1442,6 +2235,72 @@
    "energy"
   ],
   "dedicated":1
+ },
+ {
+  "id":"01MODOD",
+  "name":"Fisica nucleare con applicazioni biomediche",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lavagno Andrea"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01MODOD&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01UULPW",
+  "name":"Temi e orientamenti contemporanei della pianificazione e dell'urbanistica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Servillo Loris Antonio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01UULPW&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01VKMMX",
+  "name":"Degrado dei materiali e metodi di prevenzione",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maizza Giovanni"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VKMMX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
  },
  {
   "id":"01UQNNC",
@@ -1507,6 +2366,50 @@
   "themes":[
    "climate",
    "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"06AULMB",
+  "name":"Elettrotecnica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ragusa Carlo Stefano"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=06AULMB&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"20AXPLN",
+  "name":"Fisica II",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Iotti Rita Claudia"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=20AXPLN&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
   ],
   "dedicated":0
  },
@@ -1583,6 +2486,28 @@
    "pollution",
    "prod&cons",
    "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"02JGXUS",
+  "name":"Botanica ambientale e applicata",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Isocrono Deborah"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02JGXUS&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
   ],
   "dedicated":1
  },
@@ -1686,9 +2611,10 @@
    "energy",
    "life",
    "pollution",
-   "resources"
+   "resources",
+   "transport"
   ],
-  "dedicated":0
+  "dedicated":1
  },
  {
   "id":"01VOFPX",
@@ -1743,6 +2669,50 @@
   "dedicated":1
  },
  {
+  "id":"02QZSND",
+  "name":"Applicazioni energetiche dei materiali",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fasano Matteo"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02QZSND&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01NTCQA",
+  "name":"Profili normativi e istituzionali nella pianificazione",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01NTCQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"01RUTQA",
   "name":"Pianificare il territorio e il paesaggio (Atelier)",
   "year":"2023-2024",
@@ -1761,6 +2731,7 @@
   ],
   "themes":[
    "building",
+   "food",
    "life"
   ],
   "dedicated":0
@@ -1854,6 +2825,31 @@
    "pollution",
    "prod&cons"
   ],
+  "dedicated":1
+ },
+ {
+  "id":"01VNKPX",
+  "name":"Architettura, societ\u00e0 e territorio B",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Regis Daniele",
+   "Ciaffi Daniela",
+   "Corrado Federica"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VNKPX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
   "dedicated":0
  },
  {
@@ -1923,6 +2919,57 @@
   "dedicated":0
  },
  {
+  "id":"01VMNPX",
+  "name":"Transizione energetica e architettura Low Carbon A",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mazzotta Alessandro",
+   "Fabrizio Enrico"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VMNPX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"03NBYLH",
+  "name":"Design dell'esplorazione",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Lerma Beatrice",
+   "Malucelli Giulio",
+   "Montagna Francesca"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03NBYLH&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"01VIETD",
   "name":"Transport innovation for a sustainable, inclusive and smart mobility",
   "year":"2023-2024",
@@ -1943,6 +2990,51 @@
    "transport"
   ],
   "dedicated":1
+ },
+ {
+  "id":"12ALPNE",
+  "name":"Costruzione di macchine",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Soma' Aurelio",
+   "Delprete Cristiana"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=12ALPNE&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01VJLMZ",
+  "name":"Strategie di sviluppo dei materiali",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ugues Daniele"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VJLMZ&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
  },
  {
   "id":"05ENCPI",
@@ -1988,6 +3080,30 @@
    "energy"
   ],
   "dedicated":0
+ },
+ {
+  "id":"01TWCND",
+  "name":"Progettazione energetico-ambientale dell'edificio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Perino Marco"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01TWCND&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy",
+   "pollution"
+  ],
+  "dedicated":1
  },
  {
   "id":"01GZEUV",
@@ -2055,6 +3171,7 @@
    "Other"
   ],
   "themes":[
+   "building",
    "carbon",
    "economy",
    "energy",
@@ -2081,6 +3198,7 @@
    "Other"
   ],
   "themes":[
+   "building",
    "energy"
   ],
   "dedicated":0
@@ -2096,6 +3214,96 @@
 
   ],
   "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01DRWTR&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02BGIMZ",
+  "name":"Impianti metallurgici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ugues Daniele"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02BGIMZ&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"08BEKMO",
+  "name":"Idraulica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ridolfi Luca"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=08BEKMO&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01UXVMH",
+  "name":"Scienza e tecnologia dei materiali per l'edilizia",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pavese Matteo"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01UXVMH&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02NFEMB",
+  "name":"Impianti per l'industria chimica e alimentare",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fino Debora"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02NFEMB&p_a_acc=2024",
   "cycles":[
    "bac"
   ],
@@ -2228,6 +3436,28 @@
   "dedicated":1
  },
  {
+  "id":"01PGEQA",
+  "name":"Tesi di ricerca",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01PGEQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"01UUVNB",
   "name":"Energy performance design and indoor environmental quality",
   "year":"2023-2024",
@@ -2339,6 +3569,28 @@
    "building"
   ],
   "dedicated":0
+ },
+ {
+  "id":"01TWIND",
+  "name":"Gestione energetica e automazione negli edifici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Capozzoli Alfonso"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01TWIND&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":1
  },
  {
   "id":"03QLYPQ",
@@ -2501,7 +3753,74 @@
   "themes":[
    "building",
    "energy",
+   "life",
    "prod&cons"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01UQRLX",
+  "name":"Fondamenti di Impianti elettrici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Russo Angela"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01UQRLX&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01HGMNF",
+  "name":"Climatologia e idrologia\/Idraulica ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01HGMNF&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01VOWPQ",
+  "name":"Diritto amministrativo per il progetto architettonico",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Molaschi Viviana"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VOWPQ&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
   ],
   "dedicated":0
  },
@@ -2598,6 +3917,28 @@
   "dedicated":1
  },
  {
+  "id":"01VLIMC",
+  "name":"Geologia applicata\/Topografia",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vagnon Federico"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VLIMC&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"02MXBOQ",
   "name":"Passive Optical Components",
   "year":"2023-2024",
@@ -2618,6 +3959,31 @@
    "pollution"
   ],
   "dedicated":0
+ },
+ {
+  "id":"01UUHPW",
+  "name":"Pianificazione energetica dei sistemi insediativi",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mutani Guglielmina"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01UUHPW&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy",
+   "pollution",
+   "prod&cons"
+  ],
+  "dedicated":1
  },
  {
   "id":"01TVHND",
@@ -2641,6 +4007,28 @@
    "energy"
   ],
   "dedicated":1
+ },
+ {
+  "id":"03AFINC",
+  "name":"Azionamenti elettrici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pastorelli Michele"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03AFINC&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
  },
  {
   "id":"01NIYMO",
@@ -2737,6 +4125,96 @@
   "dedicated":0
  },
  {
+  "id":"13AOOMO",
+  "name":"Disegno",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bocconcino Maurizio Marco"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=13AOOMO&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01VLBMX",
+  "name":"Metodi e tecnologie per la manutenzione delle infrastrutture viarie",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Baglieri Orazio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VLBMX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01VJHNE",
+  "name":"Progettazione meccanica e trazione elettrica di veicoli su rotaia",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bosso Nicola"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VJHNE&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01VNVPX",
+  "name":"Restauro e conservazione integrata B",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Matta Emiliano",
+   "Benente Michela",
+   "Giulio Tonolo Fabio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VNVPX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"01DRUTR",
   "name":"Sustainability and Circular Economy",
   "year":"2023-2024",
@@ -2763,6 +4241,29 @@
   "dedicated":1
  },
  {
+  "id":"01TYHMK",
+  "name":"Tecnologie per lo sviluppo sostenibile",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Franco Walter"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01TYHMK&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"02NZENL",
   "name":"Energetica e Ecologia",
   "year":"2023-2024",
@@ -2781,6 +4282,7 @@
    "Other"
   ],
   "themes":[
+   "building",
    "carbon",
    "economy",
    "energy",
@@ -2812,6 +4314,28 @@
    "resources"
   ],
   "dedicated":1
+ },
+ {
+  "id":"02CWHQA",
+  "name":"Tirocinio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02CWHQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
  },
  {
   "id":"01HEWUT",
@@ -2885,6 +4409,56 @@
   "dedicated":0
  },
  {
+  "id":"01UUMND",
+  "name":"Valutazione di Impatto Ambientale e LCA",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Carpignano Andrea"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01UUMND&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01VNCPX",
+  "name":"Transizione energetica e architettura Low Carbon B",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Capozzoli Alfonso",
+   "Giordano Roberto"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VNCPX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "climate",
+   "energy",
+   "pollution",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"06RWNMW",
   "name":"Industrial chemistry and process simulation",
   "year":"2023-2024",
@@ -2910,6 +4484,34 @@
   "dedicated":0
  },
  {
+  "id":"01TZPMW",
+  "name":"Sostenibilit\u00e0 nell'industria chimica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pirone Raffaele"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01TZPMW&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "energy",
+   "life",
+   "pollution",
+   "prod&cons",
+   "resources",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"01UCLNF",
   "name":"Groundwater engineering",
   "year":"2023-2024",
@@ -2927,6 +4529,7 @@
    "Other"
   ],
   "themes":[
+   "pollution",
    "resources"
   ],
   "dedicated":0
@@ -2981,6 +4584,28 @@
   "dedicated":1
  },
  {
+  "id":"08BEKMC",
+  "name":"Idraulica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Revelli Roberto"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=08BEKMC&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"01TWHND",
   "name":"Progettazione di impianti termotecnici",
   "year":"2023-2024",
@@ -3001,6 +4626,31 @@
    "building",
    "energy",
    "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"04CIIPI",
+  "name":"Sistemi elettrici industriali",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Russo Angela",
+   "Spertino Filippo",
+   "Mazza Andrea"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=04CIIPI&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
   ],
   "dedicated":0
  },
@@ -3029,6 +4679,31 @@
    "life"
   ],
   "dedicated":0
+ },
+ {
+  "id":"03AXZPM",
+  "name":"Fisica tecnica ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Astolfi Arianna",
+   "Serra Valentina",
+   "Becchio Cristina"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03AXZPM&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":1
  },
  {
   "id":"01VPAPQ",
@@ -3098,6 +4773,29 @@
    "energy"
   ],
   "dedicated":1
+ },
+ {
+  "id":"01UUKPW",
+  "name":"Trasporti e mobilit\u00e0",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Docente Da Nominare"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01UUKPW&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":0
  },
  {
   "id":"01DVPNW",
@@ -3191,9 +4889,81 @@
    "climate",
    "energy",
    "prod&cons",
+   "resources",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01USXMO",
+  "name":"Metodi per l'ingegneria ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Socco Laura"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01USXMO&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "life",
+   "pollution",
    "resources"
   ],
   "dedicated":1
+ },
+ {
+  "id":"04BWIQA",
+  "name":"Pianificazione dei trasporti",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=04BWIQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01DTYQA",
+  "name":"Idrologia urbana e territoriale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01DTYQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate"
+  ],
+  "dedicated":0
  },
  {
   "id":"01UUIPW",
@@ -3232,6 +5002,54 @@
   "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01OAIQD&p_a_acc=2024",
   "cycles":[
    "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01HFFUS",
+  "name":"Progettare la rigenerazione ambientale urbana (Atelier)",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Beccaro Gabriele Loris",
+   "Bocco Andrea"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01HFFUS&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "food",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"03AOFNM",
+  "name":"Diritto dell'impresa",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rivaro Rossella"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03AOFNM&p_a_acc=2024",
+  "cycles":[
+   "bac"
   ],
   "fields":[
    "Other"
@@ -3315,6 +5133,34 @@
   "dedicated":1
  },
  {
+  "id":"01VOKPX",
+  "name":"Materiali per l'Architettura, Sostenibilit\u00e0 Ambientale e Innovazione B",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Palmero Paola"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VOKPX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "energy",
+   "life",
+   "pollution",
+   "resources",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"01DRSTR",
   "name":"Environmental Engineering",
   "year":"2023-2024",
@@ -3336,6 +5182,95 @@
    "life",
    "pollution",
    "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01VPDPQ",
+  "name":"Architettura e restauro",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Palma Riccardo",
+   "Occelli Chiara Lucia Maria"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VPDPQ&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"34CWHPW",
+  "name":"Tirocinio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=34CWHPW&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"03AOFQR",
+  "name":"Diritto dell'impresa",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rivaro Rossella"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03AOFQR&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01GZWQA",
+  "name":"Pianificare per l'adattamento e la transizione energetica dei territori",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01GZWQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
   ],
   "dedicated":1
  },
@@ -3383,6 +5318,74 @@
    "life"
   ],
   "dedicated":0
+ },
+ {
+  "id":"04CGYND",
+  "name":"Sicurezza e analisi di rischio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Carpignano Andrea"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=04CGYND&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01HFIUS",
+  "name":"Restauro e gestione sostenibile di parchi e giardini (Atelier)",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01HFIUS&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01RUOQA",
+  "name":"Sostenibilit\u00e0 energetica ed ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01RUOQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
  },
  {
   "id":"01SSCMW",
@@ -3481,6 +5484,33 @@
   "dedicated":1
  },
  {
+  "id":"02NIWMO",
+  "name":"Chimica ambientale\/Ecologia applicata all'ingegneria",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fiore Silvia",
+   "Comino Elena"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02NIWMO&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy",
+   "food",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
   "id":"01RKVNF",
   "name":"Applied geomechanics",
   "year":"2023-2024",
@@ -3499,6 +5529,30 @@
   ],
   "themes":[
    "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01GZRUS",
+  "name":"Progettare con le Nature-Based Solutions (Atelier)",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01GZRUS&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
   ],
   "dedicated":0
  },
@@ -3523,6 +5577,30 @@
    "pollution"
   ],
   "dedicated":0
+ },
+ {
+  "id":"01RKSNF",
+  "name":"Valutazione del danno ambientale e compatibilit\u00e0",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Panepinto Deborah"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01RKSNF&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
  },
  {
   "id":"01DVHNW",
@@ -3570,6 +5648,32 @@
   "dedicated":0
  },
  {
+  "id":"01VNJPX",
+  "name":"Architettura, societ\u00e0 e territorio A",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ciaffi Daniela",
+   "Voghera Angioletta",
+   "Ingaramo Roberta"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VNJPX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"03MCHQD",
   "name":"Machine design",
   "year":"2023-2024",
@@ -3610,6 +5714,7 @@
    "Other"
   ],
   "themes":[
+   "building",
    "carbon",
    "economy",
    "energy",
@@ -3715,6 +5820,31 @@
   "dedicated":0
  },
  {
+  "id":"01MZALZ",
+  "name":"Scienza e tecnologia dei materiali\/Metallurgia",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Manfredi Diego Giovanni",
+   "Lombardi Mariangela",
+   "Scavino Giorgio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01MZALZ&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"01RXBMZ",
   "name":"Degradazione e riciclo dei materiali polimerici",
   "year":"2023-2024",
@@ -3734,6 +5864,28 @@
   "themes":[
    "prod&cons",
    "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"03EOONC",
+  "name":"Macchine elettriche II",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cavagnino Andrea"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03EOONC&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
   ],
   "dedicated":0
  },
@@ -3760,6 +5912,54 @@
    "pollution",
    "resources"
   ],
+  "dedicated":1
+ },
+ {
+  "id":"01VNRPX",
+  "name":"Progettazione ecocompatibile dell'architettura B",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Thiebat Francesca",
+   "Serra Valentina",
+   "Dini Roberto"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VNRPX&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01USWMC",
+  "name":"Laboratorio di ingegneria civile",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Baglieri Orazio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01USWMC&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "resources"
+  ],
   "dedicated":0
  },
  {
@@ -3775,6 +5975,31 @@
   "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=02SQLQD&p_a_acc=2024",
   "cycles":[
    "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"03MYVLZ",
+  "name":"Fondamenti di Elettrotecnica ed Elettronica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Reyneri Leonardo",
+   "Lombardi Guido",
+   "Fiori Franco",
+   "Ragusa Carlo Stefano"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=03MYVLZ&p_a_acc=2024",
+  "cycles":[
+   "bac"
   ],
   "fields":[
    "Other"
@@ -4022,6 +6247,7 @@
    "Other"
   ],
   "themes":[
+   "building",
    "energy"
   ],
   "dedicated":1
@@ -4073,6 +6299,34 @@
   "dedicated":0
  },
  {
+  "id":"01JWDMN",
+  "name":"Elettrotecnica\/Macchine elettriche",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Giaccone Luca",
+   "Guglielmi Paolo",
+   "Vaschetto Silvio",
+   "Canova Aldo",
+   "Griva Giovanni Battista",
+   "Freschi Fabio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01JWDMN&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
   "id":"01QGKMZ",
   "name":"Sustainable Manufacturing",
   "year":"2023-2024",
@@ -4092,6 +6346,76 @@
   "themes":[
    "prod&cons",
    "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01BDGPM",
+  "name":"Gestione del processo edilizio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maspoli Rossella"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01BDGPM&p_a_acc=2024",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01VOZPQ",
+  "name":"Progetto energetico del costruito",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fabrizio Enrico"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01VOZPQ&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01HFAUS",
+  "name":"Progettazione sostenibile del paesaggio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Docente Da Nominare",
+   "Salizzoni Emma Paola Germana"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01HFAUS&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
   ],
   "dedicated":1
  },
@@ -4116,6 +6440,28 @@
    "energy",
    "life",
    "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"34CWHNC",
+  "name":"Tirocinio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Repetto Maurizio"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=34CWHNC&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
   ],
   "dedicated":0
  },
@@ -4154,6 +6500,28 @@
    "Docente Da Nominare"
   ],
   "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=01RVXQA&p_a_acc=2024",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"04FDENG",
+  "name":"Meccanica dei mezzi porosi",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Musso Guido"
+  ],
+  "url":"https:\/\/didattica.polito.it\/pls\/portal30\/gap.pkg_guide.viewGap?p_cod_ins=04FDENG&p_a_acc=2024",
   "cycles":[
    "master"
   ],

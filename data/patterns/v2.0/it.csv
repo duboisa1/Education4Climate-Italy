@@ -1,209 +1,212 @@
-approcci? bioclimatico
-agglomerati? durabili
-architectur[^ ]+ bioclimatiche
-architetture? durabili
-concezioni? bioclimatiche
-concezioni? energ[^ ]+ (?:del|dell[ae])'edificio
-costruzioni? durabili
-costruzioni? (?:a basso consumo energetico|passive)
-eco[ -]?costruzione
-espansioni? urbane
-permessi (?:d')?ambiente
-città? durabili
-"[urbanizzazione, (?:ambiente|ecosistema)]"
-"[urbanizzazione, durabili]"
-"[risparmio energetico, edificio]"
-"[risparmio energetico, industria]"
-"[performance energetiche, edificio]"
-"[performance energetiche, architettura]"
-a basse emissioni di carbonio
-bilanci? di carbonio
-catture? (?:del|di)?(?:co2|diossido di carbonio)
-conversioni? (?:del|di)?(?:co2|diossido di carbonio)
-cicli? del carbonio
-decarbonizzazione
-emissioni? (?:del|di)?(?:co2|diossido di carbonio)
-impronte? carbonio
-sequestrazione? (?:del|di)?(?:co2|diossido di carbonio)
-stoccaggio(?: del|di)?(?:co2|diossido di carbonio)
-valorizzazione? (?:del|di)?(?:co2|diossido di carbonio)
-(?:^|[^a-z])cop ?[0-9]+
-accordi? di parigi(?:(?: sul| per) il clima)?
-adattamenti? climatici
-cambiamenti? climatici
-climatologi
-climatoscettic(?:i|he)
-crisi? climatica
-effetti? serra
-enjeux? climatici
-glaciologi
-impatto? climatico
-instabilità? climatiche
-giustizie? climatiche
-migrazioni? climatiche
-modellistica climatica
-politiche? climatiche
-progettazione? climatica
-(?:questioni?|problemi?) climatiche
-riscaldamento globale
-rifugiati? climatici
-strategie? climatiche
-transizione? energetica
-emergenze? climatiche
-riscaldamento globale
-biogas
-energia solare fotovoltaica
-energia elettrica da fonti rinnovabili
-energia alternativa
-energia eolica
-energia fossile
-energia rinnovabile
-energia verde
-idroelettrico
-microrete
-pannelli fotovoltaici
-pannelli solari termici
-solare a concentrazione
-transizione? energetica
-"[biomassa, produzione(?:i)?(?: d')?(?:energia|elettricità)]"
-"[energia, durabili]"
-"[nucleare, produzione(?:i)?(?: d')?(?:energia|elettricità)]"
-(?:riduzione|diminuzione) (?:del|della) consum(?:o|i) (?:di)? energia
-"[ecologia, ecologico]"
-acidificazione(?:i)? degli oceani
-antropocene
-antropologie? dell'ambiente
-benefici (?:dell'ambiente|dell'ecosistema)
-benessere (?:animale|degli animali)
-biodiversità
-biologie della conservazione
-biologia ambientale
-biologia marina
-biosfera
-bio[- ]?indicatore
-bio[- ]?fonte
-conservazione della natura
-considerazioni sull'ambiente
-degrado (?:del|dei) suolo
-ecofisiologia
-esigenze (?:dell'ambiente|dell'ecosistema)
-crisi di estinzione
-crisi (?:dell'ambiente|dell'ecosistema)
-cicli bio-geo-chimici
-sfide (?:dell'ambiente|dell'ecosistema)
-deforestazione
-deterioramento (?:dell'ambiente|dell'ecosistema)
-diritti (?:dell'ambiente|dell'ecosistema)
-sostenibilità (?:socio-?)?(?:ambientale|dell'ecosistema)
-ecoturismo
-educazione (?:all'?)?ambiente
-questioni (?:dell'ambiente|dell'ecosistema)
-in via di estinzione
-specie protette
-etica animale
-etica ambientale
-estinzione (?:della|delle) specie
-estinzione di massa
-ingegneria ambientale
-gestione (?:delle)? risorse naturali
-governance (?:dell'ambiente|dell'ecosistema)
-impatto (?:sull'ambiente|sull'ecosistema)
-limiti planetari
-lotta biologica
-gestione ambientale
-migrazione (?:ambientale|dell'ambiente)
-oceanografia
-performance ambientale
-perdite (?:dell'ambiente|dell'ecosistema)
-politiche (?:dell'ambiente|dell'ecosistema)
-problemi (?:dell'ambiente|dell'ecosistema)
-problematiche (?:dell'ambiente|dell'ecosistema)
-protezione della natura
-problemi (?:dell'ambiente|dell'ecosistema)
-protezione (?:dell'ambiente|dell'ecosistema)
-psicologia (?:dell'ambiente|dell'ecosistema)
-rapporti uomo-animale
-regolamentazione (?:dell'ambiente|dell'ecosistema)
-riserva naturale
-responsabilità (?:dell'ambiente|dell'ecosistema)
-ristoro forestale
-salute ambientale
-servizi (?:dell'ambiente|dell'ecosistema)
-"[[ ]+suoli?[ ]+, erosione]"
-"[turismo, sostenibilità]"
-(?:calotte ?(?:polare|glaciale)|permafrost|pergelisol)
-(?:ecosistemi|ambienti) (?:acquatici|marini|costieri|subtidali|corallini)
-(?:ecosistemi|ambienti) terrestri
-agricoltura biologica
-agricoltura sostenibile
-agroclimatologia
-agroecologia
-agroecosistema
-agroforestazione
-circuiti corti
-epulemento ittico
-pesca sostenibile
-permacultura
-sovrappesca
-"chimie (?:[^ ]+ ){0,4}verte"
-consom[^ ]+ durab
-consum[^ ]+ responsab
-eco[- ]?concezione
-eco[- ]?design
-eco[- ]?responsab
-eco[- ]?tech
-effets? rebond
-ingegnerie? (?:durevole|sostenibile)
-produ[^ ]+ durab
-tecnologie? verde
-tecnologie? (?:durevole|sostenibile)
-tecnologie? (?:dell' )?ambiente
-depurazione? delle acque
-bio[ -]?degradabile
-bio-?rimedio
-contaminazione? dei suoli|suoli? contaminat
-controlli? (?:della|delle) inquinamento|controlli? dei? inquinant
-rifiuti? (?:nucleare|radioattiv)
-ecotossicologia
-depurazione? delle acque
-dumping ambientale
-inquinament
-qualita? dell'aria
-tossicologia? ambientale
-analisi? (?:del|del) ciclo (?:di )?vita
-efficienza? (?:delle)? risorse
-esaurimenti? (?:delle)? risorse? naturali
-sfruttamento? durab
-falde? (?:freattiche|acquifere|sotterranee)
-picchi? petrolifer
-rarificazioni? (?:delle)? risorse naturali
-risorse? (?:non-)?rinnovabile
-terre? rare
-"[gestione? (?:dell'|delle )?acqua, ambiente]"
-"[riciclaggio, acciaio]"
-"[riciclaggio, rifiuti]"
-"[riciclaggio, materiale]"
-"[riciclaggio, metallo]"
-"[riciclaggio, plastica]"
-"[risorse? acqua, ambiente]"
-bio[ -]?carburante
-bio[ -]?diesel
-bio[ -]?m?etanolo
-carburanti? alternativ
-carburanti? sintetico
-micro[ -]?mobilita
-mobilita? (?:a )?idrogen
-mobilita? elettric
-mobilita? durab
-mobilita? condivisa
-trasporti? durab
-[[ ]biciclette?[ ]]
-(?:veicoli?|auto?) (?:a )?idrogen
-(?:veicoli?|auto?) ibrido
-(?:veicoli?|auto?) elettric
-economia? circolare
-economia? dei beni comuni
-ISO 1400
-micro-?finanza verde
-(?:teorie?|economie?) della ciambella
-collapsologie
+patterns,themes
+approccio? bioclimatic,['building']
+agglomerat(?:o|i) sostenibil,['building']
+architettur[^ ]+ bioclimatic,['building']
+architettur(?:a|e) sostenibil,['building']
+concezion(?:e|i) bioclimatic,['building']
+concezion(?:e|i) energ[^ ]+ (?:dell|degli) edifici,['building']
+costruzion(?:e|i) sostenibil,['building']
+costruzion(?:e|i) (?:a basso consumo energetico|passiv),['building']
+eco[ -]?costruzione,['building']
+espansion(?:e|i) urban,['building']
+permess(?:o|i) ambiental,['building']
+citta? sostenibil,['building']
+"[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]",['building']
+"[pianificazion(?:e|i) territorial, sostenib]",['building']
+"[risparmio? energetic, edificio]",['building']
+"[risparmio? energetic, industria]",['building']
+"[prestazion(?:e|i) energetic, edificio]",['building']
+"[prestazion(?:e|i) energetic, architettura]",['building']
+a bass(?:a|e) emission(?:e|i) di carbonio,['carbon']
+bilancio? del carbonio,['carbon']
+cattur(?:a|e) (?:del|di) (?:co2|diossido di carbonio),['carbon']
+conversion(?:e|i) (?:del|di) (?:co2|diossido di carbonio),['carbon']
+cicl(?:o|i) del carbonio,['carbon']
+decarbon,['carbon']
+emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio),['carbon']
+impront(?:a|e) (?:del|di) carbonio,['carbon']
+a emissioni zero|neutralita del carbonio,['carbon']
+sequestrazion(?:e|i) (?:del|di) (?:co2|diossido di carbonio),['carbon']
+stoccaggio(?: del|di) (?:carbonio|co2|diossido di carbonio),['carbon']
+valorizzazion(?:e|i) (?:del|di) (?:co2|diossido di carbonio),['carbon']
+(?:^|[^a-z])cop ?[0-9]+,['climate']
+accord(?:o|i) di parigi(?:(?: sul| per il) clima)?,['climate']
+adattament(?:o|i) climatic,['climate']
+cambiament(?:o|i) climatic,['climate']
+climatolog,['climate']
+(?:scettic(?:o|a|he|i) (?:del|sul|di) clima|scetticismo climatico),['climate']
+crisi? climatica,['climate']
+effetto serra,['climate']
+question(?:e|i) climatic,['climate']
+glaciolog,['climate']
+impatt(?:o|i) climatic,['climate']
+instabilita? climatic,['climate']
+giustizi(?:a|e) climatic,['climate']
+migra[^ ]+ clima,['climate']
+model[^ ]+ clima,['climate']
+politic(?:a|he) climatic,['climate']
+proiez[^ ]+ climay,['climate']
+problem(?:a|i) climat,['climate']
+riscaldament(?:o|i) (?:del )?clima,['climate']
+rifugiat(?:o|i) clima,['climate']
+strategi(?:a|e) clima,['climate']
+transizi[^ ]+ clima,['climate']
+emergenz(?:a|e) clima,['climate']
+riscaldament(?:o|i) globale,['climate']
+bio[ -]?gas,['energy']
+(?:energia elettrica|elettricita) fotovoltaica,['energy']
+elettri[^ ]+ verde,['energy']
+energ[^ ]+ alternati,['energy']
+energ[^ ]+ eolic,['energy']
+energ[^ ]+ fossile,['energy']
+energ[^ ]+ rinnovabil,['energy']
+energ[^ ]+ verd,['energy']
+idroelettric,['energy']
+micro[- ]?rete,['energy']
+pannelli fotovoltaici,['energy']
+pannelli solari termici,['energy']
+solar(?:e|i) a concentrazione,['energy']
+transizi[^ ]+ energ,['energy']
+"[biomassa, produzion(?:e|i) (?:di |dell )?(?:energia|elettricit)]",['energy']
+"[energi, sostenibil]",['energy']
+"[nucleare, produzione(?:e|i) (?:di |dell )?(?:energia|elettricit)]",['energy']
+(?:ridu[^ ]+|dimi[^ ]+) (?:del|dei|della|delle) consum[^ ]+ (?:di |dell |delle )?energ,['energy']
+"[[ ]ecolo[^ ]+]",['life']
+acidificazion(?:e|i) (?:dell |degli )ocean,['life']
+antropocen,['life']
+antropologi(?:a|e) (?:dello ambiente|ambientale),['life']
+(?:beneficio?|vantaggio?) (?:dello ambiente|ambientali|dello ecosistema),['life']
+benessere (?:animale|degli animali),['life']
+biodiversit,['life']
+biologi(?:a|e) della conservazione,['life']
+biologia ambientale,['life']
+biologia marina,['life']
+biosfera,['life']
+bio[- ]?indicator,['life']
+bio[- ]?fonte,['life']
+conservazion(?:e|i) della natura,['life']
+considerazion(?:e|i) (?:ambientali|di ordine ambientale),['life']
+degrado (?:del|dei) suol,['life']
+ecofisiologi,['life']
+requisit(?:o|i) (?:ambient|ecosist),['life']
+crisi di estinzione,['life']
+crisi (?:ambient|ecosist),['life']
+cicl(?:o|i) bio-?geo-?chimic,['life']
+sfid(?:a|e) (?:ambient|ecosist),['life']
+preoccupazion(?:e|i) (?:ambient|ecosist),['life']
+deforestazione,['life']
+deteriorament(?:o|i) (?:ambient|ecosist),['life']
+diritt(?:o|i) (?:ambient|ecosist),['life']
+sostenibilita (?:socio-?)(?:ambientale|ecosist),['life']
+(?:turismo sostenibile|ecoturismo),['life']
+educazion(?:e|i) ambiental,['life']
+rischio? (?:ambient|ecosist),['life']
+in via d estinzione,['life']
+specie protett,['life']
+etic(?:a|he) animal,['life']
+etic(?:a|he) ambiental,['life']
+estinzione (?:della|delle) specie,['life']
+estinzione di massa,['life']
+ingegneria ambientale,['life']
+gestione (?:delle|di) risorse naturali,['life']
+(?:governance|governo) (?:ambient|ecosist),['life']
+impatt(?:o|i) (?:ambient|ecosist),['life']
+limit(?:e|i) global,['life']
+lott(?:a|e) biologic,['life']
+ecogestion,['life']
+propa[^ ]+ ambient,['life']
+oceanograf,['life']
+prestazion(?:e|i) ambiental,['life']
+perdit(?:a|e) (?:ambient|ecosist),['life']
+politic(?:a|he) (?:ambient|ecosist),['life']
+problem(?:a|i) (?:ambient|ecosist),['life']
+problematic(?:a|he) (?:ambient|ecosist),['life']
+protezione della natura,['life']
+(?:protezione|tutela) (?:dell ambiente|ambientale),['life']
+psicologi(?:a|e) ambiental,['life']
+question(?:e|i) ambiental,['life']
+relazion(?:e|i) uomo-animale,['life']
+(?:norm(?:e|i)|regolament(?:e|i)) ambiental,['life']
+riserv(?:a|e) natural,['life']
+responsabilita (?:ambient|ecosist),['life']
+riassett(?:o|i) forestal,['life']
+(?:salute|sanita) ambiental,['life']
+servizio? (?:ambient|ecosist),['life']
+"[[ ]+suol(?:o|i)[ ]+, erosione]",['life']
+"[turismo, sostenibil]",['life']
+calott(?:a|e) (?:polar|glacial)|permafrost|pergelisol,['life']
+(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin),['life']
+(?:ecosistem(?:a|i)|ambient(?:e|i)) terrestr,['life']
+agricoltura biologica,['food']
+agricoltura sostenibil,['food']
+agro-?climat,['food']
+agro-?ecolo,['food']
+agro-?ecosist,['food']
+agro-?foresta,['food']
+circuit(?:o|i) brev,['food']
+locale (?:cibo|agricoltura),['food']
+(?:esauriment(?:o|i)|impoveriment(?:o|i)) (?:delle|degli) (?:risorse|stock) ittic,['food']
+pesca sostenibile,['food']
+permacultura,['food']
+sovrapesca,['food']
+"chimica (?:[^ ]+ ){0,4}verde",['prod&cons']
+consum[^ ]+ sostenibil,['prod&cons']
+progettazion(?:e|i) ecocompatibil,['prod&cons']
+eco[- ]?concezione,['prod&cons']
+eco[- ]?design,['prod&cons']
+eco[- ]?responsab,['prod&cons']
+eco[- ]?tec,['prod&cons']
+effet(?:o|i) rimbalzo,['prod&cons']
+ingegneri(?:a|e) (?:durevol|sostenibil),['prod&cons']
+produ[^ ]+ sostenibil,['prod&cons']
+tecnologi(?:a|e) verd,['prod&cons']
+tecnologi(?:a|e) sostenibil,['prod&cons']
+tecnologi(?:a|e) ambiental,['prod&cons']
+(?:depurazion(?:e|i)|risanament(?:o|i)) delle acque,['pollution']
+bio[ -]?degradabil,['pollution']
+bio-?rimedi,['pollution']
+contaminazion(?:e|i) (?:dei|del) suol|suol(?:o|i) contaminat,['pollution']
+controll(?:o|i) (?:dell inquinamento|degli inquinanti),['pollution']
+rifiut(:o|i) (?:nuclear|radioattiv),['pollution']
+ecotossicologi,['pollution']
+depurazion(?:e|i) delle acque,['pollution']
+inquina,['pollution']
+qualita dell aria,['pollution']
+tossicologi(?:a|e) ambiental,['pollution']
+(?:analisi|valutazion(?:e|i)) (?:del|dei|di) cicl(?:o|i) (?:di )?vita,['resources']
+effic[^ ]+ (?:delle |della )?risors,['resources']
+esauriment(?:o|i) (?:delle |della |di )?risors(?:a|e) natural,['resources']
+sfruttament(?:o|i) sostenibile,['resources']
+fald(?:a|e) (?:freatic|acquifer|sotterrane),['resources']
+picc(?:o|hi) (?:petrolifer|del petrolio),['resources']
+scarsita (?:delle |di |della )?risors(?:a|e) natural,['resources']
+terr(?:a|e) rar(?:a|e),['resources']
+"[gestion(?:e|i) (?:dell |delle )?acqu(?:a|e), ambiente]",['resources']
+"[ricicla, acciai]",['resources']
+"[ricicla, rifiut]",['resources']
+"[ricicla, material]",['resources']
+"[ricicla, metall]",['resources']
+"[ricicla, plastica]",['resources']
+"[risors(?:a|e) acqua, ambiente]",['resources']
+bio[ -]?carburante,['transport']
+bio[ -]?diesel,['transport']
+bio[ -]?metano,['transport']
+carburant(?:e|i) alternativ,['transport']
+carburant(?:e|i) sintetic,['transport']
+ciclabil,['transport']
+micro[ -]?mobilit,['transport']
+mobilita (?:a )?idrogen,['transport']
+mobilita elettric,['transport']
+mobilita sostenibil,['transport']
+mobilita condivis,['transport']
+trasport(?:o|i) sostenibil,['transport']
+[[ ]biciclett(?:a|e)[ ]],['transport']
+(?:veicol(?:o|i)|macchin(?:a|e)) (?:a )?idrogen,['transport']
+(?:veicol(?:o|i)|macchin(?:a|e)) ibrid,['transport']
+(?:veicol(?:o|i)|macchin(?:a|e)) elettric,['transport']
+economi(?:a|e) circolar,['economy']
+economi(?:a|e) dei beni comuni,['economy']
+iso 1400,['economy']
+micro[ -]?finanza verde,['economy']
+(?:teori(?:a|e)|economi(?:a|e)) della ciambella,['economy']
+collapsologia,['general']

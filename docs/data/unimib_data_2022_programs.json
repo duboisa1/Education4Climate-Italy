@@ -1,5 +1,214 @@
 [
  {
+  "id":"F8204B",
+  "name":"Scienze Statistiche ed Economiche",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3323",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Economico-Statistica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-2-F8204B040"
+  ],
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":1,
+  "nb_total_courses":30
+ },
+ {
+  "id":"F8501R",
+  "name":"Scienze Pedagogiche",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2546",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze della Formazione"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   4
+  ],
+  "matched_courses":[
+   "2223-1-F8501R001",
+   "2223-1-F8501R067",
+   "2223-2-F8501R011",
+   "2223-2-F8501R069"
+  ],
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":4,
+  "nb_total_courses":22
+ },
+ {
+  "id":"E1901R",
+  "name":"Scienze dell'Educazione",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2565",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze della Formazione"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-3-E1901R113"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":51
+ },
+ {
+  "id":"F9201P",
+  "name":"Teoria e Tecnologia della Comunicazione",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2640",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "resources"
+  ],
+  "themes_scores":[
+   1,
+   1
+  ],
+  "matched_courses":[
+   "2223-1-F9201P026",
+   "2223-1-F9201P220"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":28
+ },
+ {
+  "id":"H4601D",
+  "name":"Odontoiatria e Protesi Dentaria",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3157",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Medica, Chirurgica e dei Servizi Clinici"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-2-H4601D006"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":54
+ },
+ {
+  "id":"F5401Q",
+  "name":"Scienze e Tecnologie Chimiche",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2626",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "economy",
+   "energy",
+   "life",
+   "pollution",
+   "prod&cons",
+   "resources"
+  ],
+  "themes_scores":[
+   2,
+   2,
+   4,
+   5,
+   4,
+   2,
+   1
+  ],
+  "matched_courses":[
+   "2223-1-F5401Q023",
+   "2223-1-F5401Q065",
+   "2223-1-F5401Q068",
+   "2223-2-F5401Q047",
+   "2223-2-F5401Q048",
+   "2223-2-F5401Q055",
+   "2223-2-F5401Q070",
+   "2223-2-F5401Q072",
+   "2223-2-F5401Q074"
+  ],
+  "nb_dedicated_courses":5,
+  "nb_matched_courses":9,
+  "nb_total_courses":36
+ },
+ {
   "id":"F7401Q",
   "name":"Scienze e Tecnologie Geologiche",
   "cycle":"master",
@@ -19,21 +228,106 @@
   ],
   "themes":[
    "climate",
-   "life"
+   "life",
+   "pollution",
+   "resources"
   ],
   "themes_scores":[
    3,
-   1
+   7,
+   1,
+   2
   ],
   "matched_courses":[
    "2223-1-F7401Q046",
+   "2223-1-F7401Q065",
+   "2223-1-F7401Q082",
+   "2223-1-F7401Q099",
+   "2223-1-F7401Q100",
+   "2223-1-F7401Q103",
+   "2223-1-F7401Q108",
    "2223-1-F7401Q116",
-   "2223-2-F7401Q095",
-   "2223-2-F7401Q110"
+   "2223-2-F7401Q095"
   ],
   "nb_dedicated_courses":3,
-  "nb_matched_courses":4,
+  "nb_matched_courses":9,
   "nb_total_courses":51
+ },
+ {
+  "id":"F7501Q",
+  "name":"Scienze e Tecnologie per l'Ambiente e il Territorio",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2635",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "building",
+   "carbon",
+   "climate",
+   "economy",
+   "energy",
+   "food",
+   "life",
+   "pollution",
+   "prod&cons",
+   "resources",
+   "transport"
+  ],
+  "themes_scores":[
+   3,
+   2,
+   9,
+   4,
+   10,
+   1,
+   20,
+   13,
+   2,
+   3,
+   2
+  ],
+  "matched_courses":[
+   "2223-1-F7501Q037",
+   "2223-1-F7501Q040",
+   "2223-1-F7501Q076",
+   "2223-1-F7501Q077",
+   "2223-1-F7501Q080",
+   "2223-1-F7501Q081",
+   "2223-1-F7501Q082",
+   "2223-1-F7501Q089",
+   "2223-1-F7501Q091",
+   "2223-1-F7501Q101",
+   "2223-1-F7501Q102",
+   "2223-1-F7501Q103",
+   "2223-1-F7501Q104",
+   "2223-1-F7501Q105",
+   "2223-2-F7501Q004",
+   "2223-2-F7501Q046",
+   "2223-2-F7501Q049",
+   "2223-2-F7501Q053",
+   "2223-2-F7501Q056",
+   "2223-2-F7501Q072",
+   "2223-2-F7501Q074",
+   "2223-2-F7501Q084",
+   "2223-2-F7501Q085",
+   "2223-2-F7501Q086",
+   "2223-2-F7501Q087",
+   "2223-2-F7501Q090",
+   "2223-2-F7501Q100"
+  ],
+  "nb_dedicated_courses":18,
+  "nb_matched_courses":27,
+  "nb_total_courses":33
  },
  {
   "id":"F5302Q",
@@ -53,17 +347,163 @@
    "Other"
   ],
   "themes":[
+   "energy",
    "life"
   ],
   "themes_scores":[
+   1,
+   2
+  ],
+  "matched_courses":[
+   "2223-1-F5302Q014",
+   "2223-2-F5302Q006",
+   "2223-2-F5302Q021"
+  ],
+  "nb_dedicated_courses":2,
+  "nb_matched_courses":3,
+  "nb_total_courses":27
+ },
+ {
+  "id":"581",
+  "name":"Giurisprudenza",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2927",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Giuridica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   2,
+   2
+  ],
+  "matched_courses":[
+   "2223-4-A5810204",
+   "2223-5-A5810197",
+   "2223-5-A5810214"
+  ],
+  "nb_dedicated_courses":2,
+  "nb_matched_courses":3,
+  "nb_total_courses":113
+ },
+ {
+  "id":"G8501R",
+  "name":"Scienze della Formazione Primaria",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2571",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze della Formazione"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "themes_scores":[
+   1,
+   2
+  ],
+  "matched_courses":[
+   "2223-3-G8501R045",
+   "2223-4-G8501R036"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":39
+ },
+ {
+  "id":"FDS01Q",
+  "name":"Data Science",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=9172",
+  "languages":[
+   "en"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   2
+  ],
+  "matched_courses":[
+   "2223-1-FDS01Q004",
+   "2223-1-FDS01Q005"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":11
+ },
+ {
+  "id":"F1701Q",
+  "name":"Fisica",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2609",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "economy",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   1,
+   1,
+   3,
+   2,
    1
   ],
   "matched_courses":[
-   "2223-1-F5302Q014"
+   "2223-1-F1701Q094",
+   "2223-1-F1701Q138",
+   "2223-1-F1701Q142",
+   "2223-1-F1701Q143"
   ],
-  "nb_dedicated_courses":1,
-  "nb_matched_courses":1,
-  "nb_total_courses":27
+  "nb_dedicated_courses":3,
+  "nb_matched_courses":4,
+  "nb_total_courses":49
  },
  {
   "id":"F4901N",
@@ -84,17 +524,106 @@
    "Other"
   ],
   "themes":[
-   "life"
+   "carbon",
+   "energy",
+   "life",
+   "pollution"
   ],
   "themes_scores":[
+   1,
+   1,
+   8,
    1
   ],
   "matched_courses":[
+   "2223-1-F4901N098",
+   "2223-1-F4901N105",
+   "2223-1-F4901N117",
+   "2223-1-F4901N120",
+   "2223-2-F4901N084",
+   "2223-2-F4901N085",
+   "2223-2-F4901N094",
    "2223-2-F4901N110"
   ],
-  "nb_dedicated_courses":0,
-  "nb_matched_courses":1,
+  "nb_dedicated_courses":2,
+  "nb_matched_courses":8,
   "nb_total_courses":22
+ },
+ {
+  "id":"F0802Q",
+  "name":"Biotecnologie Industriali",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2606",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "economy",
+   "life",
+   "pollution",
+   "prod&cons"
+  ],
+  "themes_scores":[
+   1,
+   2,
+   1,
+   1,
+   1
+  ],
+  "matched_courses":[
+   "2223-1-F0802Q039",
+   "2223-1-F0802Q047",
+   "2223-1-F0802Q058",
+   "2223-1-F0802Q069",
+   "2223-1-F0802Q072"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":5,
+  "nb_total_courses":32
+ },
+ {
+  "id":"F9101Q",
+  "name":"Data Science",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=4385",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "energy"
+  ],
+  "themes_scores":[
+   1,
+   1
+  ],
+  "matched_courses":[
+   "2223-2-F9101Q024",
+   "2223-2-F9101Q055"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":16
  },
  {
   "id":"F0601Q",
@@ -115,17 +644,159 @@
    "Other"
   ],
   "themes":[
+   "climate",
+   "energy",
+   "food",
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   1,
+   1,
+   1,
+   12,
+   4
+  ],
+  "matched_courses":[
+   "2223-1-F0601Q052",
+   "2223-1-F0601Q068",
+   "2223-1-F0601Q082",
+   "2223-1-F0601Q099",
+   "2223-1-F0601Q100",
+   "2223-1-F0601Q103",
+   "2223-1-F0601Q105",
+   "2223-1-F0601Q106",
+   "2223-1-F0601Q107",
+   "2223-1-F0601Q108",
+   "2223-1-F0601Q109",
+   "2223-1-F0601Q110"
+  ],
+  "nb_dedicated_courses":5,
+  "nb_matched_courses":12,
+  "nb_total_courses":34
+ },
+ {
+  "id":"F1801Q",
+  "name":"Informatica",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2612",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-1-F1801Q103"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":36
+ },
+ {
+  "id":"F6302N",
+  "name":"Management e Design dei Servizi",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3245",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Economico-Statistica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-1-F6302N006"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":23
+ },
+ {
+  "id":"F7702M",
+  "name":"Marketing e Mercati Globali",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2779",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Economico-Statistica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
    "life"
   ],
   "themes_scores":[
    1
   ],
   "matched_courses":[
-   "2223-1-F0601Q068"
+   "2223-1-F7702M037"
   ],
   "nb_dedicated_courses":0,
   "nb_matched_courses":1,
-  "nb_total_courses":34
+  "nb_total_courses":25
+ },
+ {
+  "id":"F5602M",
+  "name":"International Economics - Economia Internazionale",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2765",
+  "languages":[
+   "en"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Economico-Statistica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-2-F5602M015"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":17
  },
  {
   "id":"F7502Q",
@@ -146,28 +817,69 @@
   ],
   "themes":[
    "climate",
-   "life"
+   "energy",
+   "life",
+   "pollution"
   ],
   "themes_scores":[
-   2,
-   10
+   5,
+   1,
+   15,
+   1
   ],
   "matched_courses":[
    "2223-1-F7502Q001",
    "2223-1-F7502Q004",
    "2223-1-F7502Q012",
    "2223-1-F7502Q013",
+   "2223-1-F7502Q014",
    "2223-1-F7502Q016",
-   "2223-1-F7502Q035",
+   "2223-1-F7502Q021",
    "2223-1-F7502Q037",
+   "2223-1-F7502Q038",
    "2223-1-F7502Q039",
+   "2223-2-F7502Q007",
    "2223-2-F7502Q018",
    "2223-2-F7502Q019",
-   "2223-2-F7502Q020"
+   "2223-2-F7502Q020",
+   "2223-2-F7502Q023",
+   "2223-2-F7502Q040",
+   "2223-2-F7502Q042"
   ],
-  "nb_dedicated_courses":5,
-  "nb_matched_courses":11,
+  "nb_dedicated_courses":4,
+  "nb_matched_courses":17,
   "nb_total_courses":25
+ },
+ {
+  "id":"F8203B",
+  "name":"Biostatistica",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2728",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Economico-Statistica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-2-F8203B042"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":21
  },
  {
   "id":"F7601M",
@@ -191,18 +903,73 @@
    "Other"
   ],
   "themes":[
-   "life"
+   "climate",
+   "economy",
+   "life",
+   "pollution"
   ],
   "themes_scores":[
-   2
+   1,
+   1,
+   7,
+   1
   ],
   "matched_courses":[
+   "2223-1-F7601M011",
+   "2223-1-F7601M050",
+   "2223-1-F7601M052",
    "2223-2-F7601M057",
+   "2223-2-F7601M058",
+   "2223-2-F7601M061",
    "2223-2-F7601M063"
   ],
-  "nb_dedicated_courses":0,
-  "nb_matched_courses":2,
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":7,
   "nb_total_courses":20
+ },
+ {
+  "id":"F7701M",
+  "name":"Scienze Economico-Aziendali",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2787",
+  "languages":[
+   "de",
+   "en",
+   "es",
+   "fr",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Economico-Statistica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "climate",
+   "economy",
+   "energy",
+   "life",
+   "resources"
+  ],
+  "themes_scores":[
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "matched_courses":[
+   "2223-1-F7701M127"
+  ],
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":1,
+  "nb_total_courses":30
  },
  {
   "id":"F8701N",
@@ -226,14 +993,431 @@
    "life"
   ],
   "themes_scores":[
+   2
+  ],
+  "matched_courses":[
+   "2223-1-F8701N074",
+   "2223-2-F8701N081"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":25
+ },
+ {
+  "id":"F5103P",
+  "name":"Psicologia dello Sviluppo e dei Processi Educativi",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3210",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Psicologica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   2
+  ],
+  "matched_courses":[
+   "2223-2-F5103P093",
+   "2223-2-F5103P102"
+  ],
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":2,
+  "nb_total_courses":23
+ },
+ {
+  "id":"F5106P",
+  "name":"Psicologia Sociale, Economica e delle Decisioni",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=4558",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Psicologica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
    1
   ],
   "matched_courses":[
-   "2223-1-F8701N074"
+   "2223-1-F5106P003"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":23
+ },
+ {
+  "id":"H4101D",
+  "name":"Medicina e Chirurgia",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3119",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Medica, Chirurgica e dei Servizi Clinici"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   1,
+   2
+  ],
+  "matched_courses":[
+   "2223-2-H4101D006",
+   "2223-4-H4101D263"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":153
+ },
+ {
+  "id":"F5701R",
+  "name":"Formazione e Sviluppo delle Risorse Umane",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2538",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze della Formazione"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   2
+  ],
+  "matched_courses":[
+   "2223-1-F5701R038",
+   "2223-2-F5701R039"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":21
+ },
+ {
+  "id":"E2001R",
+  "name":"Comunicazione Interculturale",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2551",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze della Formazione"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-3-E2001R065"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":30
+ },
+ {
+  "id":"E3201Q",
+  "name":"Scienze e Tecnologie per l'Ambiente",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2715",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "economy",
+   "energy",
+   "life",
+   "pollution",
+   "prod&cons",
+   "resources"
+  ],
+  "themes_scores":[
+   2,
+   1,
+   2,
+   11,
+   4,
+   1,
+   2
+  ],
+  "matched_courses":[
+   "2223-1-E3201Q008",
+   "2223-1-E3201Q067",
+   "2223-1-E3201Q069",
+   "2223-1-E3201Q088",
+   "2223-1-E3201Q110",
+   "2223-2-E3201Q073",
+   "2223-2-E3201Q076",
+   "2223-2-E3201Q090",
+   "2223-2-E3201Q108",
+   "2223-3-E3201Q016",
+   "2223-3-E3201Q072",
+   "2223-3-E3201Q079",
+   "2223-3-E3201Q112",
+   "2223-3-E3201Q113"
+  ],
+  "nb_dedicated_courses":3,
+  "nb_matched_courses":14,
+  "nb_total_courses":28
+ },
+ {
+  "id":"E4102B",
+  "name":"Statistica e Gestione delle Informazioni",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2912",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Economico-Statistica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   2
+  ],
+  "matched_courses":[
+   "2223-3-E4102B020",
+   "2223-3-E4102B061"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":27
+ },
+ {
+  "id":"F0101R",
+  "name":"Scienze Antropologiche ed Etnologiche",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2542",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze della Formazione"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-2-F0101R029"
   ],
   "nb_dedicated_courses":0,
   "nb_matched_courses":1,
   "nb_total_courses":25
+ },
+ {
+  "id":"E4001N",
+  "name":"Sociologia",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3307",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Sociologica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "economy",
+   "energy",
+   "life"
+  ],
+  "themes_scores":[
+   1,
+   1,
+   1,
+   6
+  ],
+  "matched_courses":[
+   "2223-1-E4001N075",
+   "2223-2-E4001N080",
+   "2223-3-E4001N089",
+   "2223-3-E4001N094",
+   "2223-3-E4001N102",
+   "2223-3-E4001N105"
+  ],
+  "nb_dedicated_courses":2,
+  "nb_matched_courses":6,
+  "nb_total_courses":41
+ },
+ {
+  "id":"E3301M",
+  "name":"Economia e Commercio",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2850",
+  "languages":[
+   "de",
+   "en",
+   "es",
+   "fr",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Economico-Statistica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "themes_scores":[
+   1,
+   2
+  ],
+  "matched_courses":[
+   "2223-1-E3301M191",
+   "2223-2-E3301M193",
+   "2223-3-E3301M201"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":3,
+  "nb_total_courses":45
+ },
+ {
+  "id":"F8802N",
+  "name":"Analisi dei Processi Sociali",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=4381",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Sociologica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-2-F8802N014"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":22
+ },
+ {
+  "id":"E3901N",
+  "name":"Servizio Sociale",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3300",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Sociologica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-3-E3901N060"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":40
  },
  {
   "id":"E1501N",
@@ -255,6 +1439,45 @@
   ],
   "themes":[
    "life",
+   "prod&cons"
+  ],
+  "themes_scores":[
+   8,
+   1
+  ],
+  "matched_courses":[
+   "2223-1-E1501N088",
+   "2223-1-E1501N092",
+   "2223-1-E1501N139",
+   "2223-2-E1501N130",
+   "2223-3-E1501N082",
+   "2223-3-E1501N104",
+   "2223-3-E1501N113",
+   "2223-3-E1501N114"
+  ],
+  "nb_dedicated_courses":2,
+  "nb_matched_courses":8,
+  "nb_total_courses":40
+ },
+ {
+  "id":"E2702Q",
+  "name":"Scienze e Tecnologie Chimiche",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2697",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
    "pollution"
   ],
   "themes_scores":[
@@ -262,10 +1485,383 @@
    1
   ],
   "matched_courses":[
-   "2223-1-E1501N088"
+   "2223-3-E2702Q043",
+   "2223-3-E2702Q110"
+  ],
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":2,
+  "nb_total_courses":23
+ },
+ {
+  "id":"E3401Q",
+  "name":"Scienze e Tecnologie Geologiche",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2707",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   1,
+   1,
+   5,
+   1
+  ],
+  "matched_courses":[
+   "2223-1-E3401Q040",
+   "2223-2-E3401Q006",
+   "2223-3-E3401Q046",
+   "2223-3-E3401Q053",
+   "2223-3-E3401Q057"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":5,
+  "nb_total_courses":21
+ },
+ {
+  "id":"E0201Q",
+  "name":"Biotecnologie",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2645",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy",
+   "energy",
+   "life",
+   "transport"
+  ],
+  "themes_scores":[
+   1,
+   1,
+   3,
+   1
+  ],
+  "matched_courses":[
+   "2223-2-E0201Q052",
+   "2223-2-E0201Q069",
+   "2223-3-E0201Q079"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":3,
+  "nb_total_courses":31
+ },
+ {
+  "id":"E1301Q",
+  "name":"Scienze Biologiche",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2689",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Scienze"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "carbon",
+   "energy",
+   "life",
+   "pollution",
+   "resources"
+  ],
+  "themes_scores":[
+   1,
+   1,
+   4,
+   2,
+   1
+  ],
+  "matched_courses":[
+   "2223-2-E1301Q082",
+   "2223-2-E1301Q087",
+   "2223-3-E1301Q059",
+   "2223-3-E1301Q060"
+  ],
+  "nb_dedicated_courses":2,
+  "nb_matched_courses":4,
+  "nb_total_courses":23
+ },
+ {
+  "id":"I0202D",
+  "name":"Terapia della Neuro e Psicomotricit\u00e0 dell'Et\u00e0 Evolutiva",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3100",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Medica, Chirurgica e dei Servizi Clinici"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-2-I0202D123"
   ],
   "nb_dedicated_courses":0,
   "nb_matched_courses":1,
-  "nb_total_courses":40
+  "nb_total_courses":37
+ },
+ {
+  "id":"FSG01A",
+  "name":"Diritto delle Organizzazioni Pubbliche e Private",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=6391",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Giuridica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   1,
+   1
+  ],
+  "matched_courses":[
+   "2223-2-FSG01A010"
+  ],
+  "nb_dedicated_courses":1,
+  "nb_matched_courses":1,
+  "nb_total_courses":17
+ },
+ {
+  "id":"I0303D",
+  "name":"Tecniche di Radiologia Medica, per Immagini e Radioterapia",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3079",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Medica, Chirurgica e dei Servizi Clinici"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   1,
+   1
+  ],
+  "matched_courses":[
+   "2223-1-I0303D005"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":28
+ },
+ {
+  "id":"E2401P",
+  "name":"Scienze e Tecniche Psicologiche",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3216",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Psicologica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "themes_scores":[
+   1,
+   1
+  ],
+  "matched_courses":[
+   "2223-1-E2401P010",
+   "2223-2-E2401P136"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":2,
+  "nb_total_courses":52
+ },
+ {
+  "id":"E2004P",
+  "name":"Scienze Psicosociali della Comunicazione",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3237",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Psicologica"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-1-E2004P005"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":34
+ },
+ {
+  "id":"I0301D",
+  "name":"Igiene Dentale",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2996",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Medica, Chirurgica e dei Servizi Clinici"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   1,
+   1
+  ],
+  "matched_courses":[
+   "2223-1-I0301D004"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":26
+ },
+ {
+  "id":"I0302D",
+  "name":"Tecniche di Laboratorio Biomedico",
+  "cycle":"bac",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3061",
+  "languages":[
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Medica, Chirurgica e dei Servizi Clinici"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "themes_scores":[
+   1,
+   1
+  ],
+  "matched_courses":[
+   "2223-1-I0302D004"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":32
+ },
+ {
+  "id":"F0901D",
+  "name":"Biotecnologie Mediche",
+  "cycle":"master",
+  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=2950",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "campuses":[
+   "Milan"
+  ],
+  "faculties":[
+   "Medica, Chirurgica e dei Servizi Clinici"
+  ],
+  "fields":[
+   "Other"
+  ],
+  "themes":[
+   "economy"
+  ],
+  "themes_scores":[
+   1
+  ],
+  "matched_courses":[
+   "2223-2-F0901D058"
+  ],
+  "nb_dedicated_courses":0,
+  "nb_matched_courses":1,
+  "nb_total_courses":17
  }
 ]

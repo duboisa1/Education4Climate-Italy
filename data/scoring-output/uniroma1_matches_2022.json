@@ -1,8 +1,311 @@
 {
+    "1041411: Marketing And Innovation Management": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "tti in base al loro impatto ambientale   autonomia di g"
+            ]
+        }
+    },
+    "10596237: Innovazione E Gestione Ambientale ": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "zione sostenibile ed ecologia industriale sulla b"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "ado di conoscere le problematiche ambientali nel loro comples"
+            ],
+            "eco[- ]?design": [
+                "rumenti di analisi  eco-design  life cycle assessm"
+            ],
+            "produ[^ ]+ sostenibil": [
+                "i e il rapporto tra produzione sostenibile ed ecologia indust"
+            ]
+        }
+    },
+    "10600091: Economia Delle Risorse E Dell'Ambiente": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "e e conseguenze del cambiamento climatico   2  stimolare gli",
+                "dello sviluppo e il cambiamento climatico   al termine del c",
+                " dello sviluppo  il cambiamento climatico e gli obiettivi e ",
+                "ambientali quali il cambiamento climatico e la sostenibilita"
+            ],
+            "politic(?:a|he) (?:ambient|ecosist)": [
+                "plementazione delle politiche ambientali  infine  sara ac",
+                " ai fenomeni e alle politiche ambientali prodotti da gove",
+                "e all analisi delle politiche ambientali  e di partecipar"
+            ],
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "roccio economico ai problemi ambientali  con particolare"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "governi  agenzie di protezione ambientale e organizzazioni in"
+            ],
+            "controll(?:o|i) (?:dell inquinamento|degli inquinanti)": [
+                " delle politiche di controllo dell inquinamento  inoltre  gli stude"
+            ],
+            "inquina": [
+                "e di controllo dell inquinamento  inoltre  gli "
+            ]
+        }
+    },
+    "1017140: Gestione Ambientale": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "iente  dei relativi impatti ambientali e del ruolo dell"
+            ],
+            "politic(?:a|he) (?:ambient|ecosist)": [
+                "i e del ruolo della politica ambientale in tema di svilu"
+            ]
+        }
+    },
+    "1022404: Energia, Materie Prime Ed Innovazione": {
+        "it": {
+            "[energi, sostenibil]": [
+                "energia  materie prime ed ",
+                " alla produzione di energia e alla produzione ",
+                "iche dello sviluppo sostenibile con particolare ri",
+                "zione &amp  consumo sostenibile  e  prevista una v"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "ie prime/produzione/tutela dell ambiente secondo le logiche "
+            ],
+            "consum[^ ]+ sostenibil": [
+                "la produzione &amp  consumo sostenibile  e  prevista una v"
+            ]
+        }
+    },
+    "10606766-d56: Politica E Management Della Sostenibilita' Ambientale - Gestire La Sostenibilita' Ambientale": {
+        "it": {
+            "inquina": [
+                " e consumo generano inquinamento e sfruttamento",
+                "o in cui si produce inquinamento  tramite consu"
+            ]
+        }
+    },
+    "10606766-050: Politica E Management Della Sostenibilita' Ambientale - Politiche Per La Sostenibilita'": {
+        "it": {
+            "inquina": [
+                " e consumo generano inquinamento e sfruttamento",
+                "o in cui si produce inquinamento  tramite consu"
+            ]
+        }
+    },
+    "10606757: Politiche E Management Per Una Finanza Sostenibile": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                " per fronteggiare i cambiamenti climatici e ambientali inser"
+            ]
+        }
+    },
     "10606367: Sustainable Transport Planning": {
+        "it": {
+            "ciclabil": [
+                "pl  city logistics  ciclabilita  piano spostamen"
+            ]
+        }
+    },
+    "1044015: Urban And Regional Policy": {
+        "it": {
+            "mobilita sostenibil": [
+                "are attenzione alla mobilita sostenibile sviluppare la capa"
+            ]
+        }
+    },
+    "1044042: Maritime Constructions": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "alutazioni del loro impatto ambientale      obiettivi s"
+            ],
+            "oceanograf": [
+                "che i fondamenti di oceanografia dinamica e di idr"
+            ]
+        }
+    },
+    "1022555: Fondamenti Di Scienze Ambientali": {
+        "it": {
+            "inquina": [
+                "a valutazione degli inquinanti e sulla dispersi"
+            ]
+        }
+    },
+    "1041619: Valutazione Del Rischio Ambientale": {
+        "it": {
+            "rischio? (?:ambient|ecosist)": [
+                "valutazione del rischio ambientale tale corso vuole"
+            ]
+        }
+    },
+    "1036091-6c4: Scienze Dell'Ambiente Di Vita E Di Lavoro Ed Ecosistemi - Botanica Ambientale Ed Applicata ": {
+        "it": {
+            "bio[- ]?indicator": [
+                " e al loro ruolo di bioindicatori della qualita ambi"
+            ]
+        }
+    },
+    "1036091-6fd: Scienze Dell'Ambiente Di Vita E Di Lavoro Ed Ecosistemi - Microbiologia E Microbiologia Clinica": {
+        "it": {
+            "bio[- ]?indicator": [
+                " e al loro ruolo di bioindicatori della qualita ambi"
+            ]
+        }
+    },
+    "1036091-31a: Scienze Dell'Ambiente Di Vita E Di Lavoro Ed Ecosistemi - Ecologia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "voro ed ecosistemi - ecologia - fornire allo stud"
+            ]
+        }
+    },
+    "1036543-f2f: Elementi Di Chimica Ed Ecologia - Chimica Inorganica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - chimica inorganic"
+            ]
+        }
+    },
+    "1036543-b87: Elementi Di Chimica Ed Ecologia - Ecologia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - ecologia obiettiv",
+                "himica ed ecologia - ecologia obiettivi in fase d"
+            ]
+        }
+    },
+    "1036543-dc3: Elementi Di Chimica Ed Ecologia - Botanica Ambientale Ed Applicata": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - botanica ambienta"
+            ]
+        }
+    },
+    "1036543-393: Elementi Di Chimica Ed Ecologia - Chimica Organica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - chimica organica "
+            ]
+        }
+    },
+    "1036543-cb9: Elementi Di Chimica Ed Ecologia - Chimica Inorganica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - chimica inorganic"
+            ]
+        }
+    },
+    "1036543-76b: Elementi Di Chimica Ed Ecologia - Ecologia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - ecologia obiettiv",
+                "himica ed ecologia - ecologia obiettivi in fase d"
+            ]
+        }
+    },
+    "1036543-8db: Elementi Di Chimica Ed Ecologia - Botanica Ambientale Ed Applicata": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - botanica ambienta"
+            ]
+        }
+    },
+    "1036543-902: Elementi Di Chimica Ed Ecologia - Chimica Organica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - chimica organica "
+            ]
+        }
+    },
+    "1036543-935: Elementi Di Chimica Ed Ecologia - Chimica Inorganica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - chimica inorganic",
+                "i metodi di indagine ecologica con particolare att"
+            ],
+            "inquina": [
+                "atiche relative all inquinamento ambientale  da"
+            ]
+        }
+    },
+    "1036543-bc9: Elementi Di Chimica Ed Ecologia - Ecologia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - ecologia conoscer",
+                "himica ed ecologia - ecologia conoscere il signif",
+                "i metodi di indagine ecologica con particolare att"
+            ],
+            "inquina": [
+                "atiche relative all inquinamento ambientale  da"
+            ]
+        }
+    },
+    "1036543-73e: Elementi Di Chimica Ed Ecologia - Botanica Ambientale Ed Applicata": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - botanica ambienta",
+                "i metodi di indagine ecologica con particolare att"
+            ],
+            "inquina": [
+                "atiche relative all inquinamento ambientale  da"
+            ]
+        }
+    },
+    "1036543-801: Elementi Di Chimica Ed Ecologia - Chimica Organica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ementi di chimica ed ecologia - chimica organica ",
+                "i metodi di indagine ecologica con particolare att"
+            ],
+            "inquina": [
+                "atiche relative all inquinamento ambientale  da"
+            ]
+        }
+    },
+    "1036579-028: Tecniche E Tecnologie Della Prevenzione - Sistemi Per L'Energia E L'Ambiente": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "rgia e dei relativi impatti ambientali"
+            ]
+        }
+    },
+    "1036579-da2: Tecniche E Tecnologie Della Prevenzione - Fisica Tecnica Industriale": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "rgia e dei relativi impatti ambientali"
+            ]
+        }
+    },
+    "1036579-36b: Tecniche E Tecnologie Della Prevenzione - Campi Elettromagnetici": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "rgia e dei relativi impatti ambientali"
+            ]
+        }
+    },
+    "1036579-f9b: Tecniche E Tecnologie Della Prevenzione - Fisica Tecnica Ambientale": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "rgia e dei relativi impatti ambientali"
+            ]
+        }
+    },
+    "1036579-92c: Tecniche E Tecnologie Della Prevenzione - Ingegneria Sanitaria Ambientale": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "rgia e dei relativi impatti ambientali"
+            ]
+        }
+    },
+    "1038611: Design Of Hybrid Hev And Electric Vehicles Ev": {
         "en": {
-            "sustainable transport": [
-                "sustainable transport planning il corso f"
+            "electric (?:vehicle|car)": [
+                "n of hybrid hev and electric vehicles ev this subject de"
+            ]
+        }
+    },
+    "1038478: Energy Storing And Recovering In Power Systems And Hybrid Electric Vehicles": {
+        "en": {
+            "electric (?:vehicle|car)": [
+                " systems and hybrid electric vehicles the use of differe"
             ]
         }
     },
@@ -22,135 +325,2131 @@
         }
     },
     "10589200: Materials Technology For Sustainable Construction With Applied Chemistry Elements": {
-        "en": {
-            "sustainable construction": [
-                "ials technology for sustainable construction with applied chemis"
+        "it": {
+            "inquina": [
+                "li e al rilascio di inquinanti da materiali in "
             ]
         }
     },
-    "10592816-86b: Building Design For Sustainable Architecture-Architectural Design - Building Design For Sustainable Architecture ": {
-        "en": {
-            "sustainable architecture": [
-                "building design for sustainable architecture-architectural desig",
-                "building design for sustainable architecture  il corso bd4sa mir"
+    "10589431: Environment And Health": {
+        "it": {
+            "rischio? (?:ambient|ecosist)": [
+                "ali per prevenire i rischi ambientali  alla fine del c"
+            ],
+            "gestione (?:delle|di) risorse naturali": [
+                "rivare da un errata gestione delle risorse naturali  * raccogliere e an"
+            ],
+            "(?:salute|sanita) ambiental": [
+                "are i rischi per la salute ambientale  * conoscere l org"
             ]
         }
     },
-    "10592816-1c2: Building Design For Sustainable Architecture-Architectural Design - Architectural Design": {
-        "en": {
-            "sustainable architecture": [
-                "building design for sustainable architecture-architectural desig"
+    "10589178: Principles Of Environmental Engineering": {
+        "it": {
+            "inquina": [
+                "atterizzazione dell inquinamento dei vari compa"
             ]
         }
     },
-    "10589502: Bioclimatic Building Design": {
-        "en": {
-            "[bioclimat[^ ]+, energ[^ ]+]": [
-                "bioclimatic building design il ",
-                "ntrali del progetto energetico dell'ambiente costr",
-                "l'ingegneria e dell'energetica  alle diverse scale",
-                "a di certificazione energetica  la progettazione e",
-                "iantistici  qualita energetiche e prestazioni bio-c",
-                "o delle performance energetiche/ambientali degli organismi edi"
+    "10589420: Engineering Geophysics": {
+        "it": {
+            "inquina": [
+                "co e idrogeologico  inquinamento  dissesto e fr"
+            ]
+        }
+    },
+    "1041541: Aerospace Materials": {
+        "it": {
+            "[ricicla, material]": [
+                "li ecocompatibili e riciclabili  per processi t",
+                "aerospace materials il corso ha come o",
+                "ovazione-tecnologie-materiali-prodotti-processi ",
+                "ogie innovative dei materiali  finalizzate alle ",
+                "ezione e scelta dei materiali che favoriscano ap",
+                "erimento all uso di materiali ecocompatibili e r",
+                "ici basati anche su materiali di sostituzione pr",
+                "temi leggeri e multimateriale"
+            ],
+            "ciclabil": [
+                " ecocompatibili e riciclabili  per processi tecn"
+            ],
+            "economi(?:a|e) circolar": [
+                "turieri tipici dell economia circolare  con riferimento a"
+            ]
+        }
+    },
+    "1034927: Sociologia Dell'Ambiente E Del Territorio": {
+        "it": {
+            "question(?:e|i) ambiental": [
+                "tervento diretto su questioni ambientali e sullo sviluppo u"
+            ]
+        }
+    },
+    "10592438-b85: Gestione Della Qualita' E Della Sostenibilita' Dei Sistemi Agroalimentari - Microbiologia E Microbiologia Clinica": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "lte ad analizzare l impatto ambientale delle produzioni"
+            ]
+        }
+    },
+    "10592438-b5e: Gestione Della Qualita' E Della Sostenibilita' Dei Sistemi Agroalimentari - Gestione Della Qualita' E Della Sostenibilita'": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "lte ad analizzare l impatto ambientale delle produzioni"
+            ]
+        }
+    },
+    "10592438-1b0: Gestione Della Qualita' E Della Sostenibilita' Dei Sistemi Agroalimentari - Microbiologia Agraria": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "lte ad analizzare l impatto ambientale delle produzioni"
+            ]
+        }
+    },
+    "10592438-14f: Gestione Della Qualita' E Della Sostenibilita' Dei Sistemi Agroalimentari - Chimica E Biotecnologie Della Fermentazione": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "lte ad analizzare l impatto ambientale delle produzioni"
+            ]
+        }
+    },
+    "10592471-87d: Biodiversita' Alimentari Ed Ecologia - Qualita' Della Produzione Di Alimenti Di Origine Vegetale": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "a di adattamento ai cambiamenti climatici"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "rsita  alimentari ed ecologia - qualita  della pr"
+            ],
+            "biodiversit": [
+                "biodiversita  alimentari ed eco",
+                "tale  i concetti di biodiversita applicati ai setto",
+                "conservazione della biodiversita e dei processi all"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "della fornitura dei servizi ecosistemici analizzando in"
+            ]
+        }
+    },
+    "10592471-1d6: Biodiversita' Alimentari Ed Ecologia - Qualita' Della Produzione Di Alimenti Di Origine Animale": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "a di adattamento ai cambiamenti climatici"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "rsita  alimentari ed ecologia - qualita  della pr"
+            ],
+            "biodiversit": [
+                "biodiversita  alimentari ed eco",
+                "tale  i concetti di biodiversita applicati ai setto",
+                "conservazione della biodiversita e dei processi all"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "della fornitura dei servizi ecosistemici analizzando in"
+            ]
+        }
+    },
+    "10592471-4a5: Biodiversita' Alimentari Ed Ecologia - Ecosistema E Biodiversita' Applicate Al Settore Agroalimentare": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "a di adattamento ai cambiamenti climatici"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "rsita  alimentari ed ecologia - ecosistema e biod"
+            ],
+            "biodiversit": [
+                "biodiversita  alimentari ed eco",
+                "ogia - ecosistema e biodiversita  applicate al sett",
+                "tale  i concetti di biodiversita applicati ai setto",
+                "conservazione della biodiversita e dei processi all"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "della fornitura dei servizi ecosistemici analizzando in"
+            ]
+        }
+    },
+    "AAF1934: Qualita' E Certificazione Dei Prodotti Alimentari": {
+        "it": {
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "ametri di qualita e tutela ambientale  quali quelli biolo"
+            ]
+        }
+    },
+    "1041721: Zoologia Generale": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                " chiave evolutiva ed ecologica  incluse le chiavi "
+            ]
+        }
+    },
+    "1041446-36a: Zoologia Sistematica E Anatomia Comparata - Anatomia Comparata": {
+        "it": {
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                " nel passaggio dall ambiente acquatico a quello terrestre"
+            ]
+        }
+    },
+    "1041446-fa7: Zoologia Sistematica E Anatomia Comparata - Zoologia Sistematica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "stiche funzionali ed ecologiche"
+            ]
+        }
+    },
+    "1041613: Botanica Sistematica": {
+        "it": {
+            "biodiversit": [
+                "cenza di base della biodiversita dei vegetali  cara"
+            ]
+        }
+    },
+    "1020296: Geochimica": {
+        "it": {
+            "inquina": [
+                "problemi legati all inquinamento antropico"
+            ]
+        }
+    },
+    "1020294: Geografia Fisica Con Elementi Di Geomorfologia": {
+        "it": {
+            "glaciolog": [
+                "re dati idrologici  glaciologici e meteomarini  -"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "di causa in tema di impatto ambientale  - redigere semp"
+            ],
+            "[[ ]+suol(?:o|i)[ ]+, erosione]": [
+                "sione accelerata del suolo e dell erosione dell",
+                "e responsabili dell erosione accelerata del suol",
+                "ta del suolo e dell erosione delle spiagge  abil"
+            ]
+        }
+    },
+    "1055720: Inglese Per Le Scienze Della Terra": {
+        "it": {
+            "oceanograf": [
+                "alla geofisica  all oceanografia  alla tettonica e"
+            ]
+        }
+    },
+    "10595971: Micropaleontologia Applicata Ai Cambiamenti Climatici": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "ologia applicata ai cambiamenti climatici obbiettivi formati"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "uardo alle categorie ecologiche dei foraminiferi  a"
+            ]
+        }
+    },
+    "1025190: Geografia Generale": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "petti concernenti l impatto ambientale  il tutto in una"
+            ],
+            "inquina": [
+                " vita e dalle fonti inquinanti sulla distribuzi"
+            ]
+        }
+    },
+    "10589120-97d: Geografia Economica E Politica - Geografia Economica E Politica I": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "ico e sui possibili impatti ambientali che derivano da "
+            ]
+        }
+    },
+    "1035474: Geografia Ambientale": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "e le tipologie dell impatto ambientale di origine antro"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "ti delle principali problematiche ambientali alle diverse sca"
+            ]
+        }
+    },
+    "1022494: Organizzazione Del Territorio": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                " e i processi della pianificazione territoriale  verranno esaminat",
+                " politico  sociale  ambientale   le differenti "
+            ]
+        }
+    },
+    "10596353: Telerilevamento E Simulazioni Gis Per La Pianificazione Territoriale": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "ulazioni gis per la pianificazione territoriale le tecniche di tel",
+                "o decisionale nella pianificazione territoriale e nell analisi del",
+                "nalisi dei fenomeni ambientali e territoriali  ",
+                "l ambito di analisi ambientali e territoriali  ",
+                "uare simulazioni in ambiente gis  utilizzando l",
+                "informativi di tipo ambientale e territoriale  "
+            ]
+        }
+    },
+    "1041827: Sociologia Urbana": {
+        "it": {
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "endere i principali problemi ambientali e spaziali che m"
+            ]
+        }
+    },
+    "1052163: Biologia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "nni anche alla parte ecologica  il corso difatti e",
+                "le loro correlazioni ecologiche ed evolutive  arriv"
+            ],
+            "biodiversit": [
+                "o funzionamento  la biodiversita  comprendere la di",
+                "e comparativa della biodiversita morfo-funzionale i"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "  dalla salute alle problematiche ambientali  l attivita di r"
+            ]
+        }
+    },
+    "1023017: Botanica Farmaceutica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "le loro correlazioni ecologiche ed evolutive  arriv"
+            ]
+        }
+    },
+    "1052171: Fitochimica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "danti  tra le altre  ecologia  agricoltura  fisio"
+            ]
+        }
+    },
+    "1019205: Patologia Vegetale": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "iclo d infezione e l ecologia di un patogeno - la"
+            ]
+        }
+    },
+    "10600330-2b3: Plant Biology And Conservation For Cultural Heritage - Plant Biology For Cultural Heritage": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "oni esistenti fra i cambiamenti climatici del passato e le a"
+            ]
+        }
+    },
+    "1038535: Management Delle Fonti Energetiche": {
+        "it": {
+            "[energi, sostenibil]": [
+                " e utilizzazione di energia capacita di appren",
+                "nella produzione di energi",
+                " rinnovabili per la sostenibilita dello sviluppo a"
+            ]
+        }
+    },
+    "1035994-118: Scienze Della Prevenzione Nell'Ambiente E Nei Luoghi Di Lavoro - Igiene Generale Ed Applicata": {
+        "it": {
+            "inquina": [
+                "enziale sorgenti di inquinamento  essere in gra"
+            ]
+        }
+    },
+    "1036029-fbc: Scienze Informatiche Ed Interdisciplinari Applicate Alla Gestione Sanitaria - Fondamenti Chimici Delle Tecnologie": {
+        "it": {
+            "inquina": [
+                "oncentrazione degli inquinanti  conoscere la cl"
+            ]
+        }
+    },
+    "1036029-7b2: Scienze Informatiche Ed Interdisciplinari Applicate Alla Gestione Sanitaria - Ingegneria Sanitaria Ambientale": {
+        "it": {
+            "inquina": [
+                "oncentrazione degli inquinanti  conoscere la cl"
+            ]
+        }
+    },
+    "1036029-b0b: Scienze Informatiche Ed Interdisciplinari Applicate Alla Gestione Sanitaria - Statistica Per La Ricerca Sperimentale E Tecnologica": {
+        "it": {
+            "inquina": [
+                "cere i parametri di inquinamento e caratterizza",
+                "oncentrazione degli inquinanti  conoscere la cl"
+            ]
+        }
+    },
+    "1042388: Diritto Dell'Ambiente": {
+        "it": {
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "che garantiscono la tutela dell ambiente  sia il complesso d",
+                "organizzazione alla tutela dell ambiente  al termine del cor",
+                "he preordinate alla tutela ambientale   questo permettera"
+            ]
+        }
+    },
+    "1041626: Statistica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "azioni biologiche ed ecologiche  infatti alla base ",
+                " allo studio di dati ecologici    capacita di appl"
+            ]
+        }
+    },
+    "1038274: Paleobotanica E Palinologia": {
+        "it": {
+            "conservazion(?:e|i) della natura": [
+                " a problematiche di conservazione della natura utilizzare le conos"
+            ]
+        }
+    },
+    "1046892: Biodiversita' E Valorizzazione Delle Piante": {
+        "it": {
+            "biodiversit": [
+                "biodiversita  e valorizzazione "
+            ]
+        }
+    },
+    "1055686: Biodiversita' Umana Con Applicazioni Bioinformatica": {
+        "it": {
+            "biodiversit": [
+                "biodiversita  umana con applica",
+                "na panoramica della biodiversita umana  sia da un p",
+                " e adattativi della biodiversita umana con uno sgua",
+                "a allo studio della biodiversita umana e la conosce",
+                "comprensione\" della biodiversita umana  dei process"
+            ]
+        }
+    },
+    "1047808: Cartografia Tematica E Gis": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "nalisi della nicchia ecologica spaziale di specie "
+            ]
+        }
+    },
+    "10600380: Biologia Del Cambiamento Globale": {
+        "it": {
+            "biodiversit": [
+                "mento globale sulla biodiversita  e comprendere il ",
+                "ientale  perdita di biodiversita  e rischi per l um"
+            ]
+        }
+    },
+    "1047809: Geologia Marina": {
+        "it": {
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "re  conoscenza dell ambiente marino e dei processi geo"
+            ]
+        }
+    },
+    "1016357: Entomologia": {
+        "it": {
+            "biologi(?:a|e) della conservazione": [
+                "ggio ambientale  di biologia della conservazione  e di controllo di "
+            ]
+        }
+    },
+    "1016362: Zoogeografia": {
+        "it": {
+            "climatolog": [
+                "leogeografia e paleoclimatologia  descrittore di d"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "ologici  molecolari  ecologici  alla lettura del d",
+                "ogica  molecolare ed ecologica   descrittori di du",
+                "enze nel campo della ecologia  della paleogeograf",
+                "evoluzionistica  all ecologia e alla sistematica "
+            ],
+            "biologi(?:a|e) della conservazione": [
+                "a applicata e della biologia della conservazione  conoscenze di base",
+                "re riferimento alla biologia della conservazione  alla biologia evol"
+            ]
+        }
+    },
+    "10596290: Invasioni Biologiche E Cambiamenti Globali": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "la biodiversita e i cambiamenti climatici    saper applicare"
+            ],
+            "biodiversit": [
+                "sa la perdita della biodiversita e i cambiamenti cl"
+            ]
+        }
+    },
+    "1023620: Ecologia Umana E Storia Naturale Dei Primati": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "a  con riferimento a ecologia ed evoluzione  lo s",
+                "rimento agli aspetti ecologici  comprendera pertan",
+                "etico  geografico ed ecologico   abilita comunicat",
+                "a e della morfologia ecologica  con riferimento al"
+            ],
+            "biodiversit": [
+                "zione critica della biodiversita in rapporto all ar"
+            ]
+        }
+    },
+    "1055500: Conservazione Delle Risorse Forestali": {
+        "it": {
+            "biodiversit": [
+                "conservazione della biodiversita  valorizzazione pa",
+                "conservazione della biodiversita  valorizzazione pa"
+            ]
+        }
+    },
+    "10600364: Monitoraggio E Conservazione Della Biodiversita' E Degli Agroecosistemi": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "i base per l analisi ecologica dei paesaggi rurali"
+            ],
+            "biodiversit": [
+                "conservazione della biodiversita  e degli agroecosi",
+                "vi ad analisi della biodiversita in sistemi natural",
+                "prensione dell agro-biodiversita e dei suoi rapport",
+                "uoi rapporti con la biodiversita a diversi livelli "
+            ],
+            "agro-?ecosist": [
+                "odiversita  e degli agroecosistemi obiettivi di app",
+                "stemi naturali e in agro-ecosistemi finalizzata alla"
+            ]
+        }
+    },
+    "1047805: Conservazione E Gestione Della Vegetazione E Del Paesaggio": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "ali conoscenze alla pianificazione territoriale e alla progettazio",
+                "e comprensione alla pianificazione territoriale e alla progettazio",
+                "i tra vegetazione e ambiente  dinamica della ve",
+                "zione relativi agli ecosistemi naturali e semi-",
+                " dati relativi agli ambienti naturali e semi-na",
+                "i tra vegetazione e ambiente  modelli di distri",
+                "zione relativi agli ecosistemi naturali e semi-",
+                " dati relativi agli ecosistemi naturali e semi-"
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "ali conoscenze alla pianificazione territoriale e alla progettazio",
+                "e comprensione alla pianificazione territoriale e alla progettazio",
+                "ati agli aspetti di sostenibilita  conservazione",
+                "zione alla gestione sostenibile delle risorse na",
+                "ati agli aspetti di sostenibilita  conservazione",
+                "zione alla gestione sostenibile delle risorse na"
+            ],
+            "biodiversit": [
+                "conservazione della biodiversita  valorizzazione pa",
+                "conservazione della biodiversita  valorizzazione pa"
+            ]
+        }
+    },
+    "1041627: Biodiversita' Marina E Sistematica Biologica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ecolari  geografici  ecologici   dovendo disegnare"
+            ],
+            "biodiversit": [
+                "biodiversita  marina e sistemat",
+                "a dei pattern della biodiversita marina su scala gl",
+                "ali e moderni della biodiversita marina  inoltre lo",
+                "lle dinamiche della biodiversita marina  e dei meto",
+                " le dinamiche della biodiversita  in particolare qu",
+                "ima e analisi della biodiversita  quelli di inferen",
+                " nello studio della biodiversita e dell inferenza f"
+            ]
+        }
+    },
+    "1047803: Psicologia Ambientale": {
+        "it": {
+            "psicologi(?:a|e) ambiental": [
+                "psicologia ambientale obiettivi di appre",
+                "la disciplina della psicologia ambientale  ai suoi concetti "
+            ]
+        }
+    },
+    "1049660-75f: Biologia Delle Piante Ecologia E Territorio - Ecologia Del Territorio": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "e in un contesto di cambiamenti climatici e globali determin"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "iologia delle piante ecologia e territorio - ecol",
+                "logia e territorio - ecologia del territorio svil",
+                "ppo delle competenze ecologiche di base volte allo ",
+                "dite conoscenze dell ecologia di base  ma anche d",
+                "lessita dei processi ecologici e all analisi e mon"
+            ],
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "tivo di analisi dei problemi ambientali a livello nazion"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) terrestr": [
+                "ica e biotica degli ecosistemi terrestri e acquatici  anche"
+            ]
+        }
+    },
+    "1049660-b82: Biologia Delle Piante Ecologia E Territorio - Biologia Delle Piante": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "iologia delle piante ecologia e territorio - biol"
+            ],
+            "(?:beneficio?|vantaggio?) (?:dello ambiente|ambientali|dello ecosistema)": [
+                "ress e di apportare benefici ambientali per la societa   ca"
+            ]
+        }
+    },
+    "1036024: Geografia Del Turismo": {
+        "it": {
+            "[turismo, sostenibil]": [
+                "geografia del turismo il corso offre una ",
+                "della relazione tra turismo - inteso come parte",
+                "nesse in termini di sostenibilita  ambientale  cul"
+            ]
+        }
+    },
+    "1036300-696: Fondamenti Di Urbanistica E Governo Del Territorio - Legislazione Edilizia E Governo Del Territorio": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "i differenziati  la pianificazione territoriale con finalita di tu",
+                " finalita di tutela ambientale  il piano territ"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "ale con finalita di tutela ambientale  il piano territori"
+            ]
+        }
+    },
+    "1036463: Pianificazione Del Territorio E Del Paesaggio": {
+        "it": {
+            "sfid(?:a|e) (?:ambient|ecosist)": [
+                "on le piu pressanti sfide ambientali e paesaggistiche"
+            ]
+        }
+    },
+    "1044293: Ecologia Preistorica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "one nell ambito dell ecologia preistorica  con il"
+            ]
+        }
+    },
+    "1023146: Geografia": {
+        "it": {
+            "espansion(?:e|i) urban": [
+                "e territoriali dell espansione urbana  caratteristiche  "
+            ]
+        }
+    },
+    "1035573: Archeologia E Culture Del Paleolitico": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                " e antropologici  i cambiamenti climatici  lo sviluppo tecno"
+            ]
+        }
+    },
+    "10596326: Chimica Industriale I": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "ci  energetici e di impatto ambientale  a tale scopo  v",
+                "o  la sicurezza e l impatto ambientale di un determinat"
+            ]
+        }
+    },
+    "1041434-4ca: Calcolo Biostatistica E Metodi Matematici E Informatici In Biologia - Calcolo E Biostatistica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ll evoluzione e dell ecologia     il corso richie",
+                "  chimica  genetica  ecologia  e di utilizzarli c"
+            ]
+        }
+    },
+    "1041434-d76: Calcolo Biostatistica E Metodi Matematici E Informatici In Biologia - Metodi Matematici E Informatici In Biologia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ll evoluzione e dell ecologia    la seconda parte",
+                "  chimica  genetica  ecologia  e di utilizzarli c"
+            ]
+        }
+    },
+    "1011787: Ecologia": {
+        "it": {
+            "[energi, sostenibil]": [
+                "zioni dei flussi di energia allocata all accre",
+                "a il significato di sostenibilita delle dinamiche "
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "sistemi  successioni ecologiche  e nelle variazioni",
+                "elle competenze nell ecologia di base   obiettivi",
+                "modelli dei processi ecologici alle diverse scale ",
+                "za delle teorie dell ecologia e delle esperienze ",
+                " uno stesso problema ecologico  sara in grado di a",
+                "e e alle successioni ecologiche   autonomia di giud",
+                "ti fondamentali dell ecologia  le sue capacita co",
+                "cera i principi dell ecologia di base e i piu imp",
+                "ntributi alle teorie ecologiche di altre discipline"
+            ]
+        }
+    },
+    "1019387: Anatomia Comparata": {
+        "it": {
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                " nel passaggio dall ambiente acquatico a quello terrestre"
+            ]
+        }
+    },
+    "1016320: Diversita' Animale": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "miche  funzionali ed ecologiche essenziali  capacit"
+            ]
+        }
+    },
+    "1016325: Diritto E Legislazione Ambientale": {
+        "it": {
+            "biodiversit": [
+                "ria di tutela della biodiversita e delle aree prote",
+                "elle concernenti la biodiversita  specie  habitat e"
+            ],
+            "conservazion(?:e|i) della natura": [
+                " delle politiche di conservazione della natura su scala internazio"
+            ],
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "quadro generale dei problemi ambientali globali e delle "
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                " e nazionali per la tutela dell ambiente"
+            ],
+            "(?:norm(?:e|i)|regolament(?:e|i)) ambiental": [
+                "za delle principali norme ambientali  ed in particolare"
+            ]
+        }
+    },
+    "97585: Chimica Ambientale": {
+        "it": {
+            "effetto serra": [
+                "i dell aumento dell effetto serra e del buco dell ozo"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "la valutazione dell impatto ambientale  per lo studio e"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "ente a una definita problematica ambientale    descrittore d"
+            ],
+            "controll(?:o|i) (?:dell inquinamento|degli inquinanti)": [
+                "tarie in materia di controllo degli inquinanti e ai protocolli int"
+            ],
+            "inquina": [
+                "e di un determinato inquinante  saranno fatti c",
+                " di controllo degli inquinanti e ai protocolli ",
+                "ggio dei principali inquinanti     descrittore ",
+                "una problematica di inquinamento ambientale  po",
+                "ambientale legati a inquinamento  tale capacita"
+            ],
+            "esauriment(?:o|i) (?:delle |della |di )?risors(?:a|e) natural": [
+                "e l attenzione sull esaurimento delle risorse naturali e la carenza idric"
+            ]
+        }
+    },
+    "1016326: Tassonomia Dei Vegetali E Flora D'Italia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ca e dell importanza ecologica dei principali grup"
+            ],
+            "biodiversit": [
+                "uanto appreso sulla biodiversita vegetale  utilizza"
+            ]
+        }
+    },
+    "1047552: Diritto Internazionale Dell'Economia E Dello Sviluppo": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "o dei paesi poveri  cambiamento climatico  flussi migratori "
+            ]
+        }
+    },
+    "10600326-63f: Scienze Sociali Per La Sostenibilita' - Modernita' E Sostenibilita'": {
+        "it": {
+            "biosfera": [
+                " tra esseri umani e biosfera  in un ottica di so",
+                "e e culturale  e la biosfera a cui la specie uma"
+            ]
+        }
+    },
+    "10600326-c67: Scienze Sociali Per La Sostenibilita' - Sostenibilita' E Processi Comunicativi": {
+        "it": {
+            "biosfera": [
+                " tra esseri umani e biosfera  in un ottica di so",
+                "e e culturale  e la biosfera a cui la specie uma"
+            ]
+        }
+    },
+    "10600326-303: Scienze Sociali Per La Sostenibilita' - Vulnerabilita' Diritti E Giustizia Sociale": {
+        "it": {
+            "biosfera": [
+                " tra esseri umani e biosfera  in un ottica di so",
+                "e e culturale  e la biosfera a cui la specie uma"
+            ]
+        }
+    },
+    "10599126: Tecnica Urbanistica": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "urbanistica e della pianificazione territoriale e urbana  4  tecni",
+                "urbanistica e per l ambiente  2  analisi dello "
+            ]
+        }
+    },
+    "10599960: Tecniche E Strumenti Di Osservazione": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                " approcci etologico  ecologico  piagetiano  psicoa"
+            ]
+        }
+    },
+    "1035084: Monitoraggio Mediante Bioindicatori Animali": {
+        "it": {
+            "bio[- ]?indicator": [
+                "nitoraggio mediante bioindicatori animali - lo stude"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                " biomonitoraggio in ecosistemi acquatici e terrestri   - co"
+            ]
+        }
+    },
+    "10600024: Nonhuman Primate Models Of Human Behavior: Psychobiological  And  Evolutionary Perspectives": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "lita  e la validita  ecologica dei risultati  gli "
+            ]
+        }
+    },
+    "10600497: Cinema E Cultura Visuale": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "di una piu complessa ecologia mediale  3  autonom"
+            ]
+        }
+    },
+    "10589237: Gestione Sostenibile Delle Risorse": {
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "lizzabili   e delle problematiche ambientali  derivanti dal l"
+            ]
+        }
+    },
+    "10596182: Diritto Ambientale Dell'Unione Europea": {
+        "it": {
+            "diritt(?:o|i) (?:ambient|ecosist)": [
+                "diritto ambientale dell unione euro"
+            ]
+        }
+    },
+    "10599062-39a: Chimica Dell' Ambiente E Valorizzazione Delle Piante Di Interesse Alimentare - Chimica Dell' Ambiente E Dei Beni Culturali": {
+        "it": {
+            "inquina": [
+                "i rischi legati all inquinamento"
+            ]
+        }
+    },
+    "10599076: Innovazione Qualita' E Sostenibilita' Nella Filiera Del Vino E Dell'Ospitalita'": {
+        "it": {
+            "[turismo, sostenibil]": [
+                "gia tra produzione  turismo e cultura",
+                "ovazione qualita  e sostenibilita  nella filiera d",
+                "ovazione  qualita e sostenibilita del settore del ",
+                "attraverso processi sostenibili chemical free  rec",
+                "miglioramento della sostenibilita nel settore del "
+            ],
+            "economi(?:a|e) circolar": [
+                "era in un ottica di economia circolare e di salvaguardia "
             ]
         }
     },
     "10600247: Environmental Management And Sustainability": {
-        "en": {
-            "environmental management": [
-                "environmental management and sustainability "
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "zione relative alle problematiche ambientali delle imprese  i"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "ti e benefici della protezione ambientale e dei vari metodi d"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                " e blue  gis  bis   servizi ecosistemici  ess ]   grazi"
+            ],
+            "economi(?:a|e) circolar": [
+                "nomia ambientale  l economia circolare  la green economy "
+            ]
+        }
+    },
+    "1019477: Sviluppo Sostenibile Dell'Ambiente E Del Territorio": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                " ambientale e della pianificazione territoriale   2  utilizzazione",
+                "po sostenibile dell ambiente e del territorio i",
+                " attuale situazione ambientale mondiale  dei pr",
+                "o equilibrato con l ambiente  l obiettivo e que",
+                "varsi del conflitto ambientale  il tema della s",
+                " insieme dimensioni ambientali e dimensioni soc",
+                " di carattere socio-ambientale alla base della ",
+                "mpi dell ingegneria ambientale e della pianific",
+                "oblematiche di tipo ambientale  tale capacita a"
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                " ambientale e della pianificazione territoriale   2  utilizzazione",
+                "sviluppo sostenibile dell ambiente e ",
+                "tale  il tema della sostenibilita  complesso e i",
+                "sivi sul tema della sostenibilita fornira agli s",
+                " dove il tema della sostenibilita diventa un par",
+                "tema dello sviluppo sostenibil"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "lla base della crisi ecologica  la conoscenza di c"
+            ],
+            "ingegneria ambientale": [
+                "vole nei campi dell ingegneria ambientale e della pianificazi"
+            ]
+        }
+    },
+    "1017434: Ingegneria Sanitaria Ambientale": {
+        "it": {
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                " ed impianti per la protezione dell ambiente dall inquinamento e",
+                " ed impianti per la protezione dell ambiente dall inquinamento e"
+            ],
+            "inquina": [
+                " dei processi di disinquinamento e trattamento ",
+                "1  identificare gli inquinanti potenzialmente d",
+                "ozione di specifici inquinanti dagli effluenti ",
+                "ziali effetti degli inquinanti sulla qualita de",
+                " dell ambiente dall inquinamento e per il risan",
+                " dell ambiente dall inquinamento e per il risan",
+                " abbattimento degli inquinanti da parte di spec"
+            ]
+        }
+    },
+    "1022158: Ingegneria Delle Materie Prime": {
+        "it": {
+            "contaminazion(?:e|i) (?:dei|del) suol|suol(?:o|i) contaminat": [
+                " nella bonifica dei suoli contaminati  operazione  quest",
+                "decontaminazione di suoli contaminati  inoltre vengono f",
+                "e provenienti da un suolo contaminato  gli studenti avra"
+            ],
+            "economi(?:a|e) circolar": [
+                "ioni preliminari di economia circolare   b capacita di ap"
+            ]
+        }
+    },
+    "1018759: Sistemi Energetici": {
+        "it": {
+            "energ[^ ]+ fossile": [
+                "dite sulle fonti di energia fossile e rinnovabile  con "
+            ],
+            "[energi, sostenibil]": [
+                "enze sulle fonti di energia fossili e rinnovab",
+                "dite sulle fonti di energia fossile e rinnovab",
+                "i la conversione in energia elettrica  lo stud",
+                "ti nel quadro della sostenibilita e della compatib"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "llo sviluppo ed all impatto ambientale   1  conoscenze "
+            ]
+        }
+    },
+    "1019481: Idrologia Tecnica E Fondamenti Di Ingegneria Dei Sistemi Idraulici": {
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                " quanto riguarda le problematiche ambientali e territoriali e"
+            ]
+        }
+    },
+    "AAF1216: Altre": {
+        "it": {
+            "ingegneria ambientale": [
+                "u temi relativi all ingegneria ambientale finalizzati a favor"
+            ]
+        }
+    },
+    "1019484: Ecologia E Fenomeni Di Inquinamento Degli Ambienti Naturali": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "base di biologia  di ecologia e di ecotossicologi",
+                "della biologia  dell ecologia e dell ecotossicolo"
+            ],
+            "ecotossicologi": [
+                "a  di ecologia e di ecotossicologia indispensabili per",
+                "ell ecologia e dell ecotossicologia  vengono inoltre e"
+            ],
+            "inquina": [
+                "logia e fenomeni di inquinamento degli ambienti",
+                "dio dei fenomeni di inquinamento degli ambienti",
+                "ali e i fenomeni di inquinamento specifici per ",
+                "fetti dannosi degli inquinanti e alla capacita ",
+                "dio dei fenomeni di inquinamento dei comparti a"
+            ]
+        }
+    },
+    "1017399: Elettrotecnica": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "to delle principali macchine elettriche e i criteri ed i ",
+                "ni delle principali macchine elettriche  in relazione all"
+            ]
+        }
+    },
+    "1022159: Tecnologie Di Chimica Applicata": {
+        "it": {
+            "inquina": [
+                "li e al rilascio di inquinanti da materiali in "
+            ]
+        }
+    },
+    "10599893: Geofisica Applicata All'Ingegneria": {
+        "it": {
+            "inquina": [
+                "co e idrogeologico  inquinamento  dissesto e fr",
+                "co e idrogeologico  inquinamento  dissesto stru"
+            ]
+        }
+    },
+    "1017654: Pianificazione Territoriale": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "pianificazione territoriale il corso si propon",
+                " fondamentali della pianificazione territoriale secondo un approcc",
+                "i ed i metodi della pianificazione territoriale  ambientale  paesi",
+                "zione territoriale  ambientale  paesistica ed u",
+                "lemi di tutela dell ambiente  dell uso eco-comp",
+                "ione territoriale e ambientale in un ottica di ",
+                " fattori antropici  ambientali  socio-economici",
+                "fondire gli aspetti ambientali della pianificaz",
+                "zione e valutazione ambientale e territoriale  "
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "pianificazione territoriale il corso si propon",
+                " fondamentali della pianificazione territoriale secondo un approcc",
+                "i ed i metodi della pianificazione territoriale  ambientale  paesi",
+                "rio in un ottica di sostenibilita  obiettivi ino",
+                "ale in un ottica di sostenibilita e di sviluppo ",
+                " lo sviluppo locale sostenibile  per quanto rigu",
+                " ottica di sviluppo sostenibile  saper sviluppar",
+                "le e dello sviluppo sostenibil"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "lti nei problemi di tutela dell ambiente  dell uso eco-compa"
+            ]
+        }
+    },
+    "1021791: Fondamenti Di Chimica Ambientale": {
+        "it": {
+            "inquina": [
+                "elle varie forma di inquinamento e le nozioni f",
+                "nto di vari tipi di inquinanti di aria  acque e"
+            ]
+        }
+    },
+    "1047247: Campionamento E Trattamento Fisico Dei Suoli Contaminati": {
+        "it": {
+            "(?:salute|sanita) ambiental": [
+                "ione dello stato di salute ambientale di un sito e per l"
+            ],
+            "contaminazion(?:e|i) (?:dei|del) suol|suol(?:o|i) contaminat": [
+                "ttamento fisico dei suoli contaminati il corso fornisce ",
+                "a preliminare di un suolo contaminato  in tal modo  le c",
+                "ulla bonifica di un suolo contaminato mediante mezzi fis"
+            ],
+            "inquina": [
+                "onamento di un sito inquinato previa determinaz",
+                "inazione di terreni inquinati corredate anche d",
+                "terreni formalmente inquinati  conoscenza delle"
+            ]
+        }
+    },
+    "1019361: Idrogeologia Applicata": {
+        "it": {
+            "sfruttament(?:o|i) sostenibile": [
+                "e di consentirne lo sfruttamento sostenibile e la tutela nei con"
+            ]
+        }
+    },
+    "10599892: Geotecnica Per L'Ambiente E Il Territorio": {
+        "it": {
+            "inquina": [
+                " terreni soggetti a inquinamento   obiettivi sp"
+            ]
+        }
+    },
+    "10600128: Geotecnica Per L'Ambiente E Il Territorio": {
+        "it": {
+            "inquina": [
+                " terreni soggetti a inquinamento   obiettivi sp"
             ]
         }
     },
     "10600008-4e6: Environmental Economics And Law - Environmental Law": {
-        "en": {
-            "environmental law": [
-                "economics and law - environmental law obiettivi obiettivi"
+        "it": {
+            "biodiversit": [
+                "ee protette e della biodiversita   correlazione tra"
+            ],
+            "diritt(?:o|i) (?:ambient|ecosist)": [
+                "eguenti aspetti del diritto ambientale  principi genera",
+                "rigia in materia di diritto ambientale al fine di un co"
+            ],
+            "inquina": [
+                "a  risorse idriche  inquinamento  tutela delle "
+            ]
+        }
+    },
+    "10600008-625: Environmental Economics And Law - Environmental Economics": {
+        "it": {
+            "biodiversit": [
+                "ee protette e della biodiversita   correlazione tra"
+            ],
+            "diritt(?:o|i) (?:ambient|ecosist)": [
+                "eguenti aspetti del diritto ambientale  principi genera",
+                "rigia in materia di diritto ambientale al fine di un co"
+            ],
+            "inquina": [
+                "a  risorse idriche  inquinamento  tutela delle "
+            ]
+        }
+    },
+    "AAF1147: Altre Conoscenze Utili Per L'Inserimento Nel Mondo Del Lavoro": {
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                " quanto riguarda le problematiche ambientali e territoriali e"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "lti nei problemi di tutela dell ambiente  dell uso eco-compa"
+            ]
+        }
+    },
+    "1022009: Studio Di Impatto Ambientale E Analisi Di Rischio": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "studio di impatto ambientale e analisi di ris",
+                "realizzare studi di impatto ambientale o di verificarne"
+            ],
+            "inquina": [
+                "i del destino degli inquinanti nei diversi comp"
+            ]
+        }
+    },
+    "10599950: Assessment And Sustainable Use Of Environmental Resources": {
+        "it": {
+            "[energi, sostenibil]": [
+                "aterie prime e dell energia utilizzate  * cono",
+                "a valutazione della sostenibilita dell utilizzo de",
+                "ficano una crescita sostenibile  valutare quale us",
+                " possa considerarsi sostenibile e come lo sfruttam",
+                "oncetti di sviluppo sostenibile ed economia circol"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "ali le etichettature ecologiche e i sistemi di gest",
+                "emi di etichettatura ecologica e gli strumenti di ",
+                "ura di etichettatura ecologica di prodotto/servizi"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "i mitigazione sugli impatti ambientali indotti  anche a",
+                " di controllare gli impatti ambientali delle proprie at"
+            ],
+            "prestazion(?:e|i) ambiental": [
+                "miglioramento delle prestazioni ambientali  anche allo scopo ",
+                "ento continuo delle prestazioni ambientali   * conoscere le t"
+            ],
+            "economi(?:a|e) circolar": [
+                "con i principi dell economia circolare e con gli oss n  7",
+                "o\"  in un ottica di economia circolare * conoscere i sist",
+                "uppo sostenibile ed economia circolare vadano ad interagi"
             ]
         }
     },
     "10599943: Renewable Energy": {
-        "en": {
-            "renewable energy": [
-                "renewable energy conoscenza delle le"
+        "it": {
+            "energ[^ ]+ alternati": [
+                " si basano le fonti energetiche alternative  con particolare ",
+                "le differenti fonti energetiche alternative con senso critic"
+            ]
+        }
+    },
+    "10599937: Hydraulic Risk Adaptation And Mitigation Measures": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "etti idrologici dei cambiamenti climatici   il corso e divis",
+                "e di adattamento ai cambiamenti climatici  b  opere di mitig",
+                "e degli effetti del cambiamento climatico   obiettivi specif"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                " quanto riguarda le problematiche ambientali e territoriali e"
+            ]
+        }
+    },
+    "1017989: Elettrotecnica": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "nte lo studio delle macchine elettriche e degli impianti "
+            ]
+        }
+    },
+    "1022001: Sistemi Energetici": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "so razionale e dell impatto ambientale e sociale dei si"
             ]
         }
     },
     "1047501: Advanced Methods In Mechanical Design": {
         "en": {
+            "eco[- ]?design": [
+                "gh rsm techniques   ecodesign in circular economy",
+                "uct-process design  ecodesign  lightweight design"
+            ],
+            "life[- ]?cycle (?:analys|assess)": [
+                "nnovation driven by lifecycle assessment   exercises wil"
+            ],
             "circular economy": [
                 "ques   ecodesign in circular economy  product configurat",
                 "d-cae-capp methods  circular economy  digital desig"
+            ]
+        }
+    },
+    "1055643: Engineering Tribology": {
+        "it": {
+            "inquina": [
+                "all eco-tribologia  inquinamento di particolati"
+            ]
+        }
+    },
+    "1016432: Macchine Elettriche": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "macchine elettriche sulla base delle "
+            ]
+        }
+    },
+    "1055637: Sustainable Combustion Chemistry": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "d il controllo dell impatto ambientale dei processi di "
             ],
-            "life-?cycle assessment": [
-                "nnovation driven by lifecycle assessment   exercises will be"
+            "inquina": [
+                " ambientale  come l inquinamento atmosferico e "
             ]
         }
     },
-    "AAF1773: Renewable Energy System Design": {
-        "en": {
-            "renewable energy": [
-                "renewable energy system design renew",
-                "nergy system design renewable energy system design ha co"
+    "AAF2049: Smart Grids Lab": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                "eti  ricerche sulle energie rinnovabili e sistemi di ricar"
+            ],
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "emi di ricarica dei veicoli elettrici diffusi"
             ]
         }
     },
-    "1051397: Geothermal Energy": {
-        "en": {
-            "geothermal[- ]?(energy|power)": [
-                "geothermal energy il corso si propone"
+    "1047241: Energy Management": {
+        "it": {
+            "[energi, sostenibil]": [
+                "uso efficiente dell energia  chi e chiamato a ",
+                "uate  progettare la sostenibilita economico finanz"
             ]
         }
     },
-    "10600473: Nonrenewable Resources And Urban Mining": {
+    "1044574: Sicurezza E Impatto Ambientale Dei Sistemi Energetici": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "sicurezza e impatto ambientale dei sistemi ener",
+                "a  valutazione dell impatto ambientale e della sicurezz",
+                " salvaguardia degli impatti ambientali"
+            ]
+        }
+    },
+    "10589999: Earth Observation": {
+        "it": {
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) terrestr": [
+                "e informazioni sull ambiente terrestre  atmosfera  mare  "
+            ]
+        }
+    },
+    "10589453: Fabbricazione E Caratterizzazione Di Nanostrutture": {
+        "it": {
+            "[energi, sostenibil]": [
+                "lo sostenibile dell energia  idrogeno  metalli",
+                "ione per l accumulo sostenibile dell energia  idro"
+            ]
+        }
+    },
+    "1022031: Architettura Tecnica Ii Con Laboratorio Progettuale": {
+        "it": {
+            "requisit(?:o|i) (?:ambient|ecosist)": [
+                "cio di soddisfare i requisiti ambientali fondamentali * c"
+            ]
+        }
+    },
+    "1047245: Architettura Tecnica E Sostenibilita' Ambientale": {
+        "it": {
+            "[prestazion(?:e|i) energetic, architettura]": [
+                " costruito  clima e prestazione energetica  proponendo un app",
+                "architettura tecnica e sostenibi"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "tieri alla luce dei cambiamenti climatici in atto  si affron",
+                "e di adattamento ai cambiamenti climatici urbani"
+            ]
+        }
+    },
+    "10600098: Economia Circolare": {
+        "it": {
+            "economi(?:a|e) circolar": [
+                "economia circolare l economia circola",
+                "conomia circolare l economia circolare rappresenta oggi u",
+                "prensione di come l economia circolare possa essere appli",
+                "eoriche avanzate di economia circolare  fondamentali per "
+            ]
+        }
+    },
+    "1036173: Sistemi Di Gestione Integrati": {
+        "it": {
+            "iso 1400": [
+                "en iso 9001  uni en iso 14001/emas e bs ohsas 18"
+            ]
+        }
+    },
+    "10600038: Sustainable Use Of Underground Resources": {
+        "it": {
+            "sfruttament(?:o|i) sostenibile": [
+                "i valutazioni dello sfruttamento sostenibile delle risorse sotte",
+                "driche sotterranee  sfruttamento sostenibile  resilienz"
+            ]
+        }
+    },
+    "10589758-ab6: Safety Of Solid Processing Plants - Safety Of Solid Processing Plants Module Ii": {
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "aspetti legati alle problematiche ambientali"
+            ]
+        }
+    },
+    "10589758-28e: Safety Of Solid Processing Plants - Safety Of Solid Processing Plants Module I": {
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "aspetti legati alle problematiche ambientali"
+            ]
+        }
+    },
+    "10603002: Tecnologia Dei Materiali Con Elementi Di Chimica Applicata": {
+        "it": {
+            "inquina": [
+                "li e al rilascio di inquinanti da materiali in "
+            ]
+        }
+    },
+    "1018025: Impianti Di Produzione Dell'Energia Elettrica": {
+        "it": {
+            "idroelettric": [
+                "lare sulle centrali idroelettriche  termoelettriche "
+            ]
+        }
+    },
+    "1021990: Produzione Combinata Dell'Energia Da Fonti Rinnovabili": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                "iciente delle fonti energetiche rinnovabili per  la generazion"
+            ]
+        }
+    },
+    "1021993: Progettazione Di Veicoli Elettrici": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "progettazione di veicoli elettrici il corso si propon",
+                "ne di massima di un veicolo elettrico"
+            ]
+        }
+    },
+    "10589509: Costruzioni Elettromeccaniche": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "funzionamento delle macchine elettriche  statiche e rotan",
+                " di elettrotecnica  macchine elettriche e misure elettric"
+            ]
+        }
+    },
+    "AAF1836: Macchine Elettriche Speciali": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "macchine elettriche speciali obiettiv"
+            ]
+        }
+    },
+    "1021801: Idraulica Applicata": {
+        "it": {
+            "idroelettric": [
+                "oduzione di energia idroelettrica"
+            ]
+        }
+    },
+    "10606608: Coastal Engineering": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "la valutazione dell impatto ambientale delle opere di d"
+            ],
+            "oceanograf": [
+                "iti i fondamenti di oceanografia dinamica e di idr"
+            ]
+        }
+    },
+    "1051669: Progettazione Del Territorio": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                " ambientale e nella pianificazione territoriale e urbanistica   - ",
+                "setto e processi di pianificazione territoriale in cui siano integ",
+                "utazione di impatto ambientale e territoriale e",
+                "ngono nella tutela  ambientale e nella pianific",
+                "iche di valutazione ambientale e territorial"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "i di valutazione di impatto ambientale e territoriale e"
+            ]
+        }
+    },
+    "1035952: Geofisica Applicata All'Ingegneria": {
+        "it": {
+            "ingegneria ambientale": [
+                " di intervento dell ingegneria ambientale  con particolare ri"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "lti nei problemi di tutela dell ambiente  capacita di proseg"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) terrestr": [
+                "tromagnetici sia in ambiente terrestre che acquatico  per",
+                "atti antropici sull ambiente terrestre ed acquatico  capa"
+            ]
+        }
+    },
+    "10600270: Principi Di Chimica Ambientale E Dei Processi Chimici Sostenibili": {
+        "it": {
+            "inquina": [
+                "ioni dei principali inquinanti chimici sia in a",
+                "uzione delle azioni inquinanti nell ambient"
+            ]
+        }
+    },
+    "10592968: Lca E Uso Sostenibile Delle Risorse Ambientali": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                " di controllare gli impatti ambientali delle proprie at"
+            ],
+            "prestazion(?:e|i) ambiental": [
+                " di controllo delle prestazioni ambientali di un prodotto e/o",
+                "ento continuo delle prestazioni ambientali   * identificare t"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "e   * affrontare le problematiche ambientali attraverso la ca"
+            ]
+        }
+    },
+    "1051675: Tecnologie Avanzate Per Il Riciclo Dei Materiali": {
+        "it": {
+            "[ricicla, rifiut]": [
+                "ne dei materiali da riciclare di diversa natura",
+                "lussi di rifiuti da riciclare  con qualita elev",
+                "lussi di rifiuti da riciclare in modo rapido  n",
+                "ne dei materiali da riciclare mediante strument",
+                "ore del riciclo dei rifiuti per la produzione ",
+                "riali dai flussi di rifiuti da riciclare  con ",
+                "miche dei flussi di rifiuti da riciclare in mo"
+            ],
+            "[ricicla, material]": [
+                "ne dei materiali da riciclare di diversa natura",
+                "lussi di rifiuti da riciclare  con qualita elev",
+                "lussi di rifiuti da riciclare in modo rapido  n",
+                "ne dei materiali da riciclare mediante strument",
+                " per il riciclo dei materiali il corso e indiriz",
+                "classificazione dei materiali da riciclare di di",
+                "er la selezione dei materiali dai flussi di rifi",
+                "er la selezione dei materiali da riciclare media"
+            ]
+        }
+    },
+    "AAF1846: Laboratorio Di Modellizzazione Sistemi Energetici": {
+        "it": {
+            "transizi[^ ]+ energ": [
+                "ce degli scenari di transizione energetica  ed affronta p"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "so razionale e dell impatto ambientale e sociale   il l"
+            ]
+        }
+    },
+    "AAF1848: Laboratorio Di Progettazione Del Territorio": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "ici e tecnici della pianificazione territoriale e urbanistica al f",
+                "utazioni di impatto ambientale  valutazioni amb",
+                "entale  valutazioni ambientali strategiche ecc"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "ica  valutazioni di impatto ambientale  valutazioni amb"
+            ]
+        }
+    },
+    "AAF1978: Laboratorio Di Gestione Dell'Economia Circolare": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "i preservare la base ecologica dello sviluppo   ca"
+            ],
+            "(?:beneficio?|vantaggio?) (?:dello ambiente|ambientali|dello ecosistema)": [
+                "one dei costi e dei benefici ambientali"
+            ],
+            "politic(?:a|he) (?:ambient|ecosist)": [
+                "zio  il ruolo della politica ambientale e dell intervent",
+                "potesi  strumenti e politiche ambientali alternative a qu",
+                "roposte e scelte di politica ambientale  saranno in grad"
+            ],
+            "question(?:e|i) ambiental": [
+                "enta per gestire le questioni ambientali derivanti dalle at"
+            ],
+            "inquina": [
+                "ale  certificati di inquinamento  green economy"
+            ],
+            "economi(?:a|e) circolar": [
+                "io di gestione dell economia circolare obiettivi generali"
+            ]
+        }
+    },
+    "1048037: Elettrotecnica": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "to delle principali macchine elettriche e i criteri ed i ",
+                "ni delle principali macchine elettriche  in relazione all"
+            ]
+        }
+    },
+    "1051087: Principi Di Ingegneria Elettrica": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "to delle principali macchine elettriche e i criteri ed i ",
+                "ni delle principali macchine elettriche  in relazione all"
+            ]
+        }
+    },
+    "1009408: Infrastrutture Aeroportuali": {
+        "it": {
+            "emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio)": [
+                "ni  riduzione delle emissioni di co2  accessibilita in a"
+            ],
+            "trasport(?:o|i) sostenibil": [
+                "roporto con modi di trasporto sostenibili/ intermodalita  ec"
+            ]
+        }
+    },
+    "1005076: Protezione Idraulica Del Territorio": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "etti idrologici dei cambiamenti climatici   il corso e divis",
+                "e di adattamento ai cambiamenti climatici  b  opere di mitig",
+                "e degli effetti del cambiamento climatico   obiettivi specif"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                " quanto riguarda le problematiche ambientali e territoriali e"
+            ]
+        }
+    },
+    "1017996-9f1: Metodi Matematici Per L'Ingegneria - Metodi Matematici Per L'Ingegneria": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "atematica  biologia  ecologia  economia  e in ing"
+            ]
+        }
+    },
+    "1017996-c5f: Metodi Matematici Per L'Ingegneria - Metodi Matematici Per L'Ingegneria": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "atematica  biologia  ecologia  economia  e in ing"
+            ]
+        }
+    },
+    "10606369-821: Green And Sustainable Hydrogen Production - Processes": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                "e nell ambito delle energie rinnovabili che  in questo per"
+            ],
+            "[energi, sostenibil]": [
+                "e nell ambito delle energie rinnovabili che  i",
+                "i per la produzione sostenibile di idrogeno ed e p"
+            ],
+            "produ[^ ]+ sostenibil": [
+                "ali processi per la produzione sostenibile di idrogeno ed e p"
+            ]
+        }
+    },
+    "10606369-86b: Green And Sustainable Hydrogen Production - Fundamentals": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                "e nell ambito delle energie rinnovabili che  in questo per"
+            ],
+            "[energi, sostenibil]": [
+                "e nell ambito delle energie rinnovabili che  i",
+                "i per la produzione sostenibile di idrogeno ed e p"
+            ],
+            "produ[^ ]+ sostenibil": [
+                "ali processi per la produzione sostenibile di idrogeno ed e p"
+            ]
+        }
+    },
+    "10600081: Catalisi Per L'Industria E Per L'Ambiente": {
+        "it": {
+            "inquina": [
+                "imento di emissioni inquinanti e nella bonifica"
+            ],
+            "economi(?:a|e) circolar": [
+                "stenibilita e della economia circolare  * comprendere i p"
+            ]
+        }
+    },
+    "10592818: Water Treatment Processes And Environmental Technology": {
         "en": {
-            "(?:non-?)?renewable resource": [
-                "nonrenewable resources and urban mining i"
+            "environment[^ ]* technolog": [
+                "tment processes and environmental technology provide basic know"
+            ],
+            "water treatment": [
+                "water treatment processes and envir"
+            ]
+        }
+    },
+    "10600080: Tecnologie Per La Produzione Di Combustibili Fossili E Rinnovabili": {
+        "it": {
+            "transizi[^ ]+ energ": [
+                "to alla cosiddetta \"transizione energetica\" dove si preve"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "omunque a piu basso impatto ambientale  in questo conte",
+                "un utilizzo a minor impatto ambientale dei combustibili"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "li e rinnovabili la problematiche ambientali dovute all inten"
             ]
         }
     },
     "10592821: Green Chemistry And Process Engineering": {
         "en": {
-            "climat[^ ]+ change": [
+            "climate change": [
                 "nergy pollution and climate change * to understand how"
             ],
-            "energy efficiency": [
-                "t the importance of energy efficiency and the range of en"
+            "[energy, sustaina]": [
+                "culate the mass and energy balance in a chemic",
+                "t the importance of energy efficiency and the ",
+                "cy and the range of energy sources * to unders",
+                "nd the role between energy pollution and clima",
+                "ss efficiencies and sustainability  * to calcula"
+            ],
+            "(?:environment[^ ]*|ecosystem) impact": [
+                "ected with reducing environmental impact * to understand the"
+            ],
+            "pollut": [
+                "role between energy pollution and climate chan"
             ]
         }
     },
-    "10595484: Emerging Africa In The Framework Of The Sustainable Development Goals": {
-        "en": {
-            "sustainable development goals": [
-                "he framework of the sustainable development goals in applicazione dei"
+    "1019252: Impianti Di Trattamento Degli Effluenti Gassosi": {
+        "it": {
+            "controll(?:o|i) (?:dell inquinamento|degli inquinanti)": [
+                "arecchiature per il controllo degli inquinanti presenti in corrent"
+            ],
+            "inquina": [
+                " il controllo degli inquinanti presenti in corr",
+                "di formazione degli inquinanti e l apprendiment"
+            ]
+        }
+    },
+    "10596228-b34: Scienze Della Sostenibilita' In Ingegneria - Diritto Dell'Ambiente": {
+        "it": {
+            "[energi, sostenibil]": [
+                "e in generale  dell energia e delle fonti rinn",
+                "scienze della sostenibilita  in ingegneria -",
+                "le politiche per la sostenibilita e per la protezi",
+                "ita per lo sviluppo sostenibile connessi al quadro"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "tenibilita e per la protezione dell ambiente  con particolare ri",
+                "a amministrativa  a tutela dell ambiente in generale  dell e"
+            ]
+        }
+    },
+    "10596228-40a: Scienze Della Sostenibilita' In Ingegneria - Idroclimatologia": {
+        "it": {
+            "climatolog": [
+                "in ingegneria - idroclimatologia obiettivi in fase"
+            ]
+        }
+    },
+    "10596228-71a: Scienze Della Sostenibilita' In Ingegneria - Servizi Ecosistemici": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "ambiamento globale  cambiamenti climatici  inquinamento ambi"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "cazione dei principi ecologici nella gestione dell"
+            ],
+            "biodiversit": [
+                "conservazione della biodiversita  del capitale natu"
+            ],
+            "gestione (?:delle|di) risorse naturali": [
+                "ipi ecologici nella gestione delle risorse naturali e dei servizi ecosi"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "ta  in ingegneria - servizi ecosistemici obiettivi form",
+                "orse naturali e dei servizi ecosistemici con un approcc",
+                "itale naturale  dei servizi ecosistemici e la promozion",
+                "le  la fornitura di servizi ecosistemici di regolazione"
+            ],
+            "inquina": [
+                "biamenti climatici  inquinamento ambientale  ca"
+            ]
+        }
+    },
+    "10596228-ccb: Scienze Della Sostenibilita' In Ingegneria - Materie Prime E Riciclo": {
+        "it": {
+            "economi(?:a|e) circolar": [
+                "ere i principi dell economia circolare  modello in cui il"
+            ]
+        }
+    },
+    "AAF1476: Laboratorio Di Ecologia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "laboratorio di ecologia il corso ha l obiet",
+                "r la conoscenza dell ecologia  disciplina di sint",
+                "luppati argomenti di ecologia di base utili  a co"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "ed affrontare varie problematiche ambientali  ambito  caratte"
+            ]
+        }
+    },
+    "1038479: Combustione E Impianti Di Trattamento Degli Effluenti": {
+        "it": {
+            "controll(?:o|i) (?:dell inquinamento|degli inquinanti)": [
+                "arecchiature per il controllo degli inquinanti presenti in corrent"
+            ],
+            "inquina": [
+                " il controllo degli inquinanti presenti in corr",
+                "di formazione degli inquinanti e  l apprendimen"
+            ]
+        }
+    },
+    "1051726: Ingegneria Delle Materie Prime Primarie E Secondarie": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "tterizzati da basso impatto ambientale ed da un alta ef"
+            ]
+        }
+    },
+    "10596228-0ab: Scienze Della Sostenibilita' In Ingegneria - Sostenibilita' Energetico-Ambientale": {
+        "it": {
+            "[risparmio? energetic, industria]": [
+                "isti al 2030 per il risparmio energetico  per l efficienza ",
+                " settore edilizio e industriale    capacita di  -"
+            ],
+            "decarbon": [
+                "are nel processo di decarbonizzazione imposto da"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "a e per le fonti di energia rinnovabili  verranno esaminat"
+            ],
+            "transizi[^ ]+ energ": [
+                "base sul tema della transizione energetica e delle tecnol"
+            ],
+            "[energi, sostenibil]": [
+                "a e per le fonti di energia rinnovabili  verra",
+                "llegamenti del tema energia con gli aspetti ri",
+                "ano di azione per l energia e il clima   - tec",
+                " la produzione dell energia da fonti rinnovabi",
+                "he e dei consumi di energia",
+                "scienze della sostenibilita  in ingegneria -",
+                "ta  in ingegneria - sostenibilita  energetico-ambi"
+            ],
+            "inquina": [
+                "isorse energetiche  inquinamento atmosferico - "
+            ]
+        }
+    },
+    "10596228-4ee: Scienze Della Sostenibilita' In Ingegneria - Mobilita' Sostenibile": {
+        "it": {
+            "[risparmio? energetic, industria]": [
+                "isti al 2030 per il risparmio energetico  per l efficienza ",
+                " settore edilizio e industriale    capacita di  -"
+            ],
+            "decarbon": [
+                "are nel processo di decarbonizzazione imposto da"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "a e per le fonti di energia rinnovabili  verranno esaminat"
+            ],
+            "transizi[^ ]+ energ": [
+                "base sul tema della transizione energetica e delle tecnol"
+            ],
+            "[energi, sostenibil]": [
+                "a e per le fonti di energia rinnovabili  verra",
+                "llegamenti del tema energia con gli aspetti ri",
+                "ano di azione per l energia e il clima   - tec",
+                " la produzione dell energia da fonti rinnovabi",
+                "he e dei consumi di energia",
+                "scienze della sostenibilita  in ingegneria -",
+                "egneria - mobilita  sostenibile l insegnamento e f"
+            ],
+            "inquina": [
+                "isorse energetiche  inquinamento atmosferico - "
+            ]
+        }
+    },
+    "10596228-af1: Scienze Della Sostenibilita' In Ingegneria - Diritto Dell'Ambiente": {
+        "it": {
+            "[energi, sostenibil]": [
+                "e in generale  dell energia e delle fonti rinn",
+                "scienze della sostenibilita  in ingegneria -",
+                "le politiche per la sostenibilita e per la protezi",
+                "ita per lo sviluppo sostenibile connessi al quadro"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "tenibilita e per la protezione dell ambiente  con particolare ri",
+                "a amministrativa  a tutela dell ambiente in generale  dell e"
+            ]
+        }
+    },
+    "10596228-8ff: Scienze Della Sostenibilita' In Ingegneria - Idroclimatologia": {
+        "it": {
+            "[risparmio? energetic, industria]": [
+                "isti al 2030 per il risparmio energetico  per l efficienza ",
+                " settore edilizio e industriale    capacita di  -"
+            ],
+            "decarbon": [
+                "are nel processo di decarbonizzazione imposto da"
+            ],
+            "climatolog": [
+                "in ingegneria - idroclimatologia l insegnamento e "
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "a e per le fonti di energia rinnovabili  verranno esaminat"
+            ],
+            "transizi[^ ]+ energ": [
+                "base sul tema della transizione energetica e delle tecnol"
+            ],
+            "[energi, sostenibil]": [
+                "a e per le fonti di energia rinnovabili  verra",
+                "llegamenti del tema energia con gli aspetti ri",
+                "ano di azione per l energia e il clima   - tec",
+                " la produzione dell energia da fonti rinnovabi",
+                "he e dei consumi di energia",
+                "scienze della sostenibilita  in ingegneria -"
+            ],
+            "inquina": [
+                "isorse energetiche  inquinamento atmosferico - "
+            ]
+        }
+    },
+    "10596228-952: Scienze Della Sostenibilita' In Ingegneria - Servizi Ecosistemici": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "ambiamento globale  cambiamenti climatici  inquinamento ambi"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "cazione dei principi ecologici nella gestione dell"
+            ],
+            "biodiversit": [
+                "conservazione della biodiversita  del capitale natu"
+            ],
+            "gestione (?:delle|di) risorse naturali": [
+                "ipi ecologici nella gestione delle risorse naturali e dei servizi ecosi"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "ta  in ingegneria - servizi ecosistemici obiettivi form",
+                "orse naturali e dei servizi ecosistemici con un approcc",
+                "itale naturale  dei servizi ecosistemici e la promozion",
+                "le  la fornitura di servizi ecosistemici di regolazione"
+            ],
+            "inquina": [
+                "biamenti climatici  inquinamento ambientale  ca"
+            ]
+        }
+    },
+    "10596228-101: Scienze Della Sostenibilita' In Ingegneria - Materie Prime E Riciclo": {
+        "it": {
+            "economi(?:a|e) circolar": [
+                "ere i principi dell economia circolare  modello in cui il"
+            ]
+        }
+    },
+    "1035463: Gestione Dei Rifiuti Sanitari": {
+        "it": {
+            "inquina": [
+                "l potenziale carico inquinante  2          indi",
+                "ozione di specifici inquinanti dagli effluenti ",
+                "ziali effetti degli inquinanti presenti nei rif",
+                " abbattimento degli inquinanti da parte di spec"
+            ]
+        }
+    },
+    "1021988: Motori Aeronautici": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "uantificazione dell impatto ambientale dovuto alle emis"
+            ],
+            "inquina": [
+                "ni di gas serra  di inquinanti e di rumore da p"
+            ]
+        }
+    },
+    "1022008: Strutture Aeronautiche": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "nsumo propulsivo ed impatto ambientale    e inoltre obi"
+            ]
+        }
+    },
+    "10592716: Gas Turbine Combustors": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                " prestazioni e dell impatto ambientale  nonche di archi",
+                "nnovativi e a basso impatto ambientale   conoscenza e c"
+            ],
+            "inquina": [
+                " delle emissioni di inquinanti  delle teorie e "
+            ]
+        }
+    },
+    "1055722: Aeroacoustics": {
+        "it": {
+            "inquina": [
+                "uzione del 65% dell inquinamento acustico prodo"
+            ]
+        }
+    },
+    "1047895-214: Fondamenti Della Salute E Sicurezza Nei Contesti Assistenziali - Igiene Generale Ed Applicata": {
+        "it": {
+            "inquina": [
+                "i sulla salute *  l inquinamento atmosferico   ",
+                "atmosferico   o gli inquinanti atmosferici ed i",
+                "i sulla salute dell inquinamento dell acqua   o"
+            ]
+        }
+    },
+    "1047895-032: Fondamenti Della Salute E Sicurezza Nei Contesti Assistenziali - Epidemiologia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ologia descrittiva o ecologica   o epidemiologia a"
+            ]
+        }
+    },
+    "1034955-d7a: Promozione Della Salute E Sicurezza - Radioprotezione Infermieristica": {
+        "it": {
+            "rischio? (?:ambient|ecosist)": [
+                "izzare i fattori di rischio ambientale al fine di contr"
+            ]
+        }
+    },
+    "1034955-796: Promozione Della Salute E Sicurezza - Scienze Infermieristiche": {
+        "it": {
+            "rischio? (?:ambient|ecosist)": [
+                "izzare i fattori di rischio ambientale al fine di contr"
+            ]
+        }
+    },
+    "1034962-8ce: Infermieristica In Area Materno-Infantile - Pediatria Generale E Specialistica": {
+        "it": {
+            "inquina": [
+                "tive correlate agli inquinanti ambientali  capa"
+            ]
+        }
+    },
+    "10596340: Diritto Dell' Ambiente E Del Patrimonio Culturale": {
+        "it": {
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "dell interesse alla protezione dell ambiente  del paesaggio e de"
+            ]
+        }
+    },
+    "10600285-8cc: History And Anthropology Of South Asia - Environmental History Of India": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "relativi alla storia ecologica dell india  e a svi"
+            ]
+        }
+    },
+    "1038346: Micropaleontologia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "tematici  evolutivi  ecologici e biostratigrafici "
+            ]
+        }
+    },
+    "1041864: Geofisica Applicata": {
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "sici per le diverse problematiche ambientali  territoriali e "
+            ],
+            "inquina": [
+                "co e idrogeologico  inquinamento  dissesto e fr",
+                "co e idrogeologico  inquinamento  dissesto stru"
+            ]
+        }
+    },
+    "10606592: I Sistemi Carbonatici Per Il Ciclo Del Carbonio E I Cambiamenti Climatici": {
+        "it": {
+            "cicl(?:o|i) del carbonio": [
+                " carbonatici per il ciclo del carbonio e i cambiamenti cli"
+            ],
+            "cambiament(?:o|i) climatic": [
+                "lo del carbonio e i cambiamenti climatici obiettivi formativ"
+            ],
+            "oceanograf": [
+                "dizioni ambientali  oceanografiche e climatiche  a",
+                "luzione ambientale  oceanografica e climatica "
+            ]
+        }
+    },
+    "1023391: Geodinamica E Bacini Sedimentari": {
+        "it": {
+            "energ[^ ]+ alternati": [
+                "la ricerca di fonti energetiche alternative  e l evoluzione p"
+            ]
+        }
+    },
+    "1044858: Giacimenti Minerari E Coltivazione Dei Geomateriali": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "di mitigazione dell impatto ambientale indotto dall att"
+            ]
+        }
+    },
+    "1034856: Biodiversita' E Evoluzione Umana": {
+        "it": {
+            "biodiversit": [
+                "biodiversita  e evoluzione uman",
+                "ipali aspetti della biodiversita umana in un quadro",
+                "comprensione\" della biodiversita umana  in particol",
+                "e negli studi sulla biodiversita umana a livello ge"
+            ]
+        }
+    },
+    "10600014: Genome Evolution": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ematica  statistica  ecologia ecc  lo studio di q"
+            ]
+        }
+    },
+    "1044144-836: Gestione Energetica Ambientale - Gestione Energetica Degli Edifici": {
+        "it": {
+            "[risparmio? energetic, edificio]": [
+                "petto normativo del risparmio energetico in edilizia  il co",
+                "bili  interventi di risparmio energetico",
+                " comportamento dell edificio  conparticolare rif",
+                "gno energetico dell edificio  l impiego delle en"
+            ],
+            "energ[^ ]+ rinnovabil": [
+                "io  l impiego delle energie rinnovabili  interventi di ris"
+            ],
+            "[energi, sostenibil]": [
+                "io  l impiego delle energie rinnovabili  inter",
+                "rticola in 4 parti  sostenibilita energetica eambi"
+            ],
+            "etic(?:a|he) ambiental": [
+                "gestione energetica ambientale - gestione energet"
             ]
         }
     },
     "1052430-76e: Energy And Environmental Management - Energy Management Of Buildings": {
         "en": {
-            "environmental management": [
-                "energy and environmental management - energy management"
-            ],
-            "environmental sustainability": [
-                "4 parts  energy and environmental sustainability  heat transmission "
+            "[energy saving, building]": [
+                "ing  well-being and energy saving in the design of bu",
+                "esign of buildings  energy saving regulations in the ",
+                "ble energy sources  energy saving measures",
+                "nergy management of buildings the aim of this co",
+                " the behaviour of a building  with a special foc",
+                "ng in the design of buildings  energy saving reg",
+                " regulations in the building sector  the behavio",
+                "he behaviour of the building shell  climate and ",
+                "gy requirement of a building  the use of renewab"
             ],
             "renewable energy": [
                 "uilding  the use of renewable energy sources  energy sav"
+            ],
+            "[energy, sustaina]": [
+                "energy and environmental m",
+                "mental management - energy management of build",
+                "e features 4 parts  energy and environmental s",
+                "ing  well-being and energy saving in the desig",
+                "esign of buildings  energy saving regulations ",
+                "tal well-being  the energy requirement of a bu",
+                "he use of renewable energy sources  energy sav",
+                "ble energy sources  energy saving measures",
+                "y and environmental sustainability  heat transmi"
+            ],
+            "environment[^ ]* management": [
+                "energy and environmental management - energy management"
             ]
         }
     },
-    "1052430-5c3: Energy And Environmental Management - Environmental Certification": {
-        "en": {
-            "environmental management": [
-                "energy and environmental management - environmental cer"
+    "1044144-3a8: Gestione Energetica Ambientale - Certificazione Ambientale Degli Edifici": {
+        "it": {
+            "etic(?:a|he) ambiental": [
+                "gestione energetica ambientale - certificazione a"
+            ]
+        }
+    },
+    "1031665: Sistemi Impiantistici A Scala Urbana E Degli Edifici": {
+        "it": {
+            "qualita dell aria": [
+                "termo-igrometrico e qualita dell aria interna  iaq   sul "
+            ]
+        }
+    },
+    "1020328: Dinamica Degli Inquinanti E Risanamento Dei Siti Contaminati": {
+        "it": {
+            "contaminazion(?:e|i) (?:dei|del) suol|suol(?:o|i) contaminat": [
+                "tive ai fenomeni di contaminazione dei suoli e delle falde acqu"
+            ],
+            "inquina": [
+                "dinamica degli inquinanti e risanamento de",
+                "bonifica di un sito inquinato   nel corso delle"
+            ],
+            "fald(?:a|e) (?:freatic|acquifer|sotterrane)": [
+                "e dei suoli e delle falde acquifere allo scopo di   a ",
+                " ambientali suolo e falde acquifere sulla base della c",
+                "i nei suoli e nelle falde acquifere con particolare ri"
+            ]
+        }
+    },
+    "1012088: Laboratorio Di Meccanica": {
+        "it": {
+            "effic[^ ]+ (?:delle |della )?risors": [
+                "ocollo  la gestione efficiente delle risorse disponibili  inclu"
+            ]
+        }
+    },
+    "1056093: Biologia Farmaceutica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "nni anche alla parte ecologica  il corso difatti e",
+                "le loro correlazioni ecologiche ed evolutive  arriv"
+            ],
+            "biodiversit": [
+                "o funzionamento  la biodiversita  comprendere la di",
+                "e comparativa della biodiversita morfo-funzionale i"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "  dalla salute alle problematiche ambientali  l attivita di r"
+            ]
+        }
+    },
+    "10596550: Igiene E Management Sanitario": {
+        "it": {
+            "inquina": [
+                "logie correlate all inquinamento ambientale   b"
             ]
         }
     },
     "10595658-3ad: Urban Health And Sustainable Transport - Sustainable Transport": {
-        "en": {
-            "sustainable transport": [
-                "urban health and sustainable transport - sustainable trans",
-                "ainable transport - sustainable transport il legame tra le ca"
+        "it": {
+            "(?:beneficio?|vantaggio?) (?:dello ambiente|ambientali|dello ecosistema)": [
+                "hio per la salute e benefici ambientali che potrebbero deri"
+            ],
+            "rischio? (?:ambient|ecosist)": [
+                "revenire malattie e rischi ambientali * essere in grad"
             ]
         }
     },
@@ -161,68 +2460,919 @@
             ]
         }
     },
-    "10595650: Bioclimatic Design": {
-        "en": {
-            "[bioclimat[^ ]+, energ[^ ]+]": [
-                "bioclimatic design il corso foc",
-                "ntrali del progetto energetico dell'ambiente costr",
-                "l'ingegneria e dell'energetica  alle diverse scale",
-                "a di certificazione energetica  la progettazione e",
-                "iantistici  qualita energetiche e prestazioni bio-c",
-                "o delle performance energetiche/ambientali degli organismi edi"
+    "10595664: Architectural Engineering For Sustainable Buildings And Environment": {
+        "it": {
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "tano il piu ridotto impatto ambiental"
             ]
         }
     },
     "10595651: Groundwater Management": {
-        "en": {
-            "water management": [
-                "groundwater management l'obiettivo del cor"
+        "it": {
+            "sfruttament(?:o|i) sostenibile": [
+                "e  finalizzate allo sfruttamento sostenibile di esse"
             ]
         }
     },
-    "AAF1739: Further Learning Work And Training": {
-        "en": {
-            "ccs": [
-                "zione santa lucia irccs  istituto di scienz"
+    "10595654: Advanced Processes And Technologies For Water Sustainability": {
+        "it": {
+            "[energi, sostenibil]": [
+                "ini di materia e di energia  nella piu moderna",
+                "gie avanzate per la sostenibilita  nella gestione ",
+                " il principio della sostenibilita ambientale nel s"
+            ]
+        }
+    },
+    "10595656: Sustainable Materials Technologies": {
+        "it": {
+            "inquina": [
+                "li e al rilascio di inquinanti da materiali in "
+            ]
+        }
+    },
+    "1038403: Struttura E Funzione Degli Ecosistemi Marini": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "scenze di base della ecologia marina inerenti  1 ",
+                "ativo piu ampio dell ecologia  anche con attenzio"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "ra e funzione degli ecosistemi marini obiettivi generali",
+                "lla struttura degli ecosistemi marini  2  la definizione",
+                "ento dei principali ecosistemi marini  praterie di posid",
+                "atiche relative all ambiente marino    obiettivi speci",
+                "lle componenti dell ecosistema marino  delle interazioni",
+                "ento dei principali ecosistemi marini   lo studente potr",
+                " dello studio degli ecosistemi marini  essi dovranno alt",
+                " problematiche dell ambiente marino nel contesto appli",
+                "le peculiarita dell ecosistema marino  rapportandosi in ",
+                "atiche relative all ambiente marino attraverso la cons"
+            ]
+        }
+    },
+    "1041726: Biodiversita' Marina E Sistematica Biologica": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ecolari  geografici  ecologici   dovendo disegnare"
+            ],
+            "biodiversit": [
+                "biodiversita  marina e sistemat",
+                "a dei pattern della biodiversita marina su scala gl",
+                "ali e moderni della biodiversita marina  inoltre lo",
+                "lle dinamiche della biodiversita marina  e dei meto",
+                " le dinamiche della biodiversita  in particolare qu",
+                "ima e analisi della biodiversita  quelli di inferen",
+                " nello studio della biodiversita e dell inferenza f"
+            ]
+        }
+    },
+    "1034860: Conservazione E Monitoraggio Della Flora Spontanea": {
+        "it": {
+            "biodiversit": [
+                " comprensione della biodiversita e strategie di con",
+                "- saper valutare la biodiversita e monitorare lo st"
+            ],
+            "biologi(?:a|e) della conservazione": [
+                "e botaniche e della biologia della conservazione - imparare a porsi "
+            ]
+        }
+    },
+    "1038272: Produttivita' Primaria Negli Ecosistemi E Cambiamenti Climatici": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                " negli ecosistemi e cambiamenti climatici obiettivi generali",
+                "ati nell ambito dei cambiamenti climatici e valutate le poss",
+                "tanza degli attuali cambiamenti climatici attraverso la pres",
+                " chiave connessi al cambiamento climatico    capacita critic",
+                "o degli effetti dei cambiamenti climatici  ciascuno studente",
+                "are la tematica dei cambiamenti climatici all interno del ca"
+            ]
+        }
+    },
+    "1016501: Zoologia Dei Vertebrati": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                " la diversificazione ecologica in base al modo di ",
+                "ologici  geografici  ecologici  abilita comunicati"
+            ],
+            "biodiversit": [
+                "vi e spaziali della biodiversita dei vertebrati  co",
+                "e sui pattern della biodiversita  in particolare qu",
+                "ta di analisi della biodiversita dei vertebrati aut",
+                "entificazione della biodiversita dei vertebrati  ca"
+            ]
+        }
+    },
+    "1044803: Biorimedio Di Ambienti Acquatici E Terrestri Contaminati": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "uisito conoscenze di ecologia microbica con parti",
+                "multidisciplinare ed ecologico   obiettivi specifi",
+                "are con un approccio ecologico ed interdisciplinar"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "biorimedio di ambienti acquatici e terrestri contam"
+            ],
+            "bio-?rimedi": [
+                "biorimedio di ambienti acquat",
+                "n  bioaugmentation  biorimedio fito-assistito  ve",
+                " le potenzialita di biorimedio di suoli e acque d",
+                "po di intervento di biorimedio  es   biostimulati",
+                "n  bioaugmentation  biorimedio-fitoassistito  sia",
+                "che la strategia di biorimedio piu adatta per ogn",
+                "che la strategia di biorimedio piu adatta per ogn",
+                "ad un intervento di biorimedio  il docente poi in",
+                "poi l intervento di biorimedio da effettuare con "
+            ]
+        }
+    },
+    "1044793: Entomologia Applicata": {
+        "it": {
+            "biodiversit": [
+                "er salvaguardare la biodiversita mediante intervent"
+            ],
+            "lott(?:a|e) biologic": [
+                "nti responsabili di lotta biologica e integrata    cap"
+            ]
+        }
+    },
+    "10589198: Biodiversita' Degli Ecosistemi D'Acqua Dolce": {
+        "it": {
+            "biodiversit": [
+                "biodiversita  degli ecosistemi "
+            ],
+            "bio[- ]?indicator": [
+                "i la definizione di bioindicatori e bioindici finali"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "della varieta degli ambienti acquatici che compongono la ",
+                "nei confronti degli ambienti acquatici   capacita apprend"
+            ]
+        }
+    },
+    "1041675: Evoluzione E Sviluppo": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "biettivi generali  l ecologia e una scienza stret"
+            ],
+            "biodiversit": [
+                "i allo studio della biodiversita - valutare i fenom",
+                "e in generale sulla biodiversita  - individuare pos"
+            ],
+            "lott(?:a|e) biologic": [
+                "i benefici  come la lotta biologica e la reintroduzion"
+            ]
+        }
+    },
+    "1023481: Telerilevamento E Gis": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "analisi di carattere ecologico    obiettivi specif",
+                "itoriali a carattere ecologico   sulla base delle "
+            ]
+        }
+    },
+    "1041868: Monitoraggio Ambientale Di Sistemi Naturali E Antropizzati": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "mporale dei processi ecologici in atto e allo svil",
+                " delle vulnerabilita ecologica  es  impatto antrop"
+            ]
+        }
+    },
+    "10600189: Ecologia E Biologia Evolutiva Dei Parassiti Umani E Zoonotici": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "oonotici  della loro ecologia e dei loro adattame",
+                "ttere in relazione l ecologia delle principali pa",
+                "aspetti teorici dell ecologia e della biologia ev"
+            ]
+        }
+    },
+    "1023373: Conservazione E Gestione Delle Risorse Marine": {
+        "it": {
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                " popolazione  4  la protezione dell ambiente marino in italia e "
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "ioni e minacce sull ambiente marino  2  dinamica delle",
+                " la protezione dell ambiente marino in italia e in eur",
+                " per lo studio dell ambiente marino e la dinamica dell",
+                " problematiche dell ambiente marino in un contesto app"
+            ],
+            "inquina": [
+                "a e in europa  5  l inquinamento marino   la pa"
+            ]
+        }
+    },
+    "1041598: Ecologia Sperimentale E Applicata": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "e basi della moderna ecologia e nello studio dell",
+                "cazione delle teorie ecologiche utili per la soluzi",
+                "ecie e della nicchia ecologica nei flussi di energ",
+                " e nelle successioni ecologiche e le loro variazion",
+                "a avanzata a livello ecologico/ambientale ed evoluzionistico/",
+                "za delle teorie dell ecologia e degli esperimenti",
+                "cazioni delle teorie ecologiche utili alla soluzion",
+                "dita conoscenza dell ecologia e degli esperimenti"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "ologici e fisici in ecosistemi acquatici e terrestri  compr"
+            ]
+        }
+    },
+    "10600194: Biologia Evoluzionistica Applicata": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "le biotecnologie  i cambiamenti climatici  la biologia delle"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "l uomo con i sistemi ecologici e con la biosfera i",
+                "l uomo con i sistemi ecologici e con la biosfera i",
+                "sistemi biologici ed ecologici  e le loro potenzia"
+            ],
+            "biologi(?:a|e) della conservazione": [
+                "delle invasioni  la biologia della conservazione  gli studenti potra"
+            ],
+            "biosfera": [
+                " ecologici e con la biosfera in generale  attrav",
+                " ecologici e con la biosfera in generale   capac"
+            ]
+        }
+    },
+    "10592793: Ecologia E Comportamento Acustico Dei Mammiferi Marini": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "rnire  1  nozioni di ecologia e riconoscimento de",
+                "i comportamentali ed ecologiche che i mammiferi mar",
+                "nto comunicativo  ed ecologico  abbandono di aree ",
+                "custici  geografici  ecologici   dovendo realizzar"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "e e relazioni con l ambiente marino  integrazione degl",
+                " problematiche dell ambiente marino in un contesto amp",
+                "e salvaguardia dell ambiente marino  2  la capacita di"
+            ]
+        }
+    },
+    "10600075: Dinamiche Ecofisiologiche Delle Piante In Risposta A Stress Ambientali": {
+        "it": {
+            "bilancio? del carbonio": [
+                "i acclimatazione  - bilancio del carbonio  dei nutrienti e de"
+            ],
+            "ecofisiologi": [
+                "dinamiche ecofisiologiche delle piante in ",
+                "-pianta - metodi in ecofisiologia vegetale   b  capa",
+                "iti nel campo della ecofisiologia vegetale  - capaci"
+            ],
+            "sfid(?:a|e) (?:ambient|ecosist)": [
+                " i cambiamenti e le sfide ambientali  - meccanismi di"
+            ],
+            "inquina": [
+                " temperatura  luce  inquinanti   - interazioni "
+            ]
+        }
+    },
+    "10589403: Microbiologia Ambientale": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "organismi hanno nell ecologia dei diversi ambient",
+                " a tutti gli aspetti ecologici inclusi cambiamenti"
+            ],
+            "biologia ambientale": [
+                "microbiologia ambientale obiettivi generali ",
+                "ze avanzate di microbiologia ambientale incluse le piu mode",
+                " conoscenze di microbiologia ambientale sia al pubblico lai",
+                "ze avanzate di microbiologia ambientale incluse le piu avan",
+                " conoscenze di microbiologia ambientale sia al pubblico lai"
+            ]
+        }
+    },
+    "10600072: Impatti Dei Cambiamenti Climatici Sulla Biodiversita' Marina": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "impatti dei cambiamenti climatici sulla biodiversita",
+                "o degli impatti dei cambiamenti climatici indotti dall incre",
+                "tanza degli attuali cambiamenti climatici per la struttura e",
+                " chiave connessi al cambiamento climatico  allo stesso tempo",
+                "o degli effetti dei cambiamenti climatici  ciascuno studente",
+                "are la tematica dei cambiamenti climatici all interno del ca"
+            ],
+            "biodiversit": [
+                "nti climatici sulla biodiversita  marina obiettivi ",
+                " in atmosfera sulla biodiversita marina  al termine"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "funzionamento degli ecosistemi marini  ai diversi livell",
+                "funzionamento degli ecosistemi marini attraverso la pres"
+            ]
+        }
+    },
+    "10589150: Genetica Della Conservazione": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ocessi e le funzioni ecologiche  lo studente potra "
+            ],
+            "biodiversit": [
+                "conservazione della biodiversita    obiettivi speci"
+            ]
+        }
+    },
+    "1031550: Approccio Ecosistemico Alla Conservazione Della Biodiversita'": {
+        "it": {
+            "biodiversit": [
+                "conservazione della biodiversita  obiettivi general",
+                "conservazione della biodiversita a livello di speci",
+                "stare la perdita di biodiversita mediante l analisi",
+                "conservazione della biodiversita    obiettivi speci",
+                "della perdita delle biodiversita ai vari livelli e ",
+                "conservazione della biodiversita a livello di speci",
+                "conservazione della biodiversita  queste capacita s",
+                "cause di perdita di biodiversita e la definizione d",
+                "conservazione della biodiversita cosi da essere in "
+            ]
+        }
+    },
+    "10600284-f28: Materiali E Tecnologie Innovative - Requisiti Ambientali Degli Artefatti": {
+        "it": {
+            "requisit(?:o|i) (?:ambient|ecosist)": [
+                "ologie innovative - requisiti ambientali degli artefatti "
+            ]
+        }
+    },
+    "1031746: Teoria E Tecniche Della Televisione": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "e coinvolge anche le ecologie televisive  avvento"
+            ]
+        }
+    },
+    "1020329: Processi Di Trattamento Di Scarichi, Emissioni E Rifiuti, Recupero Di Materia Ed Energia": {
+        "it": {
+            "[energi, sostenibil]": [
+                "upero di materia ed energia il corso concorre ",
+                " ambiente  risorse  energia  sicurezza    in p",
+                "lanci di materia ed energia  relazioni d equil",
+                " per il recupero di energia e materia  - appre",
+                "della produzione di energia da risorse rinnova",
+                "re riferimento alla sostenibilita ambientale  la p"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "ici nel campo della protezione ambientale  con particolare ri"
+            ]
+        }
+    },
+    "1022454: Sistemi Di Produzione E Accumulo Dell'Energia": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                " conoscere le fonti energetiche rinnovabili of 2  conoscere i "
+            ]
+        }
+    },
+    "1041448: Chimica Merceologica E Degli Alimenti Con Laboratorio": {
+        "it": {
+            "inquina": [
+                "ergetico  del minor inquinamento e del recupero"
+            ]
+        }
+    },
+    "1020348: Chimica Dell'Ambiente": {
+        "it": {
+            "effetto serra": [
+                "i dell aumento dell effetto serra e del buco dell ozo"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "la valutazione dell impatto ambientale  per lo studio e"
+            ],
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "ente a una definita problematica ambientale    descrittore d"
+            ],
+            "controll(?:o|i) (?:dell inquinamento|degli inquinanti)": [
+                "tarie in materia di controllo degli inquinanti e ai protocolli int"
+            ],
+            "inquina": [
+                "e di un determinato inquinante  saranno fatti c",
+                " di controllo degli inquinanti e ai protocolli ",
+                "ggio dei principali inquinanti     descrittore ",
+                "una problematica di inquinamento ambientale  po",
+                "ambientale legati a inquinamento  tale capacita"
+            ],
+            "esauriment(?:o|i) (?:delle |della |di )?risors(?:a|e) natural": [
+                "e l attenzione sull esaurimento delle risorse naturali e la carenza idric"
+            ]
+        }
+    },
+    "1022407: Microbiologia Farmaceutica": {
+        "it": {
+            "lott(?:a|e) biologic": [
+                "zione  strumenti di lotta biologica per il controllo d"
+            ]
+        }
+    },
+    "1035083-7ee: Biotecnologie Microbiche Industriali E Ambientali - Modulo I": {
+        "it": {
+            "biodiversit": [
+                "cipi basilari della biodiversita nel mondo dei micr",
+                "i complessita della biodiversita microbica - le int"
+            ]
+        }
+    },
+    "10596046: Biotecnologie Applicate E Evoluzione": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "dell insegnamento di ecologia molecolare e lo stu",
+                " base della genetica ecologica  - i metodi molecol",
+                "colari utilizzati in ecologia molecolare e la lor",
+                "luzione di tematiche ecologiche ed evolutive  - la ",
+                "ncipi della genetica ecologica alla ricerca biotec"
+            ],
+            "biodiversit": [
+                " - i principi della biodiversita  misure  minacce  ",
+                "globali legati alla biodiversita  - applicare i pri"
+            ]
+        }
+    },
+    "10592908: Bio E Nanomateriali Per Applicazioni Tecnologiche": {
+        "it": {
+            "bio[ -]?degradabil": [
+                " biocomaptibilita e biodegradabilita  alla descrizion"
+            ]
+        }
+    },
+    "10606479: Sistemi Modello Animali Per Le Biotecnologie: Applicazioni In Ambito Biomedico E Ecologico-Ambientale": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "n ambito biomedico e ecologico-ambientale l obiettivo del cor",
+                "ico  traslazionale e ecologico ambientale   gli st"
+            ]
+        }
+    },
+    "10600076: Miglioramento Biotecnologico Vegetale Per Le Fonti Rinnovabili E La Sostenibilita' Ambientale": {
+        "it": {
+            "agro-?foresta": [
+                "i scarto di origine agroforestale e di colture dedi"
+            ],
+            "produ[^ ]+ sostenibil": [
+                "a utilizzare per la produzione sostenibile di biocarburanti e"
+            ],
+            "inquina": [
+                "rso biosensori dell inquinamento  esempio ozono"
+            ],
+            "bio[ -]?diesel": [
+                "er la produzione di biodiesel e prodotti di uso i"
+            ]
+        }
+    },
+    "1017329: Ingegneria Genetica E Terapia Genica": {
+        "it": {
+            "sfid(?:a|e) (?:ambient|ecosist)": [
+                "nella risposta alle sfide ambientali e di sviluppo cu"
+            ]
+        }
+    },
+    "10600110: Etica Dell'Ambiente E Della Sostenibilita'": {
+        "it": {
+            "biosfera": [
+                " salvaguardia della biosfera  diritti delle gene"
+            ]
+        }
+    },
+    "1035085: Processi Biotecnologici Per L'Ambiente E L'Energia": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                " ambientale e delle energie rinnovabili nonche la descrizi"
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "ici nel campo della protezione ambientale e delle energie rin",
+                "e   - scenari della protezione ambientale e normativa ambient",
+                " di processi per la protezione ambientale  facendo anche rife"
+            ]
+        }
+    },
+    "1003884: Ecologia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "e  l insegnamento di ecologia ha l obiettivo di f",
+                "sistemi biologici ed ecologici  specifici obiettiv",
+                "dell insegnamento di ecologia e quello di fornire",
+                "co nello studio dell ecologia  - l esistenza e im",
+                " - interpretare dati ecologici   -  utilizzare i c",
+                "tilizzare i concetti ecologici generali come strum"
+            ],
+            "biodiversit": [
+                "iscussione legati a biodiversita  evoluzione e camb"
+            ],
+            "sfid(?:a|e) (?:ambient|ecosist)": [
+                "nella risposta alle sfide ambientali e di sviluppo cu"
+            ]
+        }
+    },
+    "1047959: Fondamenti Di Microbiologia Alimentare": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ntati lo studio dell ecologia microbica dei princ"
+            ]
+        }
+    },
+    "1038265: Fisiopatologia Vegetale": {
+        "it": {
+            "sfid(?:a|e) (?:ambient|ecosist)": [
+                "nella risposta alle sfide ambientali e di sviluppo cu"
+            ]
+        }
+    },
+    "1023907-518: Microbiologia Generale, Biotecnologie Microbiche Ed Elementi Di Microbiologia Medica - Microbiologia Generale, Biotecnologie Microbiche Ed Elementi Di Microbiologia Medica I": {
+        "it": {
+            "biodiversit": [
+                "nitamente alla loro biodiversita  e patogenicita   "
+            ]
+        }
+    },
+    "1023907-6cf: Microbiologia Generale, Biotecnologie Microbiche Ed Elementi Di Microbiologia Medica - Microbiologia Generale, Biotecnologie Microbiche Ed Elementi Di Microbiologia Medica Ii": {
+        "it": {
+            "biodiversit": [
+                "nitamente alla loro biodiversita  e patogenicita   "
+            ]
+        }
+    },
+    "1041679: Microbiologia Industriale E Tecnologie Ambientali": {
+        "it": {
+            "tecnologi(?:a|e) ambiental": [
+                "logia industriale e tecnologie ambientali obiettivi formativ"
+            ]
+        }
+    },
+    "1052141: Plasticita' Cellulare E Differenziamento Delle Piante: Applicazioni  Industriali": {
+        "it": {
+            "biodiversit": [
+                "conservazione della biodiversita  banche del germop"
             ]
         }
     },
     "10598580-717: Biotechnology Applied To Environmental Remediation - Soil And Groundwater Bioremediation": {
-        "en": {
-            "[contamin[^ ]+, groundwater]": [
-                "li e acque di falde contaminate  il corso intende f",
-                "tivi ai fenomeni di contaminazione di suoli e falde ac",
-                "o la dispersione di contaminanti nelle matrici ambie",
-                "lificazione di siti contaminati     b  capacita di ",
-                "sito potenzialmente contaminato e di identificare l",
-                "nto a casi reali di contaminazione   d  abilita comuni",
-                "bonifica di un sito contaminato",
-                "ediation - soil and groundwater bioremediation obie",
-                "del modulo soil and groundwater bioremediation   ob"
+        "it": {
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "ici nel campo della protezione ambientale  in tale ambito  pa"
             ],
-            "[contamin[^ ]+, river]": [
-                "li e acque di falde contaminate  il corso intende f",
-                "tivi ai fenomeni di contaminazione di suoli e falde ac",
-                "o la dispersione di contaminanti nelle matrici ambie",
-                "lificazione di siti contaminati     b  capacita di ",
-                "sito potenzialmente contaminato e di identificare l",
-                "nto a casi reali di contaminazione   d  abilita comuni",
-                "bonifica di un sito contaminato",
-                "er illustrare e descrivere le strategie/tecno"
+            "inquina": [
+                "bonifica di un sito inquinato  con particolare "
+            ],
+            "fald(?:a|e) (?:freatic|acquifer|sotterrane)": [
+                "inazione di suoli e falde acquifere  tale apprendiment"
             ]
         }
     },
     "10598580-de8: Biotechnology Applied To Environmental Remediation - Waste And Wastewater Biotreatment And Valorization": {
-        "en": {
-            "[contamin[^ ]+, river]": [
-                "li e acque di falde contaminate  il corso intende f",
-                "er illustrare e descrivere i processi biotecn"
+        "it": {
+            "[energi, sostenibil]": [
+                "lanci di materia ed energia  relazioni d equil",
+                "e di salvaguardia e sostenibilita ambientale   c  "
+            ],
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "ici nel campo della protezione ambientale  in tale ambito  pa"
+            ]
+        }
+    },
+    "1036685-e68: Sanita' Pubblica - Igiene Generale Applicata": {
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "-degenerative e le  problematiche ambientali connesse con la "
+            ]
+        }
+    },
+    "10588657: Estetica Del Paesaggio": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ttito su  geografia  ecologia  botanica  sociolog"
+            ],
+            "[turismo, sostenibil]": [
+                "macerie  teoria del turismo e della sostenibili",
+                "zazione dei luoghi  sostenibilita  estetica delle ",
+                "del turismo e della sostenibilita  etc  l insegnam"
+            ]
+        }
+    },
+    "1008505: Fitogeografia E Geobotanica Applicata": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                " di progettazione e pianificazione territoriale coerenti con l ide",
+                "egati  alla gesione sostenibile del territorio  "
+            ],
+            "biodiversit": [
+                "zio-temporali della biodiversita  sulla dimensione ",
+                "ne e gestione della biodiversita quali ad esempio i"
+            ]
+        }
+    },
+    "10588661: Selvicoltura Urbana E Paesaggio": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "icazione e  recupero ecologico di spazi aperti e d",
+                " con riferimento all ecologia del paesaggio e all",
+                " recupero e restauro ecologico di ambienti inquina"
+            ],
+            "bio-?rimedi": [
+                "i intervento per il biorimedio e il recupero e re"
+            ],
+            "inquina": [
+                "ologico di ambienti inquinati e degradati  per "
+            ]
+        }
+    },
+    "10588669-4f7: Laboratorio Di Architettura Del Paesaggio I - Valutazione Economica Dei Progetti": {
+        "it": {
+            "servizio? (?:ambient|ecosist)": [
+                "reare un sistema di servizi ecosistemici che generino e",
+                "reare un sistema di servizi ecosistemici che generino e"
+            ]
+        }
+    },
+    "10588666-c73: Laboratorio Di Restauro E Paesaggio - Conservazione E Valorizzazione Del Paesaggio": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "spetti paesistici e pianificazione territoriale  cosi da soddisfar",
+                "ge beni culturali e ambientali   il compendio s",
+                " ed espressivo dell ambiente antropizzato  l ap",
+                "no beni culturali e ambientali  in questa prosp",
+                "a tanto dei fattori ambientali  quanto dei fatt",
+                "nell attuale spazio-ambiente   la verifica dell"
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "spetti paesistici e pianificazione territoriale  cosi da soddisfar",
+                "zioni in termini di sostenibilita rispetto al  s"
+            ]
+        }
+    },
+    "10588670-523: Laboratorio Di Piani E Infrastrutture Di Paesaggio - Pianificazione Del Paesaggio": {
+        "it": {
+            "adattament(?:o|i) climatic": [
+                "ilienza ambientale  adattamento climatico  miglioramento del"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "nuita e funzionalita ecologica   capacita di appli"
+            ],
+            "biodiversit": [
+                "potenziamento della biodiversita e miglioramento de"
+            ]
+        }
+    },
+    "10588670-b96: Laboratorio Di Piani E Infrastrutture Di Paesaggio - Progettazione Del Paesaggio": {
+        "it": {
+            "biodiversit": [
+                "potenziamento della biodiversita e  miglioramento d"
+            ]
+        }
+    },
+    "10588670-e08: Laboratorio Di Piani E Infrastrutture Di Paesaggio - Ecologia Del Paesaggio": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "tture di paesaggio - ecologia del paesaggio obiet",
+                "incipi e metodologie ecologiche nel quadro interdis",
+                " inteso come sistema ecologico complesso  a divers",
+                "ella classificazione ecologica territoriale  della",
+                "e sistema di sistemi ecologici  cosi come dei driv",
+                "ndizioni e il valore ecologico dei paesaggi  capac",
+                "linare di conoscenze ecologico-paesaggistiche finalizzate alla de",
+                "ficazione di sistemi ecologici complessi  capacita",
+                "i base per l analisi ecologica del paesaggio  per "
+            ]
+        }
+    },
+    "10588668-b19: Laboratorio Di Architettura Del Paesaggio Ii - Architettura Del Paesaggio": {
+        "it": {
+            "[[ ]biciclett(?:a|e)[ ]]": [
+                "ccordo anulare delle biciclette  il laboratorio pers"
+            ]
+        }
+    },
+    "10588668-04a: Laboratorio Di Architettura Del Paesaggio Ii - Agricoltura Urbana E Paesaggio": {
+        "it": {
+            "biodiversit": [
+                "i fertili  erosione biodiversita  perdita identita "
+            ],
+            "rischio? (?:ambient|ecosist)": [
+                "e di prevenzione di rischi ambientali negli ambiti per",
+                "nti per  valutare i rischi ambientali e biologici deri"
+            ],
+            "[[ ]+suol(?:o|i)[ ]+, erosione]": [
+                "icoltura  perdita di suoli fertili  erosione bi",
+                "a di suoli fertili  erosione biodiversita  perdi"
+            ]
+        }
+    },
+    "1035635: Progettazione Ambientale": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                "rgetici  impiego di energie rinnovabili  riduzione dell im"
+            ],
+            "[energi, sostenibil]": [
+                "rgetici  impiego di energie rinnovabili  riduz",
+                "so di progettazione sostenibile dell ambiente cost",
+                "attiva   aspetti di sostenibilita ambientale  veri",
+                "uzioni innovative e sostenibili  il conseguimento "
+            ],
+            "(?:ridu[^ ]+|dimi[^ ]+) (?:del|dei|della|delle) consum[^ ]+ (?:di |dell |delle )?energ": [
+                "icienza energetica  riduzione dei consumi energetici  impiego di en"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                " dei suoli  gestione ecologica delle acque  ecocom",
+                "ivi per l efficienza ecologica dell intervento  lo"
+            ],
+            "inquina": [
+                "ll atmosfera e dell inquinamento di aria  acqua"
+            ],
+            "[ricicla, rifiut]": [
+                "ita dei componenti  riciclabilita dei rifiuti e",
+                "  riciclabilita dei rifiuti e degli scarti   a"
+            ],
+            "[ricicla, material]": [
+                "ita dei componenti  riciclabilita dei rifiuti e",
+                "cocompatibilita dei materiali  riusabilita dei c"
+            ],
+            "ciclabil": [
+                "a dei componenti  riciclabilita dei rifiuti e de"
+            ]
+        }
+    },
+    "10588664: Biodiversita' Animale E Reti Ecologiche": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "sita  animale e reti ecologiche obiettivi generali ",
+                "mmiferi   - il ruolo ecologico dei rappresentanti ",
+                "territorio e di reti ecologiche  conosca le princip",
+                "e zoologi  botanici  ecologi    - muoversi in am"
+            ],
+            "biodiversit": [
+                "biodiversita  animale e reti ec",
+                "l significato della biodiversita e del suo valore i"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "alore in termini di servizi ecosistemici e della necess"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "o della fauna negli ecosistemi marino  terrestre e d acq"
+            ]
+        }
+    },
+    "10588638-0d7: Laboratorio Integrato Di Progettazione Urbanistica E Governo Del Territorio - Progettazione Urbanistica E Assetto Del Paesaggio": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "e nell ambito della pianificazione territoriale e paesistica con s",
+                "mponenti paesistico-ambientali  in particolare ",
+                " le tre prospettive ambientale  strutturale e m",
+                "mponenti paesistico-ambientali riferite alla di",
+                "mponenti paesistico-ambientali  lo studente avr",
+                "mponenti paesistico-ambientali riferite alla di",
+                "oriali e paesistico-ambientali riferite alla di"
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "e nell ambito della pianificazione territoriale e paesistica con s",
+                "iative innovative e sostenibili   abilita comuni",
+                "ative  innovative e sostenibili  tra loro altern"
+            ]
+        }
+    },
+    "10588642-b5e: Laboratorio Integrato Di Progettazione Tecnologica Ambientale - Progettazione Tecnologica Ambientale": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "piano dell efficacia ecologica  dell efficienza en",
+                "ndenza  di uno stato ecologico di equilibrio nella"
+            ]
+        }
+    },
+    "10588642-e75: Laboratorio Integrato Di Progettazione Tecnologica Ambientale - Fisica Tecnica Ambientale Ed Energetica": {
+        "it": {
+            "[energi, sostenibil]": [
+                "one e utilizzo dell energia  ritenuti oggi una",
+                "te e razionale dell energia  in particolare  l",
+                "te e razionale dell energia  l acquisizione di",
+                "per una piu elevata sostenibilita ambientale  gli ",
+                "uzioni innovative e sostenibili  la verifica delle"
+            ]
+        }
+    },
+    "10589048: Ecologia Vegetale E Botanica Applicata": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "mpo di strategie di pianificazione territoriale coerenti con l ide",
+                "ssi nel campo della pianificazione territoriale relazionata all ut",
+                "izzare strumenti di pianificazione territoriale avanzati e multime",
+                "pristino e recupero ambientale all interno di u",
+                "tazione dei servizi ecosistemici forniti dalla ",
+                " e riqualificazione ambientale  la verifica del"
+            ],
+            "[pianificazion(?:e|i) territorial, sostenib]": [
+                "mpo di strategie di pianificazione territoriale coerenti con l ide",
+                "ssi nel campo della pianificazione territoriale relazionata all ut",
+                "izzare strumenti di pianificazione territoriale avanzati e multime",
+                "rategia di gestione sostenibile del territorio  "
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "enerali  il corso di ecologia vegetale e botanica",
+                "fficienza delle reti ecologiche  tali capacita sara",
+                "nze nell ambito dell ecologia vegetale e  piu in "
+            ],
+            "biodiversit": [
+                "conservazione della biodiversita  vedi ad esempio d"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "implementazione dei servizi ecosistemici forniti dalla "
+            ]
+        }
+    },
+    "10596662: Laboratorio Di Progettazione Tecnologica Ambientale Per La Rigenerazione E La Sostenibilita'": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ndenza  di uno stato ecologico di equilibrio nella"
+            ]
+        }
+    },
+    "10588646: Costruire Sostenibile Per 'Greener Cities'": {
+        "it": {
+            "architettur(?:a|e) sostenibil": [
+                "rigenerativo per un architettura sostenibile e una  green city "
+            ],
+            "cambiament(?:o|i) climatic": [
+                "azione in regime di cambiamenti climatici e scarsita di riso"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                " efficienti in senso ecologico ed energetico le lo",
+                "ndenza  di uno stato ecologico di equilibrio nella"
+            ]
+        }
+    },
+    "1052143-aad: Structural Consolidation And Hvac Plant In Historical Buildings - Technical Systems": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                " illuminazione e ad energie rinnovabili negli edifici  in "
+            ]
+        }
+    },
+    "1056423: Design Studio": {
+        "it": {
+            "[risparmio? energetic, edificio]": [
+                "i questioni come il risparmio energetico  la sostenibilita ",
+                "rbano a quella dell edificio fino all approfondi"
+            ]
+        }
+    },
+    "1014324: Geoarchitettura": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "si che attraverso i cambiamenti climatici rischiano di distr"
+            ],
+            "antropocen": [
+                "balizzazione e dell antropocene  la geo-architettu"
+            ],
+            "inquina": [
+                "durre i processi di inquinamento  di combattere"
+            ]
+        }
+    },
+    "1025857: Impianti Tecnici": {
+        "it": {
+            "[energi, sostenibil]": [
+                "truzioni  edifici a energia quasi zero   sia c",
+                "tiche relative alla sostenibilita energetica ed am"
+            ],
+            "qualita dell aria": [
+                "oigrometrico e alla qualita dell aria  si intendono forni"
+            ]
+        }
+    },
+    "1044253: Laboratorio Di Progettazione Architettonica Iv": {
+        "it": {
+            "tecnologi(?:a|e) ambiental": [
+                "ianti e dell uso di tecnologie ambientali volte al risparmio"
+            ]
+        }
+    },
+    "1022659: Illuminotecnica": {
+        "it": {
+            "inquina": [
+                "parmio energetico e inquinamento luminoso"
+            ]
+        }
+    },
+    "1036432: Pianificazione Territoriale": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "pianificazione territoriale il corso fornisce ",
+                "le  paesaggistico e ambientale delle diverse ar"
+            ]
+        }
+    },
+    "1038438: Ecologia Preistorica Avanzato Ia": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "re  nell ambito dell ecologia preistorica avanzat"
             ]
         }
     },
     "10596380-b94: Environmental And Experimental Archaeology - Environmental Archaeology": {
         "en": {
-            "environment[^ ]+ issue": [
+            "(?:environment[^ ]*|ecosystem) issue": [
                 "he ability to apply environmental issues to support archaeo"
             ]
         }

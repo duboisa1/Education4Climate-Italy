@@ -53,8 +53,8 @@ class UniBoSpider(scrapy.Spider, ABC):
     def parse_structure_diagram(self, response, base_dict):
 
         main_col_txt = "//div[h2[contains(text(), 'Piani disponibili') or contains(text(), 'Plans available')]]"
-        contains_txt = "contains(text(), '2022/2023') or contains(text(), '2022-2023')" \
-                       " or contains(text(), '2022/23') or contains(text(), '2022-23')"
+        contains_txt = f"contains(text(), '{YEAR}/{YEAR+1}') or contains(text(), '{YEAR}-{YEAR+1}')" \
+                       f" or contains(text(), '{YEAR}/{YEAR+1-2000}') or contains(text(), '{YEAR}-{YEAR+1-2000}')"
         sub_programs_links = response.xpath(f"{main_col_txt}//a[{contains_txt}]/@href").getall()
         if len(sub_programs_links) > 1:
             sub_program_names = response.xpath(f"{main_col_txt}//a[{contains_txt}]/preceding::h3[1]/text()").getall()

@@ -38,11 +38,13 @@ def main(school: str, year: int):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-s", "--school", help="input json file path")
-    parser.add_argument("-y", "--year", help="academic year", default=YEAR)
+    parser.add_argument("-y", "--year", help="academic year", default=2022)
     arguments = vars(parser.parse_args())
     # main(**arguments)
 
-    schools = ["unict"]
+    schools = ["polimi", "unibo", "unica", "unict", "unifi", "unimib", "unipi", "uniroma1", "unisa"] # 2022
+     # schools = ["polito"] # 2023
+
     for school in schools:
         print(school)
         main(school, arguments['year'])
