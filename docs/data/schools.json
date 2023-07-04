@@ -1,11 +1,83 @@
 {
     "schools": [
         {
-            "name": "Universita di Bologna",
+            "name": "Politecnico di Milano",
+            "shortName": "PoliMi",
+            "coursesFile": "polimi_data_2022_courses.json",
+            "programsFile": "polimi_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "?"
+        },
+        {
+            "name": "Politecnico di Torino",
+            "shortName": "PoliTo",
+            "coursesFile": "polito_data_2023_courses.json",
+            "programsFile": "polito_data_2023_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "?"
+        },
+        {
+            "name": "Università di Bologna",
             "shortName": "UniBo",
             "coursesFile": "unibo_data_2022_courses.json",
             "programsFile": "unibo_data_2022_programs.json",
             "teachersDirectoryUrl": "https://www.unibo.it/uniboweb/unibosearch/rubrica.aspx",
+            "type": "university"
+        },
+        {
+            "name": "Università degli Studi di Calgiari",
+            "shortName": "UniCa",
+            "coursesFile": "unica_data_2022_courses.json",
+            "programsFile": "unica_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
+        },
+        {
+            "name": "Università di Catania",
+            "shortName": "UniCt",
+            "coursesFile": "unict_data_2022_courses.json",
+            "programsFile": "unict_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
+        },
+        {
+            "name": " Università degli studi di Firenze",
+            "shortName": "UniFi",
+            "coursesFile": "unifi_data_2022_courses.json",
+            "programsFile": "unifi_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
+        },
+        {
+            "name": "Università degli Studi di Milano-Bicocca",
+            "shortName": "UniMiB",
+            "coursesFile": "unimib_data_2022_courses.json",
+            "programsFile": "unimib_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
+        },
+        {
+            "name": "Università di Pisa",
+            "shortName": "UniPi",
+            "coursesFile": "unipi_data_2022_courses.json",
+            "programsFile": "unipi_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
+        },
+        {
+            "name": "Università degli studi di Roma 'La Sapienza'",
+            "shortName": "UniRoma1",
+            "coursesFile": "uniroma1_data_2022_courses.json",
+            "programsFile": "uniroma1_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
+            "type": "university"
+        },
+        {
+            "name": "Università di Salerno",
+            "shortName": "UniSa",
+            "coursesFile": "unisa_data_2022_courses.json",
+            "programsFile": "unisa_data_2022_programs.json",
+            "teachersDirectoryUrl": "",
             "type": "university"
         }
     ]

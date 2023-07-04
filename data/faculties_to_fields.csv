@@ -1,284 +1,131 @@
 school,faculty,fields
-uclouvain,"Faculté de médecine et médecine dentaire",Medecine & Health
-uclouvain,"Faculté de pharmacie et des sciences biomédicales",Pharmacy
-uclouvain,"Faculté de santé publique",Medecine & Health
-uclouvain,"Faculté des sciences de la motricité",Medecine & Health
-uclouvain,"Ecole Polytechnique de Louvain",Engineering
-uclouvain,"Faculté d'architecture, d'ingénierie architecturale, d'urbanisme",Architecture
-uclouvain,"Faculté des bioingénieurs",Agronomy & Biotechnology
-uclouvain,"Faculté des sciences",Veterinary;Science
-uclouvain,"Faculté de droit et de criminologie",Law & Criminology
-uclouvain,"Faculté de philosophie, arts et lettres",Philosophy;Letters;Arts
-uclouvain,"Faculté de théologie et d'étude des religions",Theology
-uclouvain,"Faculté des sciences économiques, sociales, politiques et de communication",Sociology;Political Sciences;Economy;Management;Communication
-uclouvain,"Louvain School of Management",Economy;Management
-uclouvain,"Faculté de psychologie et des sciences de l'éducation",Psychology;Pedagogy
-ulb,"Faculté de Philosophie et Sciences sociales",Philosophy;Sociology
-ulb,"Faculté de Lettres, Traduction et Communication",Letters;Communication
-ulb,"Faculté de Droit et de Criminologie",Law & Criminology
-ulb,"Solvay Brussels School of Economics and Management",Economy;Management
-ulb,"Faculté des Sciences psychologiques et de l'Éducation",Psychology;Pedagogy
-ulb,"Faculté d'Architecture La Cambre Horta",Architecture
-ulb,"Faculté des Sciences",Science
-ulb,"École polytechnique de Bruxelles",Engineering
-ulb,"Bruface",Engineering
-ulb,"Faculté de Médecine",Medecine & Health
-ulb,"École de Santé publique",Medecine & Health
-ulb,"Faculté de Pharmacie",Pharmacy
-ulb,"Faculté des Sciences de la motricité",Medecine & Health
-ulb,"Ecole de Traduction et Interprétation ISTI-Coremans",Letters
-ulb,"Ecole Interfacultaire de Bioingénieurs",Agronomy & Biotechnology
-ulb,"Pole Santé",Medecine & Health
-ulb,"Institut d'Études européennes",Political Sciences
-ulb,"Centre de Formation continue en Sciences humaines et sociales",Sociology
-ulb,"Institut des Sciences et Industries du Vivant et de l'Environnement",Agronomy & Biotechnology;Science
-uliege,"Faculté d'Architecture",Architecture
-uliege,"Faculté de Droit, Science politique et Criminologie",Law & Criminology;Political Sciences
-uliege,"Gembloux Agro-Bio Tech",Agronomy & Biotechnology
-uliege,"HEC Liège - Ecole de Gestion",Economy;Management
-uliege,"Faculté de Médecine",Medecine & Health
-uliege,"Faculté de Médecine Vétérinaire",Veterinary
-uliege,"Faculté de Philosophie et Lettres",Philosophy;Letters
-uliege,"Faculté de Psychologie, Logopédie et Sciences de l'Education",Psychology;Pedagogy
-uliege,"Faculté des Sciences",Science
-uliege,"Faculté des Sciences Appliquées",Engineering
-uliege,"Faculté des Sciences Sociales",Sociology
-unamur,"Faculté de droit",Law & Criminology
-unamur,"Faculté d'informatique",Engineering
-unamur,"Faculté de médecine",Medecine & Health
-unamur,"Faculté de philosophie et lettres",Philosophy;Letters
-unamur,"Faculté des sciences",Science
-unamur,"Faculté des sciences économiques, sociales et de gestion",Sociology;Economy;Management
-unamur,"Département éducation et technologie",Pedagogy
-unamur,"Université de Namur",Other
-umons,"Faculté d'Architecture et d'Urbanisme",Architecture
-umons,"Faculté de Médecine et de Pharmacie",Medecine & Health;Pharmacy
-umons,"Faculté Polytechnique",Engineering
-umons,"Faculté de Psychologie et des Sciences de l'Education",Psychology;Pedagogy
-umons,"Faculté des Sciences",Science
-umons,"Faculté de Traduction et d'Interprétation - Ecole d'Interprètes Internationaux",Letters
-umons,"Faculté Warocqué d'Economie et de Gestion",Economy;Management
-umons,"Ecole de Droit",Law & Criminology
-umons,"Ecole de Formation des Enseignants",Pedagogy
-umons,"Ecole des Sciences Humaines et Sociales",Sociology
-umons,"Institut de Recherche en Sciences et Technologies du Langage",Letters
-uslb,"Faculté de philosophie, lettres et sciences humaines",Philosophy;Letters;Sociology
-uslb,"Faculté de traduction et interprétation Marie Haps",Letters
-uslb,"Faculté des sciences économiques, sociales, politiques et de la communication",Sociology;Political Sciences;Economy;Communication
-uslb,"Faculté de droit",Law & Criminology
-uslb,"Institut d’études européennes",Political Sciences
-kuleuven,"Faculteit Theologie en Religiewetenschappen",Theology
-kuleuven,"Bijzondere Faculteit Kerkelijk Recht",Theology
-kuleuven,"Hoger Instituut voor Wijsbegeerte",Philosophy
-kuleuven,"Faculteit Rechtsgeleerdheid en Criminologische Wetenschappen",Law & Criminology
-kuleuven,"Faculteit Economie en Bedrijfswetenschappen",Economy;Management
-kuleuven,"Faculteit Sociale Wetenschappen",Sociology
-kuleuven,"Faculteit Letteren",Letters
-kuleuven,"Faculteit Psychologie en Pedagogische Wetenschappen",Psychology;Pedagogy
-kuleuven,"Faculteit Wetenschappen",Science
-kuleuven,"Faculteit Ingenieurswetenschappen",Engineering
-kuleuven,"Faculteit Industriële Ingenieurswetenschappen",Engineering
-kuleuven,"Faculteit Bio-ingenieurswetenschappen",Agronomy & Biotechnology
-kuleuven,"Faculteit Architectuur",Architecture
-kuleuven,"Faculteit Geneeskunde",Medecine & Health
-kuleuven,"Faculteit Farmaceutische Wetenschappen",Pharmacy
-kuleuven,"Faculteit Bewegings- en Revalidatiewetenschappen",Medecine & Health
-kuleuven,"Geassocieerde Faculteit Kunsten",Arts
-ugent,"Faculteit Letteren en Wijsbegeerte",Philosophy;Letters;Arts
-ugent,"Faculteit Recht en Criminologie",Law & Criminology
-ugent,"Faculty of Law and Criminology",Law & Criminology
-ugent,"Faculteit Wetenschappen",Science
-ugent,"Faculty of Sciences",Science
-ugent,"Faculteit Geneeskunde en Gezondheidswetenschappen",Medecine & Health
-ugent,"Faculty of Medicine and Health Sciences",Medecine & Health
-ugent,"Faculteit Ingenieurswetenschappen en Architectuur",Architecture;Engineering
-ugent,"Faculty of Engineering and Architecture",Architecture;Engineering
-ugent,"Faculteit Economie en Bedrijfskunde",Economy;Management
-ugent,"Faculty of Economics and Business Administration",Economy;Management
-ugent,"Faculteit Diergeneeskunde",Veterinary
-ugent,"Faculty of Veterinary Medicine",Veterinary
-ugent,"Faculteit Psychologie en Pedagogische Wetenschappen",Psychology;Pedagogy
-ugent,"Faculty of Psychology and Educational Sciences",Psychology;Pedagogy
-ugent,"Faculteit Bio-ingenieurswetenschappen",Agronomy & Biotechnology
-ugent,"Faculty of Bioscience Engineering",Agronomy & Biotechnology
-ugent,"Faculteit Farmaceutische Wetenschappen",Pharmacy
-ugent,"Faculty of Pharmaceutical Sciences",Pharmacy
-ugent,"Faculteit Politieke en Sociale Wetenschappen",Sociology;Political Sciences
-ugent,"Faculty of Political and Social Sciences",Sociology;Political Sciences
-ugent,"Faculty of Arts and Philosophy",Philosophy;Letters;Arts
-ugent,"Research Department",Other
-uantwerpen,"Faculteit Bedrijfswetenschappen en Economie",Economy;Management
-uantwerpen,"Faculty of Business and Economics",Economy;Management
-uantwerpen,"Faculteit Farmaceutische, Biomedische en Diergeneeskundige Wetenschappen",Pharmacy;Veterinary
-uantwerpen,"Faculty of Pharmaceutical, Biomedical and Veterinary Science",Pharmacy;Veterinary
-uantwerpen,"Faculteit Geneeskunde en Gezondheidswetenschappen",Medecine & Health
-uantwerpen,"Faculty of Medicine and Health Sciences",Medecine & Health
-uantwerpen,"Faculteit Letteren en Wijsbegeerte",Philosophy;Letters
-uantwerpen,"Faculteit Ontwerpwetenschappen",Architecture
-uantwerpen,"Faculteit Rechten",Law & Criminology
-uantwerpen,"Faculty of Law",Law & Criminology
-uantwerpen,"Faculteit Sociale Wetenschappen",Sociology
-uantwerpen,"Faculty of Social Sciences",Sociology
-uantwerpen,"Faculteit Toegepaste Ingenieurswetenschappen",Engineering
-uantwerpen,"Faculty of Applied Engineering",Engineering
-uantwerpen,"Faculteit Wetenschappen",Science
-uantwerpen,"Faculty of Science",Science
-uantwerpen,"Instituut voor Ontwikkelingsbeleid",Political Sciences
-uantwerpen,"Institute of Development Policy",Political Sciences
-uantwerpen,"Instituut voor Milieu & Duurzame Ontwikkeling",Other
-uantwerpen,"Instituut voor Milieu en Duurzame Ontwikkeling",Other
-uantwerpen,"Instituut voor Milieu en Duurzame Ontwikkeling (IMDO)",Other
-uantwerpen,"Institute of Environment and Sustainable Development",Other
-uantwerpen,"Antwerp School of Education",Pedagogy
-uantwerpen,"Institute of Development Policy (IOB)",Political Sciences
-uantwerpen,"Institutions and Multilevel Politics",Political Sciences
-uantwerpen,"Centrum voor Andragogiek",Pedagogy
-uantwerpen,"Centrum Nascholing Onderwijs",Pedagogy
-uantwerpen,"Linguapolis",Letters
-uantwerpen,"Onderzoeksgroep Instituties en Meerlagige Politiek",Political Sciences
-vub,"Faculteit Recht en Criminologie",Law & Criminology
-vub,"Faculty of Law and Criminology",Law & Criminology
-vub,"Faculteit Sociale Wetensch & SolvayBusinessSchool",Sociology;Economy;Management
-vub,"Faculteit Economische & Sociale Wetensch & SBS",Sociology;Economy;Management
-vub,"Faculty of Economic & Social Sciences & Solvay BS",Sociology;Economy;Management
-vub,"Faculty of Social Sciences & SolvayBusinessSchool",Sociology;Economy;Management
-vub,"Faculteit Psychologie & Educatiewetenschappen",Psychology;Pedagogy
-vub,"Faculteit Psychologie en Educatiewetenschappen",Psychology;Pedagogy
-vub,"Faculty of Psychology and Educational Sciences",Psychology;Pedagogy
-vub,"Multidisciplinair Instituut Lerarenopleiding",Pedagogy
-vub,"Interfacultair Departement Lerarenopleiding",Pedagogy
-vub,"Faculteit Letteren en Wijsbegeerte",Philosophy;Letters;Arts
-vub,"Faculty of Arts and Philosophy",Philosophy;Letters;Arts
-vub,"Faculty of Languages & Humanities",Philosophy;Letters;Arts
-vub,"Faculteit Wetenschappen en Bio-ingenieurswetensch",Agronomy & Biotechnology;Science
-vub,"Faculty of Sciences and Bioengineering Sciences",Agronomy & Biotechnology;Science
-vub,"Faculty of Science and Bioengineering Sciences",Agronomy & Biotechnology;Science
-vub,"Faculty of Science and Bio-engineering Sciences",Agronomy & Biotechnology;Science
-vub,"Faculteit Geneeskunde en Farmacie",Medecine & Health;Pharmacy
-vub,"Faculty of Medicine and Pharmacy",Medecine & Health;Pharmacy
-vub,"Faculteit Ingenieurswetenschappen",Engineering
-vub,"Faculty of Engineering",Engineering
-vub,"Faculteit Lichamelijke Opvoeding en Kinesitherapie",Medecine & Health
-vub,"Faculteit Lichamelijke Opvoeding & Kinesitherapie",Medecine & Health
-vub,"Faculty of Physical Education and Physiotherapy",Medecine & Health
-vub,"Institute for European Studies",Political Sciences
-uhasselt,"Faculteit Architectuur en Kunst",Arts;Architecture
-uhasselt,"Faculteit Bedrijfseconomische Wetenschappen",Economy;Management
-uhasselt,"Faculteit Geneeskunde en Levenswetenschappen",Medecine & Health
-uhasselt,"Faculteit Industriële Ingenieurswetenschappen",Engineering
-uhasselt,"Faculteit Rechten",Law & Criminology
-uhasselt,"Faculteit Revalidatiewetenschappen",Medecine & Health
-uhasselt,"Faculteit Wetenschappen",Science
-uhasselt,"School voor Mobiliteitswetenschappen",Engineering
-uhasselt,"School voor educatieve studies",Pedagogy
-uhasselt,"School of Expert Education",Pedagogy
-artevelde,"Business en Management",Management
-artevelde,"Communicatie, Media en Design",Communication
-artevelde,"Gezondhied en Zorg",Medecine & Health
-artevelde,"HR en Leiderschap",Management
-artevelde,"Mens en Samenleving",Sociology
-artevelde,"Onderwijs",Pedagogy
-ecam,"Ingénieur industriel",Engineering
-ecsedi-isalt,"Département Economique",Economy
-ehb,"RITCS - School of Arts",Arts
-ehb,"Koninklijk Conservatorium Brussel - School of Arts",Arts
-ehb,"Gezondheidszorg, Design & Technologie",Medecine & Health;Engineering
-ehb,"Mens & Maatschappij",Pedagogy;Sociology;Management;Communication
-ehb,"HOB",Other
-he-ferrer,"Arts Appliqués",Arts
-he-ferrer,"Economique",Economy
-he-ferrer,"Paramédical",Medecine & Health
-he-ferrer,"Pédagogique",Pedagogy
-he-ferrer,"Social",Sociology
-he-ferrer,"Technique",Engineering
-heaj,"Département Economique",Economy
-heaj,"Département Pédagogique",Pedagogy
-heaj,"Département Technique",Engineering
-hech,"Département Agronomique",Agronomy & Biotechnology
-hech,"Département Economique",Economy
-hech,"Département Paramédicale",Medecine & Health
-hech,"Département Pédagogique",Pedagogy
-hel,"Sciences de l'éducation",Pedagogy
-hel,"Sciences économiques et de gestion",Economy;Management
-hel,"Sciences paramédicales",Medecine & Health
-hel,"Sciences et techniques",Engineering
-heldb,"Sciences psychologiques et de l'éducation",Psychology;Pedagogy
-heldb,"Sciences économiques et de gestion",Economy;Management
-heldb,"Sciences de l'ingénieur et technologie",Engineering
-heldb,"Sciences juridiques",Law & Criminology
-heldb,"Sciences biomédicales et pharmaceutiques",Medecine & Health;Pharmacy
-heldb,"Sciences agronomiques et ingénierie biologique",Agronomy & Biotechnology
-helmo,"Economique et Juridique",Law & Criminology;Economy
-helmo,"Département Economique et Juridique",Law & Criminology;Economy
-helmo,"Département Social",Sociology
-helmo,"Département Pédagogique",Pedagogy
-helmo,"Département Paramédical",Medecine & Health
-helmo,"Département Informatique et Technique",Engineering
-henallux,"Département économique",Economy
-henallux,"Département électromécanique",Engineering
-henallux,"Département ingénieur industriel",Engineering
-henallux,"Département paramédical",Medecine & Health
-henallux,"Département pédagogique",Pedagogy
-henallux,"Département social",Sociology
-henallux,"Département technique",Engineering
-hepl,"Numérique & informatique",Engineering
-hepl,"Electromécanique & gestion de production",Engineering
-hepl,"Education & psychologie",Psychology;Pedagogy
-hepl,"Social",Sociology
-hepl,"Santé",Medecine & Health
-hepl,"Motricité",Medecine & Health
-hepl,"Gestion & droit",Law & Criminology;Management
-hepl,"Information & communication",Communication
-hepl,"Chimie & biotechnologie",Agronomy & Biotechnology;Science
-hepl,"Ingénieur",Engineering
-hepl,"Construction & énergie",Engineering
-hepl,"Agronomie & environnement",Agronomy & Biotechnology
-hers,"Département Economique",Economy
-hers,"Département Paramédicale",Medecine & Health
-hers,"Département Pédagogique",Pedagogy
-hers,"Département Social",Sociology
-hers,"Département Technique",Engineering
-hogent,"Departement Bedrijf en Organisatie",Economy;Management
-hogent,"Departement Biowetenschappen en Industriële Technologie",Engineering;Agronomy & Biotechnology;Science
-hogent,"Departement Gezondheidszorg",Medecine & Health
-hogent,"Departement IT en Digitale Innovatie",Engineering
-hogent,"Departement Lerarenopleiding",Pedagogy
-hogent,"Departement Omgeving",Science
-hogent,"Departement Sociaal-Agogisch Werk",Sociology
-hogent,"GO5 by HOGENT",Other
-hogent,"School of Arts KASK-Koninklijk Conservatorium",Arts;Architecture
-howest,"bedrijf & organisatie",Management;Communication
-howest,"design & technologie",Architecture;Engineering
-howest,"mens & welzijn",Medecine & Health;Law & Criminology;Psychology;Pedagogy;Sociology
-ichec,"Ecole de gestion et commerce",Economy;Management
-ihecs,"Journalism & Communication",Communication
-ispg,"Pédagogie",Pedagogy
-issig,"Soins infirmiers",Medecine & Health
-odisee,"Bedrijfskunde",Management
-odisee,"Biotechnologie",Agronomy & Biotechnology
-odisee,"Gezondheidszorg",Medecine & Health
-odisee,"Onderwijs",Pedagogy
-odisee,"Sociaal-agogisch werk",Sociology
-odisee,"Technologie",Engineering
-thomasmore,"Business & Tourism",Management;Communication
-thomasmore,"Education & Sport",Medecine & Health;Pedagogy
-thomasmore,"Interior & Design",Architecture
-thomasmore,"Media & Communication",Communication
-thomasmore,"People & Health",Medecine & Health
-thomasmore,"Tech & IT",Engineering
-ucll,"gezondheid",Medecine & Health
-ucll,"lerarenopleiding",Pedagogy
-ucll,"management",Management
-ucll,"technologie",Engineering
-ucll,"welzijn",Medecine & Health
-vinci,"Département Paramédicale",Medecine & Health
-vinci,"Département Pédagogique",Pedagogy
-vinci,"Département Economique",Economy
-vinci,"Département Technique",Engineering
-vinci,"Département Social",Sociology
-vives,"Biotechniek",Agronomy & Biotechnology
-vives,"Gezondheidszorg",Medecine & Health
-vives,"Handelswetenschappen en bedrijfskunde",Economy;Management
-vives,"Industriële wetenschappen en technologie",Engineering
-vives,"Onderwijs",Pedagogy
-vives,"Sociaal-agogisch Werk",Sociology
+polimi,"Architettura Urbanistica Ingegneria delle Costruzioni",Other
+polimi,"Design",Other
+polimi,"Ingegneria Civile, Ambientale e Territoriale",Other
+polimi,"Ingegneria Industriale e dell'Informazione",Other
+polito,"Dipartimento di Architettura e Design",Other
+polito,"Department of Architecture and Design",Other
+polito,"Dipartimento di Ingegneria Meccanica e Aerospaziale",Other
+polito,"Department of Mechanical and Aerospace Engineering",Other
+polito,"Dipartimento di Automatica e Informatica",Other
+polito,"Department of Control and Computer Engineering",Other
+polito,"Dipartimento di Ingegneria Gestionale e della Produzione",Other
+polito,"Department of Management and Production Engineering",Other
+polito,"Dipartimento Energia",Other
+polito,"Department of Energy",Other
+polito,"Dipartimento di Elettronica e Telecomunicazioni",Other
+polito,"Department of Electronics and Telecommunications",Other
+polito,"Interuniversity Department of Regional and Urban Studies and Planning",Other
+polito,"Dipartimento Interateneo di Scienze, Progetto e Politiche del Territorio",Other
+polito,"Dipartimento Scienza Applicata e Tecnologia",Other
+polito,"Department of Applied Science and Technology",Other
+polito,"Dipartimento di Ingegneria dell'Ambiente, del Territorio e delle Infrastrutture",Other
+polito,"Department of Environment, Land and Infrastructure Engineering",Other
+polito,"Dipartimento di Scienze Matematiche 'G. L. Lagrange'",Other
+polito,"Dipartimento di Ingegneria Strutturale, Edile e Geotecnica",Other
+polito,"Department of Structural, Geotechnical and Building Engineering",Other
+unibo,"Economia e management",Other
+unibo,"Farmacia e biotecnologie",Other
+unibo,"Giurisprudenza",Other
+unibo,"Ingegneria e architettura",Other
+unibo,"Lingue e Letterature, Traduzione e Interpretazione",Other
+unibo,"Medicina e Chirurgia",Other
+unibo,"Medicina veterinaria",Other
+unibo,"Psicologia",Other
+unibo,"Scienze",Other
+unibo,"Scienze Statistiche",Other
+unibo,"Scienze agro-alimentari",Other
+unibo,"Scienze dell'educazione e della formazione",Other
+unibo,"Scienze motorie",Other
+unibo,"Scienze politiche",Other
+unibo,"Sociologia",Other
+unibo,"Studi umanistici",Other
+unica,"Biologia E Farmacia",Other
+unica,"Ingegneria E Architettura",Other
+unica,"Medicina E Chirurgia",Other
+unica,"Scienze",Other
+unica,"Scienze Economiche, Giuridiche E Politiche",Other
+unica,"Studi Umanistici",Other
+unict,"Dipartimento di Chirurgia generale e specialità medico-chirurgiche",Other
+unict,"SDS di Ragusa",Other
+unict,"Dipartimento di Scienze Umanistiche",Other
+unict,"Dipartimento di Scienze Politiche e Sociali",Other
+unict,"Dipartimento di Scienze Mediche, Chirurgiche e Tecnologie avanzate 'G.F. Ingrassia'",Other
+unict,"Dipartimento di Scienze della Formazione",Other
+unict,"Dipartimento di Scienze Biomediche e Biotecnologiche",Other
+unict,"Dipartimento di Scienze Biologiche, Geologiche e Ambientali",Other
+unict,"Dipartimento di Scienze Chimiche",Other
+unict,"Dipartimento di Medicina clinica e sperimentale",Other
+unict,"Dipartimento di Matematica e Informatica",Other
+unict,"Dipartimento di Ingegneria elettrica, elettronica e informatica",Other
+unict,"Dipartimento di Ingegneria civile e architettura",Other
+unict,"Dipartimento di Economia e Impresa",Other
+unict,"Dipartimento di Agricoltura Alimentazione e Ambiente",Other
+unict,"Dipartimento di Fisica e Astronomia",Other
+unict,"Dipartimento di Giurisprudenza",Other
+unict,"SDS di Siracusa",Other
+unict,"Dipartimento di Scienze del Farmaco e della Salute",Other
+unifi,"Agraria",Other
+unifi,"Architettura",Other
+unifi,"Economia e Management",Other
+unifi,"Giurisprudenza",Other
+unifi,"Ingegneria",Other
+unifi,"Scienze Matematiche, Fisiche e Naturali",Other
+unifi,"Scienze Politiche “Cesare Alfieri”",Other
+unifi,"Scienze della Salute Umana",Other
+unifi,"Studi Umanistici e della Formazione",Other
+unimib,"Economico-Statistica",Other
+unimib,"Giuridica",Other
+unimib,"Medica, Chirurgica e dei Servizi Clinici",Other
+unimib,"Psicologica",Other
+unimib,"Scienze",Other
+unimib,"Scienze della Formazione",Other
+unimib,"Sociologica",Other
+unipi,"Biologia",Other
+unipi,"Chimica E Chimica Industriale",Other
+unipi,"Civilta' E Forme Del Sapere",Other
+unipi,"Economia E Management",Other
+unipi,"Farmacia",Other
+unipi,"Filologia, Letteratura E Linguistica",Other
+unipi,"Fisica",Other
+unipi,"Giurisprudenza",Other
+unipi,"Informatica",Other
+unipi,"Ingegneria Civile E Industriale",Other
+unipi,"Ingegneria Dell'Energia, Dei Sistemi, Del Territorio E Delle Costruzioni",Other
+unipi,"Ingegneria Dell'Informazione",Other
+unipi,"Matematica",Other
+unipi,"Medicina Clinica E Sperimentale",Other
+unipi,"Patologia Chirurgica, Medica, Molecolare E Dell'Area Critica",Other
+unipi,"Ricerca Traslazionale E Delle Nuove Tecnologie In Medicina E Chirurgia",Other
+unipi,"Scienze Agrarie, Alimentari E Agro-Ambientali",Other
+unipi,"Scienze Della Terra",Other
+unipi,"Scienze Politiche",Other
+unipi,"Scienze Veterinarie",Other
+uniroma1,"Architettura",Other
+uniroma1,"Economia",Other
+uniroma1,"Farmacia e Medicina",Other
+uniroma1,"Giurisprudenza",Other
+uniroma1,"Ingegneria civile e industriale",Other
+uniroma1,"Ingegneria dell'informazione, informatica e statistica",Other
+uniroma1,"Lettere e Filosofia",Other
+uniroma1,"Medicina e Odontoiatria",Other
+uniroma1,"Medicina e Psicologia",Other
+uniroma1,"Scienze Matematiche, Fisiche e Naturali",Other
+uniroma1,"Scienze Politiche, Sociologia, Comunicazione",Other
+unisa,"Dipartimento di Chimica e Biologia 'Adolfo Zambelli'",Other
+unisa,"Dipartimento di Farmacia",Other
+unisa,"Dipartimento di Fisica 'E.R. Caianiello'",Other
+unisa,"Dipartimento di Informatica",Other
+unisa,"Dipartimento di Ingegneria Civile",Other
+unisa,"Dipartimento di Ingegneria Industriale",Other
+unisa,"Dipartimento di Ingegneria dell'Informazione ed Elettrica e Matematica Applicata",Other
+unisa,"Dipartimento di Matematica",Other
+unisa,"Dipartimento di Medicina, Chirurgia a Odontoiatria 'Scuola Medica Salernitana'",Other
+unisa,"Dipartimento di Scienze Aziendali - Management & Innovation Systems",Other
+unisa,"Dipartimento di Scienze Economiche e Statistiche",Other
+unisa,"Dipartimento di Scienze Giuridiche",Other
+unisa,"Dipartimento di Scienze Politiche e della Comunicazione",Other
+unisa,"Dipartimento di Scienze Umane, Filosofiche e della Formazione",Other
+unisa,"Dipartimento di Scienze del Patrimonio Culturale",Other
+unisa,"Dipartimento di Studi Politici e Sociali",Other
+unisa,"Dipartimento di Studi Umanistici",Other

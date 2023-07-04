@@ -11,14 +11,24 @@ BASE_URL = "https://www.unibo.it/it/didattica/insegnamenti?codiceMateria={}" + f
            + "&codiceCorso={}&single=True&search=True"
 PROG_DATA_PATH = Path(__file__).parent.absolute().joinpath(
     f'../../../../{CRAWLING_OUTPUT_FOLDER}unibo_programs_{YEAR}.json')
-# TODO: change
+
 LANGUAGE_DICT = {
-    "Langue française": 'fr',
-    "Langue anglaise": 'en',
-    "Langue allemande": 'de',
-    "Langue néerlandaise": 'nl',
-    "Langue italienne": "it",
-    "Langue espagnole": "es"
+    "Italiano": 'it',
+    "Inglese": 'en',
+    "Francese": 'fr',
+    "Spagnolo": 'es',
+    "Tedesco": 'de',
+    "Russo": 'ru',
+    "Portoghese": 'pt',
+    "Cinese": 'cn',
+    "Polacco": 'pl',
+    "Olandese": 'nl',
+    "Giapponese": 'jp',
+    "Catalano": 'ca',
+    "Slovacco": 'sk',
+    "Arabo": 'ar',
+    "Bulgaro": 'bg',
+    "Ucraino": 'ua'
 }
 
 
@@ -30,80 +40,86 @@ class UniBoCourseSpider(scrapy.Spider, ABC):
     name = "unibo-courses"
     custom_settings = {
         'FEED_URI': Path(__file__).parent.absolute().joinpath(
-            f'../../../../{CRAWLING_OUTPUT_FOLDER}unibo_courses_{YEAR}.json').as_uri()
+            f'../../../../{CRAWLING_OUTPUT_FOLDER}unibo_courses_{YEAR}_pre.json').as_uri()
     }
 
     def start_requests(self):
 
-        courses_ids = pd.read_json(open(PROG_DATA_PATH, "r")).set_index("id")["courses"]
-        # courses_ids_list = sorted(list(set(courses_ids.sum())))
+        courses_ids = pd.read_json(open(PROG_DATA_PATH, "r")).set_index("id")[["courses",
+                                                                               "courses_names", "courses_url_codes"]]
 
-        for program_id, course_ids in courses_ids.items():
-            for course_id in course_ids:
-                yield scrapy.Request(BASE_URL.format(course_id, program_id.split('-')[0]), self.parse_course)
+        for program_id, (courses_ids, courses_names, courses_urls_codes) in courses_ids.iterrows():
+            for course_id, course_name, course_url_code in zip(courses_ids, courses_names, courses_urls_codes):
 
-    def parse_course(self, response):
+                base_dict = {
+                    'id': course_id,
+                    'name': course_name,
+                    'year': f"{YEAR}-{YEAR+1}",
+                    'languages': [],
+                    'teachers': [],
+                    'url': None,
+                    'content': '',
+                    'goal': '',
+                    'activity': '',
+                    'other': ''
+                }
+                yield scrapy.Request(BASE_URL.format(course_id, course_url_code), self.parse_course,
+                                     cb_kwargs={"base_dict": base_dict, "sub_links": []})
 
-        # In some cases, course divided in several courses
-        sub_courses_links = response.xpath("//span[@class='teachingname']/a/@href").getall()
-        print(sub_courses_links)
-        if len(sub_courses_links) != 0:
-            for sub_course_link in sub_courses_links:
-                yield scrapy.Request(sub_course_link, self.parse_course)
-            return
+    def parse_course(self, response, base_dict, sub_links):
+        """ Call this function in a recursive way to get all subcourses"""
 
-        id_name = response.xpath("//h1/text()").get()
-        course_id = id_name.split(" -")[0]
-        course_name = id_name.split("- ")[1].title()
-        years = response.xpath("//h2/span/text()").get()
-        years = years.strip(" ").split(" ")[-1].replace("/", "-")
+        # If we are on the first call, check that there are sublinks
+        if len(sub_links) == 0:
+            sub_courses_links = response.xpath(f"//span[@class='teachingname']"
+                                               f"/a[contains(text(), '{base_dict['id']}')]/@href").getall()
 
+            # Launch the first recursive call
+            if len(sub_courses_links) != 0:
+                base_dict['url'] = response.url
+                yield scrapy.Request(sub_courses_links[0], self.parse_course,
+                                     cb_kwargs={"base_dict": base_dict, "sub_links": sub_courses_links[1:-1]})
+                return
 
-        return
+        # If there is no sublink or if it is the first recursive call, get name and year
+        if base_dict["url"] is None:
+            base_dict["url"] = response.url
 
-        # Get teachers name (not an easy task because not a constant syntax)
-        teachers_para = response.xpath("//section[h3[contains(text(),'Enseignant')"
-                                       " or contains(text(),'Suppléant')"
-                                       " or contains(text(),'Coordinateur')]]/p")
-        # Check first if there are links (to teachers page)
-        teachers_links = teachers_para.xpath(".//a").getall()
-        if len(teachers_links) == 0:
-            teachers = cleanup(teachers_para.get()).split(", ")
-        else:
-            teachers = cleanup(teachers_links)
-        teachers = [] if teachers == [""] else teachers
-        # Replace strange characters
-        teachers = [t for t in teachers if "N..." not in t]
-        teachers = [t.replace(' ', ' ') for t in teachers]
-        teachers = [t.replace('  ', ' ') for t in teachers]
+        # For all calls, complete the list of teachers and languages
+        teachers = response.xpath("//div[@id='u-content-main']//span[@class='title' "
+                                  "and text()='Docente']/following::text()[2]").getall()
         # Put surname first
         teachers = [f"{' '.join(t.split(' ')[1:])} {t.split(' ')[0]}" for t in teachers]
-        teachers = list(set(teachers))
+        base_dict["teachers"] += teachers
 
-        # Language
-        languages = cleanup(response.xpath(".//section[h3[contains(text(), "
-                                           "\"Langue(s) de l'unité d'enseignement\")]]/p").getall())
-        languages = [LANGUAGE_DICT[lang] if lang in LANGUAGE_DICT.keys() else 'other' for lang in languages]
+        languages = response.xpath("//div[@id='u-content-main']//span[@class='title' "
+                                   "and contains(text(), 'Lingua')]/following::span[1]/text()").getall()
+        languages = [LANGUAGE_DICT[l] for l in languages]
+        base_dict["languages"] += languages
 
-        # Course description
-        def get_sections_text(sections_names):
-            texts = [cleanup(response.xpath(f".//section[h3[contains(text(), \"{section}\")]]").get())
-                     .replace(f"{section}", "").strip("\n")
-                     for section in sections_names]
-            return "\n".join(texts).strip("\n ")
-        content = get_sections_text(["Contenus de l'unité d'enseignement"])
-        goal = get_sections_text(["Acquis d'apprentissage (objectifs d'apprentissage) de l'unité d'enseignement"])
-        activity = get_sections_text(["Activités d'apprentissage prévues et méthodes d'enseignement"])
+        # For all calls, append the course description
+        def get_sections_text(section_name):
+            following_section_name = response.xpath(f'//h2[contains(text(), "{section_name}")]/following::h2[1]/text()').get()
+            if following_section_name:
+                xpath = f'//h2[contains(text(), "{section_name}")]' \
+                        f'/following-sibling::*[following::h2[contains(text(), "{following_section_name}")]]'
+            else:
+                xpath = f'//h2[contains(text(), "{section_name}")]/following-sibling::*'
+            texts = cleanup(response.xpath(xpath).getall())
+            return "\n".join(texts).strip("\n")
+        base_dict["content"] += "\n" + get_sections_text("Contenuti")
+        base_dict["goal"] += get_sections_text("Conoscenze e abilità da conseguire")
 
-        yield {
-            'id': course_id,
-            'name': course_name,
-            'year': years,
-            'languages': languages,
-            'teachers': teachers,
-            'url': response.url,
-            'content': content,
-            'goal': goal,
-            'activity': activity,
-            'other': ''
-        }
+        if len(sub_links) != 0:
+            yield scrapy.Request(sub_links[0], self.parse_course,
+                                 cb_kwargs={"base_dict": base_dict, "sub_links": sub_links[1:-1]})
+        else:
+            # On the last call trim content, remove duplicates from lists
+            base_dict["teachers"] = sorted(list(set(base_dict["teachers"])))
+            base_dict["languages"] = sorted(list(set(base_dict["languages"])))
+            if len(base_dict["languages"]) == 0:
+                base_dict["languages"] = ["it"]
+            base_dict["content"] = base_dict["content"].strip("\n")
+            base_dict["goal"] = base_dict["goal"].strip("\n")
+
+            yield base_dict

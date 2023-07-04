@@ -1,0 +1,644 @@
+{
+    "607343: Sustainable, Environmental Chemistry And Technology For Circular Economy (With Lab)": {
+        "it": {
+            "[energi, sostenibil]": [
+                "lle aree  ambiente  energia e salute  da un pu",
+                "ircolare e sviluppo sostenibile  inoltre  il corso"
+            ],
+            "chimica (?:[^ ]+ ){0,4}verde": [
+                " bioraffineria e di chimica verde  con focus sulle pi"
+            ],
+            "inquina": [
+                "anamento delle aree inquinate  biomolecole e bi",
+                "ione dei principali inquinanti in matrici compl",
+                "ione dei principali inquinanti organici e loro ",
+                "ttamento delle aree inquinate  introduzione ai "
+            ],
+            "economi(?:a|e) circolar": [
+                "ustibili fossili  l economia circolare  i biocombustibili",
+                "punto di vista dell economia circolare e sviluppo sosteni"
+            ]
+        }
+    },
+    "607355: Policies And Social Innovation For Sustainable Local Development And Tourism": {
+        "en": {
+            "[tourism, sustaina]": [
+                "cal development and tourism ",
+                "cial innovation for sustainable local developmen"
+            ]
+        }
+    },
+    "607361: Environmental Challenges And Societal Well-Being": {
+        "en": {
+            "(?:environment[^ ]*|ecosystem) challenge": [
+                "environmental challenges and societal well-"
+            ]
+        }
+    },
+    "607363: Industrial Chemical Processes For Pollution Prevention And Control (With Lab)": {
+        "en": {
+            "pollut": [
+                "mical processes for pollution prevention and c"
+            ]
+        }
+    },
+    "610006: Zootecnia Biologica, Salute E Benessere Degli Animali": {
+        "it": {
+            "benessere (?:animale|degli animali)": [
+                "biologica  salute e benessere degli animali "
+            ]
+        }
+    },
+    "610014: Ecologia Forestale": {
+        "it": {
+            "[energi, sostenibil]": [
+                "to dell ecosistema  energia e cicli bio-geo-ch",
+                " quello di natura e sostenibilita  affronta temati"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "cetti alla base dell ecologia come quello di natu",
+                "  affronta tematiche ecologiche attuali e rilevanti",
+                "scenze   principi di ecologia  dinamica nelle pop"
+            ],
+            "biodiversit": [
+                "conservazione della biodiversita    a  concetti int"
+            ],
+            "cicl(?:o|i) bio-?geo-?chimic": [
+                "o delle foreste nei cicli biogeochimici e la conservazione",
+                "osistema  energia e cicli bio-geo-chimici"
+            ]
+        }
+    },
+    "611104: Gestione Delle Risorse Foraggere E Pastorali": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ree aperte  cenni di ecologia del paesaggio  cono"
+            ],
+            "ecofisiologi": [
+                " le caratteristiche ecofisiologiche e produttive del"
+            ]
+        }
+    },
+    "611105: Diritto Ambientale": {
+        "it": {
+            "biodiversit": [
+                "la protezione della biodiversita  3  della normativ",
+                "nti la tutela della biodiversita"
+            ],
+            "diritt(?:o|i) (?:ambient|ecosist)": [
+                "diritto ambientale il corso fornisc",
+                "ni fondamentali del diritto ambientale internazionale  "
+            ]
+        }
+    },
+    "611108: Conservazione Della Fauna": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                " alla biodiversita  cambiamento climatico   storia della con",
+                "vizi ecosistemici   cambiamento climatico  e conseguenze in "
+            ],
+            "biodiversit": [
+                " situ  minacce alla biodiversita  cambiamento clima",
+                "ione e minacce alla biodiversita  il concetto di sp"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "e specie minacciate servizi ecosistemici  gestione dell",
+                "programma \"vortex\"  servizi ecosistemici   cambiamento "
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) terrestr": [
+                "e  conservazione di ambienti terrestri e marini  conserva",
+                "o  e conseguenze in ambiente terrestre e marino  classifi"
+            ]
+        }
+    },
+    "611110: Gestione Dell'Ittiofauna": {
+        "it": {
+            "inquina": [
+                " catene alimentari  inquinamento e indici bioti"
+            ]
+        }
+    },
+    "611130: Entomologia Merceologica E Patologie In Post-Raccolta": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "feromoni  nozioni di ecologia ed etologia degli i"
+            ]
+        }
+    },
+    "611745: Sicurezza Ed Energia Nell'Impiantistica": {
+        "it": {
+            "energ[^ ]+ alternati": [
+                "ale e relativo alle energie alternative  nozioni di base "
+            ]
+        }
+    },
+    "611792: Gestione Ecologica Ed Agronomica Del Vigneto": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "gestione ecologica ed agronomica del v",
+                "cetti di agronomia e ecologia  fertilita  proprie",
+                "menti di agronomia e ecologia  analisi dell ambie"
+            ],
+            "[[ ]+suol(?:o|i)[ ]+, erosione]": [
+                "di conservazione del suolo  fertilizzazione  sis",
+                "ianta  lavorazioni  erosione idrica  sistemazion",
+                " relazioni idriche  erosione e tecniche di conse"
+            ]
+        }
+    },
+    "611836: Laboratorio Di Risorse Forestali": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ampo dei principi di ecologia forestale  delle fo"
+            ]
+        }
+    },
+    "611839: Elementi Di Botanica Generale": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "stiche morfologiche  ecologiche  tecnologiche e di ",
+                " sulla morfologia ed ecologia delle principali sp"
+            ]
+        }
+    },
+    "611841: Elementi Di Economia E Marketing Per Le Imprese Del Legno": {
+        "it": {
+            "energ[^ ]+ rinnovabil": [
+                "oc  iso14000  fonti energetiche rinnovabili  organizzazione de"
+            ]
+        }
+    },
+    "611844: Risorse Forestali": {
+        "it": {
+            "[energi, sostenibil]": [
+                "orestale  flusso di energia e cicli degli elem",
+                "i  competenze sulla sostenibilita e multifunzional"
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "ali introduzione all ecologia generale ed ecologi",
+                "ecologia generale ed ecologia forestale  forme di",
+                "lobale   principi di ecologia e ecologia forestal",
+                "incipi di ecologia e ecologia forestale  flusso d",
+                "omunita  successioni ecologiche  biodiversita e cul",
+                "dere i principi dell ecologia forestale e le tecn"
+            ],
+            "biodiversit": [
+                "essioni ecologiche  biodiversita e cultural biodive",
+                "iversita e cultural biodiversity  la selvicoltura  "
+            ]
+        }
+    },
+    "612125: Diritto Delle Biotecnologie Agroambientali": {
+        "it": {
+            "biodiversit": [
+                "nti la tutela della biodiversita  e le biotecnologi"
+            ]
+        }
+    },
+    "612126: Energia E Biomateriali Da Processi Microbici": {
+        "it": {
+            "bio[ -]?gas": [
+                "boliche  criticita  biogas da digestione anaer"
+            ],
+            "[energi, sostenibil]": [
+                "energia e biomateriali da ",
+                "e ecosostenibile di energia con microrganismi ",
+                "si di produzione ecosostenibile di energia con mic"
+            ],
+            "impatt(?:o|i) (?:ambient|ecosist)": [
+                "in processi a basso impatto ambientale"
+            ],
+            "bio[ -]?diesel": [
+                "i residui vegetali  biodiesel da microalghe  proc"
+            ]
+        }
+    },
+    "612128: Biotecnologie Per Lo Studio E Il Recupero Del Suolo": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                " inquinamento e dei cambiamenti climatici sui processi e la "
+            ],
+            "[[ ]ecolo[^ ]+]": [
+                "a analisi di rischio ecologico  il suolo come sist"
+            ],
+            "inquina": [
+                "re gli impatti dell inquinamento e dei cambiame",
+                "lita di nutrienti e inquinanti "
+            ]
+        }
+    },
+    "612129: Cambiamenti Climatici E Loro Effetti Su Agro-Ambiente E Produzione Primaria Agraria": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "cambiamenti climatici e loro effetti su ",
+                "e ed adattamento ai cambiamenti climatici   strumenti e meto"
+            ],
+            "effetto serra": [
+                "agraria concetto di effetto serra  entita cambianti c"
+            ]
+        }
+    },
+    "612130: Bioeconomia E Politiche Ambientali": {
+        "it": {
+            "politic(?:a|he) (?:ambient|ecosist)": [
+                "bioeconomia e politiche ambientali il corso svilupp",
+                " modulo  economia e politica ambientale lo studente alla"
+            ],
+            "problem(?:a|i) (?:ambient|ecosist)": [
+                "pi dell economia ai problemi ambientali  esplora le poli"
+            ],
+            "sfruttament(?:o|i) sostenibile": [
+                "onomia basata sullo sfruttamento sostenibile delle risorse biolo"
+            ]
+        }
+    },
+    "616220: Laboratorio Di Ambiente E Cultura": {
+        "it": {
+            "etic(?:a|he) ambiental": [
+                "ione ambientale e l etica ambientale   struttura del la",
+                "approcci teorici di etica ambientale "
+            ]
+        }
+    },
+    "618192: Pedagogia Interculturale Dello Sviluppo Sostenibile Per La Transizione Ecologica Con Laboratorio": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "e per la transizione ecologica con laboratorio "
+            ]
+        }
+    },
+    "623486: Fondamenti Di Ecologia Generale": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "fondamenti di ecologia generale la conosce",
+                "scenze   principi di ecologia  dinamica nelle pop"
+            ],
+            "cicl(?:o|i) bio-?geo-?chimic": [
+                "cosistema  energa e cicli biogeochimici"
+            ],
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) terrestr": [
+                "enza dei principali ecosistemi terrestri  sistemi integrati"
+            ]
+        }
+    },
+    "626794: Energetica Del Sistema Edificio-Impianto/Impianti Tecnici Civili C.I.": {
+        "it": {
+            "[prestazion(?:e|i) energetic, edificio]": [
+                "lo dei fabbisogni e prestazioni energetiche di un edificio   ",
+                "rgetica del sistema edificio-impianto/impianti t",
+                "o e di massa  per l edificio in relazione alla s",
+                "  energia e sistema edificio-impianto cenni ai s",
+                "i energetiche di un edificio    richiami sulle c"
+            ]
+        }
+    },
+    "627094: Macchine Elettriche": {
+        "it": {
+            "(?:veicol(?:o|i)|macchin(?:a|e)) elettric": [
+                "macchine elettriche 1  analisi dei ci"
+            ]
+        }
+    },
+    "627530: Fluvial Hydraulics": {
+        "it": {
+            "problematic(?:a|he) (?:ambient|ecosist)": [
+                "one alle principali problematiche ambientali e territoriali c"
+            ]
+        }
+    },
+    "627531: Engineering Geomorphology": {
+        "it": {
+            "[[ ]+suol(?:o|i)[ ]+, erosione]": [
+                "rafici  erosione del suolo  basi e modelli numer",
+                "rsanti  erosione del suolo  cause  effetti  anal",
+                "ura della perdita di suolo  analisi di scenari d",
+                "nari di erosione del suolo con impiego di model",
+                "lle deformazioni del suolo con metodi insar e p",
+                "ticoli idrografici  erosione del suolo  basi e m",
+                "zione dei versanti  erosione del suolo  cause  e",
+                "alisi di scenari di erosione del suolo con impie"
+            ]
+        }
+    },
+    "627536: Coastal Dynamics": {
+        "it": {
+            "(?:ecosistem(?:a|i)|ambient(?:e|i)) (?:acquatic|idric|marin|costier|subtidal|corallin)": [
+                "ra e gestione degli ambienti costieri   - moto ondoso ge"
+            ]
+        }
+    },
+    "627609: Lca, Economia Circolare E Materiali Innovativi": {
+        "it": {
+            "economi(?:a|e) circolar": [
+                "lca  economia circolare e materiali innova"
+            ]
+        }
+    },
+    "627620: Fashion Law C.I.": {
+        "it": {
+            "economi(?:a|e) circolar": [
+                "n il corso in lca & economia circolare  il corso si propo",
+                "n il corso in lca & economia circolare   l insegnamento s"
+            ]
+        }
+    },
+    "627630: Demography And Tourism": {
+        "en": {
+            "[tourism, sustaina]": [
+                "demography and tourism demography is the m",
+                "e the future of the tourism  current demographi",
+                "ange the demand for tourism and the available w",
+                " application in the tourism sector   * introduc",
+                "w they develop in a sustainable manner  this cou"
+            ]
+        }
+    },
+    "627631: Sustainable Tourism For Local System Development": {
+        "it": {
+            "(?:turismo sostenibile|ecoturismo)": [
+                "iluppo sostenibile  turismo sostenibile  turismo e cambiame"
+            ],
+            "question(?:e|i) ambiental": [
+                "modo integrato - le questioni ambientali  economiche e soci",
+                "sistematicamente le questioni ambientali e di collaborare a"
+            ],
+            "[turismo, sostenibil]": [
+                "e allo sviluppo del turismo nei paesi sviluppat",
+                "ppo sostenibile del turismo nelle aziende priva",
+                "ionali di viaggio e turismo  globalizzazione e ",
+                "ca  la crescita del turismo internazionale e la",
+                "ano lo sviluppo del turismo internazionale  svi",
+                "ntali e sociali del turismo  sostenibilita del ",
+                "  sostenibilita del turismo e cambiamento ambie",
+                "iluppo sostenibile  turismo sostenibile  turism",
+                "urismo sostenibile  turismo e cambiamento ambie",
+                "ientale  gestire il turismo e il cambiamento am",
+                "cito nello sviluppo sostenibile del turismo nelle ",
+                "ociali del turismo  sostenibilita del turismo e ca",
+                "oncetto di sviluppo sostenibile  turismo sostenibi",
+                "ostenibile  turismo sostenibile  turismo e cambiam"
+            ]
+        }
+    },
+    "627639: Destination Management": {
+        "it": {
+            "[turismo, sostenibil]": [
+                "che lo sviluppo del turismo comporta",
+                " una prospettiva di sostenibilita turistica    1  "
+            ]
+        }
+    },
+    "628048: Climatologia E Geografia Fisica": {
+        "it": {
+            "climatolog": [
+                "climatologia e geografia fisic"
+            ],
+            "biosfera": [
+                "osfera  litosfera e biosfera"
+            ]
+        }
+    },
+    "628074: Geografia Fisica E Geomorfologia": {
+        "it": {
+            "effetto serra": [
+                "e bilancio globale  effetto serra e impatto antropico"
+            ]
+        }
+    },
+    "628156: Zoologia Con Laboratorio": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "logia  filogenesi ed ecologia degli eucarioti uni"
+            ]
+        }
+    },
+    "632566: Tecnologia Del Legno E Dei Materiali Bio-Based": {
+        "it": {
+            "cicl(?:o|i) del carbonio": [
+                "i  implicazioni sul ciclo del carbonio  comprendere la str"
+            ]
+        }
+    },
+    "633407: Analisi Del Territorio E Degli Insediamenti": {
+        "it": {
+            "[pianificazion(?:e|i) territorial, (?:ambient|ecosist)]": [
+                "elte consapevoli di pianificazione territoriale e di progettazione",
+                "ermini morfologici  ambientali  funzionali   co"
+            ]
+        }
+    },
+    "633502: Scienze Infermieristiche Generali, Cliniche E Pediatriche I": {
+        "it": {
+            "effic[^ ]+ (?:delle |della )?risors": [
+                "estione efficace ed efficiente delle risorse assegnate  svilupp",
+                "estione efficace ed efficiente delle risorse assegnate  svilupp"
+            ]
+        }
+    },
+    "633537: Approfondimenti Nell'Area Del Management I": {
+        "it": {
+            "effic[^ ]+ (?:delle |della )?risors": [
+                "estione efficace ed efficiente delle risorse assegnate e vilupp",
+                "estione efficace ed efficiente delle risorse assegnate  svilupp",
+                "estione efficace ed efficiente delle risorse assegnate  svilupp"
+            ]
+        }
+    },
+    "633544: Approfondimenti Nell'Area Del Management Ii": {
+        "it": {
+            "effic[^ ]+ (?:delle |della )?risors": [
+                "estione efficace ed efficiente delle risorse assegnate e vilupp",
+                "estione efficace ed efficiente delle risorse assegnate  svilupp",
+                "estione efficace ed efficiente delle risorse assegnate  svilupp"
+            ]
+        }
+    },
+    "633554: Seminario Di Studio Nell'Area Del Management Ii": {
+        "it": {
+            "effic[^ ]+ (?:delle |della )?risors": [
+                "estione efficace ed efficiente delle risorse assegnate e svilup",
+                "estione efficace ed efficiente delle risorse assegnate e svilup",
+                "estione efficace ed efficiente delle risorse assegnate  svilupp"
+            ]
+        }
+    },
+    "634736: Fondamenti Di Urbanistica": {
+        "it": {
+            "sfid(?:a|e) (?:ambient|ecosist)": [
+                "illennio con le sue sfide ambientali  globali  tecnol"
+            ]
+        }
+    },
+    "635044: Etica Ambientale E Filosofia Dell'Antropocene": {
+        "it": {
+            "antropocen": [
+                "le e filosofia dell antropocene il corso ha per og",
+                "e nel contesto dell antropocene   nella prima part",
+                "ato filosofico dell antropocene  la giustificazion"
+            ],
+            "biodiversit": [
+                " della tutela della biodiversita  l etica delle pia"
+            ],
+            "etic(?:a|he) ambiental": [
+                "etica ambientale e filosofia dell a",
+                "la definizione dell etica ambientale e le sue teorie di",
+                "rie e concetti dell etica ambientale  e verranno esamin",
+                "to lo sviluppo dell etica ambientale  il corso si propo",
+                "isi di questioni di etica ambientale e di applicazione "
+            ]
+        }
+    },
+    "635097: Temi Avanzati Di Estetica Contemporanea": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ientali  concetti di ecologia e biodiversita  ruo",
+                "estetica della crisi ecologica ed estetica della b",
+                "relative a estetica  ecologia e biodiversita  in ",
+                "poraneo su estetica  ecologia  tutela della biodi"
+            ],
+            "biodiversit": [
+                "la biologia e della biodiversita  cerchera di compr",
+                "cetti di ecologia e biodiversita  ruolo dell esteti",
+                "a ed estetica della biodiversita  e di filosofia de",
+                "sse  definizione di biodiversita  la biologia della",
+                "stetica  ecologia e biodiversita  in cooperazione c",
+                "logia  tutela della biodiversita a rischio  paesagg"
+            ],
+            "biologi(?:a|e) della conservazione": [
+                "di biodiversita  la biologia della conservazione come disciplina del"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "o dell estetico nei servizi ecosistemici  estetica dell"
+            ]
+        }
+    },
+    "635098: Temi Avanzati Di Estetica Contemporanea": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ientali  concetti di ecologia e biodiversita  ruo",
+                "estetica della crisi ecologica ed estetica della b",
+                "relative a estetica  ecologia e biodiversita  in ",
+                "poraneo su estetica  ecologia  tutela della biodi"
+            ],
+            "biodiversit": [
+                "la biologia e della biodiversita  cerchera di compr",
+                "cetti di ecologia e biodiversita  ruolo dell esteti",
+                "a ed estetica della biodiversita  e di filosofia de",
+                "sse  definizione di biodiversita  la biologia della",
+                "stetica  ecologia e biodiversita  in cooperazione c",
+                "logia  tutela della biodiversita a rischio  paesagg"
+            ],
+            "biologi(?:a|e) della conservazione": [
+                "di biodiversita  la biologia della conservazione come disciplina del"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "o dell estetico nei servizi ecosistemici  estetica dell"
+            ]
+        }
+    },
+    "635099: Temi Avanzati Di Estetica Contemporanea": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ientali  concetti di ecologia e biodiversita  ruo",
+                "estetica della crisi ecologica ed estetica della b",
+                "relative a estetica  ecologia e biodiversita  in ",
+                "poraneo su estetica  ecologia  tutela della biodi"
+            ],
+            "biodiversit": [
+                "la biologia e della biodiversita  cerchera di compr",
+                "cetti di ecologia e biodiversita  ruolo dell esteti",
+                "a ed estetica della biodiversita  e di filosofia de",
+                "sse  definizione di biodiversita  la biologia della",
+                "stetica  ecologia e biodiversita  in cooperazione c",
+                "logia  tutela della biodiversita a rischio  paesagg"
+            ],
+            "biologi(?:a|e) della conservazione": [
+                "di biodiversita  la biologia della conservazione come disciplina del"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "o dell estetico nei servizi ecosistemici  estetica dell"
+            ]
+        }
+    },
+    "635109: Temi Avanzati Di Estetica Contemporanea": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                "ientali  concetti di ecologia e biodiversita  ruo",
+                "estetica della crisi ecologica ed estetica della b",
+                "relative a estetica  ecologia e biodiversita  in ",
+                "poraneo su estetica  ecologia  tutela della biodi"
+            ],
+            "biodiversit": [
+                "la biologia e della biodiversita  cerchera di compr",
+                "cetti di ecologia e biodiversita  ruolo dell esteti",
+                "a ed estetica della biodiversita  e di filosofia de",
+                "sse  definizione di biodiversita  la biologia della",
+                "stetica  ecologia e biodiversita  in cooperazione c",
+                "logia  tutela della biodiversita a rischio  paesagg"
+            ],
+            "biologi(?:a|e) della conservazione": [
+                "di biodiversita  la biologia della conservazione come disciplina del"
+            ],
+            "servizio? (?:ambient|ecosist)": [
+                "o dell estetico nei servizi ecosistemici  estetica dell"
+            ]
+        }
+    },
+    "635114: Teorie Del Mutamento Sociale": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "ttate  cosi come il cambiamento climatico sta generando form"
+            ],
+            "riscaldament(?:o|i) globale": [
+                "e guerra  pandemia  riscaldamento globale e migrazioni sono a"
+            ]
+        }
+    },
+    "637661: Filosofia Dell'Educazione E Della Comunicazione": {
+        "it": {
+            "[[ ]ecolo[^ ]+]": [
+                " comunicazione  dell ecologia  della complessita ",
+                " comunicazione  dell ecologia  della complessita "
+            ]
+        }
+    },
+    "637897: Teorie Del Mutamento Sociale": {
+        "it": {
+            "cambiament(?:o|i) climatic": [
+                "ttate  cosi come il cambiamento climatico sta generando form"
+            ],
+            "riscaldament(?:o|i) globale": [
+                "e guerra  pandemia  riscaldamento globale e migrazioni sono a"
+            ]
+        }
+    },
+    "638446: Scienze Propedeutiche": {
+        "it": {
+            "rifiut(:o|i) (?:nuclear|radioattiv)": [
+                "a e smaltimento dei rifiuti radioattivi * come maneggiare "
+            ]
+        }
+    },
+    "638452: Chimica E Tecnologie Alimentari": {
+        "it": {
+            "tecnologi(?:a|e) sostenibil": [
+                "ocessi produttivi e tecnologie sostenibili  frodi commerciali",
+                "ocessi produttivi e tecnologie sostenibili   lo studente dovr"
+            ]
+        }
+    },
+    "640439: Igiene E Scienze Informatiche E Statistiche": {
+        "it": {
+            "(?:protezione|tutela) (?:dell ambiente|ambientale)": [
+                "duale  collettiva e protezione dell ambiente  le nozioni fondame"
+            ]
+        }
+    },
+    "641151: Basi Generali Di Processi Morbosi, Prevenzione E Trattamento": {
+        "it": {
+            "biosfera": [
+                " e loro ruolo nella biosfera definizione di mala"
+            ]
+        }
+    }
+}

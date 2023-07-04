@@ -4,7 +4,7 @@ import argparse
 import pandas as pd
 import itertools
 
-from settings import CRAWLING_OUTPUT_FOLDER, SCORING_OUTPUT_FOLDER, WEB_INPUT_FOLDER
+from settings import CRAWLING_OUTPUT_FOLDER, SCORING_OUTPUT_FOLDER, WEB_INPUT_FOLDER, YEAR
 
 import logging
 logger = logging.getLogger()
@@ -46,7 +46,7 @@ def add_missing_fields_in_programs(programs_df: pd.DataFrame, courses_df: pd.Dat
             if len(courses) == 0:
                 programs_df[key].loc[idx] = []
                 continue
-            programs_df[key].loc[idx] = list(set(courses_df.loc[courses, key].sum()))
+            programs_df[key].loc[idx] = sorted(list(set(courses_df.loc[courses, key].sum())))
 
     return programs_df
 
@@ -142,6 +142,10 @@ def main(school: str, year: int):
     for program_id, program_courses in programs_df['courses'].items():
         programs_df["matched_courses"].loc[program_id] = sorted(list(set(program_courses).intersection(set(matched_courses))))
 
+    # Count the total and matched number of courses per program
+    programs_df["nb_total_courses"] = programs_df.courses.apply(lambda x: len(x))
+    programs_df["nb_matched_courses"] = programs_df.matched_courses.apply(lambda x: len(x))
+
     # Get programs that matched at least one theme
     programs_with_matches_index = programs_scores_df[(programs_scores_df.sum(axis=1) != 0)].index
     # Get list of matched themes per program and associated scores
@@ -161,7 +165,8 @@ def main(school: str, year: int):
 
     programs_df = programs_df[['id', 'name', 'cycle', 'url',
                                'languages', 'campuses', 'faculties', 'fields',
-                               'themes', 'themes_scores', 'matched_courses', 'nb_dedicated_courses'
+                               'themes', 'themes_scores', 'matched_courses',
+                               'nb_dedicated_courses', 'nb_matched_courses', 'nb_total_courses'
                                ]]
 
     programs_df.loc[programs_df.id.isin(programs_with_matches_index)] \
@@ -171,15 +176,13 @@ def main(school: str, year: int):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-s", "--school", help="input json file path")
-    parser.add_argument("-y", "--year", help="academic year", default=2022)
+    parser.add_argument("-y", "--year", help="academic year", default=2023)
     arguments = vars(parser.parse_args())
     # main(**arguments)
 
-    schools = ["kuleuven", "uantwerpen", "uclouvain", "ugent", "uhasselt",
-               "ulb", "uliege", "umons", "unamur", "uslb", "vub"]
-    schools += ["artevelde", "ecam", "ecsedi-isalt", "ehb", "he-ferrer", "heaj", "hech", "hel", "heldb", "helmo",
-                "henallux", "hepl", "hers", "hogent", "howest", "ichec", "ihecs", "ispg", "issig", "odisee",
-                "thomasmore", "ucll", "vinci", "vives"]
+    # schools = ["polimi", "unibo", "unica", "unict", "unifi", "unimib", "unipi", "uniroma1", "unisa"] # 2022
+    schools = ["polito"] # 2023
+
     for school_ in schools:
         print(school_)
         main(school_, arguments['year'])
