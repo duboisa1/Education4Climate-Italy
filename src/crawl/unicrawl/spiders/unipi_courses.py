@@ -51,7 +51,7 @@ class UniPiCourseSpider(scrapy.Spider, ABC):
                 'id': course_id,
                 'name': course_name,
                 'year': f"{YEAR}-{YEAR + 1}",
-                'languages': [],
+                'languages': ["it"],
                 'teachers': [],
                 'url': response.url,
                 'content': '',
