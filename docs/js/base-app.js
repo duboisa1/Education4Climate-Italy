@@ -17,7 +17,7 @@ export default {
         return {
             availableLanguages: constants.AVAILABLE_LANGUAGES,
             menuItems: constants.MENU_ITEMS,
-            currentLanguage: "fr",
+            currentLanguage: "en",
             translations: [],
             translationManager: new TranslationManager(),
             dataLoaded: false,

@@ -168,9 +168,9 @@ class CoursesManager {
 
                 if (languages[i].length === 0) continue;
 
-                // Aggregate all languages other than fr/nl/en under "other"
+                // Aggregate all languages other than fr/it/en under "other"
 
-                if (languages[i] != "en" && languages[i] != "fr" && languages[i] != "nl") languages[i] = "other";
+                if (languages[i] != "en" && languages[i] != "fr" && languages[i] != "it") languages[i] = "other";
 
                 // Find the id of the language (if already in the programsLanguages dictionnary)
 
