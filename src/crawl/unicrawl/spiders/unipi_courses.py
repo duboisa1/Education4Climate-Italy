@@ -68,6 +68,7 @@ class UniPiCourseSpider(scrapy.Spider, ABC):
 
         teacher = response.xpath("///div[contains(@class, 'titolare')]/text()").get()
         teacher = " ".join(teacher.split(" ")[1:] + [teacher.split(" ")[0]]).title()
+        teachers = [teacher] if not teacher.startswith("0000") else []
 
         def get_section_text(section_name):
             xpath = f"//div[contains(text(), '{section_name}') and @class='titolo-elemento-programma']" \
@@ -90,7 +91,7 @@ class UniPiCourseSpider(scrapy.Spider, ABC):
             'name': course_name,
             'year': f"{YEAR}-{YEAR + 1}",
             'languages': [language],
-            'teachers': [teacher],
+            'teachers': teachers,
             'url': response.url,
             'content': content,
             'goal': goal,
