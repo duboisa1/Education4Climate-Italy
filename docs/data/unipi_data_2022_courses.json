@@ -19,7 +19,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1068I",
@@ -41,7 +41,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"003LI",
@@ -63,7 +63,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"613PP",
@@ -86,7 +86,7 @@
    "life",
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"294QQ",
@@ -108,7 +108,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"002QM",
@@ -130,7 +130,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1348L",
@@ -152,7 +152,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"657MM",
@@ -174,7 +174,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"052II",
@@ -196,7 +196,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"534MM",
@@ -218,7 +218,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"472EE",
@@ -240,7 +240,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"339FF",
@@ -263,7 +263,7 @@
    "climate",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"484EE",
@@ -285,7 +285,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"253EE",
@@ -308,7 +308,7 @@
    "energy",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"051PP",
@@ -330,7 +330,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"073MM",
@@ -353,7 +353,7 @@
    "energy",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"107GG",
@@ -375,7 +375,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"110GG",
@@ -397,7 +397,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"113GG",
@@ -419,7 +419,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"354GG",
@@ -441,7 +441,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"058EE",
@@ -463,7 +463,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"242GG",
@@ -485,7 +485,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"125GG",
@@ -508,7 +508,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"126GG",
@@ -530,7 +530,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"407GG",
@@ -552,7 +552,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"405GG",
@@ -574,7 +574,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"244GG",
@@ -596,7 +596,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"111GG",
@@ -618,7 +618,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"399GG",
@@ -640,7 +640,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"245GG",
@@ -662,7 +662,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"353GG",
@@ -684,7 +684,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"243GG",
@@ -706,7 +706,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"147DD",
@@ -728,7 +728,7 @@
   "themes":[
    "carbon"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"257DD",
@@ -750,7 +750,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"137DD",
@@ -773,7 +773,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"183DD",
@@ -797,7 +797,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"159GG",
@@ -820,7 +820,7 @@
    "carbon",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"241DD",
@@ -844,7 +844,7 @@
    "climate",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"052DD",
@@ -867,7 +867,7 @@
    "life",
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"138DD",
@@ -891,7 +891,7 @@
    "energy",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"063DD",
@@ -914,7 +914,7 @@
    "pollution",
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"060DD",
@@ -937,7 +937,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"239DD",
@@ -959,7 +959,7 @@
   "themes":[
    "building"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"265DD",
@@ -981,7 +981,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"242DD",
@@ -1003,7 +1003,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"087DD",
@@ -1026,7 +1026,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"066DD",
@@ -1048,7 +1048,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"252DD",
@@ -1070,7 +1070,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"058DD",
@@ -1093,7 +1093,7 @@
    "pollution",
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"251DD",
@@ -1117,7 +1117,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"042DD",
@@ -1139,7 +1139,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"191DD",
@@ -1161,7 +1161,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"255DD",
@@ -1184,7 +1184,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"235DD",
@@ -1207,7 +1207,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"212EE",
@@ -1229,7 +1229,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"149DD",
@@ -1252,7 +1252,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"140CC",
@@ -1275,7 +1275,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"408EE",
@@ -1297,7 +1297,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"262DD",
@@ -1321,7 +1321,7 @@
    "climate",
    "energy"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"128EE",
@@ -1343,7 +1343,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"167HH",
@@ -1369,7 +1369,7 @@
    "resources",
    "transport"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"250DD",
@@ -1392,7 +1392,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"406EE",
@@ -1415,7 +1415,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"410EE",
@@ -1438,7 +1438,7 @@
    "climate",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"176DD",
@@ -1461,7 +1461,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"137EE",
@@ -1483,7 +1483,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"310GG",
@@ -1507,7 +1507,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"391BB",
@@ -1529,7 +1529,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"542EE",
@@ -1552,7 +1552,7 @@
    "climate",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"323CC",
@@ -1574,7 +1574,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"677II",
@@ -1596,7 +1596,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"247DD",
@@ -1619,7 +1619,7 @@
    "climate",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"127EE",
@@ -1641,7 +1641,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"425II",
@@ -1663,7 +1663,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"361BB",
@@ -1686,7 +1686,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"282EE",
@@ -1708,7 +1708,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"587AA",
@@ -1731,7 +1731,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"248DD",
@@ -1754,7 +1754,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"249DD",
@@ -1778,7 +1778,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"327GG",
@@ -1801,7 +1801,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"526EE",
@@ -1824,7 +1824,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"164BB",
@@ -1847,7 +1847,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"263DD",
@@ -1870,7 +1870,7 @@
    "energy",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"162DD",
@@ -1893,7 +1893,7 @@
    "climate",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"135EE",
@@ -1915,7 +1915,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"142FF",
@@ -1939,7 +1939,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"206EE",
@@ -1961,7 +1961,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"243DD",
@@ -1983,7 +1983,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"175DD",
@@ -2005,7 +2005,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"302QQ",
@@ -2029,7 +2029,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"160DD",
@@ -2052,7 +2052,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"139CC",
@@ -2074,7 +2074,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"251EE",
@@ -2096,7 +2096,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"362BB",
@@ -2118,7 +2118,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"269DD",
@@ -2141,7 +2141,7 @@
    "life",
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"174DD",
@@ -2163,7 +2163,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"244DD",
@@ -2186,7 +2186,7 @@
    "climate",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"286CC",
@@ -2210,7 +2210,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"449EE",
@@ -2233,7 +2233,7 @@
    "climate",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"541EE",
@@ -2256,7 +2256,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"647AA",
@@ -2278,7 +2278,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"164CC",
@@ -2301,7 +2301,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"158CC",
@@ -2325,7 +2325,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"166CC",
@@ -2347,7 +2347,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"161CC",
@@ -2372,7 +2372,7 @@
    "prod&cons",
    "resources"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"280II",
@@ -2394,7 +2394,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1046I",
@@ -2416,7 +2416,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"268LL",
@@ -2438,7 +2438,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"282LL",
@@ -2460,7 +2460,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"028HH",
@@ -2483,7 +2483,7 @@
    "building",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"093MM",
@@ -2506,7 +2506,7 @@
    "climate",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"716LL",
@@ -2528,7 +2528,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1276L",
@@ -2550,7 +2550,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"367EE",
@@ -2572,7 +2572,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"349MM",
@@ -2594,7 +2594,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"051FF",
@@ -2616,7 +2616,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"371EE",
@@ -2639,7 +2639,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"138EE",
@@ -2661,7 +2661,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"073DD",
@@ -2683,7 +2683,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"045FF",
@@ -2705,7 +2705,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"144EE",
@@ -2727,7 +2727,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"062HH",
@@ -2749,7 +2749,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"280EE",
@@ -2771,7 +2771,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"218EE",
@@ -2793,7 +2793,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"200EE",
@@ -2817,7 +2817,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"165GG",
@@ -2839,7 +2839,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"522EE",
@@ -2861,7 +2861,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"213EE",
@@ -2883,7 +2883,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"382EE",
@@ -2905,7 +2905,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"001ML",
@@ -2927,7 +2927,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"294PP",
@@ -2949,7 +2949,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"295PP",
@@ -2971,7 +2971,7 @@
   "themes":[
    "economy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"296PP",
@@ -2993,7 +2993,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"178DD",
@@ -3015,7 +3015,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"291QQ",
@@ -3037,7 +3037,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"258QQ",
@@ -3059,7 +3059,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"257CC",
@@ -3081,7 +3081,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"187CC",
@@ -3103,7 +3103,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"207CC",
@@ -3125,7 +3125,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"315CC",
@@ -3147,7 +3147,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"382CC",
@@ -3170,7 +3170,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"177CC",
@@ -3192,7 +3192,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"259CC",
@@ -3214,7 +3214,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1826Z",
@@ -3236,7 +3236,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"075NN",
@@ -3258,7 +3258,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1944Z",
@@ -3281,7 +3281,7 @@
    "climate",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"323NN",
@@ -3306,7 +3306,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"263QQ",
@@ -3328,7 +3328,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"165PP",
@@ -3351,7 +3351,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"244HH",
@@ -3374,7 +3374,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"458NN",
@@ -3398,7 +3398,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"211PP",
@@ -3420,7 +3420,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"659PP",
@@ -3442,7 +3442,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"2003Z",
@@ -3464,7 +3464,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"451NN",
@@ -3487,7 +3487,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"564NN",
@@ -3510,7 +3510,7 @@
    "climate",
    "energy"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"190BB",
@@ -3532,7 +3532,7 @@
   "themes":[
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"384BB",
@@ -3554,7 +3554,7 @@
   "themes":[
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"375BB",
@@ -3577,7 +3577,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"215PP",
@@ -3599,7 +3599,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"008FE",
@@ -3621,7 +3621,7 @@
   "themes":[
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"2007Z",
@@ -3643,7 +3643,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"005CI",
@@ -3665,7 +3665,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"948II",
@@ -3688,7 +3688,7 @@
    "life",
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"354NN",
@@ -3710,7 +3710,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"361NN",
@@ -3732,7 +3732,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"268CC",
@@ -3754,7 +3754,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"364CC",
@@ -3777,7 +3777,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"004FP",
@@ -3800,7 +3800,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"423GG",
@@ -3823,7 +3823,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1095I",
@@ -3845,7 +3845,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1097I",
@@ -3868,7 +3868,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1099I",
@@ -3890,7 +3890,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1085I",
@@ -3913,7 +3913,7 @@
    "energy",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"536NN",
@@ -3936,7 +3936,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"415NN",
@@ -3958,7 +3958,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"797II",
@@ -3980,7 +3980,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1070I",
@@ -4004,7 +4004,7 @@
    "energy",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"097II",
@@ -4027,7 +4027,7 @@
    "energy",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1650Z",
@@ -4051,7 +4051,7 @@
    "energy",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"335II",
@@ -4073,7 +4073,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"951II",
@@ -4095,7 +4095,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"339II",
@@ -4117,7 +4117,7 @@
   "themes":[
    "building"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"966II",
@@ -4139,7 +4139,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"694II",
@@ -4161,7 +4161,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"921II",
@@ -4185,7 +4185,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"337II",
@@ -4207,7 +4207,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"1061I",
@@ -4229,7 +4229,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"1018I",
@@ -4251,7 +4251,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"968II",
@@ -4273,7 +4273,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"717II",
@@ -4296,7 +4296,7 @@
    "life",
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"960II",
@@ -4318,7 +4318,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"965II",
@@ -4340,7 +4340,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"967II",
@@ -4364,7 +4364,7 @@
    "pollution",
    "transport"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"1012I",
@@ -4386,7 +4386,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"384II",
@@ -4408,7 +4408,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"823II",
@@ -4430,7 +4430,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"268HH",
@@ -4453,7 +4453,7 @@
    "energy",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"220HH",
@@ -4478,7 +4478,7 @@
    "pollution",
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"226HH",
@@ -4502,7 +4502,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"400ZY",
@@ -4527,7 +4527,7 @@
    "pollution",
    "transport"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"264HH",
@@ -4549,7 +4549,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"598II",
@@ -4571,7 +4571,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1050I",
@@ -4594,7 +4594,7 @@
    "resources",
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"360CC",
@@ -4621,7 +4621,7 @@
    "resources",
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"284CC",
@@ -4644,7 +4644,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"739II",
@@ -4668,7 +4668,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"999II",
@@ -4690,7 +4690,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"266BB",
@@ -4712,7 +4712,7 @@
   "themes":[
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1081I",
@@ -4734,7 +4734,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"488II",
@@ -4759,7 +4759,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"545NN",
@@ -4781,7 +4781,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"283QQ",
@@ -4803,7 +4803,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"059QQ",
@@ -4826,7 +4826,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"005PQ",
@@ -4848,7 +4848,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1089L",
@@ -4870,7 +4870,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"686AA",
@@ -4892,7 +4892,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"729AA",
@@ -4915,7 +4915,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"652MM",
@@ -4937,7 +4937,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"494GG",
@@ -4960,7 +4960,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"493GG",
@@ -4982,7 +4982,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"486GG",
@@ -5005,7 +5005,7 @@
    "climate",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"490GG",
@@ -5027,7 +5027,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"489GG",
@@ -5049,7 +5049,7 @@
   "themes":[
    "carbon"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"496GG",
@@ -5072,7 +5072,7 @@
    "food",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"488GG",
@@ -5095,7 +5095,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"522GG",
@@ -5117,7 +5117,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"525GG",
@@ -5141,7 +5141,7 @@
    "life",
    "prod&cons"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"529GG",
@@ -5163,7 +5163,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"415GG",
@@ -5185,7 +5185,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"513GG",
@@ -5207,7 +5207,7 @@
   "themes":[
    "building"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"526GG",
@@ -5229,7 +5229,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"473GG",
@@ -5251,7 +5251,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"527GG",
@@ -5277,7 +5277,7 @@
    "pollution",
    "prod&cons"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"521GG",
@@ -5300,7 +5300,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"528GG",
@@ -5322,7 +5322,7 @@
   "themes":[
    "prod&cons"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"041GG",
@@ -5344,7 +5344,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"388GG",
@@ -5367,7 +5367,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"2063Z",
@@ -5391,7 +5391,7 @@
    "food",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"2057Z",
@@ -5413,7 +5413,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"538GG",
@@ -5436,7 +5436,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"209GG",
@@ -5458,7 +5458,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1713Z",
@@ -5481,7 +5481,7 @@
    "food",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"392GG",
@@ -5503,7 +5503,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"385GG",
@@ -5525,7 +5525,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"080GG",
@@ -5548,7 +5548,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"387GG",
@@ -5570,7 +5570,7 @@
   "themes":[
    "food"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"324GG",
@@ -5593,7 +5593,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"211GG",
@@ -5615,7 +5615,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"043GG",
@@ -5637,7 +5637,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"392EE",
@@ -5661,7 +5661,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"003HH",
@@ -5683,7 +5683,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"208GG",
@@ -5706,7 +5706,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"667MM",
@@ -5729,7 +5729,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"550GG",
@@ -5751,7 +5751,7 @@
   "themes":[
    "food"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"2058Z",
@@ -5773,7 +5773,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"568GG",
@@ -5796,7 +5796,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"569GG",
@@ -5822,7 +5822,7 @@
    "prod&cons",
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"2061Z",
@@ -5845,7 +5845,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"545GG",
@@ -5868,7 +5868,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"555GG",
@@ -5890,7 +5890,7 @@
   "themes":[
    "food"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"558GG",
@@ -5912,7 +5912,7 @@
   "themes":[
    "food"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"549GG",
@@ -5934,7 +5934,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"574GG",
@@ -5956,7 +5956,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"565GG",
@@ -5978,7 +5978,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"537GG",
@@ -6000,7 +6000,7 @@
   "themes":[
    "food"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"562GG",
@@ -6024,7 +6024,7 @@
    "food",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"447LL",
@@ -6046,7 +6046,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"035FF",
@@ -6069,7 +6069,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"505EE",
@@ -6091,7 +6091,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"061EE",
@@ -6113,7 +6113,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"036GG",
@@ -6135,7 +6135,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1705Z",
@@ -6157,7 +6157,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"481GG",
@@ -6181,7 +6181,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"473EE",
@@ -6205,7 +6205,7 @@
    "pollution",
    "prod&cons"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"271GG",
@@ -6227,7 +6227,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"379GG",
@@ -6250,7 +6250,7 @@
    "energy",
    "food"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"383GG",
@@ -6273,7 +6273,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"002EG",
@@ -6296,7 +6296,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"003NN",
@@ -6320,7 +6320,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"250GG",
@@ -6342,7 +6342,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1986Z",
@@ -6364,7 +6364,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"378GG",
@@ -6387,7 +6387,7 @@
    "climate",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"102GG",
@@ -6409,7 +6409,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"115DD",
@@ -6431,7 +6431,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"002DD",
@@ -6453,7 +6453,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"011DD",
@@ -6476,7 +6476,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"014DD",
@@ -6498,7 +6498,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"117DD",
@@ -6520,7 +6520,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"154DD",
@@ -6542,7 +6542,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"1393L",
@@ -6565,7 +6565,7 @@
    "climate",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"260AA",
@@ -6589,7 +6589,7 @@
    "building",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"405EE",
@@ -6613,7 +6613,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"1341L",
@@ -6635,7 +6635,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"414LL",
@@ -6657,7 +6657,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"142DD",
@@ -6680,7 +6680,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"309EE",
@@ -6702,7 +6702,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"031DD",
@@ -6724,7 +6724,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"074EE",
@@ -6749,7 +6749,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"376EE",
@@ -6772,7 +6772,7 @@
    "energy",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"262CC",
@@ -6794,7 +6794,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"105EE",
@@ -6816,7 +6816,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"025DD",
@@ -6838,7 +6838,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"164DD",
@@ -6861,7 +6861,7 @@
    "climate",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"166DD",
@@ -6883,7 +6883,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"076EE",
@@ -6905,7 +6905,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"026DD",
@@ -6927,7 +6927,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"436EE",
@@ -6949,7 +6949,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"165DD",
@@ -6971,7 +6971,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"483EE",
@@ -6994,7 +6994,7 @@
    "food",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"372EE",
@@ -7016,7 +7016,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"190DD",
@@ -7039,7 +7039,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"441EE",
@@ -7061,7 +7061,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"152II",
@@ -7083,7 +7083,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"122CC",
@@ -7105,7 +7105,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"358CC",
@@ -7127,7 +7127,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"153II",
@@ -7150,7 +7150,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"792AA",
@@ -7173,7 +7173,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"377EE",
@@ -7195,7 +7195,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"504EE",
@@ -7217,7 +7217,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"556EE",
@@ -7241,7 +7241,7 @@
    "energy",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"321EE",
@@ -7265,7 +7265,7 @@
    "pollution",
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"099CC",
@@ -7287,7 +7287,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"229CC",
@@ -7309,7 +7309,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"009ZW",
@@ -7331,7 +7331,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"084CC",
@@ -7357,7 +7357,7 @@
    "resources",
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"226CC",
@@ -7379,7 +7379,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"088CC",
@@ -7401,7 +7401,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"074CC",
@@ -7424,7 +7424,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"078CC",
@@ -7448,7 +7448,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"181BB",
@@ -7470,7 +7470,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"192QQ",
@@ -7492,7 +7492,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"189QQ",
@@ -7514,7 +7514,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"008NN",
@@ -7536,7 +7536,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"013HH",
@@ -7558,7 +7558,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"097LL",
@@ -7580,7 +7580,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"490NN",
@@ -7602,7 +7602,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"478NN",
@@ -7624,7 +7624,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"879ZW",
@@ -7647,7 +7647,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"002PI",
@@ -7669,7 +7669,7 @@
   "themes":[
    "energy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"403PP",
@@ -7691,7 +7691,7 @@
   "themes":[
    "economy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"006FE",
@@ -7714,7 +7714,7 @@
    "energy",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"207QQ",
@@ -7736,7 +7736,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"029NN",
@@ -7758,7 +7758,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"442NN",
@@ -7780,7 +7780,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"516PP",
@@ -7802,7 +7802,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"342FF",
@@ -7825,7 +7825,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"003GF",
@@ -7847,7 +7847,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"167FF",
@@ -7869,7 +7869,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"002GF",
@@ -7891,7 +7891,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"073PP",
@@ -7913,7 +7913,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"663PP",
@@ -7936,7 +7936,7 @@
    "economy",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"361MM",
@@ -7958,7 +7958,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"225FF",
@@ -7980,7 +7980,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"013FE",
@@ -8002,7 +8002,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"067NN",
@@ -8025,7 +8025,7 @@
    "climate",
    "food"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"131MM",
@@ -8047,7 +8047,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"884ZW",
@@ -8069,7 +8069,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"132MM",
@@ -8091,7 +8091,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"074FF",
@@ -8113,7 +8113,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"003PI",
@@ -8135,7 +8135,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"107FF",
@@ -8157,7 +8157,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"174FF",
@@ -8179,7 +8179,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"060FF",
@@ -8201,7 +8201,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1598Z",
@@ -8223,7 +8223,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"325CC",
@@ -8249,7 +8249,7 @@
    "resources",
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"073II",
@@ -8271,7 +8271,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"183II",
@@ -8298,7 +8298,7 @@
    "pollution",
    "transport"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"111II",
@@ -8321,7 +8321,7 @@
    "energy",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"801II",
@@ -8343,7 +8343,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"044II",
@@ -8365,7 +8365,7 @@
   "themes":[
    "building"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"038II",
@@ -8387,7 +8387,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"027CC",
@@ -8409,7 +8409,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"006CE",
@@ -8431,7 +8431,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"530EE",
@@ -8453,7 +8453,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"454EE",
@@ -8475,7 +8475,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"455EE",
@@ -8497,7 +8497,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"461EE",
@@ -8519,7 +8519,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"001HQ",
@@ -8541,7 +8541,7 @@
   "themes":[
    "building"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"125HH",
@@ -8563,7 +8563,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"467II",
@@ -8585,7 +8585,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"004HI",
@@ -8608,7 +8608,7 @@
    "building",
    "economy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"808II",
@@ -8631,7 +8631,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"236HH",
@@ -8653,7 +8653,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"003DH",
@@ -8676,7 +8676,7 @@
    "building",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"003HI",
@@ -8699,7 +8699,7 @@
    "building",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"239HH",
@@ -8721,7 +8721,7 @@
   "themes":[
    "building"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"503II",
@@ -8743,7 +8743,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"019II",
@@ -8766,7 +8766,7 @@
    "energy",
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"057II",
@@ -8788,7 +8788,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"972II",
@@ -8810,7 +8810,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"970II",
@@ -8832,7 +8832,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"1110I",
@@ -8855,7 +8855,7 @@
    "energy",
    "transport"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"969II",
@@ -8878,7 +8878,7 @@
    "energy",
    "resources"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"975II",
@@ -8900,7 +8900,7 @@
   "themes":[
    "transport"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"971II",
@@ -8923,7 +8923,7 @@
    "energy",
    "transport"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"137HH",
@@ -8945,7 +8945,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"188HH",
@@ -8968,7 +8968,7 @@
    "building",
    "economy"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"001IC",
@@ -8990,7 +8990,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"193GG",
@@ -9012,7 +9012,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"373GG",
@@ -9034,7 +9034,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"001GG",
@@ -9058,7 +9058,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"006GG",
@@ -9080,7 +9080,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"013GG",
@@ -9102,7 +9102,7 @@
   "themes":[
    "climate"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"010GG",
@@ -9124,7 +9124,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"261EE",
@@ -9147,7 +9147,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"003GG",
@@ -9171,7 +9171,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"595GG",
@@ -9193,7 +9193,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"583GG",
@@ -9215,7 +9215,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"576GG",
@@ -9237,7 +9237,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"465GG",
@@ -9259,7 +9259,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"485GG",
@@ -9282,7 +9282,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"059EE",
@@ -9304,7 +9304,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"133GG",
@@ -9328,7 +9328,7 @@
    "energy",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"508GG",
@@ -9350,7 +9350,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"509GG",
@@ -9372,7 +9372,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"461GG",
@@ -9394,7 +9394,7 @@
   "themes":[
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"463GG",
@@ -9416,7 +9416,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"363GG",
@@ -9438,7 +9438,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"488EE",
@@ -9460,7 +9460,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"004BA",
@@ -9483,7 +9483,7 @@
    "climate",
    "transport"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"329GG",
@@ -9505,7 +9505,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"398EE",
@@ -9527,7 +9527,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"021GG",
@@ -9550,7 +9550,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"426GG",
@@ -9574,7 +9574,7 @@
    "life",
    "prod&cons"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"446GG",
@@ -9596,7 +9596,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"1812Z",
@@ -9618,7 +9618,7 @@
   "themes":[
    "carbon"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"452GG",
@@ -9641,7 +9641,7 @@
    "food",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"450GG",
@@ -9663,7 +9663,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"448GG",
@@ -9685,7 +9685,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"013CC",
@@ -9707,7 +9707,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"430GG",
@@ -9732,7 +9732,7 @@
    "life",
    "pollution"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"432GG",
@@ -9757,7 +9757,7 @@
    "food",
    "life"
   ],
-  "dedicated":1.0
+  "dedicated":1
  },
  {
   "id":"442GG",
@@ -9779,7 +9779,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"438GG",
@@ -9805,7 +9805,7 @@
    "life",
    "resources"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"490EE",
@@ -9827,7 +9827,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"433GG",
@@ -9849,7 +9849,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"443GG",
@@ -9871,7 +9871,7 @@
   "themes":[
    "food"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"454GG",
@@ -9895,7 +9895,7 @@
    "energy",
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"437GG",
@@ -9917,7 +9917,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"456GG",
@@ -9939,7 +9939,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"491EE",
@@ -9961,7 +9961,7 @@
   "themes":[
    "life"
   ],
-  "dedicated":0.0
+  "dedicated":0
  },
  {
   "id":"429GG",
@@ -9983,6 +9983,6 @@
   "themes":[
    "carbon"
   ],
-  "dedicated":0.0
+  "dedicated":0
  }
 ]
