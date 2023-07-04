@@ -6,7 +6,7 @@
             "coursesFile": "polimi_data_2022_courses.json",
             "programsFile": "polimi_data_2022_programs.json",
             "teachersDirectoryUrl": "",
-            "type": "?"
+            "type": "university"
         },
         {
             "name": "Politecnico di Torino",
@@ -14,7 +14,7 @@
             "coursesFile": "polito_data_2023_courses.json",
             "programsFile": "polito_data_2023_programs.json",
             "teachersDirectoryUrl": "",
-            "type": "?"
+            "type": "university"
         },
         {
             "name": "Università di Bologna",
