@@ -51,16 +51,17 @@
         "team-thanks": "With the support of : David Steinmetz, Robin De Gernier, Aymeric Lamant, Laurent Eschenauer, Aric Wizenberg, Antoine Qian, Cédric Brusselmans, Martin Vermeiren, Hugo Poitoux, Luna Janssens, Laura Valgaeren, Noël van Boxtel, Luka Rüder, Ine Tryssesoone, Tine Meulemans, Anurag Sinha, Hülya Altinok and Cédric Cassiers.</p><p>They supported us : Inge Willems (SDSN Belgium), Bart Corijn (The Shift), Clémence Vorreux (Le Shift Project) and Edwin Zaccai (ULB).</p>"
     },
     "themes": {
-        "environment": "Environment",
-        "durability": "Durability",
-        "sustainability": "Durability",
-        "climatology": "Climatology",
-        "energy": "Energy",
-        "consumption": "Consumption",
-        "society": "Society",
-        "decarbonization": "Decarbonization",
+        "building": "Building",
+        "carbon": "Carbon",
         "climate": "Climate",
+        "economy": "Economy",
+        "energy": "Energy",
+        "food": "Food",
+        "life": "Life",
+        "pollution": "Pollution",
+        "prod&cons": "Production",
         "resources": "Resources",
+        "transport": "Transport",
         "other": "Other"
     },
     "fields": {
@@ -89,6 +90,7 @@
         "fr": "French",
         "en": "English",
         "nl": "Dutch",
+        "it": "Italian",
         "de": "German",
         "ar": "Arabic",
         "sv": "Swedish",
