@@ -353,7 +353,7 @@ var app = Vue.createApp({
         share() {
 
             const options = {
-                title: "Education 4 Climate",
+                title: "Education 4 Climate - Italy",
                 text: "Tu es un des futurs acteurs de demain, les études que tu choisiras peuvent avoir un impact significatif sur le changement climatique et la transition vers une société neutre en CO2",
                 url: document.location.href
             };
