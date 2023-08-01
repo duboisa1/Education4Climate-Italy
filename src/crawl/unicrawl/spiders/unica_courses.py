@@ -11,6 +11,8 @@ PROG_DATA_PATH = Path(__file__).parent.absolute().joinpath(
     f'../../../../{CRAWLING_OUTPUT_FOLDER}unica_programs_{YEAR}.json')
 
 
+# TODO: harmonize with unisa
+
 class UniCaCourseSpider(scrapy.Spider, ABC):
     """
     Courses crawler for Università degli Studi di Calgiari

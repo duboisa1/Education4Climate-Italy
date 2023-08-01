@@ -24,7 +24,7 @@ class PoliMiCourseSpider(scrapy.Spider, ABC):
     Courses crawler for Politecnico di Milano
     """
 
-    name = "unict-courses"
+    name = "polimi-courses"
     custom_settings = {
         'FEED_URI': Path(__file__).parent.absolute().joinpath(
             f'../../../../{CRAWLING_OUTPUT_FOLDER}polimi_courses_{YEAR}_pre.json').as_uri()

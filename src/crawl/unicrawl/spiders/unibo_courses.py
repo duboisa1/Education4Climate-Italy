@@ -53,7 +53,7 @@ class UniBoCourseSpider(scrapy.Spider, ABC):
 
                 base_dict = {
                     'id': course_id,
-                    'name': course_name,
+                    'name': course_name.strip(" "),
                     'year': f"{YEAR}-{YEAR+1}",
                     'languages': [],
                     'teachers': [],
@@ -63,7 +63,7 @@ class UniBoCourseSpider(scrapy.Spider, ABC):
                     'activity': '',
                     'other': ''
                 }
-                yield scrapy.Request(BASE_URL.format(course_id, course_url_code), self.parse_course,
+                yield scrapy.Request(BASE_URL.format(course_id.split("-")[-1], course_url_code), self.parse_course,
                                      cb_kwargs={"base_dict": base_dict, "sub_links": []})
 
     def parse_course(self, response, base_dict, sub_links):

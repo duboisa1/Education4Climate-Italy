@@ -40,15 +40,38 @@ class UniBoSpider(scrapy.Spider, ABC):
         cycles = ['master' if 'Magistrale' in c else 'bac' for c in cycles]
         campuses = response.xpath("//h3/following::p[1]/text()").getall()
         campuses = [c.split(" ")[-1] for c in campuses]
-        languages = response.xpath("//h3/following::p[contains(text(), 'Lingua')][1]").getall()
+        languages = response.xpath("//h3/following::p[contains(text(), 'Lingua')][1]/text()").getall()
 
         program_links = response.xpath("//h3/following::p[@class='goto'][1]/a/@href").getall()
 
         for i in range(len(program_ids)):
             base_dict = {'cycle': cycles[i], 'faculties': faculties, 'campuses': [campuses[i]]}
-            complete_url = 'insegnamenti' if 'Italian' in languages[i] else 'course-structure-diagram'
-            yield scrapy.Request(f"{program_links[i]}/{complete_url}",
+            if program_ids[i] == "9245":
+                # Special case with Physics, given partly in Italian but described in English
+                complete_url = f"{program_links[i]}/course-structure-diagram"
+            elif 'Italian' in languages[i]:
+                complete_url = f"{program_links[i]}/insegnamenti"
+            else:  # only Inglese
+                complete_url = f"{program_links[i]}/course-structure-diagram"
+                # Translate certain parts to english
+                complete_url = complete_url.replace('magistralecu', 'singlecycle').replace('magistrale', '2cycle')
+                # Special case with some programs
+                complete_url = complete_url.replace('BiologiaMolecolareCellulare', 'MolecularCellBiology')
+                complete_url = complete_url.replace('IngegneriaMeccanica', 'MechanicalEngineering')
+
+            yield scrapy.Request(complete_url, self.parse_multi_year_pages, cb_kwargs={'base_dict': base_dict})
+
+    def parse_multi_year_pages(self, response, base_dict):
+        # This function takes care of the cases where programs are listed on two different pages
+        # Hoping that there are not programs of the same year on two different pages
+        sub_pages_urls = response.xpath("//a[contains(@href, 'code=')]/@href").getall()
+        if len(sub_pages_urls) == 0:
+            yield scrapy.Request(response.url + '/',  # add this bar to no be a duplicated request
                                  self.parse_structure_diagram, cb_kwargs={'base_dict': base_dict})
+        else:
+            for sub_page_url in sub_pages_urls:
+                yield scrapy.Request(sub_page_url,
+                                     self.parse_structure_diagram, cb_kwargs={'base_dict': base_dict})
 
     def parse_structure_diagram(self, response, base_dict):
 
@@ -58,13 +81,24 @@ class UniBoSpider(scrapy.Spider, ABC):
         sub_programs_links = response.xpath(f"{main_col_txt}//a[{contains_txt}]/@href").getall()
         if len(sub_programs_links) > 1:
             sub_program_names = response.xpath(f"{main_col_txt}//a[{contains_txt}]/preceding::h3[1]/text()").getall()
-            for i, sub_program_link in enumerate(sub_programs_links):
+            # Allows to take care of the case where there are no names above the links
+            # For instance here: https://corsi.unibo.it/magistralecu/Giurisprudenza-Bologna/insegnamenti
+            if len(sub_program_names) == 0:
+                sub_program_names = ["".join(url.split("/")[-2].split("-")) for url in sub_programs_links]
+            # used when multiple links for the same year
+            already_seen_ids = []
+            i = 0
+            for sub_program_link in sub_programs_links:
                 program_id = '-'.join(sub_program_link.split('/')[-4:-2])
+                if program_id in already_seen_ids:
+                    continue
+                already_seen_ids += [program_id]
                 program_name = sub_program_names[i].title().strip(" \n")
                 program_name = program_name.replace('Curriculum', '').strip(": ")
                 new_dict = {'id': program_id, 'name': program_name}
                 yield scrapy.Request(sub_program_link,
                                      self.parse_program, cb_kwargs={'base_dict': {**new_dict, **base_dict}})
+                i += 1
         elif len(sub_programs_links) == 1:
             program_id = sub_programs_links[0].split('/')[-4]
             program_name = response.xpath("//span[contains(text(), 'Laurea') or "
@@ -82,8 +116,10 @@ class UniBoSpider(scrapy.Spider, ABC):
         courses_links = response.xpath("//tr/td/a/@href").getall()
         courses_names = response.xpath("//tr/td/a/text()").getall()
         courses_names = [name.title() for name in courses_names]
-        courses_ids = [c.split('codiceMateria=')[1].split("&")[0] for c in courses_links]
         courses_url_codes = [c.split('codiceCorso=')[1].split("&")[0] for c in courses_links]
+        courses_ids = [c.split('codiceMateria=')[1].split("&")[0] for c in courses_links]
+        # Add program id because there are identic ids across different programs
+        courses_ids = [f"{courses_url_codes[i]}-{idx}" for i, idx in enumerate(courses_ids)]
         ects = response.xpath("//tr[td/a]//td[@class='info'][last()]/text()").getall()
         ects = [int(e) for e in ects]
 
