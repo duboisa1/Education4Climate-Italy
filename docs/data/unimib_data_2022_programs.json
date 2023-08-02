@@ -15,7 +15,7 @@
    "Economico-Statistica"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -45,7 +45,7 @@
    "Scienze della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -78,7 +78,7 @@
    "Scienze della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -109,7 +109,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -128,36 +128,6 @@
   "nb_total_courses":28
  },
  {
-  "id":"H4601D",
-  "name":"Odontoiatria e Protesi Dentaria",
-  "cycle":"master",
-  "url":"https:\/\/elearning.unimib.it\/course\/index.php?categoryid=3157",
-  "languages":[
-   "it"
-  ],
-  "campuses":[
-   "Milan"
-  ],
-  "faculties":[
-   "Medica, Chirurgica e dei Servizi Clinici"
-  ],
-  "fields":[
-   "Other"
-  ],
-  "themes":[
-   "energy"
-  ],
-  "themes_scores":[
-   1
-  ],
-  "matched_courses":[
-   "2223-2-H4601D006"
-  ],
-  "nb_dedicated_courses":0,
-  "nb_matched_courses":1,
-  "nb_total_courses":54
- },
- {
   "id":"F5401Q",
   "name":"Scienze e Tecnologie Chimiche",
   "cycle":"master",
@@ -173,7 +143,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -224,7 +194,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -268,7 +238,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building",
@@ -344,7 +314,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -379,7 +349,7 @@
    "Giuridica"
   ],
   "fields":[
-   "Other"
+   "Law"
   ],
   "themes":[
    "life",
@@ -414,7 +384,7 @@
    "Scienze della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -447,7 +417,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -479,7 +449,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -521,7 +491,7 @@
    "Sociologica"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "carbon",
@@ -564,7 +534,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "carbon",
@@ -607,7 +577,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -641,7 +611,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -691,7 +661,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "resources"
@@ -722,7 +692,7 @@
    "Economico-Statistica"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "resources"
@@ -753,7 +723,7 @@
    "Economico-Statistica"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -783,7 +753,7 @@
    "Economico-Statistica"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate"
@@ -813,7 +783,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -866,7 +836,7 @@
    "Economico-Statistica"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -900,7 +870,7 @@
    "Economico-Statistica"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -946,7 +916,7 @@
    "Economico-Statistica"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "carbon",
@@ -987,7 +957,7 @@
    "Sociologica"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -1018,7 +988,7 @@
    "Psicologica"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -1050,7 +1020,7 @@
    "Psicologica"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -1080,7 +1050,7 @@
    "Medica, Chirurgica e dei Servizi Clinici"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -1114,7 +1084,7 @@
    "Scienze della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -1145,7 +1115,7 @@
    "Scienze della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -1175,7 +1145,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -1231,7 +1201,7 @@
    "Economico-Statistica"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1263,7 +1233,7 @@
    "Scienze della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -1294,7 +1264,7 @@
    "Sociologica"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -1339,7 +1309,7 @@
    "Economico-Statistica"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -1373,7 +1343,7 @@
    "Sociologica"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -1404,7 +1374,7 @@
    "Sociologica"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -1435,7 +1405,7 @@
    "Sociologica"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life",
@@ -1474,7 +1444,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -1507,7 +1477,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "carbon",
@@ -1547,7 +1517,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "economy",
@@ -1585,7 +1555,7 @@
    "Scienze"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "carbon",
@@ -1626,7 +1596,7 @@
    "Medica, Chirurgica e dei Servizi Clinici"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -1656,7 +1626,7 @@
    "Giuridica"
   ],
   "fields":[
-   "Other"
+   "Law"
   ],
   "themes":[
    "life",
@@ -1688,7 +1658,7 @@
    "Medica, Chirurgica e dei Servizi Clinici"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -1720,7 +1690,7 @@
    "Psicologica"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "climate",
@@ -1754,7 +1724,7 @@
    "Psicologica"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -1784,7 +1754,7 @@
    "Medica, Chirurgica e dei Servizi Clinici"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -1816,7 +1786,7 @@
    "Medica, Chirurgica e dei Servizi Clinici"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -1849,7 +1819,7 @@
    "Medica, Chirurgica e dei Servizi Clinici"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "economy"

@@ -1,0 +1,2275 @@
+[
+ {
+  "id":"1060200003",
+  "name":"C.I. Chimica E Propedeutica Biochimica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Della Porta Giovanna",
+   "Marzullo Liberato"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500446&insegnamento=510767&ordinamento_aa=2023",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0160100026",
+  "name":"Diritto Dell'Ambiente",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Petrella Giuseppe"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500114&insegnamento=504028&ordinamento_aa=2012",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Law"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0160100429",
+  "name":"Diritto Internazionale Della Salute E Dell'Ambiente",
+  "year":"2023-2024",
+  "languages":[
+   "en",
+   "it"
+  ],
+  "teachers":[
+   "Fittizio Docente",
+   "Negri Stefania"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500114&insegnamento=514288&ordinamento_aa=2012",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Law"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"4461000044",
+  "name":"Chimica Ambientale Ed Ecologia",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500312&insegnamento=509704&ordinamento_aa=2016",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"4461000048",
+  "name":"Laboratorio Di Ecologia E Studi Sull'Ambiente",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500312&insegnamento=509708&ordinamento_aa=2016",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"4312400040",
+  "name":"Televisione E Nuovi Media",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Tirino Mario"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500471&insegnamento=514113&ordinamento_aa=2020",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0612900005",
+  "name":"Caratteri Compositivi E Costruttivi Degli Edifici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Silva Felice",
+   "Fiore Pierfrancesco"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500687&insegnamento=517613&ordinamento_aa=2023",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0612900018",
+  "name":"Laboratorio Di Impianti, Certificazione Energetica E\n Protezione Ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500687&insegnamento=517627&ordinamento_aa=2023",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0612500065",
+  "name":"Chimica Per L'Ingegneria Ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Scarfato Paola"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500188&insegnamento=516015&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0612500023",
+  "name":"Fenomeni Di Inquinamento E Controllo Della Qualit\u00e0 Ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500188&insegnamento=505880&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0612100058",
+  "name":"Trasporti E Mobilit\u00e0 Sostenibile",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500187&insegnamento=515213&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0512900006",
+  "name":"Termodinamica Applicata",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Aprea Ciro"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500637&insegnamento=515634&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0512900016",
+  "name":"Fisica Dei Materiali E Delle Nanotecnologie Sostenibili",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500637&insegnamento=515644&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "prod&cons"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0512900007",
+  "name":"Sviluppo Sostenibile E Cambiamenti Climatici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2025&corso_aa=2023&corso_cod=500637&insegnamento=515752&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0512700002",
+  "name":"Chimica Generale E Inorganica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Capacchione Carmine"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500458&insegnamento=511760&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0512700007",
+  "name":"Chimica Organica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Izzo Irene",
+   "Della Sala Giorgio"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500458&insegnamento=511765&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0512700030",
+  "name":"Legislazione Ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fittizio Docente",
+   "Armenante Francesco"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500458&insegnamento=516275&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0512700037",
+  "name":"Chimica Degli Inquinanti Organici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500458&insegnamento=516282&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0512700039",
+  "name":"Chimica Verde Per L\u2019Ambiente E L\u2019Economia Circolare",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2025&corso_aa=2023&corso_cod=500458&insegnamento=516284&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "economy",
+   "prod&cons"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0512700040",
+  "name":"Energie Sostenibili",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2025&corso_aa=2023&corso_cod=500458&insegnamento=516285&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0712300013",
+  "name":"Politica Agraria E Coltivazioni",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pergola Maria",
+   "Ronga Domenico"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500641&insegnamento=515793&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0712300030",
+  "name":"Benessere Animale E Qualita' Dei Prodotti Destinati Al Consumo Umano",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2025&corso_aa=2023&corso_cod=500641&insegnamento=515810&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0712300021",
+  "name":"Management E Marketing Sostenibile Per La Salute E Il Benessere Animale Nelle Filiere Zootecniche",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2025&corso_aa=2023&corso_cod=500641&insegnamento=515801&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0712200024",
+  "name":"Biodiversit\u00e0 Genetica E Valorizzazione Del Territorio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2025&corso_aa=2023&corso_cod=500456&insegnamento=511418&ordinamento_aa=2016",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0712200056",
+  "name":"Laboratorio Di Tecniche Di Agricoltura Biologica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2025&corso_aa=2023&corso_cod=500456&insegnamento=517537&ordinamento_aa=2016",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "food"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0712100108",
+  "name":"Biodiversit\u00e0 Genetica E Valorizzazione Del Territorio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500272&insegnamento=517531&ordinamento_aa=2020",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0212900006",
+  "name":"Diritto Pubblico Del Turismo",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galdi Marco"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500642&insegnamento=516179&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Economics and Management"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0212900002",
+  "name":"Economia Del Turismo",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Carlucci Fabio"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500642&insegnamento=516175&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Economics and Management"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0212900001",
+  "name":"Geografia Economica E Del Turismo",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maglio Monica"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500642&insegnamento=516174&ordinamento_aa=2022",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Economics and Management"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0622500048",
+  "name":"Analisi E Mitigazione Del Rischio Da Siccit\u00e0",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Longobardi Antonia"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500269&insegnamento=515993&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "climate",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0622500044",
+  "name":"Geotecnica Per L'Ambiente E Il Territorio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Peduto Dario",
+   "Mandaglio Maria Clorinda"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500269&insegnamento=515989&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622500028",
+  "name":"Valutazione Di Impatto Ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Naddeo Vincenzo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500269&insegnamento=511531&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622500045",
+  "name":"Gestione Del Traffico E Mobilit\u00e0 Sostenibile",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Pace Roberta"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500269&insegnamento=515990&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622500046",
+  "name":"Rifiuti, Energia Ed Economia Circolare",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Zarra Tiziano",
+   "Belgiorno Vincenzo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500269&insegnamento=515991&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "economy",
+   "energy",
+   "life",
+   "resources",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622500034",
+  "name":"Trattamento Acque E Riutilizzo",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Rizzo Luigi"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500269&insegnamento=512776&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0622300005",
+  "name":"Modellistica Dei Sistemi Energetici E Propulsivi",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pianese Cesare",
+   "Fittizio Docente"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500268&insegnamento=508042&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622300055",
+  "name":"Qualita' Dell'Ambiente Interno Per La Decarbonizzazione",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2024&corso_aa=2023&corso_cod=500268&insegnamento=517546&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "carbon"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622300037",
+  "name":"Impianti A Energie Rinnovabili",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2024&corso_aa=2023&corso_cod=500268&insegnamento=512192&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622400037",
+  "name":"Convertitori Elettronici Per L'Energia E I Trasporti",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galdi Vincenzo",
+   "Fittizio Docente"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500267&insegnamento=511721&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622400053",
+  "name":"Smart Energy Management & Technologies For Sustainability",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500267&insegnamento=515316&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622400051",
+  "name":"Power Electronics For Ema Entertainment, Music And Art",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galdi Vincenzo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500267&insegnamento=515099&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0622100068",
+  "name":"Controllo Dell'Inquinamento Atmosferico",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Zarra Tiziano",
+   "Oliva Giuseppina"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500266&insegnamento=515969&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "climate",
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622100069",
+  "name":"Gestione Del Traffico E Mobilit\u00e0 Sostenibile",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Pace Roberta"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500266&insegnamento=515970&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622100081",
+  "name":"Pianificazione Dei Trasporti Sostenibili",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2024&corso_aa=2023&corso_cod=500266&insegnamento=516003&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622100038",
+  "name":"Valutazione Di Impatto Ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2024&corso_aa=2023&corso_cod=500266&insegnamento=511543&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622100072",
+  "name":"Gestione E Riqualificazione Delle Costruzioni Idrauliche",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Villani Paolo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10002&anno=2023&corso_aa=2023&corso_cod=500266&insegnamento=515973&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0622200021",
+  "name":"Ecologia Industriale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "De Feo Giovanni"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500265&insegnamento=509610&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "economy",
+   "life",
+   "pollution",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622200022",
+  "name":"Processi Sostenibili Della Chimica Industriale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vaiano Vincenzo",
+   "Palma Vincenzo",
+   "Iervolino Giuseppina"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500265&insegnamento=509916&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622600047",
+  "name":"Statistica Applicata",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fittizio Docente"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500192&insegnamento=512834&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1222800019",
+  "name":"Storia Del Turismo Globale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Castagna Luca"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500643&insegnamento=517536&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1222800003",
+  "name":"Storia Economica Del Turismo",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ecchia Stefania"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500643&insegnamento=515613&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1222800007",
+  "name":"Turismo E Sostenibilita'",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Iovino Giorgia"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500643&insegnamento=515617&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1222600003",
+  "name":"Diritto Dell'Urbanistica E Dell'Ambiente",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Feola Marcello Giuseppe",
+   "Strazza Giordana"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500557&insegnamento=513474&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1222600007",
+  "name":"Organizzazione E Pianificazione Territoriale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Bencardino Massimiliano"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500557&insegnamento=513481&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "building"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1222600022",
+  "name":"Sociologia Della Globalizzazione",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Maddaloni Domenico"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500557&insegnamento=513504&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0322900099",
+  "name":"Economia E Politiche Per La Sostenibilita' Tecnologica E Ambientale",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Iorio Roberto"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500181&insegnamento=515267&ordinamento_aa=2011",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0322900094",
+  "name":"Ecologia Politica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Avallone Gennaro"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10005&anno=2023&corso_aa=2023&corso_cod=500181&insegnamento=514337&ordinamento_aa=2011",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0322900097",
+  "name":"Sociologia, Inchiesta Sociale E Giornalismo",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Denunzio Fabrizio"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10005&anno=2023&corso_aa=2023&corso_cod=500181&insegnamento=515265&ordinamento_aa=2011",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0522400041",
+  "name":"Biodiversit\u00e0 E Conservazione Dell\u2019Ambiente",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Castiglione Stefano"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500262&insegnamento=516303&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522400040",
+  "name":"Estimo Per L\u2019Ambiente E Il Territorio",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fittizio Docente"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500262&insegnamento=516302&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "economy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522400025",
+  "name":"Geofisica Per L'Ambiente",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Capuano Paolo",
+   "Amoroso Ortensia"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500262&insegnamento=510951&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522400029",
+  "name":"Pianificazione Territorio E Ambiente",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fittizio Docente"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500262&insegnamento=511852&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "building",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522400042",
+  "name":"Igiene",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Fittizio Docente"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500262&insegnamento=516304&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0522400016",
+  "name":"Pedologia",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mazzei Pierluigi"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500262&insegnamento=507499&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "food",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0522400033",
+  "name":"Climatologia E Oceanografia",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Capuano Paolo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500262&insegnamento=511856&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "climate",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522400045",
+  "name":"Materiali Per L'Ambiente",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Falivene Laura"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500262&insegnamento=516341&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "climate",
+   "energy",
+   "life",
+   "pollution",
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522400001",
+  "name":"Analisi Di Sistemi Ecologici",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500262&insegnamento=507484&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522300051",
+  "name":"Chimica Verde",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2024&corso_aa=2023&corso_cod=500261&insegnamento=512032&ordinamento_aa=2016",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "prod&cons"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0522300045",
+  "name":"Catalisi Sostenibile",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Capacchione Carmine",
+   "Pellecchia Claudio",
+   "Grassi Alfonso"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500261&insegnamento=512026&ordinamento_aa=2016",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "carbon",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522300059",
+  "name":"Dispositivi Elettro-Ottici Per Lo Sviluppo Sostenibile",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Landi Alessandro",
+   "Capobianco Amedeo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500261&insegnamento=513259&ordinamento_aa=2016",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522600061",
+  "name":"Geofisica Per L\u2019Ambiente",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Capuano Paolo",
+   "Amoroso Ortensia"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500259&insegnamento=514199&ordinamento_aa=2021",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522600060",
+  "name":"Nanotecnologie Per La Sostenibilit\u00e0",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Sarno Maria"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500259&insegnamento=514197&ordinamento_aa=2021",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "economy",
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0522200007",
+  "name":"Equazioni Differenziali Alle Derivate Parziali",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Caso Loredana"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500253&insegnamento=507318&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0522100047",
+  "name":"Igiene E Metodologie Epidemiologiche",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Cavallo Pierpaolo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2023&corso_aa=2023&corso_cod=500218&insegnamento=516062&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"4422500015",
+  "name":"Metodologia Della Ricerca Sociale Applicata",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Diana Paolo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500611&insegnamento=514610&ordinamento_aa=2023",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"4422200032",
+  "name":"Progettazione Didattica Inclusiva E Universal Design For Learning",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Pace Erika Marie",
+   "Corona Felice"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500220&insegnamento=513644&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"4422200002",
+  "name":"Tecniche E Valutazione Delle Attitudini Sportive",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Vastola Rodolfo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500220&insegnamento=506939&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0722200001",
+  "name":"Chimica Agraria E Fertilit\u00e0 Del Suolo",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Mazzei Pierluigi"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500549&insegnamento=513113&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "food",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0722200005",
+  "name":"Management E Marketing Per La Green Economy",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Saviano Marialuisa"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500549&insegnamento=513117&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0722200003",
+  "name":"Metodologie Genetico-Molecolari Per Il Miglioramento Delle Produzioni Agrarie",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ambrosone Alfredo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500549&insegnamento=513115&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0722200002",
+  "name":"Sistemi Erbacei E Orticoli Sostenibili Del Mediterraneo",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ronga Domenico"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500549&insegnamento=513114&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0722200011",
+  "name":"Caratterizzazione E Valorizzazione Dei Prodotti Ortofrutticoli Tipici Campani",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Ostacolo Carmine"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500549&insegnamento=513123&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0722200010",
+  "name":"Normativa E Mercato Agro-Alimentare Nell'Area Mediterranea",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Imbrenda Mariassunta"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500549&insegnamento=513122&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "food",
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0722200012",
+  "name":"Sviluppo Sostenibile Nello Spazio Mediterraneo: Nozioni Giuridiche Fondamentali",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Di Stasi Angela",
+   "Iermano Anna"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500549&insegnamento=513124&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Medicine and Healthcare"
+  ],
+  "themes":[
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0223100004",
+  "name":"Diritto Dell'Unione Europea",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Marrani Daniela"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500519&insegnamento=512483&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Economics and Management"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0223100010",
+  "name":"Economia Circolare E Politiche Ambientali",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Faggini Marisa"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500519&insegnamento=512489&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Economics and Management"
+  ],
+  "themes":[
+   "economy",
+   "life"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0222100145",
+  "name":"Smart Cities Per La Transizione Energetica",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Siano Pierluigi"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500158&insegnamento=516395&ordinamento_aa=2023",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Economics and Management"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"4461000079",
+  "name":"Laboratorio Di Pedagogia Speciale - I Anno",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Galdieri Michela",
+   "Zappala' Emanuela"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500312&insegnamento=517287&ordinamento_aa=2016",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"4312200016",
+  "name":"Geografia",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+   "Siniscalchi Silvia",
+   "De Felice Pierluigi"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500209&insegnamento=506773&ordinamento_aa=2016",
+  "cycles":[
+   "bac"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0623300008",
+  "name":"Electric Machines",
+  "year":"2023-2024",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Zamboni Walter",
+   "Spagnuolo Giovanni"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500679&insegnamento=517048&ordinamento_aa=2023",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0623300007",
+  "name":"Renewable Sources And Power Converters",
+  "year":"2023-2024",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Petrone Giovanni",
+   "Piliougine Rocha Michel"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500679&insegnamento=517047&ordinamento_aa=2023",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "energy",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0623000006",
+  "name":"Optimization And Management Of Energy Systems",
+  "year":"2023-2024",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Fittizio Docente",
+   "Renno Carlo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500613&insegnamento=514705&ordinamento_aa=2021",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "energy",
+   "life",
+   "pollution"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622300043",
+  "name":"Smart Circuits For Renewable Energy",
+  "year":"2023-2024",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10001&anno=2024&corso_aa=2023&corso_cod=500268&insegnamento=512866&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0622300035",
+  "name":"Hybrid Vehicles",
+  "year":"2023-2024",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10002&anno=2024&corso_aa=2023&corso_cod=500268&insegnamento=512190&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0622800006",
+  "name":"Food Packaging - Materiali Per Imballaggi",
+  "year":"2023-2024",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Incarnato Loredana",
+   "Apicella Annalisa"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500264&insegnamento=508106&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "resources",
+   "transport"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0622800025",
+  "name":"Process Unit Operations - Operazioni Unitarie Nell'Industria Di Processo",
+  "year":"2023-2024",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "Baldino Lucia",
+   "Donsi' Francesco",
+   "Maiorino Angelo"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2023&corso_aa=2023&corso_cod=500264&insegnamento=509934&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0622800003",
+  "name":"Waste Water Treatment In Process Industries - Trattamento Effluenti",
+  "year":"2023-2024",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=9999&anno=2024&corso_aa=2023&corso_cod=500264&insegnamento=508103&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1222500049",
+  "name":"Forensic Accounting",
+  "year":"2023-2024",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "De Luca Roberto",
+   "Fittizio Docente"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10002&anno=2023&corso_aa=2023&corso_cod=500526&insegnamento=516034&ordinamento_aa=2018",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Economics and Management"
+  ],
+  "themes":[
+   "pollution"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0322100087",
+  "name":"Fran\u00e7ais II Pour La Didactique Et La Philologie",
+  "year":"2023-2024",
+  "languages":[
+   "fr"
+  ],
+  "teachers":[
+   "Bevilacqua Michele"
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10000&anno=2023&corso_aa=2023&corso_cod=500168&insegnamento=515942&ordinamento_aa=2019",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Humanities and Social Sciences"
+  ],
+  "themes":[
+   "life"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0622100086",
+  "name":"Materiali Sostenibili E Analisi Del Ciclo Di Vita",
+  "year":"2023-2024",
+  "languages":[
+   "it"
+  ],
+  "teachers":[
+
+  ],
+  "url":"https:\/\/unisa.coursecatalogue.cineca.it\/api\/v1\/insegnamento?af_percorso=10002&anno=2024&corso_aa=2023&corso_cod=500266&insegnamento=516008&ordinamento_aa=2022",
+  "cycles":[
+   "master"
+  ],
+  "fields":[
+   "Engineering and Architecture"
+  ],
+  "themes":[
+   "resources"
+  ],
+  "dedicated":1
+ }
+]

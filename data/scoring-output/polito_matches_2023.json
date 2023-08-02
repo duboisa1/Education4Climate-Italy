@@ -2072,21 +2072,6 @@
         "it": {
             "energ[^ ]+ rinnovabil": [
                 "e maggiori fonti di energia rinnovabile  su cui si sta inv"
-            ],
-            "idroelettric": [
-                "impianti idroelettrici l idroelettrico e ",
-                "nti idroelettrici l idroelettrico e una delle maggio",
-                "3700 nuovi impianti idroelettrici  con potenza super",
-                "acita di produzione idroelettrica globale del 73%  f",
-                "erifica di impianti idroelettrici provvisti di invas",
-                "ratiche su impianti idroelettrici esistenti  che ver",
-                "ratiche su impianti idroelettrici esistenti  che ver",
-                "azioni per impianti idroelettrici   foronomia e luci",
-                "essioni in impianti idroelettrici   7  macchine idra",
-                "erifica di impianti idroelettrici con invaso o ad ac",
-                "o studio l impianto idroelettrico di hone ii  di pro",
-                "erifica di impianti idroelettrici con invaso o ad ac",
-                "tazione di impianti idroelettrici"
             ]
         }
     },
@@ -2566,14 +2551,6 @@
             "bio[- ]?fuel": [
                 "els from lng route  biofuels  i e   biomethane ",
                 "els from lng route  biofuels  i e   biomethane "
-            ]
-        }
-    },
-    "66CWHNC: Tirocinio": {
-        "it": {
-            "idroelettric": [
-                "tabella a  impianti idroelettrici oppure laboratorio",
-                "tabella a  impianti idroelettrici oppure laboratorio"
             ]
         }
     },
@@ -3335,6 +3312,10 @@
             "sustainable building": [
                 "tegrated design for sustainable building the course aims to "
             ],
+            "(?:low[- ]?energy|passive) (?:house|building)": [
+                "ject concept phase  low energy building design fundamentals",
+                "eco-sustainability  low energy building design fundamentals"
+            ],
             "[energy, sustaina]": [
                 "sition  structural  energy  plant engineering ",
                 "ural  construction  energy  plant systems and ",
@@ -3830,9 +3811,6 @@
                 "ement tools for the industrial sector   environme",
                 "ld   description of industrial energy services an",
                 " energy analysis of industrial processes"
-            ],
-            "idroelettric": [
-                "duzione di energia  idroelettrico  eolico  geotermic"
             ],
             "[[ ]ecolo[^ ]+]": [
                 "energetica e ecologia energetica e ecolog",
@@ -5083,9 +5061,6 @@
                 "ld   description of industrial energy services an",
                 " energy analysis of industrial processes"
             ],
-            "idroelettric": [
-                "duzione di energia  idroelettrico  eolico  geotermic"
-            ],
             "[[ ]ecolo[^ ]+]": [
                 "energetica e ecologia energetica e ecolog",
                 "cologia energetica e ecologia  ecologia   obietti",
@@ -5691,8 +5666,8 @@
     },
     "08BEKMC: Idraulica": {
         "it": {
-            "idroelettric": [
-                "oduzione di energia idroelettrica  regime di moto la"
+            "(?:central(?:e|i)|energia) idroelettric": [
+                "sulla produzione di energia idroelettrica  regime di moto la"
             ]
         }
     },
@@ -7202,9 +7177,6 @@
                 "ld   description of industrial energy services an",
                 " energy analysis of industrial processes"
             ],
-            "idroelettric": [
-                "duzione di energia  idroelettrico  eolico  geotermic"
-            ],
             "[[ ]ecolo[^ ]+]": [
                 "energetica e ecologia energetica e ecolog",
                 "cologia energetica e ecologia  ecologia   obietti",
@@ -8069,14 +8041,6 @@
                 "grid integration of electric vehicles  vehicle to grid a",
                 "grid integration of electric vehicles  operation and pla",
                 "grid integration of electric vehicles  vehicle to grid a"
-            ]
-        }
-    },
-    "34CWHNC: Tirocinio": {
-        "it": {
-            "idroelettric": [
-                "tabella a  impianti idroelettrici oppure laboratorio",
-                "tabella a  impianti idroelettrici oppure laboratorio"
             ]
         }
     },

@@ -2535,11 +2535,8 @@
     },
     "951II: Dinamica E Controllo Dei Sistemi Elettrici": {
         "it": {
-            "idroelettric": [
-                "  stabilita  gruppi idroelettrici  modellazione dell",
-                "golatore dei gruppi idroelettrici  schemi tipici dei",
-                "iretta     impianti idroelettrici  le risorse idrich",
-                "pressioni  centrale idroelettrica  dispositivi di ch"
+            "(?:central(?:e|i)|energia) idroelettric": [
+                "tmo sovrapressioni  centrale idroelettrica  dispositivi di ch"
             ]
         }
     },
@@ -2766,10 +2763,6 @@
     },
     "268HH: Protezione Idraulica Del Territorio E Idrologia ": {
         "it": {
-            "idroelettric": [
-                "ione     - impianti idroelettrici  le digle e le tra",
-                "geologici  impianti idroelettrici  normativa e siste"
-            ],
             "impatt(?:o|i) (?:ambient|ecosist)": [
                 "rsi d acqua a basso impatto ambientale  le rampe  le br"
             ]
@@ -5072,8 +5065,8 @@
                 " cono di stodola    energie rinnovabili  energia solare te",
                 "di conversione dell energia rinnovabile  energia solare  e"
             ],
-            "idroelettric": [
-                "ge di betz  energia idroelettrica  energia geotermic"
+            "(?:central(?:e|i)|energia) idroelettric": [
+                "ica  legge di betz  energia idroelettrica  energia geotermic"
             ],
             "solar(?:e|i) a concentrazione": [
                 "tovoltaica  energia solare a concentrazione  energia eolica  le"
@@ -5299,8 +5292,8 @@
                 " pompe speciali     energie rinnovabili  energia solare te",
                 "di conversione dell energia rinnovabile  energia solare  e"
             ],
-            "idroelettric": [
-                "ge di betz  energia idroelettrica  energia geotermic"
+            "(?:central(?:e|i)|energia) idroelettric": [
+                "ica  legge di betz  energia idroelettrica  energia geotermic"
             ],
             "solar(?:e|i) a concentrazione": [
                 "tovoltaica  energia solare a concentrazione  energia eolica  le"

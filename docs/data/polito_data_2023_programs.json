@@ -15,7 +15,7 @@
    "Dipartimento di Architettura e Design"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -66,7 +66,7 @@
    "Dipartimento di Ingegneria Gestionale e della Produzione"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -103,7 +103,7 @@
    "Dipartimento di Elettronica e Telecomunicazioni"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -134,7 +134,7 @@
    "Dipartimento Energia"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -182,7 +182,7 @@
    "Dipartimento Interateneo di Scienze, Progetto e Politiche del Territorio"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -232,7 +232,7 @@
    "Interuniversity Department of Regional and Urban Studies and Planning"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -272,7 +272,7 @@
    "Dipartimento Interateneo di Scienze, Progetto e Politiche del Territorio"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -312,7 +312,7 @@
    "Interuniversity Department of Regional and Urban Studies and Planning"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -377,7 +377,7 @@
    "Dipartimento Interateneo di Scienze, Progetto e Politiche del Territorio"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -442,7 +442,7 @@
    "Dipartimento di Elettronica e Telecomunicazioni"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "pollution",
@@ -476,7 +476,7 @@
    "Department of Environment, Land and Infrastructure Engineering"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -545,7 +545,7 @@
    "Dipartimento di Ingegneria dell'Ambiente, del Territorio e delle Infrastrutture"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -614,7 +614,7 @@
    "Department of Mechanical and Aerospace Engineering"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -664,7 +664,7 @@
    "Dipartimento di Ingegneria Meccanica e Aerospaziale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -714,7 +714,7 @@
    "Dipartimento di Scienze Matematiche 'G. L. Lagrange'"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "pollution"
@@ -745,7 +745,7 @@
    "Dipartimento di Automatica e Informatica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "resources"
@@ -776,7 +776,7 @@
    "Department of Management and Production Engineering"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "carbon",
@@ -821,7 +821,7 @@
    "Department of Control and Computer Engineering"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "resources"
@@ -852,7 +852,7 @@
    "Department of Energy"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -922,7 +922,7 @@
    "Dipartimento di Ingegneria Gestionale e della Produzione"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "carbon",
@@ -967,7 +967,7 @@
    "Dipartimento Energia"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1037,7 +1037,7 @@
    "Department of Electronics and Telecommunications"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "pollution"
@@ -1069,7 +1069,7 @@
    "Dipartimento di Elettronica e Telecomunicazioni"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "pollution"
@@ -1101,7 +1101,7 @@
    "Dipartimento Energia"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "carbon",
@@ -1113,7 +1113,7 @@
   "themes_scores":[
    1,
    1,
-   7,
+   5,
    1,
    5
   ],
@@ -1126,12 +1126,10 @@
    "03AFINC",
    "03EOONC",
    "04KBHNC",
-   "04RUKNC",
-   "34CWHNC",
-   "66CWHNC"
+   "04RUKNC"
   ],
   "nb_dedicated_courses":3,
-  "nb_matched_courses":11,
+  "nb_matched_courses":9,
   "nb_total_courses":52
  },
  {
@@ -1150,7 +1148,7 @@
    "Department of Structural, Geotechnical and Building Engineering"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1197,7 +1195,7 @@
    "Dipartimento di Ingegneria Strutturale, Edile e Geotecnica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1244,7 +1242,7 @@
    "Department of Applied Science and Technology"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1297,7 +1295,7 @@
    "Dipartimento Scienza Applicata e Tecnologia"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1350,7 +1348,7 @@
    "Dipartimento Scienza Applicata e Tecnologia"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1400,7 +1398,7 @@
    "Dipartimento di Ingegneria Meccanica e Aerospaziale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -1430,7 +1428,7 @@
    "Dipartimento di Ingegneria Meccanica e Aerospaziale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "pollution"
@@ -1461,7 +1459,7 @@
    "Dipartimento di Elettronica e Telecomunicazioni"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -1497,7 +1495,7 @@
    "Dipartimento di Ingegneria dell'Ambiente, del Territorio e delle Infrastrutture"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1552,7 +1550,7 @@
    "Dipartimento Interateneo di Scienze, Progetto e Politiche del Territorio"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1601,7 +1599,7 @@
    "Dipartimento di Architettura e Design"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1641,7 +1639,7 @@
    "Dipartimento di Automatica e Informatica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -1672,7 +1670,7 @@
    "Dipartimento di Ingegneria Strutturale, Edile e Geotecnica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1712,7 +1710,7 @@
    "Dipartimento di Ingegneria Meccanica e Aerospaziale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -1749,7 +1747,7 @@
    "Department of Architecture and Design"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1816,7 +1814,7 @@
    "Dipartimento di Architettura e Design"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1883,7 +1881,7 @@
    "Department of Architecture and Design"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -1921,7 +1919,7 @@
    "Dipartimento di Architettura e Design"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -1959,7 +1957,7 @@
    "Dipartimento Interateneo di Scienze, Progetto e Politiche del Territorio"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "climate",
@@ -2002,7 +2000,7 @@
    "Department of Architecture and Design"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -2058,7 +2056,7 @@
    "Dipartimento di Architettura e Design"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -2114,7 +2112,7 @@
    "Dipartimento di Ingegneria dell'Ambiente, del Territorio e delle Infrastrutture"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "carbon",
@@ -2166,7 +2164,7 @@
    "Dipartimento di Ingegneria dell'Ambiente, del Territorio e delle Infrastrutture"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -2217,7 +2215,7 @@
    "Department of Mechanical and Aerospace Engineering"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2251,7 +2249,7 @@
    "Dipartimento di Ingegneria Meccanica e Aerospaziale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2285,7 +2283,7 @@
    "Dipartimento Energia"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2319,7 +2317,7 @@
    "Dipartimento di Ingegneria Strutturale, Edile e Geotecnica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -2352,7 +2350,7 @@
    "Dipartimento di Ingegneria Gestionale e della Produzione"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -2401,7 +2399,7 @@
    "Department of Mechanical and Aerospace Engineering"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -2434,7 +2432,7 @@
    "Dipartimento di Ingegneria Meccanica e Aerospaziale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -2467,7 +2465,7 @@
    "Dipartimento di Ingegneria Strutturale, Edile e Geotecnica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2505,7 +2503,7 @@
    "Dipartimento Scienza Applicata e Tecnologia"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy"
@@ -2536,7 +2534,7 @@
    "Dipartimento Scienza Applicata e Tecnologia"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "resources",
@@ -2570,7 +2568,7 @@
    "Dipartimento di Ingegneria Meccanica e Aerospaziale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2611,7 +2609,7 @@
    "Dipartimento di Architettura e Design"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "economy",
@@ -2655,7 +2653,7 @@
    "Dipartimento di Ingegneria dell'Ambiente, del Territorio e delle Infrastrutture"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "carbon",
@@ -2706,7 +2704,7 @@
    "Department of Architecture and Design"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",

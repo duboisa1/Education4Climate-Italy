@@ -92,9 +92,6 @@
             "energ[^ ]+ rinnovabil": [
                 "relativi alle fonti energetiche rinnovabili trattate e relativ"
             ],
-            "idroelettric": [
-                "a e tecnologia mini-idroelettrica     tipologie di i"
-            ],
             "pannelli fotovoltaici": [
                 "etto fotoelettrico  pannelli fotovoltaici  inverter  sistemi "
             ],
@@ -283,9 +280,6 @@
         "it": {
             "energ[^ ]+ rinnovabil": [
                 "  aia         fonti energetiche rinnovabili e loro incentivazi"
-            ],
-            "idroelettric": [
-                "e    le concessioni idroelettriche    gli appalti ne"
             ],
             "impatt(?:o|i) (?:ambient|ecosist)": [
                 "  a  valutazione di impatto ambientale   via           "
@@ -496,6 +490,10 @@
                 "dings as commercial sustainable buildings         holistic d",
                 "olistic design of a sustainable building        6 1 sustaina"
             ],
+            "(?:low[- ]?energy|passive) (?:house|building)": [
+                "lope strategies for low energy buildings        2 1 special",
+                "   hvac systems for low energy buildings        3 1 low ene"
+            ],
             "[energy performance, building]": [
                 " verifying building energy performance       commissioning",
                 " of the thermal and energy performance of buildings in the",
@@ -679,10 +677,6 @@
             ],
             "energ[^ ]+ rinnovabil": [
                 "applicazioni        energia rinnovabile     revisione dell"
-            ],
-            "idroelettric": [
-                "idraulici  impianti idroelettrici        cicli di va",
-                "i  csp  geotermici  idroelettrici ed eolici         "
             ],
             "transizi[^ ]+ energ": [
                 "etici  i temi della transizione energetica sono protagoni"
@@ -2665,9 +2659,6 @@
             "energ[^ ]+ rinnovabil": [
                 "  aia         fonti energetiche rinnovabili e loro incentivazi"
             ],
-            "idroelettric": [
-                "e    le concessioni idroelettriche    gli appalti ne"
-            ],
             "impatt(?:o|i) (?:ambient|ecosist)": [
                 "  a  valutazione di impatto ambientale   via           "
             ],
@@ -2764,6 +2755,9 @@
     },
     "055535: Progettazione Edilizia Integrata": {
         "it": {
+            "(?:edificio?|cas(?:a|e)) (?:a basso consumo energetico|passiv)": [
+                "ccio mitteleuropeo  case passive  case solari  esem"
+            ],
             "problematic(?:a|he) (?:ambient|ecosist)": [
                 "inquadramento della problematica ambientale globale e rifles"
             ]
@@ -6279,13 +6273,6 @@
             ]
         }
     },
-    "061182: Macchine E Sistemi Energetici": {
-        "it": {
-            "idroelettric": [
-                "atori      impianti idroelettrici e turbine idraulic"
-            ]
-        }
-    },
     "070783: Combustibili E Processi Di Combustione": {
         "it": {
             "impatt(?:o|i) (?:ambient|ecosist)": [
@@ -7188,9 +7175,6 @@
         "it": {
             "energ[^ ]+ rinnovabil": [
                 "  aia         fonti energetiche rinnovabili e loro incentivazi"
-            ],
-            "idroelettric": [
-                "e    le concessioni idroelettriche    gli appalti ne"
             ],
             "impatt(?:o|i) (?:ambient|ecosist)": [
                 "  a  valutazione di impatto ambientale   via           "
@@ -8613,6 +8597,9 @@
     },
     "099683: Progettazione Degli Elementi Costruttivi + Laboratorio": {
         "it": {
+            "(?:edificio?|cas(?:a|e)) (?:a basso consumo energetico|passiv)": [
+                "ccio mitteleuropeo  case passive  case solari  esem"
+            ],
             "emission(?:e|i) (?:del|di) (?:co2|diossido di carbonio)": [
                 "- mitigazione delle emissioni di co2 i principali obiett"
             ],

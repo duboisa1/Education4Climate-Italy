@@ -62,20 +62,6 @@
             ]
         }
     },
-    "18317: Lingua E Traduzione Spagnola 2": {
-        "it": {
-            "costruzion(?:e|i) (?:a basso consumo energetico|passiv)": [
-                "lo stile indiretto  costruzione passiva  con ser o estar  "
-            ]
-        }
-    },
-    "18339: Linguaggi Settoriali E Traduzione Spagnola": {
-        "it": {
-            "costruzion(?:e|i) (?:a basso consumo energetico|passiv)": [
-                "e  stile indiretto  costruzioni passive con ser o estar  i"
-            ]
-        }
-    },
     "DB77B970-0856-4D29-B7F0-D10372C529AB: Geografia Culturale A - L": {
         "it": {
             "[turismo, sostenibil]": [
@@ -1439,9 +1425,6 @@
             "energ[^ ]+ rinnovabil": [
                 "tradizionali  fonti energetiche rinnovabili  fra cui eolico  f"
             ],
-            "idroelettric": [
-                "voltaico  biomassa  idroelettrico  le principali con"
-            ],
             "[energi, sostenibil]": [
                 "upero di materia ed energia  strumenti di gest",
                 "ulo      tecnologie sostenibili definizione di eco",
@@ -1548,9 +1531,6 @@
         "it": {
             "energ[^ ]+ rinnovabil": [
                 "za e costo  - fonti energetiche rinnovabili  solare termico  i"
-            ],
-            "idroelettric": [
-                "li  solare termico  idroelettrico  fotovoltaico  geo"
             ]
         }
     },
@@ -1808,9 +1788,6 @@
         "it": {
             "energ[^ ]+ rinnovabil": [
                 " altre tipologie di energie rinnovabili  idroelettrico  so"
-            ],
-            "idroelettric": [
-                "nergie rinnovabili  idroelettrico  solare termico  f"
             ]
         }
     },
@@ -2147,9 +2124,6 @@
             ],
             "energ[^ ]+ eolic": [
                 "colare riguardo all energia eolica  solare  idroelett"
-            ],
-            "idroelettric": [
-                "gia eolica  solare  idroelettrica  geotermica e da b"
             ],
             "[energi, sostenibil]": [
                 "er la produzione di energia da fonti rinnovabi",
@@ -3481,9 +3455,6 @@
             ],
             "energ[^ ]+ rinnovabil": [
                 "ucleare  e fonti di energia rinnovabili  idroelettrica  so"
-            ],
-            "idroelettric": [
-                "nergia rinnovabili  idroelettrica  solare  eolica e "
             ],
             "biosfera": [
                 "mosfera  litosfera  biosfera e loro interconness"

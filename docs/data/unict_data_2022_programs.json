@@ -14,7 +14,7 @@
    "Dipartimento di Chirurgia generale e specialit\u00e0 medico-chirurgiche"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -47,7 +47,7 @@
    "SDS di Ragusa"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -80,7 +80,7 @@
    "Dipartimento di Chirurgia generale e specialit\u00e0 medico-chirurgiche"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -110,7 +110,7 @@
    "Dipartimento di Chirurgia generale e specialit\u00e0 medico-chirurgiche"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -140,25 +140,21 @@
    "SDS di Ragusa"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
-   "building",
    "climate",
    "life"
   ],
   "themes_scores":[
-   2,
    1,
    1
   ],
   "matched_courses":[
-   "18293",
-   "18317",
-   "18339"
+   "18293"
   ],
   "nb_dedicated_courses":0,
-  "nb_matched_courses":3,
+  "nb_matched_courses":1,
   "nb_total_courses":57
  },
  {
@@ -176,7 +172,7 @@
    "Dipartimento di Scienze Umanistiche"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -206,7 +202,7 @@
    "Dipartimento di Scienze Umanistiche"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -237,7 +233,7 @@
    "Dipartimento di Scienze Politiche e Sociali"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -271,7 +267,7 @@
    "Dipartimento di Scienze Politiche e Sociali"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -301,7 +297,7 @@
    "Dipartimento di Scienze Mediche, Chirurgiche e Tecnologie avanzate 'G.F. Ingrassia'"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -331,7 +327,7 @@
    "Dipartimento di Scienze della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -365,7 +361,7 @@
    "Dipartimento di Scienze della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -396,7 +392,7 @@
    "Dipartimento di Scienze Chimiche"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy"
@@ -427,7 +423,7 @@
    "Dipartimento di Scienze Chimiche"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -482,7 +478,7 @@
    "Dipartimento di Scienze Chimiche"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -524,7 +520,7 @@
    "Dipartimento di Scienze Biomediche e Biotecnologiche"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -554,7 +550,7 @@
    "Dipartimento di Scienze Biologiche, Geologiche e Ambientali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -590,7 +586,7 @@
    "Dipartimento di Scienze Biologiche, Geologiche e Ambientali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -626,7 +622,7 @@
    "Dipartimento di Scienze Biologiche, Geologiche e Ambientali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building",
@@ -681,7 +677,7 @@
    "Dipartimento di Scienze Biologiche, Geologiche e Ambientali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -711,7 +707,7 @@
    "Dipartimento di Medicina clinica e sperimentale"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -741,7 +737,7 @@
    "Dipartimento di Scienze Biologiche, Geologiche e Ambientali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -779,7 +775,7 @@
    "Dipartimento di Scienze Biologiche, Geologiche e Ambientali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -824,7 +820,7 @@
    "Dipartimento di Matematica e Informatica"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy"
@@ -854,7 +850,7 @@
    "Dipartimento di Ingegneria elettrica, elettronica e informatica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy"
@@ -884,7 +880,7 @@
    "Dipartimento di Ingegneria elettrica, elettronica e informatica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -925,7 +921,7 @@
    "Dipartimento di Ingegneria elettrica, elettronica e informatica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -957,7 +953,7 @@
    "Dipartimento di Ingegneria civile e architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -994,7 +990,7 @@
    "Dipartimento di Ingegneria civile e architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1026,7 +1022,7 @@
    "Dipartimento di Ingegneria civile e architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "climate",
@@ -1070,7 +1066,7 @@
    "Dipartimento di Economia e Impresa"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "building",
@@ -1114,7 +1110,7 @@
    "Dipartimento di Economia e Impresa"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "economy",
@@ -1155,7 +1151,7 @@
    "Dipartimento di Agricoltura Alimentazione e Ambiente"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy"
@@ -1185,7 +1181,7 @@
    "Dipartimento di Economia e Impresa"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "economy"
@@ -1215,7 +1211,7 @@
    "Dipartimento di Economia e Impresa"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "economy",
@@ -1253,7 +1249,7 @@
    "Dipartimento di Agricoltura Alimentazione e Ambiente"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -1309,7 +1305,7 @@
    "Dipartimento di Economia e Impresa"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "climate",
@@ -1342,7 +1338,7 @@
    "Dipartimento di Agricoltura Alimentazione e Ambiente"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -1386,7 +1382,7 @@
    "Dipartimento di Agricoltura Alimentazione e Ambiente"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building",
@@ -1453,7 +1449,7 @@
    "Dipartimento di Agricoltura Alimentazione e Ambiente"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -1488,7 +1484,7 @@
    "Dipartimento di Agricoltura Alimentazione e Ambiente"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -1524,7 +1520,7 @@
    "Dipartimento di Ingegneria civile e architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "economy",
@@ -1565,7 +1561,7 @@
    "Dipartimento di Fisica e Astronomia"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution",
@@ -1599,7 +1595,7 @@
    "Dipartimento di Agricoltura Alimentazione e Ambiente"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -1644,7 +1640,7 @@
    "Dipartimento di Agricoltura Alimentazione e Ambiente"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -1695,7 +1691,7 @@
    "Dipartimento di Medicina clinica e sperimentale"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "food"
@@ -1725,7 +1721,7 @@
    "Dipartimento di Scienze Biologiche, Geologiche e Ambientali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -1760,7 +1756,7 @@
    "Dipartimento di Scienze Biomediche e Biotecnologiche"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "carbon",
@@ -1810,7 +1806,7 @@
    "Dipartimento di Medicina clinica e sperimentale"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -1841,7 +1837,7 @@
    "Dipartimento di Scienze Biomediche e Biotecnologiche"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -1871,7 +1867,7 @@
    "Dipartimento di Scienze Biomediche e Biotecnologiche"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -1901,7 +1897,7 @@
    "Dipartimento di Scienze Biomediche e Biotecnologiche"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -1935,7 +1931,7 @@
    "Dipartimento di Scienze Mediche, Chirurgiche e Tecnologie avanzate 'G.F. Ingrassia'"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -1968,7 +1964,7 @@
    "Dipartimento di Scienze Mediche, Chirurgiche e Tecnologie avanzate 'G.F. Ingrassia'"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -1998,7 +1994,7 @@
    "Dipartimento di Scienze Umanistiche"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -2028,7 +2024,7 @@
    "Dipartimento di Scienze Politiche e Sociali"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "resources"
@@ -2058,7 +2054,7 @@
    "Dipartimento di Scienze Umanistiche"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -2088,7 +2084,7 @@
    "Dipartimento di Scienze Politiche e Sociali"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -2119,7 +2115,7 @@
    "Dipartimento di Scienze Umanistiche"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -2156,7 +2152,7 @@
    "Dipartimento di Scienze Umanistiche"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -2190,7 +2186,7 @@
    "Dipartimento di Scienze Mediche, Chirurgiche e Tecnologie avanzate 'G.F. Ingrassia'"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -2220,7 +2216,7 @@
    "Dipartimento di Scienze Mediche, Chirurgiche e Tecnologie avanzate 'G.F. Ingrassia'"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -2250,7 +2246,7 @@
    "Dipartimento di Scienze della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -2283,7 +2279,7 @@
    "Dipartimento di Scienze della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -2314,7 +2310,7 @@
    "Dipartimento di Ingegneria civile e architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -2366,7 +2362,7 @@
    "Dipartimento di Ingegneria civile e architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "carbon",
@@ -2408,7 +2404,7 @@
    "Dipartimento di Ingegneria civile e architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2448,7 +2444,7 @@
    "SDS di Siracusa"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "building",
@@ -2493,7 +2489,7 @@
    "Dipartimento di Scienze del Farmaco e della Salute"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "energy",
@@ -2526,7 +2522,7 @@
    "Dipartimento di Scienze del Farmaco e della Salute"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -2558,7 +2554,7 @@
    "Dipartimento di Scienze del Farmaco e della Salute"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "climate",
@@ -2604,7 +2600,7 @@
    "Dipartimento di Ingegneria elettrica, elettronica e informatica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",

@@ -58,12 +58,9 @@
                 "centivazioni per le energie rinnovabili e per il risparmio",
                 "di tecnologie delle energie rinnovabili declinati secondo "
             ],
-            "idroelettric": [
-                "ltaico   4  energia idroelettrica  6h lezione  4h es",
-                "tale delle centrali idroelettriche  metodologie di u",
-                "li impianti eolici  idroelettrici  solari  fotovolta",
-                "di impianti eolici  idroelettrici  solari e a biomas",
-                " a concentrazione   idroelettrico e a biomassa in re"
+            "(?:central(?:e|i)|energia) idroelettric": [
+                "o fotovoltaico   4  energia idroelettrica  6h lezione  4h es",
+                "to ambientale delle centrali idroelettriche  metodologie di u"
             ],
             "[biomassa, produzion(?:e|i) (?:di |dell )?(?:energia|elettricit)]": [
                 "concentrazione  e a biomassa  * acquisire le con",

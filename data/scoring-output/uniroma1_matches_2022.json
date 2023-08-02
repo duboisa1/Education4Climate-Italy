@@ -1639,8 +1639,8 @@
     },
     "1018025: Impianti Di Produzione Dell'Energia Elettrica": {
         "it": {
-            "idroelettric": [
-                "lare sulle centrali idroelettriche  termoelettriche "
+            "(?:central(?:e|i)|energia) idroelettric": [
+                "n particolare sulle centrali idroelettriche  termoelettriche "
             ]
         }
     },
@@ -1676,8 +1676,8 @@
     },
     "1021801: Idraulica Applicata": {
         "it": {
-            "idroelettric": [
-                "oduzione di energia idroelettrica"
+            "(?:central(?:e|i)|energia) idroelettric": [
+                "ti di produzione di energia idroelettrica"
             ]
         }
     },

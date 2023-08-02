@@ -57,13 +57,6 @@
             ]
         }
     },
-    "2223-2-H4601D006: Fisiologia": {
-        "it": {
-            "idroelettric": [
-                "ce   *****omeostasi idroelettrica  equilibrio acido-"
-            ]
-        }
-    },
     "2223-3-E1901R113: Pedagogia dell'Inclusione Sociale": {
         "it": {
             "[[ ]ecolo[^ ]+]": [
@@ -667,8 +660,8 @@
             "energ[^ ]+ eolic": [
                 "mica energia solare energia eolica energia da biomass"
             ],
-            "idroelettric": [
-                "rinnovabili energia idroelettrica energia geotermica"
+            "(?:central(?:e|i)|energia) idroelettric": [
+                "  fonti rinnovabili energia idroelettrica energia geotermica"
             ],
             "[energi, sostenibil]": [
                 "i di trasformazione energia  valutazione delle",
@@ -758,8 +751,8 @@
             "energ[^ ]+ eolic": [
                 "mica energia solare energia eolica energia da biomass"
             ],
-            "idroelettric": [
-                "rinnovabili energia idroelettrica energia geotermica"
+            "(?:central(?:e|i)|energia) idroelettric": [
+                "  fonti rinnovabili energia idroelettrica energia geotermica"
             ],
             "[energi, sostenibil]": [
                 "i di trasformazione energia  valutazione delle",
@@ -1078,10 +1071,6 @@
             "energ[^ ]+ rinnovabil": [
                 "tilizzanti le fonti energetiche rinnovabili  impianti idroelet"
             ],
-            "idroelettric": [
-                "nnovabili  impianti idroelettrici  sistemi di pompag",
-                "istemi di pompaggio idroelettrico  impianti fotovolt"
-            ],
             "[biomassa, produzion(?:e|i) (?:di |dell )?(?:energia|elettricit)]": [
                 "er l utilizzo della biomassa  impianti geotermic",
                 "o degli impianti di produzione dell energia elettrica    lo stu"
@@ -1309,9 +1298,8 @@
                 "a turbina  fonti di energia rinnovabili termiche a bassa e",
                 "monucleare fonti di energia rinnovabili di origine meccani"
             ],
-            "idroelettric": [
-                "ecnologico  energia idroelettrica  potenza in uscita",
-                "uscita da un bacino idroelettrico  turbine a impulse"
+            "(?:central(?:e|i)|energia) idroelettric": [
+                "iluppo tecnologico  energia idroelettrica  potenza in uscita"
             ],
             "[energi, sostenibil]": [
                 "a  introduzione all energia nucleare  fissione",

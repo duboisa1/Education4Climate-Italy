@@ -14,7 +14,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -36,7 +36,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -58,7 +58,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -81,7 +81,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -103,7 +103,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -125,7 +125,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -147,55 +147,11 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
    "life"
-  ],
-  "dedicated":0
- },
- {
-  "id":"18317",
-  "name":"Lingua E Traduzione Spagnola 2",
-  "year":"2022-2023",
-  "languages":[
-   "it"
-  ],
-  "teachers":[
-   "Spadola Carmelo"
-  ],
-  "url":"https:\/\/www.sdslingue.unict.it\/corsi\/l-12\/insegnamenti\/?cod=18317",
-  "cycles":[
-   "bac"
-  ],
-  "fields":[
-   "Other"
-  ],
-  "themes":[
-   "building"
-  ],
-  "dedicated":0
- },
- {
-  "id":"18339",
-  "name":"Linguaggi Settoriali E Traduzione Spagnola",
-  "year":"2022-2023",
-  "languages":[
-   "it"
-  ],
-  "teachers":[
-   "Chirinos Bravo Karin"
-  ],
-  "url":"https:\/\/www.sdslingue.unict.it\/corsi\/l-12\/insegnamenti\/?cod=18339",
-  "cycles":[
-   "bac"
-  ],
-  "fields":[
-   "Other"
-  ],
-  "themes":[
-   "building"
   ],
   "dedicated":0
  },
@@ -214,7 +170,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -236,7 +192,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -258,7 +214,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -280,7 +236,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -302,7 +258,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -324,7 +280,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate"
@@ -346,7 +302,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -368,7 +324,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -390,7 +346,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -412,7 +368,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate"
@@ -434,7 +390,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -456,7 +412,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -478,7 +434,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -500,7 +456,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy"
@@ -522,7 +478,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy"
@@ -544,7 +500,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -567,7 +523,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -589,7 +545,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -613,7 +569,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution",
@@ -636,7 +592,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy"
@@ -658,7 +614,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "resources"
@@ -680,7 +636,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "resources"
@@ -702,7 +658,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "resources"
@@ -724,7 +680,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution",
@@ -748,7 +704,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -773,7 +729,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -797,7 +753,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -821,7 +777,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -843,7 +799,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -865,7 +821,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -890,7 +846,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -915,7 +871,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -939,7 +895,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "economy"
@@ -961,7 +917,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "transport"
@@ -983,7 +939,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -1005,7 +961,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -1027,7 +983,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1049,7 +1005,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1071,7 +1027,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -1094,7 +1050,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1116,7 +1072,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1138,7 +1094,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -1160,7 +1116,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -1183,7 +1139,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -1206,7 +1162,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1228,7 +1184,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -1252,7 +1208,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1274,7 +1230,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1296,7 +1252,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1318,7 +1274,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1340,7 +1296,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1362,7 +1318,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building",
@@ -1385,7 +1341,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1407,7 +1363,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building",
@@ -1430,7 +1386,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -1452,7 +1408,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -1474,7 +1430,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1496,7 +1452,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1518,7 +1474,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1540,7 +1496,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1562,7 +1518,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1584,7 +1540,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1606,7 +1562,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1628,7 +1584,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -1650,7 +1606,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1672,7 +1628,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1694,7 +1650,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1716,7 +1672,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1738,7 +1694,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1760,7 +1716,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1782,7 +1738,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1804,7 +1760,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1826,7 +1782,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1848,7 +1804,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1870,7 +1826,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1892,7 +1848,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1914,7 +1870,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1936,7 +1892,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1958,7 +1914,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1980,7 +1936,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -2002,7 +1958,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -2024,7 +1980,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -2046,7 +2002,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -2069,7 +2025,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -2092,7 +2048,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -2114,7 +2070,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -2136,7 +2092,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -2159,7 +2115,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -2181,7 +2137,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy"
@@ -2203,7 +2159,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy"
@@ -2225,7 +2181,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -2248,7 +2204,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy"
@@ -2270,7 +2226,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2293,7 +2249,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "pollution",
@@ -2316,7 +2272,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2339,7 +2295,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life",
@@ -2362,7 +2318,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2385,7 +2341,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2408,7 +2364,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2432,7 +2388,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -2455,7 +2411,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "pollution"
@@ -2477,7 +2433,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "climate",
@@ -2501,7 +2457,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "pollution"
@@ -2523,7 +2479,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "climate",
@@ -2546,7 +2502,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -2568,7 +2524,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -2590,7 +2546,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -2612,7 +2568,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "building"
@@ -2634,7 +2590,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "building",
@@ -2658,7 +2614,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "life"
@@ -2680,7 +2636,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "building"
@@ -2702,7 +2658,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "energy"
@@ -2724,7 +2680,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "energy",
@@ -2748,7 +2704,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "life"
@@ -2770,7 +2726,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "economy"
@@ -2792,7 +2748,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "economy",
@@ -2819,7 +2775,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "economy"
@@ -2841,7 +2797,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy"
@@ -2863,7 +2819,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "life"
@@ -2885,7 +2841,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "prod&cons"
@@ -2907,7 +2863,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "economy",
@@ -2931,7 +2887,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -2954,7 +2910,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "energy"
@@ -2976,7 +2932,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -3000,7 +2956,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3022,7 +2978,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3044,7 +3000,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food",
@@ -3067,7 +3023,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -3090,7 +3046,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3112,7 +3068,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3134,7 +3090,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3156,7 +3112,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food",
@@ -3179,7 +3135,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "economy",
@@ -3204,7 +3160,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -3227,7 +3183,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "life"
@@ -3249,7 +3205,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "climate"
@@ -3271,7 +3227,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3293,7 +3249,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -3316,7 +3272,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3338,7 +3294,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "prod&cons"
@@ -3360,7 +3316,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -3385,7 +3341,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3407,7 +3363,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy"
@@ -3429,7 +3385,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food"
@@ -3451,7 +3407,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food"
@@ -3473,7 +3429,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food"
@@ -3495,7 +3451,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building"
@@ -3517,7 +3473,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -3541,7 +3497,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -3565,7 +3521,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building"
@@ -3587,7 +3543,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -3610,7 +3566,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -3633,7 +3589,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3655,7 +3611,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -3678,7 +3634,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -3700,7 +3656,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -3723,7 +3679,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building"
@@ -3745,7 +3701,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3767,7 +3723,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution",
@@ -3791,7 +3747,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3813,7 +3769,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food",
@@ -3836,7 +3792,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3858,7 +3814,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building",
@@ -3882,7 +3838,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building"
@@ -3904,7 +3860,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building",
@@ -3927,7 +3883,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -3951,7 +3907,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -3975,7 +3931,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate"
@@ -3997,7 +3953,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4019,7 +3975,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4041,7 +3997,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4063,7 +4019,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "transport"
@@ -4085,7 +4041,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -4107,7 +4063,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4129,7 +4085,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "economy",
@@ -4153,7 +4109,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy"
@@ -4175,7 +4131,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -4197,7 +4153,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -4219,7 +4175,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -4241,7 +4197,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -4263,7 +4219,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "resources"
@@ -4285,7 +4241,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -4307,7 +4263,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food",
@@ -4330,7 +4286,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -4353,7 +4309,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4375,7 +4331,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4397,7 +4353,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4419,7 +4375,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -4441,7 +4397,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food",
@@ -4464,7 +4420,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -4486,7 +4442,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4508,7 +4464,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food",
@@ -4531,7 +4487,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food"
@@ -4553,7 +4509,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food"
@@ -4575,7 +4531,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "pollution"
@@ -4597,7 +4553,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food"
@@ -4619,7 +4575,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4641,7 +4597,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4663,7 +4619,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4685,7 +4641,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4707,7 +4663,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4729,7 +4685,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food",
@@ -4752,7 +4708,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4774,7 +4730,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "food"
@@ -4796,7 +4752,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4818,7 +4774,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -4841,7 +4797,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "food"
@@ -4863,7 +4819,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -4886,7 +4842,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate"
@@ -4908,7 +4864,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate"
@@ -4930,7 +4886,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4952,7 +4908,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -4974,7 +4930,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "economy",
@@ -4998,7 +4954,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5020,7 +4976,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5042,7 +4998,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -5064,7 +5020,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "food"
@@ -5086,7 +5042,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -5108,7 +5064,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "carbon"
@@ -5130,7 +5086,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5152,7 +5108,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -5174,7 +5130,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5196,7 +5152,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5218,7 +5174,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -5240,7 +5196,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5262,7 +5218,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -5284,7 +5240,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -5306,7 +5262,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5328,7 +5284,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5350,7 +5306,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -5372,7 +5328,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5394,7 +5350,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -5416,7 +5372,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "resources"
@@ -5438,7 +5394,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -5460,7 +5416,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -5482,7 +5438,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -5504,7 +5460,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -5528,7 +5484,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "energy",
@@ -5551,7 +5507,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -5575,7 +5531,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5597,7 +5553,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -5619,7 +5575,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -5641,7 +5597,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -5664,7 +5620,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -5686,7 +5642,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -5708,7 +5664,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -5730,7 +5686,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building"
@@ -5752,7 +5708,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -5775,7 +5731,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -5797,7 +5753,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building"
@@ -5819,7 +5775,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -5844,7 +5800,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -5866,7 +5822,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "climate",
@@ -5890,7 +5846,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "climate",
@@ -5913,7 +5869,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -5935,7 +5891,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "climate",
@@ -5958,7 +5914,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "prod&cons"
@@ -5980,7 +5936,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "carbon",
@@ -6004,7 +5960,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "carbon",
@@ -6028,7 +5984,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -6051,7 +6007,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "pollution"
@@ -6073,7 +6029,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "resources"
@@ -6095,7 +6051,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -6118,7 +6074,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life",
@@ -6141,7 +6097,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life",
@@ -6164,7 +6120,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -6186,7 +6142,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "economy",
@@ -6209,7 +6165,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "building",
@@ -6232,7 +6188,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -6255,7 +6211,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -6278,7 +6234,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "building"
@@ -6300,7 +6256,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "energy",
@@ -6323,7 +6279,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "building",
@@ -6346,7 +6302,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "building",
@@ -6369,7 +6325,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "energy"
@@ -6391,7 +6347,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -6413,7 +6369,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -6435,7 +6391,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -6457,7 +6413,7 @@
    "master"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -6479,7 +6435,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -6501,7 +6457,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "climate",
@@ -6524,7 +6480,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -6546,7 +6502,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -6568,7 +6524,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -6592,7 +6548,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -6614,7 +6570,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -6636,7 +6592,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "climate",
@@ -6661,7 +6617,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -6683,7 +6639,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -6705,7 +6661,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -6728,7 +6684,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy"
@@ -6750,7 +6706,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -6773,7 +6729,7 @@
    "bac"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",

@@ -14,7 +14,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "carbon",
@@ -72,7 +72,7 @@
    "Scienze Politiche, Sociologia, Comunicazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -110,7 +110,7 @@
    "Economia"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "energy",
@@ -146,7 +146,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life",
@@ -180,7 +180,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -213,7 +213,7 @@
    "Medicina e Psicologia"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -246,8 +246,8 @@
    "Medicina e Odontoiatria"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -281,8 +281,8 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -316,8 +316,8 @@
    "Medicina e Odontoiatria"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -358,7 +358,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -391,7 +391,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life",
@@ -426,7 +426,7 @@
    "Scienze Politiche, Sociologia, Comunicazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -457,7 +457,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "economy",
@@ -492,8 +492,8 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Medicine and Healthcare"
   ],
   "themes":[
    "climate",
@@ -532,7 +532,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -573,9 +573,9 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other",
-   "Other",
-   "Other"
+   "Humanities and Social Sciences",
+   "Economics and Management",
+   "Medicine and Healthcare"
   ],
   "themes":[
    "building",
@@ -617,7 +617,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -651,7 +651,7 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -685,7 +685,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate"
@@ -718,9 +718,9 @@
    "Lettere e Filosofia"
   ],
   "fields":[
-   "Other",
-   "Other",
-   "Other"
+   "Humanities and Social Sciences",
+   "Economics and Management",
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "energy"
@@ -751,8 +751,8 @@
    "Medicina e Odontoiatria"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -789,7 +789,7 @@
    "Scienze Politiche, Sociologia, Comunicazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -819,7 +819,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "building",
@@ -874,9 +874,9 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other",
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Humanities and Social Sciences",
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -909,7 +909,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -942,7 +942,7 @@
    "Lettere e Filosofia"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -973,7 +973,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1003,7 +1003,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -1038,7 +1038,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -1084,7 +1084,7 @@
    "Scienze Politiche, Sociologia, Comunicazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate"
@@ -1114,7 +1114,7 @@
    "Lettere e Filosofia"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "building",
@@ -1151,7 +1151,7 @@
    "Scienze Politiche, Sociologia, Comunicazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -1185,8 +1185,8 @@
    "Architettura"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Engineering and Architecture",
+   "Engineering and Architecture"
   ],
   "themes":[
    "building"
@@ -1216,7 +1216,7 @@
    "Medicina e Psicologia"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -1247,7 +1247,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1278,7 +1278,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1309,7 +1309,7 @@
    "Scienze Politiche, Sociologia, Comunicazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -1340,7 +1340,7 @@
    "Economia"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "life"
@@ -1371,7 +1371,7 @@
    "Economia"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "life"
@@ -1402,8 +1402,8 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Medicine and Healthcare"
   ],
   "themes":[
    "economy",
@@ -1439,7 +1439,7 @@
    "Economia"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "economy",
@@ -1471,7 +1471,7 @@
    "Lettere e Filosofia"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life",
@@ -1503,7 +1503,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1551,7 +1551,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life",
@@ -1585,7 +1585,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1641,7 +1641,7 @@
    "Ingegneria dell'informazione, informatica e statistica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -1672,7 +1672,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "economy",
@@ -1711,8 +1711,8 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Engineering and Architecture",
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -1743,7 +1743,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -1783,7 +1783,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -1815,7 +1815,7 @@
    "Ingegneria dell'informazione, informatica e statistica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -1847,8 +1847,8 @@
    "Ingegneria dell'informazione, informatica e statistica"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Engineering and Architecture",
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -1881,7 +1881,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -1916,7 +1916,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "pollution"
@@ -1947,7 +1947,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "economy",
@@ -1986,7 +1986,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2023,7 +2023,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy"
@@ -2054,7 +2054,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -2102,7 +2102,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -2133,7 +2133,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "carbon",
@@ -2173,7 +2173,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "climate",
@@ -2223,8 +2223,8 @@
    "Ingegneria dell'informazione, informatica e statistica"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Engineering and Architecture",
+   "Engineering and Architecture"
   ],
   "themes":[
    "life",
@@ -2257,7 +2257,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "climate",
@@ -2305,7 +2305,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -2360,7 +2360,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "economy",
@@ -2403,7 +2403,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life",
@@ -2436,7 +2436,7 @@
    "Medicina e Psicologia"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -2470,8 +2470,8 @@
    "Medicina e Odontoiatria"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -2503,8 +2503,8 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution"
@@ -2535,7 +2535,7 @@
    "Lettere e Filosofia"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -2566,7 +2566,7 @@
    "Giurisprudenza"
   ],
   "fields":[
-   "Other"
+   "Law"
   ],
   "themes":[
    "life"
@@ -2597,7 +2597,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -2637,7 +2637,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "carbon",
@@ -2680,7 +2680,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -2717,7 +2717,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -2749,7 +2749,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "resources"
@@ -2779,7 +2779,7 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life",
@@ -2813,7 +2813,7 @@
    "Ingegneria civile e industriale"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy",
@@ -2857,7 +2857,7 @@
    "Ingegneria dell'informazione, informatica e statistica"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -2888,7 +2888,7 @@
    "Economia"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "life",
@@ -2921,7 +2921,7 @@
    "Economia"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "climate",
@@ -2955,7 +2955,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -2986,7 +2986,7 @@
    "Scienze Politiche, Sociologia, Comunicazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -3016,7 +3016,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -3055,7 +3055,7 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -3085,7 +3085,7 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -3115,7 +3115,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -3152,7 +3152,7 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -3182,7 +3182,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -3229,7 +3229,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3264,9 +3264,9 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other",
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Medicine and Healthcare",
+   "Sciences"
   ],
   "themes":[
    "life",
@@ -3301,7 +3301,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -3333,8 +3333,8 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -3372,8 +3372,8 @@
    "Farmacia e Medicina"
   ],
   "fields":[
-   "Other",
-   "Other"
+   "Medicine and Healthcare",
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -3403,7 +3403,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "energy"
@@ -3433,7 +3433,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -3486,7 +3486,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -3528,7 +3528,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -3573,7 +3573,7 @@
    "Lettere e Filosofia"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -3603,7 +3603,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"

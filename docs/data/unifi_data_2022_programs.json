@@ -14,7 +14,7 @@
    "Agraria"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
@@ -49,7 +49,7 @@
    "Studi Umanistici e della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -80,7 +80,7 @@
    "Studi Umanistici e della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -112,7 +112,7 @@
    "Studi Umanistici e della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -143,7 +143,7 @@
    "Studi Umanistici e della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -174,7 +174,7 @@
    "Studi Umanistici e della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate",
@@ -208,7 +208,7 @@
    "Studi Umanistici e della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -239,7 +239,7 @@
    "Scienze Politiche \u201cCesare Alfieri\u201d"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "climate"
@@ -269,7 +269,7 @@
    "Scienze della Salute Umana"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "resources"
@@ -303,7 +303,7 @@
    "Ingegneria"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -336,7 +336,7 @@
    "Ingegneria"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "transport"
@@ -366,7 +366,7 @@
    "Ingegneria"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building"
@@ -399,7 +399,7 @@
    "Economia e Management"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "life"
@@ -432,7 +432,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "economy"
@@ -463,7 +463,7 @@
    "Agraria"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -500,7 +500,7 @@
    "Agraria"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy"
@@ -531,7 +531,7 @@
    "Agraria"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -576,7 +576,7 @@
    "Studi Umanistici e della Formazione"
   ],
   "fields":[
-   "Other"
+   "Humanities and Social Sciences"
   ],
   "themes":[
    "life"
@@ -606,7 +606,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate"
@@ -636,7 +636,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "climate",
@@ -668,7 +668,7 @@
    "Scienze Matematiche, Fisiche e Naturali"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -698,7 +698,7 @@
    "Scienze della Salute Umana"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -728,7 +728,7 @@
    "Scienze della Salute Umana"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "pollution",
@@ -761,7 +761,7 @@
    "Scienze della Salute Umana"
   ],
   "fields":[
-   "Other"
+   "Medicine and Healthcare"
   ],
   "themes":[
    "life"
@@ -792,7 +792,7 @@
    "Economia e Management"
   ],
   "fields":[
-   "Other"
+   "Economics and Management"
   ],
   "themes":[
    "economy",
@@ -833,7 +833,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "building",
@@ -866,7 +866,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "life"
@@ -896,7 +896,7 @@
    "Architettura"
   ],
   "fields":[
-   "Other"
+   "Engineering and Architecture"
   ],
   "themes":[
    "carbon"
@@ -926,7 +926,7 @@
    "Agraria"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -956,7 +956,7 @@
    "Agraria"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -986,7 +986,7 @@
    "Agraria"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "life"
@@ -1016,7 +1016,7 @@
    "Agraria"
   ],
   "fields":[
-   "Other"
+   "Sciences"
   ],
   "themes":[
    "energy",
